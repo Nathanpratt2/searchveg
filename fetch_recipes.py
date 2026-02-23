@@ -169,33 +169,56 @@ MAX_RECIPES_PER_BLOG = 280
 cutoff_date = datetime.now().astimezone() - timedelta(days=360)
 
 # --- KEYWORDS FOR AUTO TAGGING ---
-WFPB_KEYWORDS = ['oil-free', 'oil free', 'no oil', 'wfpb', 'whole food', 'clean', 'refined sugar free', 'detox', 'healthy', 'salad', 'steamed']
-EASY_KEYWORDS = ['easy', 'quick', 'simple', 'fast', '1-pot', 'one-pot', 'one pot', 'one bowl', 'one-bowl', '1 pan', 'one pan', '30-minute', 'minute', '15-minute', '20-minute', '5-ingredient', 'sheet pan', 'skillet', 'mug', 'blender', 'no-bake', 'raw','no bake','no-bake', 'air fryer']
-BUDGET_KEYWORDS = ['budget', 'cheap', 'frugal', 'economical', 'pantry', 'low cost', 'money saving', '$', 'affordable', 'leftover', 'scraps', 'beans', 'rice', 'lentil', 'potato']
-GF_KEYWORDS = ['gluten-free', 'gluten free', 'gf', 'wheat-free', 'flourless', 'almond flour', 'oat flour', 'rice flour']
+WFPB_KEYWORDS = [
+    'oil-free', 'oil free', 'no oil', 'wfpb', 'whole food', 'clean', 'refined sugar free', 
+    'sos-free', 'sos free', 'no added sugar', 'whole grain', 'unprocessed', 'sugar-free',
+    'sugar free', 'salt-free', 'salt free', 'date sweetened', 'naturally sweetened'
+]
+
+EASY_KEYWORDS = [
+    'easy', 'quick', 'simple', 'fast', '1-pot', 'one-pot', 'one pot', 'one bowl', 'one-bowl', 
+    '1 pan', 'one pan', '30-minute', '15-minute', '20-minute', '10-minute', 'under 30', 'under 20',
+    'under 15', '5-ingredient', '4-ingredient', '6-ingredient', 'sheet pan', 'skillet', 'mug', 
+    'blender', 'no-bake', 'no bake', 'air fryer', 'instant pot', 'microwave', 'lazy', 'minimal',
+    'fuss-free', 'fuss free', 'weeknight', 'meal prep', 'make-ahead', 'make ahead'
+]
+
+BUDGET_KEYWORDS = [
+    'budget', 'budget-friendly', 'budget friendly', 'cheap', 'frugal', 'economical', 'pantry', 
+    'pantry staples', 'low cost', 'money saving', 'affordable', 'leftover', 'scraps', 'student', 
+    'canned', 'bulk', 'cost-effective', 'inexpensive', 'thrifty'
+]
+
+GF_KEYWORDS = [
+    'gluten-free', 'gluten free', 'glutenfree', 'gf', 'wheat-free', 'flourless', 'almond flour', 
+    'oat flour', 'rice flour', 'grain-free', 'grain free', 'coconut flour', 'chickpea flour', 
+    'buckwheat', 'tapioca', 'cassava', 'celiac', 'coeliac', 'sorghum', 'teff', 'arrowroot'
+]
 
 # Words that usually indicate a recipe is NOT Gluten-Free (unless explicitly stated)
 NON_GF_KEYWORDS = [
     'seitan', 'vital wheat gluten', 'wheat', 'barley', 'rye', 'couscous', 'farro', 
-    'spelt', 'bulgur', 'semolina', 'sandwich', 'baguette', 'croissant', 'ciabatta', 
-    'udon', 'beer', 'malt', 'burger bun', 'toast', 'sourdough']
+    'spelt', 'bulgur', 'semolina', 'udon', 'beer', 'malt', 'panko', 'kamut', 'einkorn', 
+    'orzo', 'durum', 'graham', 'soy sauce', 'freekeh', 'wheatberries', 'wheat berries', 
+    'triticale', 'brewer\'s yeast', 'malt extract', 'malt syrup', 'malt vinegar'
+]
     
 NON_RECIPE_KEYWORDS = [
     "meal plan", "weekly menu", "menu plan", "gift guide", "cookbook", "review", 
     "giveaway", "roundup", "collection", "favorites", "best of", "kitchen tour", 
-    "grocery haul", "what i eat", "routine", "travel", "restaurant", 
-    "dining out", "interview", "guest post", "workshop", "class", "course", 
-    "ebook", "merch", "store", "shop", "announcement", "update", "news", 
-    "contest", "winner", "promo", "discount", "coupon", "deal", "top 10", 
-    "top 20", "5 best", "10 best", "15 best", "20 best", "33 vegan", " ways", "rpl", "going vegan", 
-    "my story", "journey", "life lately", "carss", "coffee talk", "link love", 
-    "weekend reading", "batch cooking", "staples", "essentials", "substitutes",
-    "how to make", "101", "tutorial", "guide", "tips", "tricks", "faq", 
-    "policy", "terms", "privacy", "contact", "about", "search", "sitemap",
-    "neighbor", "law", "videos", "planning", "rituals", "discontinued", 
-    "forgotten", "finds", "live", "tests", "lab", "tracking", "progress", 
-    "lifestyle", "success", "story", "obama", "trump", "stories", "appliances", 
-    "books", "I met", "reading", "shows", "headshot", "just", "2026", "2025", "best seller"
+    "grocery haul", "what i eat", "what i ate", "wiaw", "routine", "travel", "restaurant", 
+    "dining out", "where to eat", "city guide", "interview", "guest post", "workshop", 
+    "class", "course", "ebook", "merch", "store", "shop", "announcement", "update", "news", 
+    "contest", "winner", "promo", "discount", "coupon", "deal", "sale", "black friday", 
+    "cyber monday", "top 10", "top 20", "5 best", "10 best", "15 best", "20 best", "33 vegan", 
+    "ways", "rpl", "going vegan", "my story", "journey", "life lately", "coffee talk", 
+    "link love", "weekend reading", "batch cooking", "staples", "essentials", "substitutes",
+    "101", "tutorial", "guide", "tips", "tricks", "faq", "policy", "terms", "privacy", 
+    "contact", "about", "search", "sitemap", "neighbor", "law", "videos", "planning", 
+    "rituals", "discontinued", "forgotten", "finds", "live", "tests", "lab", "tracking", 
+    "progress", "lifestyle", "success", "story", "obama", "trump", "stories", "appliances", 
+    "books", "I met", "reading", "shows", "headshot", "just", "2026", "2025", "2024", 
+    "best seller", "podcast", "episode", "vlog", "q&a", "recap"
 ]
 
 # --- ADVANCED SCRAPER SETUP & SSL FIX ---
