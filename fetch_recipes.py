@@ -88,30 +88,30 @@ DISRUPTORS = [
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
 
-    ("The Korean Vegan", ("https://thekoreanvegan.com/recipes/?pg={}", 10, 20), [], "wordpress"),#lots of pages
-    ("VegNews", ("https://vegnews.com/recipes/page/{}/", 2, 25), [], "wordpress"),#maybe infinite pages lol
-    ("Vegan Richa", ("https://www.veganricha.com/recipes-with-facets/?fwp_paged={}",2, 30), [], "wordpress"), #119 pages
+    ("The Korean Vegan", ("https://thekoreanvegan.com/recipes/?pg={}", 10, 15), [], "wordpress"),#lots of pages
+    ("VegNews", ("https://vegnews.com/recipes/page/{}/", 2, 10), [], "wordpress"),#maybe infinite pages lol
+    ("Vegan Richa", ("https://www.veganricha.com/recipes-with-facets/?fwp_paged={}",2, 12), [], "wordpress"), #119 pages
     ("Rainbow Plant Life", ("https://rainbowplantlife.com/category/recipes/page/{}/", 8, 19), [], "wordpress"),#19 pages
-    ("Cadry's Kitchen", ("https://cadryskitchen.com/page/{}/?s=+", 2, 15), [], "wordpress"),
-    ("PlantYou", ("https://plantyou.com/category/all-recipes/page/{}/", 1, 23), ["WFPB"], "wordpress"),#23 pages
-    ("Love and Lemons (Vegan Recipes)", ("https://www.loveandlemons.com/category/recipes/vegan/page/{}/", 10, 30), [], "wordpress"),#75 or more pages
+    ("Cadry's Kitchen", ("https://cadryskitchen.com/page/{}/?s=+", 2, 7), [], "wordpress"),
+    ("PlantYou", ("https://plantyou.com/category/all-recipes/page/{}/", 1, 12), ["WFPB"], "wordpress"),#23 pages
+    ("Love and Lemons (Vegan Recipes)", ("https://www.loveandlemons.com/category/recipes/vegan/page/{}/", 10, 19), [], "wordpress"),#75 or more pages
     ("Veg Kit", ("https://www.vegkit.com/recipes/?pagenumber={}", 3, 7), [], "wordpress"),#7 pages
     ("Simple Vegan Blog", ("https://simpleveganblog.com/category/desserts/page/{}/", 1, 2), [], "wordpress"),#pretty much maxed after this. deserts and dinner covered
     ("The Full Helping (Vegan Recipes)","https://www.thefullhelping.com/dietary/vegan/page/5/",[],"wordpress"),#Load more so unsure how many pages
     ("Plant-Based on a Budget", ("https://plantbasedonabudget.com/category/vegan-dinners/page/{}/", 8, 17), ["Budget"], "wordpress"),#17 pages
-    ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 20, 40), [], "wordpress"),#70 pages, input as a range
-    ("Dreena Burton", ("https://dreenaburton.com/category/recipes/page/{}/", 11, 20), ["WFPB"], "wordpress"),#21 pages of this
-    ("The Edgy Veg", ("https://www.theedgyveg.com/recipes/page/{}/", 19, 35), [], "wordpress"),#75 pages
+    ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 20, 25), [], "wordpress"),#70 pages, input as a range
+    ("Dreena Burton", ("https://dreenaburton.com/category/recipes/page/{}/", 11, 16), ["WFPB"], "wordpress"),#21 pages of this
+    ("The Edgy Veg", ("https://www.theedgyveg.com/recipes/page/{}/", 19, 25), [], "wordpress"),#75 pages
     ("The Cheap Lazy Vegan", "https://thecheaplazyvegan.com/blog/page/16/", ["Budget", "Easy"], "wordpress"),#62 pages
     ("Vegan in the Freezer", "https://veganinthefreezer.com/recipes/?pg=8", [], "wordpress"),#62 pages
     ("Chef Bai", "https://www.chefbai.kitchen/blog?offset=1643497710300", [], "wordpress"),
-    ("Addicted to Dates", ("https://addictedtodates.com/category/recipes/page/{}/", 3, 19), [], "wordpress"),#19 pages
+    ("Addicted to Dates", ("https://addictedtodates.com/category/recipes/page/{}/", 3, 11), [], "wordpress"),#19 pages
     ("One Arab Vegan", "https://www.onearabvegan.com/category/recipes/page/10/", [], "wordpress"),#28 pages
-    ("Steamy Vegan", ("https://steamyvegan.com/page/{}/?s=+", 2, 16), [], "wordpress"), #16 paages
-    ("Namely Marly", ("https://namelymarly.com/category/vegan-recipes/page/{}/", 25, 35), [], "wordpress"),#35 pages for this
-    ("Gretchen's Vegan Bakery", ("https://www.gretchensveganbakery.com/category/all-recipes/page/{}/", 30, 40), [], "wordpress"),#at least 50 pages
-    ("Healthier Steps", ("https://healthiersteps.com/recipe-index/?_paged={}", 36, 45), [], "wordpress"),#Hundreds of pages for this one
-    ("Choosing Chia (Vegan Recipes)", ("https://choosingchia.com/category/diet%20/vegan/page/{}/", 15, 25), ["Easy"], "wordpress"),#37 pages
+    ("Steamy Vegan", ("https://steamyvegan.com/page/{}/?s=+", 2, 8), [], "wordpress"), #16 paages
+    ("Namely Marly", ("https://namelymarly.com/category/vegan-recipes/page/{}/", 25, 30), [], "wordpress"),#35 pages for this
+    ("Gretchen's Vegan Bakery", ("https://www.gretchensveganbakery.com/category/all-recipes/page/{}/", 30, 35), [], "wordpress"),#at least 50 pages
+    ("Healthier Steps", ("https://healthiersteps.com/recipe-index/?_paged={}", 36, 42), [], "wordpress"),#Hundreds of pages for this one
+    ("Choosing Chia (Vegan Recipes)", ("https://choosingchia.com/category/diet%20/vegan/page/{}/", 15, 22), ["Easy"], "wordpress"),#37 pages
     ("My Vegan Minimalist", ("https://myveganminimalist.com/page/{}/?s=+", 1, 6), [], "wordpress"),
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
