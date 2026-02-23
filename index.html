@@ -759,6 +759,7 @@
     <div id="subControlsWrapper" class="sub-controls-wrapper">
         <div class="sub-controls">
             <div class="sub-controls-inner" id="cuisineChips">
+                <button class="btn cuisine-btn" data-cuisine="American" onclick="toggleCuisine(event, 'American')">American</button>
                 <button class="btn cuisine-btn" data-cuisine="Indian" onclick="toggleCuisine(event, 'Indian')">Indian</button>
                 <button class="btn cuisine-btn" data-cuisine="Mexican" onclick="toggleCuisine(event, 'Mexican')">Mexican</button>
                 <button class="btn cuisine-btn" data-cuisine="Italian" onclick="toggleCuisine(event, 'Italian')">Italian</button>
@@ -922,17 +923,23 @@
     };
 
     // --- KEYWORDS ---
-    const SWEET_KEYWORDS = ['cookie', 'cake', 'brownie', 'chocolate', 'dessert', 'pie', 'tart', 'muffin', 'donut', 'doughnut', 'ice cream', 'pudding', 'cheesecake', 'sweet', 'fudge', 'truffle', 'bar', 'cupcake', 'blondie', 'galette', 'cobbler', 'mousse', 'cinnamon roll', 'scone', 'waffle', 'pancake'];
-    const MEAL_KEYWORDS = ['pasta', 'burger', 'curry', 'soup', 'stew', 'taco', 'pizza', 'sandwich', 'wrap', 'salad', 'bowl', 'rice', 'noodle', 'stir fry', 'lasagna', 'casserole', 'tofu', 'tempeh', 'lentil', 'chickpea', 'potato', 'dinner', 'lunch', 'roast', 'chili', 'shepherd', 'risotto', 'gnocchi', 'quiche', 'chowder', 'jackfruit', 'cauliflower', 'enchilada', 'burrito', 'quesadilla', 'mac and cheese', 'dumpling', 'meatball', 'loaf', 'skillet', 'gratin', 'pad thai', 'ramen'];
-    const PROTEIN_KEYWORDS = ['tofu', 'tempeh', 'seitan', 'tvp', 'lentil', 'bean', 'chickpea', 'edamame', 'soy', 'quinoa', 'peanut', 'meatball', 'burger', 'sausage', 'protein', 'falafel', 'hummus', 'nut roast'];
+    const SWEET_KEYWORDS = ['cookie', 'cake', 'brownie', 'chocolate', 'dessert', 'pie', 'tart', 'muffin', 'donut', 'doughnut', 'ice cream', 'pudding', 'cheesecake', 'sweet', 'fudge', 'truffle', 'bar', 'cupcake', 'blondie', 'galette', 'cobbler', 'mousse', 'cinnamon roll', 'scone', 'waffle', 'pancake', 'crumble', 'crisp', 'pastry', 'sorbet', 'macaron', 'frosting', 'caramel', 'candy', 'crepe', 'baklava', 'churro', 'snickerdoodle', 'shortbread', 'biscotti', 'syrup', 'flan', 'jam', 'jelly', 'marshmallow', 'eclair', 'brittle', 'gelato'];
+    
+    const MEAL_KEYWORDS = ['pasta', 'burger', 'curry', 'soup', 'stew', 'taco', 'pizza', 'sandwich', 'wrap', 'salad', 'bowl', 'rice', 'noodle', 'stir fry', 'lasagna', 'casserole', 'tofu', 'tempeh', 'lentil', 'chickpea', 'potato', 'dinner', 'lunch', 'breakfast', 'roast', 'chili', 'shepherd', 'risotto', 'gnocchi', 'quiche', 'chowder', 'jackfruit', 'cauliflower', 'enchilada', 'burrito', 'quesadilla', 'mac and cheese', 'mac & cheese', 'dumpling', 'meatball', 'loaf', 'skillet', 'gratin', 'pad thai', 'ramen', 'bake', 'frittata', 'omelet', 'hash', 'sliders', 'scramble', 'toast', 'nuggets', 'wings', 'tenders', 'skewer', 'kebab', 'kabob', 'bites', 'tots', 'fries', 'broth', 'stuffed', 'empanada', 'arepa', 'tapas', 'paella', 'fajita'];
+    
+    const PROTEIN_KEYWORDS = ['tofu', 'tempeh', 'seitan', 'tvp', 'textured vegetable protein', 'soy curls', 'lentil', 'lentils', 'bean', 'beans', 'chickpea', 'edamame', 'soy', 'quinoa', 'peanut', 'meatball', 'burger', 'sausage', 'chick\'n', 'chicken', 'beef', 'pork', 'fish', 'bacon', 'chorizo', 'protein', 'pea protein', 'falafel', 'hummus', 'nut roast', 'hemp seeds', 'chia seeds', 'nutritional yeast', 'nooch', 'vital wheat gluten', 'jackfruit', 'black bean', 'kidney bean', 'pinto bean', 'cannellini', 'almond', 'cashew', 'walnut', 'pecan', 'sunflower seed', 'pumpkin seed', 'pepita', 'mycoprotein', 'quorn'];
 
     const CUISINE_KEYWORDS = {
-        "Indian": ['indian', 'curry', 'masala', 'dal', 'tikka', 'saag', 'korma', 'vindaloo', 'naan', 'samosa', 'chutney', 'aloo', 'gobi', 'chana'],
-        "Mexican": ['mexican', 'taco', 'burrito', 'enchilada', 'quesadilla', 'salsa', 'guacamole', 'fajita', 'nachos', 'tostada', 'pozole', 'chipotle'],
-        "Italian": ['italian', 'tuscan', 'pasta', 'lasagna', 'pizza', 'risotto', 'gnocchi', 'bolognese', 'pesto', 'carbonara', 'marinara', 'focaccia', 'polenta'],
-        "Asian": ['asian', 'chinese', 'japanese', 'thai', 'korean', 'vietnamese', 'stir fry', 'noodle', 'ramen', 'pad thai', 'dumpling', 'sushi', 'kimchi', 'miso', 'teriyaki', 'udon', 'bok choy', 'spring roll', 'soy ginger', 'gochujang', 'hoisin'],
-        "Middle Eastern": ['middle eastern', 'lebanese', 'hummus', 'falafel', 'tahini', 'shawarma', 'pita', 'couscous', 'tabbouleh', 'shakshuka', "za'atar", 'kabob', 'sumac'],
-        "Mediterranean": ['mediterranean', 'greek', 'tzatziki', 'olives', 'feta', 'lemon herb', 'artichoke', 'couscous']
+        "American": ['american', 'bbq', 'barbecue', 'mac and cheese', 'mac & cheese', 'burger', 'hot dog', 'meatloaf', 'buffalo', 'ranch', 'southern', 'cajun', 'creole', 'biscuits', 'fried chick\'n', 'casserole', 'chowder', 'gumbo', 'jambalaya', 'chili', 'hashbrowns', 'wings', 'tenders'],
+        "Indian": ['indian', 'curry', 'masala', 'dal', 'dahl', 'daal', 'tikka', 'saag', 'korma', 'vindaloo', 'naan', 'samosa', 'chutney', 'aloo', 'gobi', 'chana', 'biryani', 'paneer', 'chana masala', 'roti', 'paratha', 'kheer', 'dosa'],
+        "Mexican": ['mexican', 'taco', 'burrito', 'enchada', 'quesadilla', 'salsa', 'guacamole', 'fajita', 'nachos', 'tostada', 'pozole', 'chipotle', 'tamales', 'taquitos', 'carnitas', 'elote', 'queso', 'chilaquiles', 'torta', 'pico de gallo', 'sofritas', 'horchata', 'churros'],
+        "Italian": ['italian', 'tuscan', 'pasta', 'lasagna', 'pizza', 'risotto', 'gnocchi', 'bolognese', 'pesto', 'carbonara', 'marinara', 'focaccia', 'polenta', 'alfredo', 'minestrone', 'bruschetta', 'calzone', 'tiramisu', 'ravioli', 'macaroni', 'spaghetti', 'penne', 'ziti', 'parmesan', 'ricotta'],
+        "Asian": ['asian', 'chinese', 'japanese', 'thai', 'korean', 'vietnamese', 'stir fry', 'noodle', 'ramen', 'pad thai', 'dumpling', 'sushi', 'kimchi', 'miso', 'teriyaki', 'udon', 'bok choy', 'spring roll', 'soy ginger', 'gochujang', 'hoisin', 'pho', 'bao', 'soba', 'bulgogi', 'matcha', 'banh mi', 'gyoza', 'fried rice', 'curry', 'lo mein', 'satay', 'edamame'],
+        "Middle Eastern": ['middle eastern', 'lebanese', 'hummus', 'falafel', 'tahini', 'shawarma', 'pita', 'couscous', 'tabbouleh', 'shakshuka', "za'atar", 'kabob', 'sumac', 'baba ganoush', 'kofta', 'kebab', 'baklava', 'halva', 'harissa', 'muhammara', 'fattoush', 'manakish'],
+        "Mediterranean": ['mediterranean', 'greek', 'tzatziki', 'olives', 'feta', 'lemon herb', 'artichoke', 'couscous', 'gyro', 'spanakopita', 'moussaka', 'kalamata', 'falafel', 'tahini', 'pita', 'souvlaki', 'orzo', 'paella'],
+        "French": ['french', 'crepe', 'quiche', 'galette', 'baguette', 'croissant', 'ratatouille', 'niçoise', 'bouillabaisse', 'bourguignon', 'béchamel', 'tartine', 'macaron'],
+        "Latin American / Caribbean": ['caribbean', 'latin american', 'jamaican', 'jerk', 'plantain', 'empanada', 'arepa', 'cuban', 'puerto rican', 'chimichurri', 'sofrito', 'mofongo', 'pupusa'],
+        "African": ['african', 'ethiopian', 'injera', 'moroccan', 'tagine', 'berbere', 'piri piri', 'harissa', 'misir wot', 'jollof', 'suya']
     };
 
     // --- FAVORITES LOGIC ---
