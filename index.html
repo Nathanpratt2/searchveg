@@ -655,6 +655,18 @@
             #scrollTopBtn { bottom: 90px; right: 18px; width: 55px; height: 55px; }
         }
 
+        /* --- SCROLL BOUNCE ANIMATION --- */
+        @keyframes scrollBtnBounce {
+            0%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-15px); }
+            50% { transform: translateY(0); }
+            70% { transform: translateY(-7px); }
+            80% { transform: translateY(0); }
+        }
+        .btn-bounce {
+            animation: scrollBtnBounce 1s ease-in-out;
+        }
+
         /* --- SAVED LIST SHARE BUTTON --- */
         #shareSavedBtn {
             padding: 0;
@@ -1509,6 +1521,7 @@
             this.src = 'logo.png';
             this.style.objectFit = 'contain';
             this.style.padding = '20px';
+            this.style.boxSizing = 'border-box';
         };
 
         const info = document.createElement('div');
@@ -1593,13 +1606,41 @@
     }
 
     function setupInfiniteScroll() {
-        const handleScroll = throttle(() => {
-            const scrollBtn = document.getElementById("scrollTopBtn");
-            const scrolled = document.body.scrollTop > 300 || document.documentElement.scrollTop > 300;
-            
-            if (scrollBtn) scrollBtn.style.display = scrolled ? "flex" : "none";
+        let lastScrollY = window.scrollY || document.documentElement.scrollTop;
+        let scrollUpDistance = 0;
+        let isBouncing = false;
 
-            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 500) {
+        const handleScroll = throttle(() => {
+            const currentScrollY = window.scrollY || document.documentElement.scrollTop;
+            const scrollBtn = document.getElementById("scrollTopBtn");
+            const scrolled = currentScrollY > 300;
+            
+            if (scrollBtn) {
+                scrollBtn.style.display = scrolled ? "flex" : "none";
+
+                // Bounce logic: Detect if user scrolled up significantly
+                if (scrolled && currentScrollY < lastScrollY) {
+                    scrollUpDistance += (lastScrollY - currentScrollY);
+                    
+                    // If scrolled up more than 400px total without bouncing yet
+                    if (scrollUpDistance > 400 && !isBouncing) {
+                        isBouncing = true;
+                        scrollBtn.classList.add('btn-bounce');
+                        setTimeout(() => {
+                            scrollBtn.classList.remove('btn-bounce');
+                            isBouncing = false;
+                            scrollUpDistance = 0; // Reset tracking after bouncing
+                        }, 1000); // length of css animation
+                    }
+                } else {
+                    // Reset up-scroll distance if they start scrolling back down
+                    scrollUpDistance = 0;
+                }
+            }
+            
+            lastScrollY = currentScrollY;
+
+            if ((window.innerHeight + currentScrollY) >= document.body.offsetHeight - 500) {
                 if (renderedCount < currentContext.length) {
                     renderNextBatch();
                 }
