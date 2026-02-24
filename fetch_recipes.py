@@ -203,7 +203,7 @@ NON_GF_KEYWORDS = [
 ]
     
 NON_RECIPE_KEYWORDS = [
-    "meal plan", "weekly menu", "menu plan", "gift guide", "cookbook", "review", 
+    "meal plan", "weekly menu", "menu plan", "gift guide", "cookbook", "review", "Janelle Carss", 
     "giveaway", "roundup", "collection", "favorites", "best of", "kitchen tour", 
     "grocery haul", "what i eat", "what i ate", "wiaw", "routine", "travel", "restaurant", 
     "dining out", "where to eat", "city guide", "interview", "guest post", "workshop", 
