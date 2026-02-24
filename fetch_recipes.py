@@ -55,7 +55,6 @@ TOP_BLOGGERS = [
 DISRUPTORS = [
     ("Full of Plants", "https://fullofplants.com/feed/", []),
     ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
-    ("Unconventional Baker", "https://www.unconventionalbaker.com/feed/", ["GF"]), # Will auto-tag GF
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
     ("Plantifully Based", "https://plantifullybasedblog.com/feed/", []),
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
@@ -83,6 +82,7 @@ HTML_SOURCES = [
     ("Elavegan", ("https://elavegan.com/category/recipe/page/{}/", 10, 17), ["GF"], "wordpress"), #51 pages
     ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 17, 23), [], "wordpress"),#42 pages
     ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 2, 4), ["Easy", "Budget"], "wordpress"),#65 pages 
+    ("Unconventional Baker", "https://www.unconventionalbaker.com/all-recipes/page/2/", ["GF"], "wordpress"), # might need to do a diff page...load more
     ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 7, 13), ["WFPB"], "wordpress"),#45 pages
     ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 16, 22), [],"wordpress"),#Load more so unsure how many pages
     ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 14, 20), [], "wordpress"),#62 pages
