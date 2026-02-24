@@ -1,5 +1,52 @@
 [
   {
+    "blog_name": "The Post-Punk Kitchen",
+    "title": "Cauliflower Schnitzel with Mustard Cream Sauce",
+    "link": "https://www.theppk.com/2026/02/cauliflower-schnitzel-with-mustard-cream-sauce/",
+    "image": "https://www.theppk.com/wp-content/uploads/2026/02/caulischnitzel.jpg",
+    "date": "2026-02-23T20:01:23+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Cadry's Kitchen",
+    "title": "Transform Trader Joe\u2019s cream cheese alternative into vegan sour cream (2 ingredient recipe)",
+    "link": "https://cadryskitchen.com/vegan-sour-cream/",
+    "image": "https://cadryskitchen.com/wp-content/uploads/2026/02/hor-vegan-sour-cream-dupe.jpg",
+    "date": "2026-02-23T18:43:59+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Rabbit and Wolves",
+    "title": "Easy Vegan Cilantro Lime Tofu",
+    "link": "https://www.rabbitandwolves.com/easy-vegan-cilantro-lime-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=easy-vegan-cilantro-lime-tofu",
+    "image": "https://www.rabbitandwolves.com/wp-content/uploads/2026/02/Vegan-Cilantro-Lime-Tofu0588.jpg",
+    "date": "2026-02-23T18:27:07+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ]
+  },
+  {
+    "blog_name": "Rabbit and Wolves",
+    "title": "The Best Mango Salsa",
+    "link": "https://www.rabbitandwolves.com/the-best-mango-salsa/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-mango-salsa",
+    "image": "https://www.rabbitandwolves.com/wp-content/uploads/2026/02/Mango-Salsa0555.jpg",
+    "date": "2026-02-23T17:47:01+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Jessica in the Kitchen",
+    "title": "Fudgy Sweet Potato Brownies",
+    "link": "https://jessicainthekitchen.com/sweet-potato-brownies/",
+    "image": "https://jessicainthekitchen.com/wp-content/uploads/2026/01/Sweet-Potato-Brownies-16-267x400.jpg",
+    "date": "2026-02-23T15:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
     "blog_name": "Plant-Based on a Budget",
     "title": "Sticky Lemon Tofu",
     "link": "https://plantbasedonabudget.com/sticky-lemon-tofu/",
@@ -20,11 +67,31 @@
     "special_tags": []
   },
   {
+    "blog_name": "Full of Plants",
+    "title": "Black Bean Tempeh (Soy-Free!)",
+    "link": "https://fullofplants.com/black-bean-tempeh-soy-free/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2018/08/homemade-black-bean-tempeh-soy-free-1-720x900.jpg",
+    "date": "2026-02-23T11:00:00+00:00",
+    "is_disruptor": true,
+    "special_tags": []
+  },
+  {
     "blog_name": "Dr. Vegan",
     "title": "Crispy Accordion Sweet Potatoes",
     "link": "https://drveganblog.com/crispy-accordion-sweet-potatoes/",
     "image": "https://drveganblog.com/wp-content/uploads/2026/02/sweet-potato1-576x1024.jpg",
     "date": "2026-02-23T10:41:32+00:00",
+    "is_disruptor": true,
+    "special_tags": [
+      "Easy"
+    ]
+  },
+  {
+    "blog_name": "Plant Power Couple",
+    "title": "One Pot Vegan Mac and Cheese with Coconut Bacon",
+    "link": "https://www.plantpowercouple.com/recipes/boozy-bacon-mac-n-cheese-vegan/",
+    "image": "https://www.plantpowercouple.com/wp-content/uploads/2016/02/vegan-mac-and-cheese2-683x1024.jpg",
+    "date": "2026-02-23T08:00:00+00:00",
     "is_disruptor": true,
     "special_tags": [
       "Easy"
@@ -435,8 +502,8 @@
     "date": "2026-02-19T10:03:29+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -488,8 +555,8 @@
     "date": "2026-02-18T18:12:55+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -754,8 +821,8 @@
     "date": "2026-02-16T00:57:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -1090,8 +1157,8 @@
     "date": "2026-02-13T01:59:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -2106,8 +2173,8 @@
     "date": "2026-02-05T20:13:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -2594,8 +2661,8 @@
     "date": "2026-02-02T15:41:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -3078,8 +3145,8 @@
     "date": "2026-01-29T15:19:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -3165,8 +3232,8 @@
     "date": "2026-01-28T19:16:29+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -3265,8 +3332,8 @@
     "date": "2026-01-28T11:45:05+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -3852,8 +3919,8 @@
     "date": "2026-01-21T21:51:00+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -3947,8 +4014,8 @@
     "date": "2026-01-21T09:00:13+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -4061,8 +4128,8 @@
     "date": "2026-01-20T13:29:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -4944,8 +5011,8 @@
     "date": "2026-01-14T01:52:22+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -5652,8 +5719,8 @@
     "date": "2026-01-07T15:30:00-08:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -5727,8 +5794,8 @@
     "date": "2026-01-07T09:00:11+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -6399,8 +6466,8 @@
     "date": "2026-01-01T11:55:00-08:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -6529,8 +6596,8 @@
     "date": "2025-12-29T15:35:13+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -7014,8 +7081,8 @@
     "date": "2025-12-23T10:24:38-05:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -8095,8 +8162,8 @@
     "date": "2025-12-14T00:22:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ]
   },
@@ -8270,8 +8337,8 @@
     "date": "2025-12-12T05:45:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -8676,8 +8743,8 @@
     "date": "2025-12-08T10:18:07",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -9156,8 +9223,8 @@
     "date": "2025-12-03T09:00:59+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -9762,8 +9829,8 @@
     "date": "2025-11-26T10:21:13",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -10450,8 +10517,8 @@
     "date": "2025-11-19T22:54:08+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -11856,8 +11923,8 @@
     "date": "2025-11-05T03:20:51+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -12063,8 +12130,8 @@
     "date": "2025-11-02T08:30:00-08:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -12361,8 +12428,8 @@
     "date": "2025-10-27T10:00:20",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -12648,8 +12715,8 @@
     "date": "2025-10-22T09:41:36-04:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -12702,8 +12769,8 @@
     "date": "2025-10-21T16:43:44+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -13015,8 +13082,8 @@
     "date": "2025-10-16T10:10:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -13656,8 +13723,8 @@
     "date": "2025-10-02T09:18:56",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -13873,8 +13940,8 @@
     "date": "2025-09-29T17:18:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -13965,8 +14032,8 @@
     "date": "2025-09-25T17:58:30+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -14426,8 +14493,8 @@
     "date": "2025-09-16T08:39:30",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -14460,8 +14527,8 @@
     "date": "2025-09-15T20:00:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -14804,8 +14871,8 @@
     "date": "2025-09-08T12:56:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -15009,8 +15076,8 @@
     "date": "2025-09-03T12:40:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -15286,8 +15353,8 @@
     "date": "2025-08-26T09:45:49",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -15309,8 +15376,8 @@
     "date": "2025-08-25T12:56:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -15330,8 +15397,8 @@
     "date": "2025-08-25T11:46:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -16170,8 +16237,8 @@
     "date": "2025-07-31T18:00:11+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy",
       "GF"
     ]
@@ -16724,8 +16791,8 @@
     "date": "2025-07-16T09:27:48",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -16930,8 +16997,8 @@
     "date": "2025-07-10T00:00:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -17037,8 +17104,8 @@
     "date": "2025-07-08T09:12:27",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -17517,8 +17584,8 @@
     "date": "2025-06-24T09:42:44",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -17540,8 +17607,8 @@
     "date": "2025-06-23T22:03:48+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -17643,8 +17710,8 @@
     "date": "2025-06-19T18:14:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -17736,8 +17803,8 @@
     "date": "2025-06-18T09:12:39",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -17841,8 +17908,8 @@
     "date": "2025-06-16T09:32:54",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -18984,8 +19051,8 @@
     "date": "2025-05-08T22:51:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -19487,8 +19554,8 @@
     "date": "2025-04-23T15:50:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -19702,8 +19769,8 @@
     "date": "2025-04-14T09:21:52",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -19779,8 +19846,8 @@
     "date": "2025-04-11T18:47:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -19873,8 +19940,8 @@
     "date": "2025-04-08T09:55:02",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -20323,8 +20390,8 @@
     "date": "2025-03-28T07:08:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -20412,6 +20479,15 @@
     "link": "https://steamyvegan.com/high-protein-apple-crumble/",
     "image": "https://steamyvegan.com/wp-content/uploads/2025/03/apple-crumble.png",
     "date": "2025-03-25T16:58:02+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "The Full Helping (Vegan Recipes)",
+    "title": "Oh hi, hello! I've been quiet around here as I nav",
+    "link": "https://www.instagram.com/p/DHn4xqaRKzd/",
+    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.75761-15/485805693_18490740829033105_8165394567150005360_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=I00DfnLzMikQ7kNvwEhE_Ue&_nc_oc=AdnV_GfXC5co8NAqkGQigdnuwF75iU3CVkk26NLoWxmLLhykDFk7jO0hTrad_FeMut0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=t0XFmHBolQ6hyIzLNyUbcw&oh=00_AfvSs0xyofwjRbrUbuKTBPfokrCEw3S8Kos4TG9fcapsUw&oe=69A2D611",
+    "date": "2025-03-25T13:01:02+00:00",
     "is_disruptor": false,
     "special_tags": []
   },
@@ -20610,8 +20686,8 @@
     "date": "2025-03-20T13:34:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -20623,8 +20699,8 @@
     "date": "2025-03-20T09:22:31",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -21030,8 +21106,8 @@
     "date": "2025-03-10T11:42:06",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -21375,8 +21451,8 @@
     "date": "2025-03-03T10:44:17",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -22009,8 +22085,8 @@
     "date": "2025-02-11T10:20:47",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -22104,8 +22180,8 @@
     "date": "2025-02-07T12:27:41",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -22987,8 +23063,8 @@
     "date": "2025-01-07T10:49:31",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -23030,8 +23106,8 @@
     "date": "2025-01-06T10:14:23",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -23209,8 +23285,8 @@
     "date": "2024-12-30T08:26:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -23270,8 +23346,8 @@
     "date": "2024-12-24T09:52:35",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -23322,8 +23398,8 @@
     "date": "2024-12-23T13:54:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -23335,8 +23411,8 @@
     "date": "2024-12-23T10:37:32",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -24880,8 +24956,8 @@
     "date": "2024-11-19T11:42:37",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -25221,8 +25297,8 @@
     "date": "2024-11-11T10:11:31",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -25289,8 +25365,8 @@
     "date": "2024-11-08T10:56:08",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -25366,8 +25442,8 @@
     "date": "2024-11-07T11:27:17",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -25873,8 +25949,8 @@
     "date": "2024-10-24T09:09:44",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -26248,8 +26324,8 @@
     "date": "2024-10-15T09:58:13",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -26572,8 +26648,8 @@
     "date": "2024-10-07T09:26:34",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -26725,8 +26801,8 @@
     "date": "2024-10-03T09:37:14",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -27359,8 +27435,8 @@
     "date": "2024-09-20T09:07:25",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -27450,8 +27526,8 @@
     "date": "2024-09-17T09:15:12",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -27462,8 +27538,8 @@
     "date": "2024-09-17T08:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -27544,8 +27620,8 @@
     "date": "2024-09-16T09:13:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -27734,8 +27810,8 @@
     "date": "2024-09-11T11:10:38",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -27963,8 +28039,8 @@
     "date": "2024-09-06T09:28:50",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -28056,8 +28132,8 @@
     "date": "2024-09-04T09:42:50",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -28668,8 +28744,8 @@
     "date": "2024-08-18T13:22:02+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -28933,8 +29009,8 @@
     "date": "2024-08-12T19:05:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -29754,8 +29830,8 @@
     "date": "2024-07-17T00:59:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -29818,8 +29894,8 @@
     "date": "2024-07-15T22:34:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -29953,8 +30029,8 @@
     "date": "2024-07-11T17:14:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -30571,8 +30647,8 @@
     "date": "2024-06-23T17:47:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -30583,8 +30659,8 @@
     "date": "2024-06-23T17:46:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -30595,8 +30671,8 @@
     "date": "2024-06-23T17:46:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -30647,8 +30723,8 @@
     "date": "2024-06-22T09:36:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -30909,8 +30985,8 @@
     "date": "2024-06-15T10:55:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -31365,8 +31441,8 @@
     "date": "2024-06-06T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -31493,8 +31569,8 @@
     "date": "2024-06-04T22:19:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -31534,8 +31610,8 @@
     "date": "2024-06-04T18:35:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -31576,8 +31652,8 @@
     "date": "2024-06-04T18:02:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -32145,8 +32221,8 @@
     "date": "2024-06-03T21:53:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -32166,8 +32242,8 @@
     "date": "2024-06-03T21:24:33+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -33221,8 +33297,8 @@
     "date": "2024-05-31T19:35:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -33853,8 +33929,8 @@
     "date": "2024-05-30T16:24:24+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -36609,8 +36685,8 @@
     "date": "2024-03-29T22:12:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -36632,8 +36708,8 @@
     "date": "2024-03-29T08:30:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -37833,8 +37909,8 @@
     "date": "2024-02-26T12:45:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -39410,8 +39486,8 @@
     "date": "2024-01-26T08:46:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -40470,8 +40546,8 @@
     "date": "2023-12-21T01:26:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -41565,8 +41641,8 @@
     "date": "2023-11-24T22:50:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -42902,8 +42978,8 @@
     "date": "2023-10-31T12:14:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -43041,8 +43117,8 @@
     "date": "2023-10-28T10:59:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -43103,8 +43179,8 @@
     "date": "2023-10-26T04:33:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -44933,8 +45009,8 @@
     "date": "2023-09-18T09:23:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -45434,8 +45510,8 @@
     "date": "2023-09-15T01:00:00+01:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -45900,8 +45976,8 @@
     "date": "2023-09-15T01:00:00+01:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -47642,8 +47718,8 @@
     "date": "2023-08-30T02:17:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -48224,8 +48300,8 @@
     "date": "2023-08-14T09:10:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -48536,8 +48612,8 @@
     "date": "2023-08-04T12:15:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -48600,8 +48676,8 @@
     "date": "2023-08-03T20:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -49062,8 +49138,8 @@
     "date": "2023-07-23T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -49499,8 +49575,8 @@
     "date": "2023-07-12T04:05:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -49824,8 +49900,8 @@
     "date": "2023-06-30T17:04:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -52389,8 +52465,8 @@
     "date": "2023-04-20T14:45:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -53205,8 +53281,8 @@
     "date": "2023-03-23T17:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -53437,8 +53513,8 @@
     "date": "2023-03-16T15:29:55-07:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -54290,8 +54366,8 @@
     "date": "2023-02-22T11:44:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -54846,8 +54922,8 @@
     "date": "2023-02-07T14:27:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -55392,8 +55468,8 @@
     "date": "2023-01-25T11:39:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -57816,8 +57892,8 @@
     "date": "2022-11-23T22:12:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -58192,8 +58268,8 @@
     "date": "2022-11-16T23:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -58304,8 +58380,8 @@
     "date": "2022-11-13T00:31:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -61221,8 +61297,8 @@
     "date": "2022-08-25T08:20:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -61527,8 +61603,8 @@
     "date": "2022-08-17T01:06:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -61909,8 +61985,8 @@
     "date": "2022-08-04T23:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -62085,8 +62161,8 @@
     "date": "2022-08-01T13:33:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -63051,8 +63127,8 @@
     "date": "2022-06-30T03:01:08+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -63746,8 +63822,8 @@
     "date": "2022-06-02T01:36:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -63781,8 +63857,8 @@
     "date": "2022-06-01T06:12:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -64493,8 +64569,8 @@
     "date": "2022-04-30T02:07:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -66804,8 +66880,8 @@
     "date": "2022-01-28T21:03:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -66900,8 +66976,8 @@
     "date": "2022-01-24T23:35:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -67718,8 +67794,8 @@
     "date": "2021-12-15T13:38:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -69833,8 +69909,8 @@
     "date": "2021-09-21T21:09:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ]
   },
@@ -69864,8 +69940,8 @@
     "date": "2021-09-20T19:57:51+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -70825,8 +70901,8 @@
     "date": "2021-08-05T17:29:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -72476,8 +72552,8 @@
     "date": "2021-05-25T21:23:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -73735,8 +73811,8 @@
     "date": "2021-03-29T02:19:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -75730,8 +75806,8 @@
     "date": "2021-01-01T23:00:16+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -76422,8 +76498,8 @@
     "date": "2020-11-29T04:14:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -76873,8 +76949,8 @@
     "date": "2020-11-09T12:22:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -78086,8 +78162,8 @@
     "date": "2020-08-16T01:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -78331,8 +78407,8 @@
     "date": "2020-08-01T12:25:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -78446,8 +78522,8 @@
     "date": "2020-07-22T14:11:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -78995,8 +79071,8 @@
     "date": "2020-06-13T18:24:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -79326,8 +79402,8 @@
     "date": "2020-05-21T02:26:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -79614,8 +79690,8 @@
     "date": "2020-05-06T19:47:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -81201,8 +81277,8 @@
     "date": "2020-05-05T14:31:21-08:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -82290,8 +82366,8 @@
     "date": "2020-04-01T02:41:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -83452,6 +83528,17 @@
     "special_tags": []
   },
   {
+    "blog_name": "Eat Figs, Not Pigs",
+    "title": "this is a delicious and easy recipe for vegan spli",
+    "link": "https://www.instagram.com/reel/DVHE2degYlF/",
+    "image": "https://www.eatfigsnotpigs.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ]
+  },
+  {
     "blog_name": "The Post-Punk Kitchen",
     "title": "\u2190 Back To All Recipes",
     "link": "https://www.theppk.com/recipes/",
@@ -83459,6 +83546,197 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Yesoul Fitness Equipment Continue",
+    "link": "https://steamyvegan.com/product/yesoul-fitness-equipment/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/1_2140a1f7-dbab-4d20-82fa-5d4a4fbf78f3.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Biosteel Hydration Mix Continue",
+    "link": "https://steamyvegan.com/product/biosteel-hydration-mix/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/HM-315g-RT-CA-EN-V006_1100x_9d649404-73ff-484e-8b69-cc8e9dcfba56.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More LeanFit Protein Powder Continue",
+    "link": "https://steamyvegan.com/product/leanfit-protein-powder/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/LEANFIT_Organic_Plant-Based_Protein_Vanilla_715g_Tub_Front.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Vivo Life Protein Powder Continue",
+    "link": "https://steamyvegan.com/product/vivo-life-protein-powder/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/EN_VeganProtein-usp3-1080x1080-px-High-Quality.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Sunwarrior Protein Powder Continue",
+    "link": "https://steamyvegan.com/product/sunwarrior-protein-powder/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/USA-WarriorBlend4-750g-Van-ThreeQuarter_107a8c20-a157-4f4c-b992-10d9c5225c25.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Sprout Living Protein Powder Continue",
+    "link": "https://steamyvegan.com/product/sprout-living-protein-powder/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/EPCM1lbcrop-1.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Vedge Nutrition Protein Powder Continue",
+    "link": "https://steamyvegan.com/product/vedge-nutrition-protein-powder/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/4_de1c8ee5-4932-486a-ac72-47d4d9ec7298.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Buydeem G32 Mini Electric Steamer Continue",
+    "link": "https://steamyvegan.com/product/buydeem-g32-mini-electric-steamer/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/04/G32MiniElectricFoodSteamer_1080x.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Lomi 2 Food Recycler Continue",
+    "link": "https://steamyvegan.com/product/lomi-2-food-recycler/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/02/PDP-Lomi2-Sage.webp",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Cultures for Health (Tempeh Starter) Continue",
+    "link": "https://steamyvegan.com/product/cultures-for-health-tempeh-starter/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/cultures-for-health.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Eightbillion (My Fave Mushroom Coffee) Continue",
+    "link": "https://steamyvegan.com/product/eightbillion-my-fave-mushroom-coffee/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/fave-mushroom-coffee.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Complement (Protein Powder) Continue",
+    "link": "https://steamyvegan.com/product/complement-protein-powder/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/protein-powder.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Good Protein Continue",
+    "link": "https://steamyvegan.com/product/good-protein/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/good-protein-shake.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Complement (Multivitamins I Take) Continue",
+    "link": "https://steamyvegan.com/product/complement-multivitamins-i-take/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/multivitamin.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Santevia (My Water System) Continue",
+    "link": "https://steamyvegan.com/product/santevia-my-water-system/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/SanteviaGravityWaterSystem.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More iHarvest (Indoor Hydroponic Garden) Continue",
+    "link": "https://steamyvegan.com/product/iharvest-indoor-hydroponic-garden/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/iharvest.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Prologue Shoes Continue",
+    "link": "https://steamyvegan.com/product/prologue-shoes/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/prologue-shoes.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Flavrbombs Spice Blends Continue",
+    "link": "https://steamyvegan.com/product/flavrbombs-spice-blends/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/flavrbombs.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More The Bare Home Continue",
+    "link": "https://steamyvegan.com/product/the-bare-home/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/bare-home.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Coconut Bowls Continue",
+    "link": "https://steamyvegan.com/product/coconut-bowls/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/coconut-bowls.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": []
+  },
+  {
+    "blog_name": "Steamy Vegan",
+    "title": "Read More Breville (My Air Fryer) Continue",
+    "link": "https://steamyvegan.com/product/breville-my-air-fryer/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/breville.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ]
   },
   {
     "blog_name": "Baking Hermann",
@@ -83719,197 +83997,6 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Yesoul Fitness Equipment Continue",
-    "link": "https://steamyvegan.com/product/yesoul-fitness-equipment/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/1_2140a1f7-dbab-4d20-82fa-5d4a4fbf78f3.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Biosteel Hydration Mix Continue",
-    "link": "https://steamyvegan.com/product/biosteel-hydration-mix/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/HM-315g-RT-CA-EN-V006_1100x_9d649404-73ff-484e-8b69-cc8e9dcfba56.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More LeanFit Protein Powder Continue",
-    "link": "https://steamyvegan.com/product/leanfit-protein-powder/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/LEANFIT_Organic_Plant-Based_Protein_Vanilla_715g_Tub_Front.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Vivo Life Protein Powder Continue",
-    "link": "https://steamyvegan.com/product/vivo-life-protein-powder/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/EN_VeganProtein-usp3-1080x1080-px-High-Quality.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Sunwarrior Protein Powder Continue",
-    "link": "https://steamyvegan.com/product/sunwarrior-protein-powder/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/USA-WarriorBlend4-750g-Van-ThreeQuarter_107a8c20-a157-4f4c-b992-10d9c5225c25.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Sprout Living Protein Powder Continue",
-    "link": "https://steamyvegan.com/product/sprout-living-protein-powder/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/EPCM1lbcrop-1.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Vedge Nutrition Protein Powder Continue",
-    "link": "https://steamyvegan.com/product/vedge-nutrition-protein-powder/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/07/4_de1c8ee5-4932-486a-ac72-47d4d9ec7298.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Buydeem G32 Mini Electric Steamer Continue",
-    "link": "https://steamyvegan.com/product/buydeem-g32-mini-electric-steamer/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/04/G32MiniElectricFoodSteamer_1080x.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Lomi 2 Food Recycler Continue",
-    "link": "https://steamyvegan.com/product/lomi-2-food-recycler/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/02/PDP-Lomi2-Sage.webp",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Cultures for Health (Tempeh Starter) Continue",
-    "link": "https://steamyvegan.com/product/cultures-for-health-tempeh-starter/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/cultures-for-health.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Eightbillion (My Fave Mushroom Coffee) Continue",
-    "link": "https://steamyvegan.com/product/eightbillion-my-fave-mushroom-coffee/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/fave-mushroom-coffee.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Complement (Protein Powder) Continue",
-    "link": "https://steamyvegan.com/product/complement-protein-powder/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/protein-powder.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Good Protein Continue",
-    "link": "https://steamyvegan.com/product/good-protein/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/good-protein-shake.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Complement (Multivitamins I Take) Continue",
-    "link": "https://steamyvegan.com/product/complement-multivitamins-i-take/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/multivitamin.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Santevia (My Water System) Continue",
-    "link": "https://steamyvegan.com/product/santevia-my-water-system/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/SanteviaGravityWaterSystem.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More iHarvest (Indoor Hydroponic Garden) Continue",
-    "link": "https://steamyvegan.com/product/iharvest-indoor-hydroponic-garden/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/iharvest.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Prologue Shoes Continue",
-    "link": "https://steamyvegan.com/product/prologue-shoes/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/prologue-shoes.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Flavrbombs Spice Blends Continue",
-    "link": "https://steamyvegan.com/product/flavrbombs-spice-blends/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/flavrbombs.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More The Bare Home Continue",
-    "link": "https://steamyvegan.com/product/the-bare-home/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/bare-home.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Coconut Bowls Continue",
-    "link": "https://steamyvegan.com/product/coconut-bowls/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/coconut-bowls.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "Steamy Vegan",
-    "title": "Read More Breville (My Air Fryer) Continue",
-    "link": "https://steamyvegan.com/product/breville-my-air-fryer/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/01/breville.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "Easy"
-    ]
   },
   {
     "blog_name": "Earth to Veg",
@@ -84371,8 +84458,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -84420,8 +84507,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ]
   },
@@ -87270,9 +87357,9 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
+      "GF",
       "Low Waste",
-      "Easy",
-      "GF"
+      "Easy"
     ]
   },
   {
@@ -87305,8 +87392,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "WFPB"
+      "WFPB",
+      "Low Waste"
     ]
   },
   {
@@ -87417,8 +87504,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "WFPB"
+      "WFPB",
+      "Low Waste"
     ]
   },
   {
@@ -87547,7 +87634,7 @@
     "blog_name": "The Full Helping (Vegan Recipes)",
     "title": "Follow on Instagram",
     "link": "https://www.instagram.com/thefullhelping/",
-    "image": "https://scontent.cdninstagram.com/v/t51.2885-19/277595822_1048630135732800_4576346777274291970_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MjQuQzMifQ%3D%3D&_nc_ohc=FGi7tTCvzCAQ7kNvwGH0Ioa&_nc_oc=Adn5Jrdatai91H0L63Os6J_52We2NKbK4oCfc2En5WyUHnG9ewCzYAxYLSTLkJ7llGU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_tpa=Q5bMBQHSR07ieW0YdyJ2jx3VJTmAXKtlRmrs0xpzIrY5V0sIMcmfLn1xNdBXTxWQnRnq18hDSLRPwG0vng&oh=00_Afv4qE7FDHAEQRlD4nczsjgJw_bMOH3HMga6937cD2mGWg&oe=69A1CF27",
+    "image": "https://scontent.cdninstagram.com/v/t51.2885-19/277595822_1048630135732800_4576346777274291970_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MjQuQzMifQ%3D%3D&_nc_ohc=CnQec_GU1NEQ7kNvwFvdC89&_nc_oc=AdlMh0V8DwSw5Wd1ZMJXHanc7EMtM_n824puy7nQvCMo-T5wIH5uxtDidoflV3F1bMk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_tpa=Q5bMBQHLPBb9Q8x0kKGO9-_jzfnoNQkbglx7eQfgxXWjW7i8B2AmiSUymBv_X0v7lCb8XiJw0d0XqulKBQ&oh=00_AfsifQv0t78Zc2zg4DQXIFErMsEy4ANQpdUKuS-802TTXg&oe=69A277E7",
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": []
@@ -87583,15 +87670,6 @@
     "blog_name": "The Full Helping (Vegan Recipes)",
     "title": "Savory vegan mushroom risotto \ud83c\udf44\u200d\ud83d\udfeb\ud83c\udf31\n\u3030\ufe0f\nIf it\u2019s goin",
     "link": "https://www.instagram.com/p/DIOkPJfRnKi/",
-    "image": "https://www.thefullhelping.com/wp-content/plugins/instagram-feed/img/placeholder.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": []
-  },
-  {
-    "blog_name": "The Full Helping (Vegan Recipes)",
-    "title": "Oh hi, hello! I've been quiet around here as I nav",
-    "link": "https://www.instagram.com/p/DHn4xqaRKzd/",
     "image": "https://www.thefullhelping.com/wp-content/plugins/instagram-feed/img/placeholder.png",
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
@@ -89657,8 +89735,8 @@
     "date": "2019-07-23T15:43:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -89839,8 +89917,8 @@
     "date": "2019-07-07T21:20:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ]
   },
@@ -90401,8 +90479,8 @@
     "date": "2019-05-23T16:37:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -91184,8 +91262,8 @@
     "date": "2019-03-15T11:35:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -91440,8 +91518,8 @@
     "date": "2019-02-26T10:26:27",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -91824,8 +91902,8 @@
     "date": "2019-01-08T19:00:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -92160,8 +92238,8 @@
     "date": "2018-11-12T08:57:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -92213,8 +92291,8 @@
     "date": "2018-11-07T13:04:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -92364,8 +92442,8 @@
     "date": "2018-10-14T17:41:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -93219,8 +93297,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "GF",
-      "Easy"
+      "Easy",
+      "GF"
     ]
   },
   {
@@ -93386,8 +93464,8 @@
     "date": "2018-05-09T19:50:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy",
       "GF"
     ]
@@ -93822,8 +93900,8 @@
     "date": "2018-03-22T12:47:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -94533,8 +94611,8 @@
     "date": "2017-12-26T20:03:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ]
   },
@@ -94959,8 +95037,8 @@
     "date": "2017-10-15T22:34:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ]
   },
@@ -96786,8 +96864,8 @@
     "date": "2017-01-17T13:23:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -96818,8 +96896,8 @@
     "date": "2017-01-10T18:24:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -97422,8 +97500,8 @@
     "date": "2016-08-29T15:10:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -97848,8 +97926,8 @@
     "date": "2016-05-18T17:46:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -98172,8 +98250,8 @@
     "date": "2016-02-03T15:08:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -98555,8 +98633,8 @@
     "date": "2015-09-19T15:29:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -98711,8 +98789,8 @@
     "date": "2015-06-23T14:00:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -98843,8 +98921,8 @@
     "date": "2015-05-08T13:24:41+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
@@ -99477,8 +99555,8 @@
     "date": "2014-06-26T20:26:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ]
   },
   {
