@@ -742,17 +742,23 @@
         display: flex; /* Shown when hamburger is clicked */
     }
 }
-/* Styling for the small logo in the navbar */
-.nav-logo {
-    height: 35px; /* Adjust this to make the logo look right in the bar */
-    width: auto;
-    display: block;
-    border-radius: 5px;
+/* --- FIX FOR NAVBAR LOGO --- */
+.nav-brand-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
 }
 
-/* Ensure links in the nav don't have the default blue/purple look */
-.nav-links a, .nav-brand {
-    text-decoration: none;
+.nav-logo {
+    width: 116px; /* Exactly 1/3 of the original 350px size */
+    height: auto;
+    display: block;
+    border-radius: 4px; /* Optional: smooths the edges slightly */
+}
+
+/* Fixes the ugly blue/purple link colors */
+.nav-links a {
+    text-decoration: none !important;
     color: var(--text-color) !important;
 }
 
