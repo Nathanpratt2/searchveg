@@ -36,7 +36,6 @@ TOP_BLOGGERS = [
     ("The First Mess", "https://thefirstmess.com/feed/", []),
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/", []),
     ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/", []),
-    ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed/", []),
     ("Lazy Cat Kitchen", "https://www.lazycatkitchen.com/feed/", []),
     ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
     ("From My Bowl", "https://frommybowl.com/feed/", []),
@@ -60,7 +59,6 @@ DISRUPTORS = [
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
     ("Watch Learn Eat", "https://watchlearneat.com/feed/", ["Easy"]),
     ("Strength and Sunshine", "https://strengthandsunshine.com/feed/", ["Easy", "GF"]), # Will auto-tag GF
-    ("The Stingy Vegan", "https://thestingyvegan.com/feed/", ["Easy", "Budget"]),
     ("The Foodie Takes Flight", "https://thefoodietakesflight.com/feed/", ["Easy"]),
     ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
     ("The Conscious Plant Kitchen", "https://www.theconsciousplantkitchen.com/feed/", []),
@@ -75,28 +73,29 @@ DISRUPTORS = [
 
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
-
-    ("The Korean Vegan", ("https://thekoreanvegan.com/recipes/?pg={}", 23, 28), [], "wordpress"),#lots of pages - not sure why not getting new ones? did i already get them?
-    ("PlantYou", ("https://plantyou.com/category/all-recipes/page/{}/", 7, 13), ["WFPB"], "wordpress"),#23 pages
-    ("Love and Lemons (Vegan Recipes)", ("https://www.loveandlemons.com/category/recipes/vegan/page/{}/", 33, 38), [], "wordpress"),#75 or more pages
-    ("Elavegan", ("https://elavegan.com/category/recipe/page/{}/", 10, 17), ["GF"], "wordpress"), #51 pages
-    ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 17, 23), [], "wordpress"),#42 pages
-    ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 2, 4), ["Easy", "Budget"], "wordpress"),#65 pages 
-    ("Unconventional Baker", "https://www.unconventionalbaker.com/all-recipes/page/2/", ["GF"], "wordpress"), # might need to do a diff page...load more
-    ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 7, 13), ["WFPB"], "wordpress"),#45 pages
-    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 16, 22), [],"wordpress"),#Load more so unsure how many pages
-    ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 14, 20), [], "wordpress"),#62 pages
-    ("Chef Bai", "https://www.chefbai.kitchen/blog?offset=1608313200053", [], "wordpress"),
-    ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 2, 7), [], "wordpress"),#22 pages
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 2, 5), [], "wordpress"),
-    ("One Arab Vegan", ("https://www.onearabvegan.com/category/recipes/page/{}/", 19, 24), [], "wordpress"),#28 pages
-    ("Ann Arbor Vegan Kitchen", "https://annarborvegankitchen.com/blog/page/2/", ["WFPB"], "wordpress"),#not sure how many pages
-    ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 4, 10), [], "wordpress"),#not sure pages
-    ("Healthy Little Vittles", ("https://healthylittlevittles.com/page/{}/?s=+", 6, 10), ["GF"], "wordpress"), #17 pages
+    ("PlantYou", ("https://plantyou.com/category/all-recipes/page/{}/", 7, 13), ["WFPB"], "squarespace"),#23 pages, trying squarespace. if not, move to feed only
+    ("Love and Lemons (Vegan Recipes)", ("https://www.loveandlemons.com/category/recipes/vegan/page/{}/", 39, 45), [], "wordpress"),#75 or more pages
+    ("Elavegan", ("https://elavegan.com/category/recipe/page/{}/", 18, 25), ["GF"], "wordpress"), #51 pages
+    ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 2, 5), ["Easy", "Budget"], "wordpress"),#22 pages
+    ("Jessica in the Kitchen", ("https://jessicainthekitchen.com/recipes/diet/vegan/page/{}/", 2, 5), [], "wordpress"),#34 pages
+    ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 24, 28), [], "wordpress"),#42 pages
+    ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 5, 11), ["Easy", "Budget"], "wordpress"),#65 pages 
+    ("Unconventional Baker", "https://www.unconventionalbaker.com/all-recipes/#search/c=eyJ2IjoiNC4wIiwidGl0bGUiOiJMYXRlc3QiLCJncm91cFR5cGUiOiJyZWNlbnQiLCJhcnJhbmdlbWVudCI6ImNvbnRleHQtd2l0aC1zZWFyY2gifQ%3D%3D", ["GF"], "wordpress"), # might need to do a diff page...load more
+    ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 14, 18), ["WFPB"], "wordpress"),#45 pages
+    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 23, 28), [],"wordpress"),#Load more so unsure how many pages
+    ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 21, 31), [], "wordpress"),#62 pages
+    ("Chef Bai", "https://www.chefbai.kitchen/blog?offset=1600262100722", [], "wordpress"),
+    ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 2, 7), [], "squarespace"),#22 pages...cant figure out whats wrong
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 2, 5), [], "squarespace"),
+    ("One Arab Vegan", ("https://www.onearabvegan.com/category/recipes/page/{}/", 25, 28), [], "wordpress"),#28 pages
+    ("Ann Arbor Vegan Kitchen", "https://annarborvegankitchen.com/blog/page/3/", ["WFPB"], "wordpress"),#not sure how many pages
+    ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 11, 15), [], "wordpress"),#not sure pages
     
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     ("Earth to Veg", "https://earthtoveg.com/page/1/?s=+", [], "wordpress"),#maxed out
+    ("Healthy Little Vittles", ("https://healthylittlevittles.com/page/{}/?s=+", 6, 10), ["GF"], "wordpress"), #17 pages
+    ("The Korean Vegan", ("https://thekoreanvegan.com/recipes/?pg={}", 1, 1), [], "wordpress"),#maxed
     ("Vegan Richa", ("https://www.veganricha.com/recipes-with-facets/?fwp_paged={}",1, 1), [], "wordpress"), #119 pages
     ("Rainbow Plant Life GF", "https://rainbowplantlife.com/diet/gluten-free/", ["GF"], "wordpress"),#maxed out
     ("Rainbow Plant Life", ("https://rainbowplantlife.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#19 pages
