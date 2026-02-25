@@ -742,3 +742,20 @@
         display: flex; /* Shown when hamburger is clicked */
     }
 }
+/* Styling for the small logo in the navbar */
+.nav-logo {
+    height: 35px; /* Adjust this to make the logo look right in the bar */
+    width: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+/* Ensure links in the nav don't have the default blue/purple look */
+.nav-links a, .nav-brand {
+    text-decoration: none;
+    color: var(--text-color) !important;
+}
+
+.nav-links a:hover {
+    color: var(--accent-color) !important;
+}
