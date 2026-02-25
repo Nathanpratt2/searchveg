@@ -1,6 +1,6 @@
 {
-  "name": "searchveg",
-  "short_name": "searchveg",
+  "name": "SearchVeg",
+  "short_name": "SearchVeg",
   "start_url": "https://searchveg.com/",
   "display": "standalone",
   "background_color": "#f8f9fa",
