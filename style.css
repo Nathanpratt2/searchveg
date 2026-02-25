@@ -670,3 +670,75 @@
         #shareSavedBtn:active {
             transform: scale(0.95);
         }
+/* --- GLOBAL NAVIGATION --- */
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background-color: var(--card-bg);
+    box-shadow: 0 2px 5px var(--shadow-color);
+    margin: -20px -20px 25px -20px; /* Counteracts the body padding to touch edges */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-brand {
+    font-weight: 700;
+    color: var(--accent-color);
+    text-decoration: none;
+    font-size: 1.4em;
+    letter-spacing: -0.5px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 0.95em;
+    transition: color 0.2s;
+}
+
+.nav-links a:hover {
+    color: var(--accent-color);
+}
+
+.hamburger {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--text-color);
+    padding: 0;
+}
+
+/* Mobile Nav Styles */
+@media (max-width: 768px) {
+    .hamburger {
+        display: block;
+    }
+    .nav-links {
+        display: none; /* Hidden by default on mobile */
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: var(--card-bg);
+        padding: 20px;
+        box-shadow: 0 4px 6px var(--shadow-color);
+        gap: 20px;
+        border-top: 1px solid var(--input-border);
+    }
+    .nav-links.active {
+        display: flex; /* Shown when hamburger is clicked */
+    }
+}
