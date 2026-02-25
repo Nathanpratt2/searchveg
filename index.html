@@ -29,7 +29,7 @@
     </script>
 
     <!-- Open Graph Tags (Dynamic via JS) -->
-    <meta property="og:title" content="Searchveg">
+    <meta property="og:title" content="SearchVeg">
     <meta property="og:description" content="Search vegan recipes from the top bloggers">
     <meta property="og:image" content="https://searchveg.com/default.png">
     <meta property="og:image:width" content="1200">
@@ -850,7 +850,7 @@
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="natethevegan" data-description="Support me on Buy me a coffee!" data-message="" data-color="#769F37" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 <footer>
-    <p>Searchveg aggregates the best plant-based cooking from top bloggers. Discover easy vegan dinner ideas, high-protein plant-based meals, WFPB (Whole Food Plant Based) dishes, gluten-free sweets, and budget-friendly vegan food. Updated daily.</p>
+    <p>SearchVeg aggregates the best plant-based cooking from top bloggers. Discover easy vegan dinner ideas, high-protein plant-based meals, WFPB (Whole Food Plant Based) dishes, gluten-free sweets, and budget-friendly vegan food. Updated daily.</p>
     
     <div class="footer-topics">
         <a href="?q=pasta">Best Vegan Pasta</a>
@@ -1370,20 +1370,20 @@
     }
 
     function updateSEO(currentRecipes = []) {
-        let title = "Searchveg";
-        let desc = "Find fresh Searchveg from top bloggers. Search by ingredients, diet types, or explore new plant-based dishes. ";
+        let title = "SearchVeg";
+        let desc = "Find fresh SearchVeg from top bloggers. Search by ingredients, diet types, or explore new plant-based dishes. ";
         let breadcrumbName = "Home";
         
         const searchVal = document.getElementById('searchInput').value;
         const tagsArr = Array.from(activeTags);
 
         if (isSavedView) {
-             title = "My Saved Recipes | Searchveg";
+             title = "My Saved Recipes | SearchVeg";
              desc = "Your personalized collection of saved vegan recipes.";
              breadcrumbName = "Saved";
         } else if (searchVal) {
             const safeSearch = searchVal.replace(/</g, "&lt;").replace(/>/g, "&gt;");
-            title = `${safeSearch} - Search | Searchveg`;
+            title = `${safeSearch} - Search | SearchVeg`;
             desc = `Best vegan recipes matching "${safeSearch}".`;
             breadcrumbName = `Search: ${safeSearch}`;
         } else if (activeType === 'meal') {
@@ -1391,18 +1391,18 @@
             desc = "Discover savory vegan meals, dinners, and lunch ideas from top plant-based blogs.";
             breadcrumbName = "Meals";
         } else if (activeType === 'sweet') {
-            title = "Vegan Sweets & Desserts | Searchveg";
+            title = "Vegan Sweets & Desserts | SearchVeg";
             desc = "Indulge in the best vegan desserts, cookies, cakes, and sweets.";
             breadcrumbName = "Sweets";
         } else if (activeCuisines.size > 0) {
             const cuisinesArr = Array.from(activeCuisines);
             const primaryCuisine = cuisinesArr[0];
-            title = `Vegan ${primaryCuisine} Recipes | Searchveg`;
+            title = `Vegan ${primaryCuisine} Recipes | SearchVeg`;
             desc = `Explore the best plant-based and vegan ${primaryCuisine} recipes updated daily.`;
             breadcrumbName = `${primaryCuisine} Cuisine`;
         } else if (tagsArr.length > 0) {
             const primaryTag = tagsArr[0];
-            title = `${primaryTag} Vegan Recipes | Searchveg`;
+            title = `${primaryTag} Vegan Recipes | SearchVeg`;
             desc = `Top rated ${primaryTag} vegan recipes updated daily.`;
             breadcrumbName = primaryTag;
         }
@@ -1940,7 +1940,7 @@
         const url = window.location.href;
         if (navigator.share) {
             navigator.share({
-                title: 'Searchveg Search',
+                title: 'SearchVeg Search',
                 url: url
             }).catch(console.error);
         } else {
