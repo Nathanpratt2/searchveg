@@ -51,6 +51,16 @@
         
 </head>
 <body>
+    <nav class="main-nav">
+    <a href="/" class="nav-brand">SearchVeg</a>
+    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle navigation">☰</button>
+    <div class="nav-links" id="navLinks">
+        <a href="/">Search Recipes</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/privacy/">Privacy</a>
+    </div>
+</nav>
 <script>
     // PRELOAD THEME: Run immediately to prevent "flash of white"
     if(localStorage.getItem('theme') === 'dark') {
@@ -196,6 +206,16 @@
 </footer>
 
 <script>
+    // --- NAVIGATION LOGIC ---
+    const hamburgerBtn = document.getElementById('hamburgerBtn');
+    const navLinks = document.getElementById('navLinks');
+    
+    if(hamburgerBtn && navLinks) {
+        hamburgerBtn.addEventListener('click', function() {
+            navLinks.classList.toggle('active');
+            this.innerText = this.innerText === '☰' ? '✕' : '☰';
+        });
+    }
    // --- GLOBAL STATE ---
     let allRecipes = [];          
     let currentContext = [];      
