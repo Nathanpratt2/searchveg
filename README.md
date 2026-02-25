@@ -1,4 +1,4 @@
-# Vegsearch.com
+# SearchVeg.com
 
 A high-performance, minimal-maintenance discovery engine for new vegan recipes. This project is built with a "Creator First" philosophy, designed to send traffic directly to bloggers while remaining robust enough to rarely break.
 
