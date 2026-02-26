@@ -35,28 +35,23 @@ except ImportError:
 TOP_BLOGGERS = [
     ("PlantYou", "https://plantyou.com/feed/", ["WFPB"]),#html scrapping was not working
     ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
-    ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed", [], "wordpress"),#html scrapping was not working
+    ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed", []),#html scrapping was not working
     #permanent feed only above
     
-    ("The First Mess", "https://thefirstmess.com/feed/", []),
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/", []),
     ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/", []),
-    ("Lazy Cat Kitchen", "https://www.lazycatkitchen.com/feed/", []),
-    ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
+     ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
     ("From My Bowl", "https://frommybowl.com/feed/", []),
     ("A Virtual Vegan", "https://avirtualvegan.com/feed/", []),
-    ("Sarah's Vegan Kitchen", "https://sarahsvegankitchen.com/feed/", []),
     ("Make It Dairy Free", "https://makeitdairyfree.com/feed/", []),
     ("Full of Plants", "https://fullofplants.com/feed/", []),
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
     ("Plantifully Based", "https://plantifullybasedblog.com/feed/", []),
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
     ("Watch Learn Eat", "https://watchlearneat.com/feed/", ["Easy"]),
-    ("The Foodie Takes Flight", "https://thefoodietakesflight.com/feed/", ["Easy"]),
     ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
     ("Flora & Vino", "https://www.floraandvino.com/feed/", ["WFPB"]),
     ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/", []),
-    ("Plant Power Couple", "https://www.plantpowercouple.com/feed/", ["Easy"]),
     ("Rainbow Nourishments", "https://www.rainbownourishments.com/feed/", []),
     ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB"]),
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
@@ -66,16 +61,17 @@ DISRUPTORS = []
 
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
-    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 46, 52), [],"wordpress"),#Load more so unsure how many pages
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 53, 68), [], "squarespace"),#123 pages
-    ("HealthyGirl Kitchen", ("https://healthygirlkitchen.com/category/recipes/page/{}/", 1, 6), [], "wordpress"),#6 pages
-    ("The Plant-Based RD", ("https://plantbasedrdblog.com/category/blog-posts/page/{}/", 1 , 5), [], "wordpress"),#12 pages
-    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 13, 26), [], "wordpress"),#49 pages
-    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 5), ["Budget"], "wordpress"),#52 pages
-    ("Big Box Vegan", ("https://bigboxvegan.com/category/recipes/page/{}/", 8, 43), [], "wordpress"),#43 pages
-    ("Rabbit and Wolves", ("https://www.rabbitandwolves.com/category/vegan-entree-recipes/page/{}/", 11, 25), [], "wordpress"),#51 pages of entrees (first category so far)
-    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 13, 40), ["Easy", "GF"], "wordpress"), #280 pages
-    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 11, 21), ["Easy","GF"], "wordpress"), # GF only for now. she has others
+    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 53, 65), [],"wordpress"),#Load more so unsure how many pages
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 69, 90), [], "squarespace"),#123 pages
+    ("The First Mess", "https://thefirstmess.com/?s=+", [], "wordpress"),#all on one maybe? load more tricky
+    ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 1, 5), [], "wordpress"),#38 pages
+    ("The Plant-Based RD", ("https://plantbasedrdblog.com/category/blog-posts/page/{}/", 6, 8), [], "wordpress"),#12 pages
+    ("Sarah's Vegan Kitchen", ("https://sarahsvegankitchen.com/category/recipes/page/{}/", 1, 5), [], "wordpress"),#16 pages
+    ("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 1, 10), ["Easy"], "wordpress"),#42 pages
+    ("Plant Power Couple", ("https://www.plantpowercouple.com/page/{}/?s=+", 1, 10), ["Easy"], "wordpress"),#37 pages
+    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 27, 32), [], "wordpress"),#49 pages
+    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 6, 20), ["Budget"], "wordpress"),#52 pages
+    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 41, 55), ["Easy", "GF"], "wordpress"), #280 pages
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
@@ -83,10 +79,14 @@ HTML_SOURCES = [
     ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 1, 1), ["WFPB"], "wordpress"),#about 35 pages
     ("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 1), [], "wordpress"),#22 pages
     ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
+    ("Rabbit and Wolves", ("https://www.rabbitandwolves.com/category/vegan-entree-recipes/page/{}/", 1, 1), [], "wordpress"),#51 pages of entrees (first category so far)
     ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 1, 1), [], "squarespace"),#22 pages...worked last time
     ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#22 pages
     ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#65 pages
     ("Chef Bai", "https://www.chefbai.kitchen/blog", [], "wordpress"),
+    ("Big Box Vegan", ("https://bigboxvegan.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#43 pages
+    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 1, 1), ["Easy","GF"], "wordpress"), # GF only for now. she has others
+    ("HealthyGirl Kitchen", ("https://healthygirlkitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#6 pages
     ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 1, 2), [], "wordpress"),#not sure pages
     ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 1, 1), [], "wordpress"),#62 pages
     ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#45 pages
@@ -210,7 +210,7 @@ NON_RECIPE_KEYWORDS = [
     "class", "course", "ebook", "merch", "store", "shop", "announcement", "update", "news", 
     "contest", "winner", "promo", "discount", "coupon", "deal", "sale", "black friday", 
     "cyber monday", "top 10", "top 20", "5 best", "10 best", "15 best", "20 best", "33 vegan", 
-    "ways", "rpl", "going vegan", "my story", "journey", "life lately", "coffee talk", 
+    "ways", "rpl", "going vegan", "my story", "journey", "life lately", "coffee talk", "saturday sun", 
     "link love", "weekend reading", "batch cooking", "staples", "essentials", "substitutes",
     "101", "tutorial", "guide", "tips", "tricks", "faq", "policy", "terms", "privacy", 
     "contact", "about", "search", "sitemap", "neighbor", "law", "videos", "planning", 
