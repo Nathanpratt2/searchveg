@@ -34,35 +34,29 @@ except ImportError:
 
 TOP_BLOGGERS = [
     ("PlantYou", "https://plantyou.com/feed/", ["WFPB"]),#html scrapping was not working
+    ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
+    ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed", [], "wordpress"),#html scrapping was not working
     #permanent feed only above
+    
     ("The First Mess", "https://thefirstmess.com/feed/", []),
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/", []),
     ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/", []),
     ("Lazy Cat Kitchen", "https://www.lazycatkitchen.com/feed/", []),
     ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
     ("From My Bowl", "https://frommybowl.com/feed/", []),
-    ("Rabbit and Wolves", "https://www.rabbitandwolves.com/feed/", []),
-    ("Vegan Heaven", "https://veganheaven.org/feed/", []),
     ("The Hidden Veggies", "https://thehiddenveggies.com/feed/", ["Budget"]),
     ("A Virtual Vegan", "https://avirtualvegan.com/feed/", []),
     ("Sarah's Vegan Kitchen", "https://sarahsvegankitchen.com/feed/", []),
     ("Make It Dairy Free", "https://makeitdairyfree.com/feed/", []),
     ("HealthyGirl Kitchen", "https://healthygirlkitchen.com/feed/", []),
-    ("Big Box Vegan", "https://bigboxvegan.com/category/recipes/feed/", []),
     ("The Plant-Based RD", "https://plantbasedrdblog.com/feed/", []),
-]
-
-DISRUPTORS = [
     ("Full of Plants", "https://fullofplants.com/feed/", []),
-    ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
     ("Plantifully Based", "https://plantifullybasedblog.com/feed/", []),
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
     ("Watch Learn Eat", "https://watchlearneat.com/feed/", ["Easy"]),
-    ("Strength and Sunshine", "https://strengthandsunshine.com/feed/", ["Easy", "GF"]), # Will auto-tag GF
     ("The Foodie Takes Flight", "https://thefoodietakesflight.com/feed/", ["Easy"]),
     ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
-    ("The Conscious Plant Kitchen", "https://www.theconsciousplantkitchen.com/feed/", []),
     ("Flora & Vino", "https://www.floraandvino.com/feed/", ["WFPB"]),
     ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/", []),
     ("Plant Power Couple", "https://www.plantpowercouple.com/feed/", ["Easy"]),
@@ -73,31 +67,22 @@ DISRUPTORS = [
 
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
-    ("Jessica in the Kitchen", ("https://jessicainthekitchen.com/recipes/page/{}/", 2, 5), [], "wordpress"),#34 pages
-    ("Smitten Kitten", "https://smittenkitchen.com/page/1/", [], "wordpress"),#not sure 
-    ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
-    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 29, 34), [],"wordpress"),#Load more so unsure how many pages
-    ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 14, 22), [], "squarespace"),#22 pages...worked last time
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 21, 37), [], "squarespace"),#123 pages
-    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 2, 10), ["Easy","GF"]), # GF only for now. she has others
-    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 12, 24), ["WFPB"], "wordpress"),#about 35 pages
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/baked-cakes/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/bars-slices/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/breakfast/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/cookies/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/candy-fudge/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/drinks/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/ice-cream/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/pudding/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/no-bake/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/pies-tarts/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/sauce-frosting/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/savory/page/{}/", 1, 2), ["GF"], "wordpress"),
-("Unconventional Baker", ("https://www.unconventionalbaker.com/sweet-bread/page/{}/", 1, 2), ["GF"], "wordpress"),
-    
+    ("Smitten Kitten (Vegan Recipes)", "https://smittenkitchen.com/recipes/diet/vegan/", [], "wordpress"),#probably can only get this one page. Vegan recipes only
+    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 35, 45), [],"wordpress"),#Load more so unsure how many pages
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 38, 52), [], "squarespace"),#123 pages
+    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 2, 12), [], "wordpress"),#49 pages
+    ("Big Box Vegan", ("https://bigboxvegan.com/category/recipes/page/{}/", 2, 7), [], "wordpress"),#43 pages
+    ("Rabbit and Wolves", ("https://www.rabbitandwolves.com/category/vegan-entree-recipes/page/{}/", 1, 10), [], "wordpress"),#51 pages of entrees (first category so far)
+    ("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 5), [], "wordpress"),#22 pages
+    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 2, 12), ["Easy", "GF"], "wordpress"), #280 pages
+    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 2, 10), ["Easy","GF"], "wordpress"), # GF only for now. she has others
+    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 25, 35), ["WFPB"], "wordpress"),#about 35 pages
+        
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 1, 1), [], "wordpress"),#42 pages
+    ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
+    ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 1, 1), [], "squarespace"),#22 pages...worked last time
     ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#22 pages
     ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#65 pages
     ("Chef Bai", "https://www.chefbai.kitchen/blog", [], "wordpress"),
@@ -106,6 +91,7 @@ HTML_SOURCES = [
     ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#45 pages
     ("Elavegan", ("https://elavegan.com/category/recipe/page/{}/", 1, 1), ["GF"], "wordpress"), #51 pages
     ("Earth to Veg", "https://earthtoveg.com/page/1/?s=+", [], "wordpress"),#maxed out
+    ("Unconventional Baker", "https://www.unconventionalbaker.com/", ["GF"], "wordpress"),
     ("One Arab Vegan", ("https://www.onearabvegan.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#28 pages
     ("Love and Lemons (Vegan Recipes)", ("https://www.loveandlemons.com/category/recipes/vegan/page/{}/", 1, 1), [], "wordpress"),#75 or more pages
     ("Healthy Little Vittles", ("https://healthylittlevittles.com/page/{}/?s=+", 6, 10), ["GF"], "wordpress"), #17 pages
@@ -1007,7 +993,7 @@ except (FileNotFoundError, json.JSONDecodeError):
 # 2. Cleanse Database
 initial_count = len(recipes)
 # Remove specific requested blogs
-BLOGS_TO_REMOVE = ["Zacchary Bird", "The Full Helping"]
+BLOGS_TO_REMOVE = ["Smitten Kitten", "The Full Helping"]
 
 recipes = [
     r for r in recipes 
