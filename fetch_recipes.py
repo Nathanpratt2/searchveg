@@ -65,6 +65,8 @@ TOP_BLOGGERS = [
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
 ]
 
+DISRUPTORS = []
+
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
     ("Smitten Kitten (Vegan Recipes)", "https://smittenkitchen.com/recipes/diet/vegan/", [], "wordpress"),#probably can only get this one page. Vegan recipes only
