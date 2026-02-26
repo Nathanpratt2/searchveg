@@ -50,7 +50,6 @@ TOP_BLOGGERS = [
     ("HealthyGirl Kitchen", "https://healthygirlkitchen.com/feed/", []),
     ("Big Box Vegan", "https://bigboxvegan.com/category/recipes/feed/", []),
     ("The Plant-Based RD", "https://plantbasedrdblog.com/feed/", []),
-    ("NutritionFacts.org", "https://nutritionfacts.org/recipes/feed/", ["WFPB"])
 ]
 
 DISRUPTORS = [
@@ -68,41 +67,42 @@ DISRUPTORS = [
     ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/", []),
     ("Plant Power Couple", "https://www.plantpowercouple.com/feed/", ["Easy"]),
     ("Rainbow Nourishments", "https://www.rainbownourishments.com/feed/", []),
-    ("Veggiekins", "https://veggiekinsblog.com/feed/", ["Easy","GF"]), # Will auto-tag GF
     ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB"]),
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
 ]
 
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
-    ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 6, 22), ["Easy", "Budget"], "wordpress"),#22 pages
-    ("Jessica in the Kitchen", ("https://jessicainthekitchen.com/recipes/diet/vegan/page/{}/", 2, 5), [], "squarespace"),#34 pages
-    ("Smitten Kitten", "https://smittenkitchen.com/?s=%20", [], "wordpress"),#this is a search result page with all recipes worth a shot. try squarespace too then if not, try another page
-    ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 12, 23), ["Easy", "Budget"], "wordpress"),#65 pages
+    ("Jessica in the Kitchen", ("https://jessicainthekitchen.com/recipes/page/{}/", 2, 5), [], "wordpress"),#34 pages
+    ("Smitten Kitten", "https://smittenkitchen.com/page/1/", [], "wordpress"),#not sure 
+    ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
     ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 29, 34), [],"wordpress"),#Load more so unsure how many pages
-    ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 32, 35), [], "wordpress"),#62 pages
-    ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 8, 13), [], "squarespace"),#22 pages...worked last time
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 6, 20), [], "squarespace"),#123 pages
-    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 4, 11), ["WFPB"], "wordpress"),#about 35 pages
-    ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 16, 26), [], "wordpress"),#not sure pages
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/baked-cakes/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/bars-slices/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/breakfast/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/cookies/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/candy-fudge/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/drinks/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/ice-cream/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/pudding/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/no-bake/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/pies-tarts/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/sauce-frosting/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/savory/page/{}/", 1, 2), ["GF"], "wordpress"),
-    ("Unconventional Baker", ("https://www.unconventionalbaker.com/category/recipes/sweet-bread/page/{}/", 1, 2), ["GF"], "wordpress"), 
+    ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 14, 22), [], "squarespace"),#22 pages...worked last time
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 21, 37), [], "squarespace"),#123 pages
+    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 2, 10), ["Easy","GF"]), # GF only for now. she has others
+    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 12, 24), ["WFPB"], "wordpress"),#about 35 pages
+    ("Unconventional Baker", ("https://www.unconventionalbaker.com/baked-cakes/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/bars-slices/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/breakfast/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/cookies/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/candy-fudge/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/drinks/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/ice-cream/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/pudding/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/no-bake/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/pies-tarts/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/sauce-frosting/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/savory/page/{}/", 1, 2), ["GF"], "wordpress"),
+("Unconventional Baker", ("https://www.unconventionalbaker.com/sweet-bread/page/{}/", 1, 2), ["GF"], "wordpress"),
     
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 1, 1), [], "wordpress"),#42 pages
+    ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#22 pages
+    ("The Vegan 8", ("https://thevegan8.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#65 pages
     ("Chef Bai", "https://www.chefbai.kitchen/blog", [], "wordpress"),
+    ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 1, 2), [], "wordpress"),#not sure pages
+    ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 1, 1), [], "wordpress"),#62 pages
     ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#45 pages
     ("Elavegan", ("https://elavegan.com/category/recipe/page/{}/", 1, 1), ["GF"], "wordpress"), #51 pages
     ("Earth to Veg", "https://earthtoveg.com/page/1/?s=+", [], "wordpress"),#maxed out
