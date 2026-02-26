@@ -44,12 +44,9 @@ TOP_BLOGGERS = [
     ("Lazy Cat Kitchen", "https://www.lazycatkitchen.com/feed/", []),
     ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
     ("From My Bowl", "https://frommybowl.com/feed/", []),
-    ("The Hidden Veggies", "https://thehiddenveggies.com/feed/", ["Budget"]),
     ("A Virtual Vegan", "https://avirtualvegan.com/feed/", []),
     ("Sarah's Vegan Kitchen", "https://sarahsvegankitchen.com/feed/", []),
     ("Make It Dairy Free", "https://makeitdairyfree.com/feed/", []),
-    ("HealthyGirl Kitchen", "https://healthygirlkitchen.com/feed/", []),
-    ("The Plant-Based RD", "https://plantbasedrdblog.com/feed/", []),
     ("Full of Plants", "https://fullofplants.com/feed/", []),
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
     ("Plantifully Based", "https://plantifullybasedblog.com/feed/", []),
@@ -69,20 +66,22 @@ DISRUPTORS = []
 
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
-    ("Smitten Kitten (Vegan Recipes)", "https://smittenkitchen.com/recipes/diet/vegan/", [], "wordpress"),#probably can only get this one page. Vegan recipes only
-    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 35, 45), [],"wordpress"),#Load more so unsure how many pages
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 38, 52), [], "squarespace"),#123 pages
-    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 2, 12), [], "wordpress"),#49 pages
-    ("Big Box Vegan", ("https://bigboxvegan.com/category/recipes/page/{}/", 2, 7), [], "wordpress"),#43 pages
-    ("Rabbit and Wolves", ("https://www.rabbitandwolves.com/category/vegan-entree-recipes/page/{}/", 1, 10), [], "wordpress"),#51 pages of entrees (first category so far)
-    ("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 5), [], "wordpress"),#22 pages
-    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 2, 12), ["Easy", "GF"], "wordpress"), #280 pages
-    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 2, 10), ["Easy","GF"], "wordpress"), # GF only for now. she has others
-    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 25, 35), ["WFPB"], "wordpress"),#about 35 pages
+    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 46, 52), [],"wordpress"),#Load more so unsure how many pages
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 53, 68), [], "squarespace"),#123 pages
+    ("HealthyGirl Kitchen", ("https://healthygirlkitchen.com/category/recipes/page/{}/", 1, 6), [], "wordpress"),#6 pages
+    ("The Plant-Based RD", ("https://plantbasedrdblog.com/category/blog-posts/page/{}/", 1 , 5), [], "wordpress"),#12 pages
+    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 13, 26), [], "wordpress"),#49 pages
+    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 5), ["Budget"], "wordpress"),#52 pages
+    ("Big Box Vegan", ("https://bigboxvegan.com/category/recipes/page/{}/", 8, 43), [], "wordpress"),#43 pages
+    ("Rabbit and Wolves", ("https://www.rabbitandwolves.com/category/vegan-entree-recipes/page/{}/", 11, 25), [], "wordpress"),#51 pages of entrees (first category so far)
+    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 13, 40), ["Easy", "GF"], "wordpress"), #280 pages
+    ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 11, 21), ["Easy","GF"], "wordpress"), # GF only for now. she has others
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 1, 1), [], "wordpress"),#42 pages
+    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 1, 1), ["WFPB"], "wordpress"),#about 35 pages
+    ("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 1), [], "wordpress"),#22 pages
     ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
     ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 1, 1), [], "squarespace"),#22 pages...worked last time
     ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#22 pages
