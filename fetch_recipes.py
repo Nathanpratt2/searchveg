@@ -40,15 +40,11 @@ TOP_BLOGGERS = [
     
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/", []),
     ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/", []),
-     ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
-    ("A Virtual Vegan", "https://avirtualvegan.com/feed/", []),
     ("Make It Dairy Free", "https://makeitdairyfree.com/feed/", []),
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
-    ("Plantifully Based", "https://plantifullybasedblog.com/feed/", []),
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
     ("Watch Learn Eat", "https://watchlearneat.com/feed/", ["Easy"]),
     ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
-    ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/", []),
     ("Rainbow Nourishments", "https://www.rainbownourishments.com/feed/", []),
     ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB", "Budget"]),
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
@@ -57,22 +53,33 @@ TOP_BLOGGERS = [
 DISRUPTORS = []
 
 # --- DIRECT HTML SCRAPING SOURCES ---
+
 HTML_SOURCES = [
-    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 66, 72), [],"wordpress"),#Load more so unsure how many pages
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 91, 110), [], "squarespace"),#123 pages
-    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 2, 10), [], "wordpress"),#not sure how many
-    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 5), []),#12 pages
-    ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 6, 12), [], "wordpress"),#38 pages
-    ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 1, 5), [], "wordpress"),#35 pages
-    ("Flora & Vino", ("https://www.floraandvino.com/category/all-food-recipes/page/{}/", 2, 10), ["WFPB"], "wordpress"),#82 pages
-    ("Sarah's Vegan Kitchen", ("https://sarahsvegankitchen.com/category/recipes/page/{}/", 6, 16), [], "wordpress"),#16 pages
-    ("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 11, 26), ["Easy"], "wordpress"),#42 pages
-    ("Plant Power Couple", ("https://www.plantpowercouple.com/page/{}/?s=+", 11, 26), ["Easy"], "wordpress"),#37 pages
-    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 21, 35), ["Budget"], "wordpress"),#52 pages - i dont think its working maybe try square space and start over pages?
+
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 111, 123), [], "squarespace"),#123 pages
+    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 11, 20), [], "wordpress"),#not sure how many
+    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 5), [], "wordpress"),#12 pages
+    ("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 2, 5), [], "wordpress"),
+    ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 1, 5), [], "wordpress"),
+    ("Plantfully Based", ("https://plantfullybasedblog.com/breakfast/page/{}/", 1, 5), [], "wordpress"),
+    ("Plantfully Based", ("https://plantfullybasedblog.com/lunch/page/{}/", 1, 5), [], "wordpress"),
+    ("Plantfully Based", ("https://plantfullybasedblog.com/dinner/page/{}/", 1, 5), [], "wordpress"),
+    ("Plantfully Based", ("https://plantfullybasedblog.com/snacks/page/{}/", 1, 5), [], "wordpress"),
+    ("Plantfully Based", ("https://plantfullybasedblog.com/sweets/page/{}/", 1, 5), [], "wordpress"),
+    ("Plantfully Based", ("https://plantfullybasedblog.com/drinks/page/{}/", 1, 5), [], "wordpress"),
+    ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 6, 16), [], "wordpress"),#35 pages
+    ("A Virtual Vegan", ("https://avirtualvegan.com/category/archives/page/{}/", 1, 5), [], "wordpress"),#14 pages
+    ("Flora & Vino", ("https://www.floraandvino.com/category/all-food-recipes/page/{}/", 11, 20), ["WFPB"], "wordpress"),#82 pages
+    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 12), ["Budget"], "squarespace"),#52 pages - i dont think its working maybe try square space and start over pages?
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
+    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 1, 1), [],"wordpress"),#Load more so unsure how many pages
+    ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#38 pages
+    ("Sarah's Vegan Kitchen", ("https://sarahsvegankitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#16 pages
+    ("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#42 pages
     ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 1, 1), [], "wordpress"),#42 pages
+    ("Plant Power Couple", ("https://www.plantpowercouple.com/page/{}/?s=+", 1, 2), ["Easy"], "wordpress"),#37 pages
     ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 1, 1), ["WFPB"], "wordpress"),#about 35 pages
     ("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 1), [], "wordpress"),#22 pages
     ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
