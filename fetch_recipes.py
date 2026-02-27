@@ -41,19 +41,16 @@ TOP_BLOGGERS = [
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/", []),
     ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/", []),
      ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
-    ("From My Bowl", "https://frommybowl.com/feed/", []),
     ("A Virtual Vegan", "https://avirtualvegan.com/feed/", []),
     ("Make It Dairy Free", "https://makeitdairyfree.com/feed/", []),
-    ("Full of Plants", "https://fullofplants.com/feed/", []),
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
     ("Plantifully Based", "https://plantifullybasedblog.com/feed/", []),
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
     ("Watch Learn Eat", "https://watchlearneat.com/feed/", ["Easy"]),
     ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
-    ("Flora & Vino", "https://www.floraandvino.com/feed/", ["WFPB"]),
     ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/", []),
     ("Rainbow Nourishments", "https://www.rainbownourishments.com/feed/", []),
-    ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB"]),
+    ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB", "Budget"]),
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
 ]
 
@@ -61,17 +58,17 @@ DISRUPTORS = []
 
 # --- DIRECT HTML SCRAPING SOURCES ---
 HTML_SOURCES = [
-    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 53, 65), [],"wordpress"),#Load more so unsure how many pages
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 69, 90), [], "squarespace"),#123 pages
-    ("The First Mess", "https://thefirstmess.com/?s=+", [], "wordpress"),#all on one maybe? load more tricky
-    ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 1, 5), [], "wordpress"),#38 pages
-    ("The Plant-Based RD", ("https://plantbasedrdblog.com/category/blog-posts/page/{}/", 6, 8), [], "wordpress"),#12 pages
-    ("Sarah's Vegan Kitchen", ("https://sarahsvegankitchen.com/category/recipes/page/{}/", 1, 5), [], "wordpress"),#16 pages
-    ("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 1, 10), ["Easy"], "wordpress"),#42 pages
-    ("Plant Power Couple", ("https://www.plantpowercouple.com/page/{}/?s=+", 1, 10), ["Easy"], "wordpress"),#37 pages
-    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 27, 32), [], "wordpress"),#49 pages
-    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 6, 20), ["Budget"], "wordpress"),#52 pages
-    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 41, 55), ["Easy", "GF"], "wordpress"), #280 pages
+    ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 66, 72), [],"wordpress"),#Load more so unsure how many pages
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 91, 110), [], "squarespace"),#123 pages
+    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 2, 10), [], "wordpress"),#not sure how many
+    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 5), []),#12 pages
+    ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 6, 12), [], "wordpress"),#38 pages
+    ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 1, 5), [], "wordpress"),#35 pages
+    ("Flora & Vino", ("https://www.floraandvino.com/category/all-food-recipes/page/{}/", 2, 10), ["WFPB"], "wordpress"),#82 pages
+    ("Sarah's Vegan Kitchen", ("https://sarahsvegankitchen.com/category/recipes/page/{}/", 6, 16), [], "wordpress"),#16 pages
+    ("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 11, 26), ["Easy"], "wordpress"),#42 pages
+    ("Plant Power Couple", ("https://www.plantpowercouple.com/page/{}/?s=+", 11, 26), ["Easy"], "wordpress"),#37 pages
+    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 21, 35), ["Budget"], "wordpress"),#52 pages - i dont think its working maybe try square space and start over pages?
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
@@ -79,6 +76,9 @@ HTML_SOURCES = [
     ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 1, 1), ["WFPB"], "wordpress"),#about 35 pages
     ("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 1), [], "wordpress"),#22 pages
     ("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
+    ("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 1, 1), ["Easy", "GF"], "wordpress"), #280 pages
+    ("Vegan Heaven", ("https://veganheaven.org/category/all-recipes/page/{}/", 1, 1), [], "wordpress"),#49 pages
+    ("The Plant-Based RD", ("https://plantbasedrdblog.com/category/blog-posts/page/{}/", 1, 1), [], "wordpress"),#12 pages
     ("Rabbit and Wolves", ("https://www.rabbitandwolves.com/category/vegan-entree-recipes/page/{}/", 1, 1), [], "wordpress"),#51 pages of entrees (first category so far)
     ("Plant Baes", ("https://plantbaes.com/category/recipes/?_paged={}", 1, 1), [], "squarespace"),#22 pages...worked last time
     ("The Stingy Vegan", ("https://thestingyvegan.com/page/{}/?s=+", 1, 1), ["Easy", "Budget"], "wordpress"),#22 pages
