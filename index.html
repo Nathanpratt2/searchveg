@@ -872,16 +872,24 @@
         let wasSecretTriggered = false;
 
         const startPress = (e) => {
+            // Ignore right-clicks on desktop
+            if (e.button === 2) return; 
+
             wasSecretTriggered = false;
+            
             // Visual hint: slightly shrink the card while holding
-            card.style.transform = "scale(0.98)";
-            card.style.transition = "transform 7s linear"; 
+            card.style.transform = "scale(0.95)";
+            card.style.transition = "transform 7s ease-in"; 
 
             pressTimer = setTimeout(() => {
                 wasSecretTriggered = true;
                 if ("vibrate" in navigator) navigator.vibrate([100, 50, 100]); // Haptic feedback
-                window.open("https://www.justtherecipe.com/?url=" + recipe.link, "_blank");
-            }, 9000);
+                
+                // FIXED: Formatted the JustTheRecipe URL correctly
+                window.open("https://www.justtherecipe.com/?url=" + encodeURIComponent(recipe.link), "_blank");
+                
+                cancelPress(); // Reset the visual state once triggered
+            }, 7000);
         };
 
         const cancelPress = () => {
@@ -893,9 +901,16 @@
         // Attach listeners to the card
         card.addEventListener('mousedown', startPress);
         card.addEventListener('touchstart', startPress, {passive: true});
+        
+        // ALL the ways a press can end or be interrupted:
         card.addEventListener('mouseup', cancelPress);
         card.addEventListener('mouseleave', cancelPress);
         card.addEventListener('touchend', cancelPress);
+        
+        // NEW: Critical fixes for Mobile & Scrolling
+        card.addEventListener('touchcancel', cancelPress); // Stops timer if OS interrupts the touch
+        card.addEventListener('touchmove', cancelPress, {passive: true}); // Stops timer if user starts scrolling
+        card.addEventListener('contextmenu', cancelPress); // Stops timer if the native "Hold Menu" pops up
 
         // Prevent the standard link from opening if the secret long press was successful
         link.onclick = (e) => {
