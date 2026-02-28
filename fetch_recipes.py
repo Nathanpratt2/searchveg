@@ -54,10 +54,8 @@ DISRUPTORS = []
 
 HTML_SOURCES = [
 
-    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 21, 32), [], "wordpress"),#not sure how many
-    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 6, 9), [], "wordpress"),#12 pages
-    ("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 6, 10), [], "wordpress"),
-    ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 6, 17), [], "wordpress"),
+     ("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 11, 31), [], "wordpress"),
+    ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 18, 29), [], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/breakfast/page/{}/", 1, 2),[], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/cakes-and-cupcakes/page/{}/", 1, 2),[], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/candy-cookies-and-bars/page/{}/", 1, 2),[], "wordpress"),
@@ -67,19 +65,22 @@ HTML_SOURCES = [
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/puddingscustards-and-parfaits/page/{}/", 1, 2),[], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/savoury-dishes/page/{}/", 1, 2),[], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/snacks/page/{}/", 1, 2),"wordpress"),
-    ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 2, 10), ["Easy"], "wordpress"),#21
-    ("Plantfully Based", ("https://plantfullybasedblog.com/breakfast/page/{}/", 1, 5), [], "squarespace"),#testing swaurespace
-    ("Plantfully Based", ("https://plantfullybasedblog.com/lunch/page/{}/", 1, 5), [], "wordpress"),
+    ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 2, 10), ["Easy"], "squarespace"),#21
+    ("Justine Snacks", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 5),[], "wordpress"),
+("Pinch of Yum", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 1, 5),[], "wordpress"),
+("A Couple Cooks", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 5),[], "wordpress"),
+("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 1, 5),[], "wordpress"),
+("Ambitious Kitchen", ("https://www.ambitiouskitchen.com/recipe-index/?_sft_diettypes=vegan&sf_paged={}", 1, 5),[], "wordpress"),
+("Gimme Some Oven", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 5), "wordpress"),
     ("Plantfully Based", ("https://plantfullybasedblog.com/dinner/page/{}/", 1, 5), [], "wordpress"),
-    ("Plantfully Based", ("https://plantfullybasedblog.com/snacks/page/{}/", 1, 5), [], "wordpress"),
-    ("Plantfully Based", ("https://plantfullybasedblog.com/sweets/page/{}/", 1, 5), [], "wordpress"),
-    ("Plantfully Based", ("https://plantfullybasedblog.com/drinks/page/{}/", 1, 5), [], "wordpress"),
-    ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 17, 27), [], "wordpress"),#35 pages
-    ("A Virtual Vegan", ("https://avirtualvegan.com/category/archives/page/{}/", 6, 14), [], "wordpress"),#14 pages
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
+    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 1), [], "wordpress"),#12 pages
+        ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 1, 1), [], "wordpress"),#35 pages
+    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 1, 1), [], "wordpress"),#not sure how many
+        ("A Virtual Vegan", ("https://avirtualvegan.com/category/archives/page/{}/", 1, 1), [], "wordpress"),#14 pages
     ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 3), ["Budget"], "squarespace"),#52 pages #fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one
     ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 1, 1), [],"wordpress"),#Load more so unsure how many pages
     ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#38 pages
