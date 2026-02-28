@@ -1,10 +1,10 @@
 # Find Veg Dish (AI Context)
 
 ## Project Overview
-searchveg.com is a curated, real-time aggregator of high-quality plant-based, vegan, and gluten-free recipes. It actively monitors 106 distinct food blogs and chefs to provide a centralized feed of the latest vegan culinary content.
+searchveg.com is a curated, real-time aggregator of high-quality plant-based, vegan, and gluten-free recipes. It actively monitors 111 distinct food blogs and chefs to provide a centralized feed of the latest vegan culinary content.
 
 ## Dataset Statistics
-- **Total Recipes:** 16862
+- **Total Recipes:** 17522
 - **Last Updated:** 2026-02-28
 - **Content Types:** 100% Vegan. Includes Whole Food Plant Based (WFPB), Gluten-Free (GF), Budget-Friendly, and Easy/Quick recipes.
 
@@ -15,7 +15,7 @@ We aggregate content from verified sources including:
 - Pick Up Limes
 - Nora Cooks
 - Vegan Richa
-- And 101 others.
+- And 106 others.
 
 ## Schema & Structure
 Recipes are structured with:
