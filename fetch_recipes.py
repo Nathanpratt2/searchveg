@@ -41,8 +41,6 @@ TOP_BLOGGERS = [
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/", []),
     ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/", []),
     ("Make It Dairy Free", "https://makeitdairyfree.com/feed/", []),
-    ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/", []),
-    ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
     ("Watch Learn Eat", "https://watchlearneat.com/feed/", ["Easy"]),
     ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
     ("Rainbow Nourishments", "https://www.rainbownourishments.com/feed/", []),
@@ -56,26 +54,36 @@ DISRUPTORS = []
 
 HTML_SOURCES = [
 
-    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 111, 123), [], "squarespace"),#123 pages
-    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 11, 20), [], "wordpress"),#not sure how many
-    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 5), [], "wordpress"),#12 pages
-    ("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 2, 5), [], "wordpress"),
-    ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 1, 5), [], "wordpress"),
-    ("Plantfully Based", ("https://plantfullybasedblog.com/breakfast/page/{}/", 1, 5), [], "wordpress"),
+    ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 21, 32), [], "wordpress"),#not sure how many
+    ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 6, 9), [], "wordpress"),#12 pages
+    ("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 6, 10), [], "wordpress"),
+    ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 6, 17), [], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/breakfast/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/cakes-and-cupcakes/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/candy-cookies-and-bars/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/drinks/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/ice-cream-and-frozen-treats/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/pies-tarts-and-fruit-desserts/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/puddingscustards-and-parfaits/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/savoury-dishes/page/{}/", 1, 2),[], "wordpress"),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/snacks/page/{}/", 1, 2),
+    ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 2, 10), ["Easy"], "wordpress"),#21
+    ("Plantfully Based", ("https://plantfullybasedblog.com/breakfast/page/{}/", 1, 5), [], "squarespace"),#testing swaurespace
     ("Plantfully Based", ("https://plantfullybasedblog.com/lunch/page/{}/", 1, 5), [], "wordpress"),
     ("Plantfully Based", ("https://plantfullybasedblog.com/dinner/page/{}/", 1, 5), [], "wordpress"),
     ("Plantfully Based", ("https://plantfullybasedblog.com/snacks/page/{}/", 1, 5), [], "wordpress"),
     ("Plantfully Based", ("https://plantfullybasedblog.com/sweets/page/{}/", 1, 5), [], "wordpress"),
     ("Plantfully Based", ("https://plantfullybasedblog.com/drinks/page/{}/", 1, 5), [], "wordpress"),
-    ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 6, 16), [], "wordpress"),#35 pages
-    ("A Virtual Vegan", ("https://avirtualvegan.com/category/archives/page/{}/", 1, 5), [], "wordpress"),#14 pages
-    ("Flora & Vino", ("https://www.floraandvino.com/category/all-food-recipes/page/{}/", 11, 20), ["WFPB"], "wordpress"),#82 pages
-    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 12), ["Budget"], "squarespace"),#52 pages - i dont think its working maybe try square space and start over pages?
+    ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 17, 27), [], "wordpress"),#35 pages
+    ("A Virtual Vegan", ("https://avirtualvegan.com/category/archives/page/{}/", 6, 14), [], "wordpress"),#14 pages
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
+    ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
+    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 3), ["Budget"], "squarespace"),#52 pages #fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one
     ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 1, 1), [],"wordpress"),#Load more so unsure how many pages
     ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#38 pages
+    ("Flora & Vino", ("https://www.floraandvino.com/category/all-food-recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#82 pages
     ("Sarah's Vegan Kitchen", ("https://sarahsvegankitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#16 pages
     ("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#42 pages
     ("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 1, 1), [], "wordpress"),#42 pages
