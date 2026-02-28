@@ -867,6 +867,45 @@
         link.target = "_blank"; 
         link.rel = "noopener noreferrer";
 
+        // --- SECRET LONG PRESS LOGIC (7 SECONDS) ---
+        let pressTimer;
+        let wasSecretTriggered = false;
+
+        const startPress = (e) => {
+            wasSecretTriggered = false;
+            // Visual hint: slightly shrink the card while holding
+            card.style.transform = "scale(0.98)";
+            card.style.transition = "transform 7s linear"; 
+
+            pressTimer = setTimeout(() => {
+                wasSecretTriggered = true;
+                if ("vibrate" in navigator) navigator.vibrate([100, 50, 100]); // Haptic feedback
+                window.open("https://www.justtherecipe.com/?url=" + recipe.link, "_blank");
+            }, 7000);
+        };
+
+        const cancelPress = () => {
+            clearTimeout(pressTimer);
+            card.style.transform = "";
+            card.style.transition = "transform 0.2s";
+        };
+
+        // Attach listeners to the card
+        card.addEventListener('mousedown', startPress);
+        card.addEventListener('touchstart', startPress, {passive: true});
+        card.addEventListener('mouseup', cancelPress);
+        card.addEventListener('mouseleave', cancelPress);
+        card.addEventListener('touchend', cancelPress);
+
+        // Prevent the standard link from opening if the secret long press was successful
+        link.onclick = (e) => {
+            if (wasSecretTriggered) {
+                e.preventDefault();
+                wasSecretTriggered = false;
+            }
+        };
+        // ------------------------------------------
+
         const img = document.createElement('img');
         img.src = recipe.image;
         img.width = 400;
@@ -895,8 +934,6 @@
         const info = document.createElement('div');
         info.className = 'info';
 
-        // NEW TODAY LOGIC: Recalculate based on date vs NOW
-        // This ensures old saved recipes don't show "New Today"
         const recipeDate = new Date(recipe.date);
         const now = new Date();
         const hoursOld = (now - recipeDate) / (1000 * 3600);
@@ -936,14 +973,12 @@
             <div class="blogger">by ${displayBlogger}</div>
         `;
         
-        // HEART BUTTON
         const heartBtn = document.createElement('button');
         heartBtn.className = `action-btn heart-btn ${isSaved ? 'active' : ''}`;
         heartBtn.ariaLabel = isSaved ? "Unsave Recipe" : "Save Recipe";
         heartBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`;
         heartBtn.onclick = (e) => toggleSave(e, recipe.link);
 
-        // SHARE BUTTON
         const shareBtn = document.createElement('button');
         shareBtn.className = 'action-btn share-btn';
         shareBtn.ariaLabel = "Share Recipe";
@@ -952,7 +987,7 @@
 
         link.appendChild(img);
         link.appendChild(info);
-        card.appendChild(heartBtn); // Add Heart
+        card.appendChild(heartBtn); 
         card.appendChild(shareBtn);
         card.appendChild(link);
         
