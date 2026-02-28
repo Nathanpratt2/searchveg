@@ -66,7 +66,7 @@ HTML_SOURCES = [
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/pies-tarts-and-fruit-desserts/page/{}/", 1, 2),[], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/puddingscustards-and-parfaits/page/{}/", 1, 2),[], "wordpress"),
     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/savoury-dishes/page/{}/", 1, 2),[], "wordpress"),
-    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/snacks/page/{}/", 1, 2),
+    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/snacks/page/{}/", 1, 2),"wordpress"),
     ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 2, 10), ["Easy"], "wordpress"),#21
     ("Plantfully Based", ("https://plantfullybasedblog.com/breakfast/page/{}/", 1, 5), [], "squarespace"),#testing swaurespace
     ("Plantfully Based", ("https://plantfullybasedblog.com/lunch/page/{}/", 1, 5), [], "wordpress"),
