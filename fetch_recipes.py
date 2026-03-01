@@ -44,14 +44,13 @@ DISRUPTORS = []
 # --- DIRECT HTML SCRAPING SOURCES ---
 
 HTML_SOURCES = [
-   
-        ("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 11, 30), ["WFPB", "Budget"], "wordpress"),
-                ("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 17, 21), [], "wordpress"),
-      ("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 31, 50),[], "wordpress"),
-    ("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 6, 20), [], "wordpress"),
-        
+          
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
+        ("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
+            ("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
+          ("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
+                    ("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),
         ("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
      ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 1), [], "wordpress"),
         ("Pinch of Yum (Vegan Recipes)", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 1, 1),[], "wordpress"),
