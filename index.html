@@ -98,6 +98,16 @@
         .jiggle {
             animation: jiggle-violent 0.25s ease-in-out !important;
         }
+        /* NEW DICE ANIMATION */
+        @keyframes spin-bounce {
+            0% { transform: rotate(0deg) scale(1); }
+            50% { transform: rotate(380deg) scale(1.2); } /* pin fast & overshoot slightly */
+            75% { transform: rotate(340deg) scale(1.05); } /* bounce back */
+            100% { transform: rotate(360deg) scale(1); } /* catch itself */
+        }
+        .spin-anim svg {
+            animation: spin-bounce 0.8s ease-in-out !important;
+        }
     </style>
 
     <div class="search-row">
@@ -130,8 +140,8 @@
     <div class="controls">
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
         
-        <!-- SHUFFLE BUTTON MOVED HERE -->
-        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes" style="background: none; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0 8px; color: inherit;">
+        <!-- SHUFFLE BUTTON UPDATED -->
+        <button id="shuffleIconBtn" class="btn" onclick="shuffleRecipes()" title="Shuffle Recipes" style="color: #769F37; border-color: #769F37; display: inline-flex; align-items: center; justify-content: center; padding: 4px 10px;">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <!-- Arrowheads (Placed at the end of the lines) -->
   <polyline points="17 4 21 7 17 10" />
@@ -145,8 +155,9 @@
 </svg>
         </button>
 
-        <!-- SAVED BUTTON -->
-        <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
+        <!-- NEW DICE BUTTON -->
+        <button id="diceBtn" class="btn" onclick="rollDice()" title="Pick One For Me" style="color: #769F37; border-color: #769F37; display: inline-flex; align-items: center; justify-content: center; padding: 4px 10px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke
         
         <!-- NEW SHARE LIST BUTTON -->
         <button id="shareSavedBtn" class="btn" onclick="shareSavedList()" title="Share List" style="display:none;">
@@ -264,6 +275,7 @@
         "Find your favorite blogger",
         "⬇️ More Recipe Filters",
         "⬇️ Shuffle to mix it up",
+        "⬇️ Can't decide? Roll the dice!",
         "⬆️ Dark Mode: Press & hold logo",
         "💚 your favs for later",
         'Try, "One pot"',
@@ -569,8 +581,14 @@
         safeSetStorage(visitKey, visitData);
 
         if (visitData.count > 1) {
-            const btn = document.getElementById('shuffleIconBtn');
-            if (btn) btn.classList.add('jiggle');
+            const shuffleBtn = document.getElementById('shuffleIconBtn');
+            const diceBtn = document.getElementById('diceBtn');
+            if (shuffleBtn) shuffleBtn.classList.add('jiggle');
+            
+            // 1s later, spin the dice button to draw attention
+            setTimeout(() => {
+                if (diceBtn) diceBtn.classList.add('spin-anim');
+            }, 1000);
         }
     } catch (e) { console.error('Storage logic skipped', e); }
 
@@ -1155,6 +1173,33 @@
         renderedCount = 0;
         document.getElementById('gallery').innerHTML = '';
         renderNextBatch();
+    }
+
+    function rollDice() {
+        const btn = document.getElementById('diceBtn');
+        if (btn) {
+            btn.classList.remove('spin-anim');
+            void btn.offsetWidth; 
+            btn.classList.add('spin-anim');
+        }
+
+        document.activeElement.blur(); 
+        
+        // Wait 0.5s for the spin animation to play, then open recipe
+        setTimeout(() => {
+            let pool = currentContext;
+            
+            // Fallback: If current filters resulted in 0 recipes, pick from the full database
+            if (!pool || pool.length === 0) {
+                pool = allRecipes;
+            }
+            
+            if (pool && pool.length > 0) {
+                const randomIndex = Math.floor(Math.random() * pool.length);
+                const randomRecipe = pool[randomIndex];
+                window.open(randomRecipe.link, '_blank');
+            }
+        }, 500);
     }
 
     function toggleType(e, type) {
