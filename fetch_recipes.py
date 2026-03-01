@@ -217,7 +217,7 @@ NON_RECIPE_KEYWORDS = [
     "dining out", "where to eat", "city guide", "interview", "guest post", "workshop", 
     "class", "course", "ebook", "merch", "store", "shop", "announcement", "update", "news", 
     "contest", "winner", "promo", "discount", "coupon", "deal", "sale", "black friday", 
-    "cyber monday", "top 10", "10 , "22 ", "25 ", "list", "top 20", "5 best", "10 best", "15 best", "20 best", "33 vegan", 
+    "cyber monday", "top 10", "10" , "22 ", "25 ", "list", "top 20", "5 best", "10 best", "15 best", "20 best", "33 vegan", 
     "ways", "rpl", "going vegan", "my story", "journey", "life lately", "coffee talk", "saturday sun", 
     "link love", "weekend reading", "batch cooking", "staples", "essentials", "substitutes",
     "101", "tutorial", "guide", "tips", "tricks", "faq", "policy", "terms", "privacy", 
