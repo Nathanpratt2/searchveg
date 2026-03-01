@@ -1203,8 +1203,10 @@
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        const SAVORY_EXCEPTIONS = ['sweet potato', 'sweet and sour', 'sweet corn', 'sweet pea', 'sweet chili', 'sweet pepper'];
-        const SWEET_EXCEPTIONS = ['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut']; 
+        const SAVORY_EXCEPTIONS = ['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut', 'cheesecake factory', 'savory'
+                                'savoury', 'maple syrup', 'crispy', 'carmelized', 'pot pie', 'rice cake', 'tomato jam', 'pancake', 'pancakes',
+                                'sweet and salty', 'sweet corn', 'sweetcorn', 'sweet and sour', 'sweet corn', 'sweet pea', 'sweet chili', 'sweet pepper']; // Even if you see the word 'Sweet', keep it in the Meals
+        const SWEET_EXCEPTIONS = ['sweet potato', 'baked oatmeal', 'lemon load', 'biscoff', 'crumb bun', 'rum balls']; // Even if you see word that is savory, keep it in the Sweets, like a sweet potato brownie
 
         // 1. Determine Source (Main Feed or Saved Recipes)
         let filtered = [];
