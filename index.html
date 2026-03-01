@@ -121,14 +121,22 @@
             <!-- Placeholder set to empty to prevent flash before TypeWriter starts -->
             <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search">
             
+            <!-- NEW SEARCH ICON BUTTON (Hides when text is typed to not conflict with clear/share) -->
+            <button id="searchIconBtn" class="search-bar-btn" title="Search" aria-label="Search" style="color: #769F37;" onclick="document.getElementById('searchInput').focus()">
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </button>
+
             <!-- NEW SHARE BUTTON -->
-            <button id="shareSearchBtn" class="search-bar-btn" title="Share this search URL" aria-label="Share Search">
-    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
-        <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/>
-    </svg>
-</button>
+            <button id="shareSearchBtn" class="search-bar-btn" title="Share this search URL" aria-label="Share Search" style="display:none;">
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                    <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/>
+                </svg>
+            </button>
             
-            <button id="clearBtn" class="search-bar-btn" title="Clear Search">✕</button>
+            <button id="clearBtn" class="search-bar-btn" title="Clear Search" style="display:none;">✕</button>
         </div>
     </div>
 
@@ -137,7 +145,7 @@
         
         <!-- SHUFFLE BUTTON -->
         <button id="shuffleIconBtn" class="btn" onclick="shuffleRecipes()" title="Shuffle Recipes">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
                 <polyline points="17 4 21 7 17 10" />
                 <polyline points="17 14 21 17 17 20" />
                 <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
@@ -147,12 +155,19 @@
 
         <!-- PICK ONE FOR ME (DICE) BUTTON -->
         <button id="diceBtn" class="btn" onclick="rollDice()" title="Pick One For Me">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-                <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
-                <circle cx="8.5" cy="8.5" r="1.5"></circle>
-                <circle cx="15.5" cy="8.5" r="1.5"></circle>
-                <circle cx="15.5" cy="15.5" r="1.5"></circle>
-                <circle cx="8.5" cy="15.5" r="1.5"></circle>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+                <polygon points="12 2 2 7 12 12 22 7 12 2" fill="#88b542" stroke="#88b542"/>
+                <polygon points="2 7 2 17 12 22 12 12 2 7" fill="#62852d" stroke="#62852d"/>
+                <polygon points="22 7 22 17 12 22 12 12 22 7" fill="#769F37" stroke="#769F37"/>
+                <!-- Top Face: 1 -->
+                <circle cx="12" cy="7" r="1.5" fill="white" stroke="none"/>
+                <!-- Left Face: 2 -->
+                <circle cx="7" cy="12.5" r="1" fill="white" stroke="none"/>
+                <circle cx="7" cy="16.5" r="1" fill="white" stroke="none"/>
+                <!-- Right Face: 3 -->
+                <circle cx="15" cy="13.5" r="1" fill="white" stroke="none"/>
+                <circle cx="17" cy="14.5" r="1" fill="white" stroke="none"/>
+                <circle cx="19" cy="15.5" r="1" fill="white" stroke="none"/>
             </svg>
         </button>
 
@@ -1372,13 +1387,10 @@
                     return PROTEIN_KEYWORDS.some(k => t.includes(k));
                 }
                 
-                // Fuzzy Match on Title, Blog Name, and Tags
+               // Fuzzy Match on Title, Blog Name, and Tags
                 const title = recipe.title.toLowerCase().replace(/-/g, ' ');
                 const blogger = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
                 const tags = (recipe.special_tags ||
-
-        // 3. Apply Categories (Meal vs Sweet)
-        if (activeType === 'meal') {
             filtered = filtered.filter(recipe => {
                 const t = recipe.title.toLowerCase();
                 const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
