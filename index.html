@@ -1354,13 +1354,13 @@
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        const SAVORY_EXCEPTIONS = ['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut', 'cheesecake factory', 'savory'
+        const SAVORY_EXCEPTIONS =['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut', 'cheesecake factory', 'savory',
                                 'savoury', 'maple syrup', 'crispy', 'carmelized', 'pot pie', 'rice cake', 'tomato jam', 'pancake', 'pancakes',
                                 'sweet and salty', 'sweet corn', 'sweetcorn', 'sweet and sour', 'sweet corn', 'sweet pea', 'sweet chili', 'sweet pepper']; // Even if you see the word 'Sweet', keep it in the Meals
-        const SWEET_EXCEPTIONS = ['sweet potato', 'baked oatmeal', 'lemon load', 'biscoff', 'crumb bun', 'rum balls']; // Even if you see word that is savory, keep it in the Sweets, like a sweet potato brownie
+        const SWEET_EXCEPTIONS =['sweet potato', 'baked oatmeal', 'lemon load', 'biscoff', 'crumb bun', 'rum balls']; // Even if you see word that is savory, keep it in the Sweets, like a sweet potato brownie
 
         // 1. Determine Source (Main Feed or Saved Recipes)
-        let filtered = [];
+        let filtered =[];
         
         if (isSavedView) {
             // Source: localStorage Map (Sorted by Date Saved DESC)
@@ -1391,15 +1391,6 @@
                 const title = recipe.title.toLowerCase().replace(/-/g, ' ');
                 const blogger = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
                 const tags = (recipe.special_tags ||
-            filtered = filtered.filter(recipe => {
-                const t = recipe.title.toLowerCase();
-                const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
-                const hasSweetKeyword = SWEET_KEYWORDS.some(k => t.includes(k));
-                const isSavoryException = SAVORY_EXCEPTIONS.some(k => t.includes(k));
-                const isSide = t.includes('sauce') || t.includes('dressing') || t.includes('side') || t.includes('treats');
-                return hasMealKeyword && (!hasSweetKeyword || isSavoryException) && !isSide;
-            });
-        } else if (activeType === 'sweet') {
             filtered = filtered.filter(recipe => {
                 const t = recipe.title.toLowerCase();
                 const hasSweetKeyword = SWEET_KEYWORDS.some(k => t.includes(k));
