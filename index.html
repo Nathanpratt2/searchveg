@@ -68,60 +68,23 @@
     
     <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
     
-    <style>
-        .search-icon-btn {
-            position: absolute;
-            left: 12px;
-            top: 50%;
-            transform: translateY(-50%);
-            background: none;
-            border: none;
-            color: #888;
-            cursor: pointer;
-            padding: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        #searchInput {
-            padding-left: 44px !important;
-        }
-        /* 25% Faster & More Violent Shuffle Animation Override */
-        @keyframes jiggle-violent {
-            0% { transform: rotate(0deg) scale(1); }
-            20% { transform: rotate(-15deg) scale(1.15); }
-            40% { transform: rotate(15deg) scale(1.15); }
-            60% { transform: rotate(-15deg) scale(1.15); }
-            80% { transform: rotate(15deg) scale(1.15); }
-            100% { transform: rotate(0deg) scale(1); }
-        }
-        .jiggle {
-            animation: jiggle-violent 0.25s ease-in-out !important;
-        }
-        /* NEW DICE ANIMATION */
-        @keyframes spin-bounce {
-            0% { transform: rotate(0deg) scale(1); }
-            50% { transform: rotate(380deg) scale(1.2); } /* pin fast & overshoot slightly */
-            75% { transform: rotate(340deg) scale(1.05); } /* bounce back */
-            100% { transform: rotate(360deg) scale(1); } /* catch itself */
-        }
-        .spin-anim svg {
-            animation: spin-bounce 0.8s ease-in-out !important;
-        }
-    </style>
-
     <div class="search-row">
-        <div class="search-wrapper" style="width: 100%; flex: 1;">
+        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Arrowheads (Placed at the end of the lines) -->
+  <polyline points="17 4 21 7 17 10" />
+  <polyline points="17 14 21 17 17 20" />
+  
+  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
+  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
+  
+  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
+  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
+</svg>
+        </button>
+        
+        <div class="search-wrapper">
             <label for="searchInput" style="display:none;">Search Recipes</label>
-            
-            <!-- NEW MAGNIFYING GLASS BUTTON -->
-            <button id="searchTriggerBtn" class="search-icon-btn" title="Search" aria-label="Search" onclick="document.getElementById('searchInput').focus();">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="11" cy="11" r="8"></circle>
-                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                </svg>
-            </button>
-
             <!-- 5. INPUT UX: Input Mode and Enter Key Hint -->
             <!-- Placeholder set to empty to prevent flash before TypeWriter starts -->
             <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search">
@@ -139,25 +102,8 @@
 
     <div class="controls">
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
-        
-        <!-- SHUFFLE BUTTON UPDATED -->
-        <button id="shuffleIconBtn" class="btn" onclick="shuffleRecipes()" title="Shuffle Recipes" style="color: #769F37; border-color: #769F37; display: inline-flex; align-items: center; justify-content: center; padding: 4px 10px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Arrowheads (Placed at the end of the lines) -->
-  <polyline points="17 4 21 7 17 10" />
-  <polyline points="17 14 21 17 17 20" />
-  
-  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
-  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
-  
-  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
-  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
-</svg>
-        </button>
-
-        <!-- NEW DICE BUTTON -->
-        <button id="diceBtn" class="btn" onclick="rollDice()" title="Pick One For Me" style="color: #769F37; border-color: #769F37; display: inline-flex; align-items: center; justify-content: center; padding: 4px 10px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke
+        <!-- SAVED BUTTON -->
+        <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
         
         <!-- NEW SHARE LIST BUTTON -->
         <button id="shareSavedBtn" class="btn" onclick="shareSavedList()" title="Share List" style="display:none;">
@@ -274,8 +220,7 @@
         "Search: Pancakes, Blog, Tofu...",
         "Find your favorite blogger",
         "⬇️ More Recipe Filters",
-        "⬇️ Shuffle to mix it up",
-        "⬇️ Can't decide? Roll the dice!",
+        "⬅️ Shuffle to mix it up",
         "⬆️ Dark Mode: Press & hold logo",
         "💚 your favs for later",
         'Try, "One pot"',
@@ -581,14 +526,8 @@
         safeSetStorage(visitKey, visitData);
 
         if (visitData.count > 1) {
-            const shuffleBtn = document.getElementById('shuffleIconBtn');
-            const diceBtn = document.getElementById('diceBtn');
-            if (shuffleBtn) shuffleBtn.classList.add('jiggle');
-            
-            // 1s later, spin the dice button to draw attention
-            setTimeout(() => {
-                if (diceBtn) diceBtn.classList.add('spin-anim');
-            }, 1000);
+            const btn = document.getElementById('shuffleIconBtn');
+            if (btn) btn.classList.add('jiggle');
         }
     } catch (e) { console.error('Storage logic skipped', e); }
 
@@ -1173,33 +1112,6 @@
         renderedCount = 0;
         document.getElementById('gallery').innerHTML = '';
         renderNextBatch();
-    }
-
-    function rollDice() {
-        const btn = document.getElementById('diceBtn');
-        if (btn) {
-            btn.classList.remove('spin-anim');
-            void btn.offsetWidth; 
-            btn.classList.add('spin-anim');
-        }
-
-        document.activeElement.blur(); 
-        
-        // Wait 0.5s for the spin animation to play, then open recipe
-        setTimeout(() => {
-            let pool = currentContext;
-            
-            // Fallback: If current filters resulted in 0 recipes, pick from the full database
-            if (!pool || pool.length === 0) {
-                pool = allRecipes;
-            }
-            
-            if (pool && pool.length > 0) {
-                const randomIndex = Math.floor(Math.random() * pool.length);
-                const randomRecipe = pool[randomIndex];
-                window.open(randomRecipe.link, '_blank');
-            }
-        }, 500);
     }
 
     function toggleType(e, type) {
