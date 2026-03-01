@@ -68,23 +68,50 @@
     
     <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
     
+    <style>
+        .search-icon-btn {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: #888;
+            cursor: pointer;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #searchInput {
+            padding-left: 44px !important;
+        }
+        /* 25% Faster & More Violent Shuffle Animation Override */
+        @keyframes jiggle-violent {
+            0% { transform: rotate(0deg) scale(1); }
+            20% { transform: rotate(-15deg) scale(1.15); }
+            40% { transform: rotate(15deg) scale(1.15); }
+            60% { transform: rotate(-15deg) scale(1.15); }
+            80% { transform: rotate(15deg) scale(1.15); }
+            100% { transform: rotate(0deg) scale(1); }
+        }
+        .jiggle {
+            animation: jiggle-violent 0.25s ease-in-out !important;
+        }
+    </style>
+
     <div class="search-row">
-        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Arrowheads (Placed at the end of the lines) -->
-  <polyline points="17 4 21 7 17 10" />
-  <polyline points="17 14 21 17 17 20" />
-  
-  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
-  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
-  
-  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
-  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
-</svg>
-        </button>
-        
-        <div class="search-wrapper">
+        <div class="search-wrapper" style="width: 100%; flex: 1;">
             <label for="searchInput" style="display:none;">Search Recipes</label>
+            
+            <!-- NEW MAGNIFYING GLASS BUTTON -->
+            <button id="searchTriggerBtn" class="search-icon-btn" title="Search" aria-label="Search" onclick="document.getElementById('searchInput').focus();">
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </button>
+
             <!-- 5. INPUT UX: Input Mode and Enter Key Hint -->
             <!-- Placeholder set to empty to prevent flash before TypeWriter starts -->
             <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search">
@@ -102,6 +129,22 @@
 
     <div class="controls">
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
+        
+        <!-- SHUFFLE BUTTON MOVED HERE -->
+        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes" style="background: none; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0 8px; color: inherit;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Arrowheads (Placed at the end of the lines) -->
+  <polyline points="17 4 21 7 17 10" />
+  <polyline points="17 14 21 17 17 20" />
+  
+  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
+  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
+  
+  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
+  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
+</svg>
+        </button>
+
         <!-- SAVED BUTTON -->
         <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
         
@@ -220,7 +263,7 @@
         "Search: Pancakes, Blog, Tofu...",
         "Find your favorite blogger",
         "⬇️ More Recipe Filters",
-        "⬅️ Shuffle to mix it up",
+        "⬇️ Shuffle to mix it up",
         "⬆️ Dark Mode: Press & hold logo",
         "💚 your favs for later",
         'Try, "One pot"',
