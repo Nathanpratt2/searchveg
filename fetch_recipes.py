@@ -44,21 +44,22 @@ DISRUPTORS = []
 # --- DIRECT HTML SCRAPING SOURCES ---
 
 HTML_SOURCES = [
-    ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 4), [], "wordpress"),
-        ("Make It Dairy Free", ("https://makeitdairyfree.com/recipe-filter/?sf_paged={}", 6, 8), [], "wordpress"),#23
-        ("Rainbow Nourishments", ("https://www.rainbownourishments.com/page/{}/?s=+", 7, 15), [], "wordpress"),#27
-    ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 11, 21), ["Easy"], "wordpress"),#21..not working for squarespace
-        ("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 6, 10), ["WFPB", "Budget"], "wordpress"),
-                ("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 6, 16), [], "wordpress"),
-    ("Connoisseurus Veg", ("https://www.connoisseurusveg.com/category/entrees/page/{}/", 6, 10), [], "wordpress"),#28 
-    ("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 22, 30),[], "wordpress"),
-    ("Pinch of Yum (Vegan Recipes)", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 12, 22),[], "wordpress"),
-    ("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 17, 27),[], "wordpress"),
-    ("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 5), [], "wordpress"),
+   
+        ("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 11, 30), ["WFPB", "Budget"], "wordpress"),
+                ("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 17, 21), [], "wordpress"),
+      ("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 31, 50),[], "wordpress"),
+    ("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 6, 20), [], "wordpress"),
         
     # --- MAXED OUT SoURCES BELOW ---
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
+        ("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
+     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 1), [], "wordpress"),
+        ("Pinch of Yum (Vegan Recipes)", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 1, 1),[], "wordpress"),
     ("Watch Learn Eat", ("https://watchlearneat.com/vegan-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#6
+        ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 1, 1), ["Easy"], "wordpress"),#21..not working for squarespace
+            ("Make It Dairy Free", ("https://makeitdairyfree.com/recipe-filter/?sf_paged={}", 1, 1), [], "wordpress"),#23
+            ("Rainbow Nourishments", ("https://www.rainbownourishments.com/page/{}/?s=+", 1, 1), [], "wordpress"),#27
+      ("Connoisseurus Veg", ("https://www.connoisseurusveg.com/category/entrees/page/{}/", 1, 1), [], "wordpress"),#28 
         ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 1, 1), [], "wordpress"),
             ("Holistic Chef Academy", ("https://holisticchefacademy.com/page/{}/?s=+", 1, 1), [], "wordpress"),#6
     ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
@@ -119,7 +120,6 @@ HTML_SOURCES = [
     ("VegNews", ("https://vegnews.com/recipes/page/{}/", 1, 1), [], "wordpress"),#maybe infinite pages lol
     ("Sweet Simple Vegan", "https://sweetsimplevegan.com/recipes/page/1/", [], "wordpress"),#maxed out recipes
     ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 1, 1), [], "wordpress"),#70 pages, input as a range
-    ("Gaz Oakley", "https://www.gazoakleychef.com/recipes/?sf_paged=1", [], "wordpress"), #maxed out
     ("The Cheap Lazy Vegan", ("https://thecheaplazyvegan.com/blog/page/{}/", 1, 1), ["Budget", "Easy"], "wordpress"),#62 pages
     ("It Doesn't Taste Like Chicken", "https://itdoesnttastelikechicken.com/recipe-index/", [], "wordpress"),#ma
     ("The Post-Punk Kitchen", "https://www.theppk.com/", [], "wordpress"),#should get all of their recipes with this special link
