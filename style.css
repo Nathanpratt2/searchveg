@@ -49,42 +49,12 @@
             margin-bottom: 25px;
         }
         
-        .logo-link {
-            display: inline-block;
-            cursor: pointer;
-            text-decoration: none;
-            border: none;
-            background: none;
-            /* Disable user select to prevent highlighting during long press */
-            user-select: none; 
-            -webkit-user-select: none;
-            -webkit-touch-callout: none;
-        }
-
-        .logo-img {
-            max-width: 90%;
-            width: 350px;
-            height: auto;
-            display: block;
-            margin: 0 auto 3px auto;
-            transition: transform 0.2s;
-            border-radius: 12px; /* Smooth corners in case it's a JPG in dark mode */
-        }
-        
-        body.dark-mode .logo-img {
-            filter: brightness(0.9); /* Slightly dim logo in dark mode */
-        }
-        
-        .logo-link:active .logo-img {
-            transform: scale(0.98); 
-        }
-        
         .sub-intro {
             text-align: center;
             font-size: 0.9em;
             font-weight: 400;
             color: var(--text-muted); 
-            margin: -5px 0 15px 0; 
+            margin: 0 0 15px 0; 
             line-height: 1.5;
         }
 
@@ -687,23 +657,43 @@
 /* --- GLOBAL NAVIGATION --- */
 .main-nav {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    gap: 25px; /* Spaces out the logo and links next to each other */
     padding: 15px 20px;
     background-color: var(--card-bg);
     box-shadow: 0 2px 5px var(--shadow-color);
-    margin: -20px -20px 25px -20px; /* Counteracts the body padding to touch edges */
+    margin: -20px -20px 25px -20px; /* Counteracts body padding to stretch full width */
     position: sticky;
     top: 0;
     z-index: 1000;
 }
 
-.nav-brand {
-    font-weight: 700;
-    color: var(--accent-color);
+.nav-brand-link {
+    display: flex;
+    align-items: center;
     text-decoration: none;
-    font-size: 1.4em;
-    letter-spacing: -0.5px;
+    flex-shrink: 0;
+    
+    /* Safeties for your dark mode long-press script */
+    user-select: none; 
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+.nav-logo {
+    height: 40px; /* Properly scales the logo to fit inline with text */
+    width: auto;
+    display: block;
+    border-radius: 4px;
+    transition: transform 0.2s;
+}
+
+body.dark-mode .nav-logo {
+    filter: brightness(0.9);
+}
+
+.nav-brand-link:active .nav-logo {
+    transform: scale(0.98); 
 }
 
 .nav-links {
@@ -713,15 +703,24 @@
 }
 
 .nav-links a {
-    text-decoration: none;
-    color: var(--text-color);
+    text-decoration: none !important;
+    color: var(--text-color) !important;
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    font-size: 0.95em;
-    transition: color 0.2s;
+    font-size: 16px;
+    transition: color 0.2s, border-bottom 0.2s;
+    padding-bottom: 4px; /* Spacing for the active line */
+    border-bottom: 2px solid transparent; 
 }
 
 .nav-links a:hover {
-    color: var(--accent-color);
+    color: var(--accent-color) !important;
+}
+
+/* Active State green underline */
+.nav-links a.active-nav {
+    color: var(--accent-color) !important;
+    border-bottom: 2px solid var(--accent-color);
 }
 
 .hamburger {
@@ -732,15 +731,19 @@
     cursor: pointer;
     color: var(--text-color);
     padding: 0;
+    margin-left: auto; /* Pushes the menu icon to the far right on mobile */
 }
 
 /* Mobile Nav Styles */
 @media (max-width: 768px) {
+    .main-nav {
+        justify-content: flex-start;
+    }
     .hamburger {
         display: block;
     }
     .nav-links {
-        display: none; /* Hidden by default on mobile */
+        display: none;
         flex-direction: column;
         position: absolute;
         top: 100%;
@@ -753,29 +756,6 @@
         border-top: 1px solid var(--input-border);
     }
     .nav-links.active {
-        display: flex; /* Shown when hamburger is clicked */
+        display: flex; 
     }
-}
-/* --- FIX FOR NAVBAR LOGO --- */
-.nav-brand-link {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-}
-
-.nav-logo {
-    width: 116px; /* Exactly 1/3 of the original 350px size */
-    height: auto;
-    display: block;
-    border-radius: 4px; /* Optional: smooths the edges slightly */
-}
-
-/* Fixes the ugly blue/purple link colors */
-.nav-links a {
-    text-decoration: none !important;
-    color: var(--text-color) !important;
-}
-
-.nav-links a:hover {
-    color: var(--accent-color) !important;
 }
