@@ -4,40 +4,148 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About SearchVeg</title>
-    <link rel="stylesheet" href="/style.css">
+    
+    <!-- Link to the main stylesheet (../ goes up one level) -->
+    <link rel="stylesheet" href="../style.css?v=1.3">
+    
+    <link rel="icon" href="../logo.png" type="image/png">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- THE NEW NAVIGATION -->
-    <nav class="main-nav">
-    <a href="/" class="nav-brand-link">
-        <!-- Notice the / in front of default.png so it works on all pages -->
-        <img src="/default.png" alt="SearchVeg Logo" class="nav-logo">
+
+<script>
+    // PRELOAD THEME: Run immediately to prevent "flash of white"
+    if(localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark-mode');
+    }
+</script>
+
+<!-- NAVIGATION BAR -->
+<nav class="main-nav">
+    <h1 class="sr-only">About SearchVeg</h1>
+    
+    <a href="../index.html" class="nav-brand-link logo-link" title="Home">
+        <!-- Image source points up one level with ../ -->
+        <img src="../default.png" alt="SearchVeg Logo" class="nav-logo" fetchpriority="high" decoding="async">
     </a>
-    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle navigation">☰</button>
+    
     <div class="nav-links" id="navLinks">
-        <a href="/">Search Recipes</a>
-        <a href="/blog/">Blog</a>
-        <a href="/about/">About</a>
-        <a href="/privacy/">Privacy</a>
-    </div>
-</nav>
-    <div style="padding: 50px; text-align: center;">
-        <h1>About SearchVeg</h1>
-        <p>This page is currently under construction!</p>
-        <a href="/">Go back to the search engine</a>
+        <a href="../index.html">Find a Recipe</a>
+        <a href="../blog/">Blog</a>
+        <!-- "About" is now the active link -->
+        <a href="#" class="active-nav">About</a>
+        <a href="../privacy/">Privacy</a>
     </div>
 
-    <!-- THE JAVASCRIPT FOR THE MOBILE MENU -->
-    <script>
-        const hamburgerBtn = document.getElementById('hamburgerBtn');
-        const navLinks = document.getElementById('navLinks');
+    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle Menu">☰</button>
+</nav>
+
+<!-- MAIN CONTENT CONTAINER -->
+<main style="max-width: 800px; margin: 0 auto; padding: 20px;">
+    
+    <!-- Hero Section -->
+    <section style="text-align: center; margin-bottom: 40px;">
+        <h1 style="font-size: 2.5em; margin-bottom: 10px; color: var(--accent-color);">About SearchVeg</h1>
+        <p style="font-size: 1.1em; color: var(--text-muted);">The search engine dedicated to plant-based cooking.</p>
+    </section>
+
+    <!-- Content Card -->
+    <article class="card" style="padding: 40px; cursor: default; height: auto;">
         
-        if(hamburgerBtn && navLinks) {
-            hamburgerBtn.addEventListener('click', function() {
-                navLinks.classList.toggle('active');
-                this.innerText = this.innerText === '☰' ? '✕' : '☰';
-            });
+        <h2 style="color: var(--text-color);">Why SearchVeg?</h2>
+        <p style="line-height: 1.8; color: var(--text-color);">
+            Finding a good vegan recipe shouldn't be hard. Traditional search engines are often cluttered with ads, long life stories, and SEO-optimized fluff that buries the actual food. 
+        </p>
+        <p style="line-height: 1.8; color: var(--text-color);">
+            <strong>SearchVeg</strong> is different. We have indexed thousands of recipes from over 100 of the world's best plant-based bloggers. We strip away the noise and give you powerful filters to find exactly what you need—whether that's a <em>High Protein</em> dinner, a <em>Gluten-Free</em> dessert, or a <em>Budget-Friendly</em> meal.
+        </p>
+
+        <hr style="border: 0; border-top: 1px solid var(--input-border); margin: 30px 0;">
+
+        <h2 style="color: var(--text-color);">Support the Creators</h2>
+        <p style="line-height: 1.8; color: var(--text-color);">
+            This platform acts as a gateway. When you click a recipe, you are taken directly to the creator's website. We believe in supporting the bloggers who spend hours testing and photographing these delicious meals. 
+        </p>
+
+        <hr style="border: 0; border-top: 1px solid var(--input-border); margin: 30px 0;">
+
+        <h2 style="color: var(--text-color);">Features</h2>
+        <ul style="line-height: 1.8; color: var(--text-color); padding-left: 20px;">
+            <li><strong>Smart Filters:</strong> Sort by cuisine, mood, or diet type.</li>
+            <li><strong>Strict Search:</strong> Type a blogger's name (like "Rainbow Plant Life") to see only their recipes.</li>
+            <li><strong>Saved Recipes:</strong> Heart your favorites to build your own personal cookbook.</li>
+            <li><strong>Dark Mode:</strong> Easy on the eyes for late-night cooking planning.</li>
+        </ul>
+
+    </article>
+
+    <!-- Contact / Footer Area -->
+    <div style="text-align: center; margin-top: 50px; color: var(--text-muted);">
+        <p>Built with 🌱 by a fellow vegan foodie.</p>
+        <p style="margin-top: 10px;">
+            <a href="../index.html" class="btn" style="display: inline-flex; text-decoration: none; justify-content: center;">Start Searching</a>
+        </p>
+    </div>
+
+</main>
+
+<script>
+    // MOBILE MENU LOGIC
+    const hamburgerBtn = document.getElementById('hamburgerBtn');
+    const navLinks = document.getElementById('navLinks');
+    
+    if(hamburgerBtn && navLinks) {
+        hamburgerBtn.addEventListener('click', function() {
+            navLinks.classList.toggle('active');
+            this.innerText = this.innerText === '☰' ? '✕' : '☰';
+        });
+    }
+
+    // DARK MODE TOGGLE (Logo Long Press)
+    let pressTimer;
+    let isLongPress = false;
+    const logoLink = document.querySelector('.logo-link');
+
+    function toggleDarkMode() {
+        document.body.classList.toggle('dark-mode');
+        if("vibrate" in navigator) navigator.vibrate(50);
+        if(document.body.classList.contains('dark-mode')) {
+            localStorage.setItem('theme', 'dark');
+        } else {
+            localStorage.removeItem('theme');
         }
-    </script>
+    }
+
+    function startPress(e) {
+        isLongPress = false;
+        pressTimer = setTimeout(() => {
+            isLongPress = true;
+            toggleDarkMode();
+        }, 1000); 
+    }
+
+    function cancelPress() {
+        clearTimeout(pressTimer);
+    }
+
+    if(logoLink) {
+        logoLink.addEventListener('mousedown', startPress);
+        logoLink.addEventListener('touchstart', startPress);
+        logoLink.addEventListener('mouseup', cancelPress);
+        logoLink.addEventListener('mouseleave', cancelPress);
+        logoLink.addEventListener('touchend', cancelPress);
+        logoLink.addEventListener('click', (e) => {
+            if(isLongPress) {
+                e.preventDefault();
+                isLongPress = false; 
+            }
+        });
+    }
+</script>
+
 </body>
 </html>
