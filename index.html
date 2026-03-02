@@ -69,11 +69,20 @@
     <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
     
     <div class="search-row">
-        <div class="search-wrapper">
+        <div class="search-wrapper" style="position: relative;">
             <label for="searchInput" style="display:none;">Search Recipes</label>
+            
+            <!-- NEW LEFT MAGNIFYING GLASS BUTTON -->
+            <button id="searchLeftIcon" aria-label="Search Focus" style="position: absolute; left: 14px; top: 50%; transform: translateY(-50%); background: none; border: none; color: #769F37; padding: 0; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 2;" onclick="document.getElementById('searchInput').focus()">
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </button>
+
             <!-- 5. INPUT UX: Input Mode and Enter Key Hint -->
             <!-- Placeholder set to empty to prevent flash before TypeWriter starts -->
-            <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search">
+            <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search" style="padding-left: 42px;">
             
             <!-- NEW SHARE BUTTON -->
             <button id="shareSearchBtn" class="search-bar-btn" title="Share this search URL" aria-label="Share Search">
