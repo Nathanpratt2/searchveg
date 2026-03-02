@@ -47,7 +47,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1.1">
+    <link rel="stylesheet" href="style.css?v=1.2">
         
 </head>
 <body>
@@ -1139,19 +1139,30 @@
     }
 
     function feelingLucky() {
-        // Visual feedback
         const btn = document.getElementById('luckyBtn');
-        if(btn) {
-            btn.style.transform = "scale(0.95)";
-            setTimeout(() => btn.style.transform = "scale(1)", 150);
-        }
-
+        
         // Pick from current filters if active, otherwise all recipes
         const pool = (currentContext && currentContext.length > 0) ? currentContext : allRecipes;
         if(pool.length === 0) return;
 
         const randomRecipe = pool[Math.floor(Math.random() * pool.length)];
-        window.open(randomRecipe.link, '_blank');
+
+        if (btn) {
+            // Prevent spam-clicking while animating
+            if (btn.classList.contains('spin-catch')) return;
+            
+            // 1. Add the animation class
+            btn.classList.add('spin-catch');
+            
+            // 2. Wait 0.5 seconds (duration of CSS animation) before loading
+            setTimeout(() => {
+                btn.classList.remove('spin-catch'); // Reset for next click
+                window.open(randomRecipe.link, '_blank');
+            }, 500); 
+        } else {
+            // Fallback if button somehow isn't found
+            window.open(randomRecipe.link, '_blank');
+        }
     }
 
     function toggleType(e, type) {
