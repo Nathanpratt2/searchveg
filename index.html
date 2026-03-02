@@ -328,7 +328,7 @@
     };
 
     // --- KEYWORDS ---
-    const SWEET_KEYWORDS = ['cookie', 'cake', 'brownie', 'chocolate', 'dessert', 'pie', 'tart', 'muffin', 'donut', 'doughnut', 'ice cream', 'pudding', 'cheesecake', 'sweet', 'fudge', 'truffle', 'bar', 'cupcake', 'blondie', 'galette', 'cobbler', 'mousse', 'cinnamon roll', 'scone', 'waffle', 'pancake', 'crumble', 'crisp', 'pastry', 'sorbet', 'macaron', 'frosting', 'caramel', 'candy', 'crepe', 'baklava', 'churro', 'snickerdoodle', 'shortbread', 'biscotti', 'syrup', 'flan', 'jam', 'jelly', 'marshmallow', 'eclair', 'brittle', 'gelato'];
+    const SWEET_KEYWORDS = ['cookie', 'cake', 'brownie', 'chocolate', 'dessert', 'pie', 'tart', 'muffin', 'donut', 'doughnut', 'ice cream', 'pudding', 'cheesecake', 'sweet', 'fudge', 'truffle', 'bar', 'cupcake', 'blondie', 'galette', 'cobbler', 'mousse', 'cinnamon roll', 'scone', 'waffle', 'pancake', 'crumble', 'pastry', 'sorbet', 'macaron', 'frosting', 'caramel', 'candy', 'crepe', 'baklava', 'churro', 'snickerdoodle', 'shortbread', 'biscotti', 'syrup', 'flan', 'jam', 'jelly', 'marshmallow', 'eclair', 'brittle', 'gelato'];
     
     const MEAL_KEYWORDS = ['pasta', 'burger', 'curry', 'soup', 'stew', 'taco', 'pizza', 'sandwich', 'wrap', 'salad', 'bowl', 'rice', 'noodle', 'stir fry', 'lasagna', 'casserole', 'tofu', 'tempeh', 'lentil', 'chickpea', 'potato', 'dinner', 'lunch', 'breakfast', 'roast', 'chili', 'shepherd', 'risotto', 'gnocchi', 'quiche', 'chowder', 'jackfruit', 'cauliflower', 'enchilada', 'burrito', 'quesadilla', 'mac and cheese', 'mac & cheese', 'dumpling', 'meatball', 'loaf', 'skillet', 'gratin', 'pad thai', 'ramen', 'bake', 'frittata', 'omelet', 'hash', 'sliders', 'scramble', 'toast', 'nuggets', 'wings', 'tenders', 'skewer', 'kebab', 'kabob', 'bites', 'tots', 'fries', 'broth', 'stuffed', 'empanada', 'arepa', 'tapas', 'paella', 'fajita'];
     
@@ -1254,13 +1254,13 @@
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        // --- OVERHAULED EXCEPTIONS FOR MEALS VS SWEETS ---
+        // --- EXCEPTIONS FOR MEALS VS SWEETS ---
         
         // 1. FALSE SWEETS: Words that trigger "sweet" keywords but are actually savory meals
         const FALSE_SWEETS_IN_MEALS =[
             'sweet potato', 'sweet & sour', 'sweet and sour', 'sweet corn', 'sweet pea', 
-            'sweet chili', 'sweet pepper', 'sweet onion', 'pot pie', "shepherd's pie", 
-            'potato cake', 'rice cake', 'fish cake', 'crab cake', 'scallion pancake', 
+            'sweet chili', 'sweet pepper', 'sweet onion', 'pot pie', "shepherd's pie", "chicken pot pie",
+            'potato cake', 'rice cake', 'fish cake', 'crab cake', 'scallion pancake', 'crab cakes'.
             'english muffin', 'savory muffin', 'cornbread', 'unsweetened', 'semi-sweet'
         ];
 
@@ -1279,9 +1279,9 @@
         // 3. STRICT SAVORY: Words that unequivocally mean "Savory" and should NEVER be in Sweets.
         const STRICT_SAVORY =[
             'savory', 'garlic', 'onion', 'bbq', 'barbecue', 'mushroom', 'tomato', 'curry', 
-            'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 
-            'quesadilla', 'enchilada', 'casserole', 'scramble', 'pesto', 'hummus', 'nacho', 
-            'fries', 'skewer', 'kebab', 'roasted', 'parmesan', 'alfredo', 'marinara', 
+            'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 'pot pie',
+            'quesadilla', 'enchilada', 'casserole', 'scramble', 'pesto', 'hummus', 'nacho', 'sprouts',
+            'fries', 'skewer', 'kebab', 'roasted', 'parmesan', 'alfredo', 'marinara', 'crab', 'chicken',
             'meatball', 'sausage', 'lasagna', 'risotto', 'shepherd', 'pad thai', 'salad', 'wrap'
         ];
 
