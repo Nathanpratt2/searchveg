@@ -167,8 +167,8 @@
             right: 12px;
         }
 
-        /* --- SHUFFLE BUTTON --- */
-        #shuffleIconBtn {
+        /* --- SHUFFLE & LUCKY BUTTONS --- */
+        #shuffleIconBtn, #luckyBtn {
             width: 48px;
             height: 48px;
             border-radius: 50%; 
@@ -183,11 +183,11 @@
             flex-shrink: 0;
             box-shadow: 0 2px 5px rgba(0,0,0,0.05);
         }
-        #shuffleIconBtn:active {
+        #shuffleIconBtn:active, #luckyBtn:active {
             transform: scale(0.95);
         }
         @media (hover: hover) {
-            #shuffleIconBtn:hover {
+            #shuffleIconBtn:hover, #luckyBtn:hover {
                 background-color: var(--accent-color);
                 border-color: var(--accent-color); 
                 color: white;
