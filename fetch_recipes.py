@@ -36,7 +36,6 @@ TOP_BLOGGERS = [
     ("PlantYou", "https://plantyou.com/feed/", ["WFPB"]),#html scrapping was not working
     ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
     ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed", []),#html scrapping was not working
-
     ("Justine Cooks Vegan", "https://justinecooksvegan.com/feed/",[]),
     ("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/feed/",[]),
     ("Yup It's Vegan", "https://yupitsvegan.com/feed/",[]),
@@ -44,7 +43,16 @@ TOP_BLOGGERS = [
     ("Gimme Some Oven (Vegan Recipes)", "https://www.gimmesomeoven.com/dietary/vegan/feed/",[]),
     ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB", "Budget"]),
     ("Justine Snacks (Vegan Recipes)", "https://justinesnacks.com/category/special-diets/vegan/feed/", []),
-    #permanent feed only above
+    ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/",[]),
+    ("A Couple Cooks (Vegan Recipes)", "https://www.acouplecooks.com/tag/vegan/feed/",[]),
+    ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/",[]),
+    ("Pinch of Yum (Vegan Recipes)", "https://pinchofyum.com/recipes/vegan/feed", []),
+    ("Watch Learn Eat", "https://watchlearneat.com/vegan-recipes/feed/", ["Easy"]), 
+    ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
+    ("Make It Dairy Free", "https://makeitdairyfree.com/feed/",[]), 
+    ("Rainbow Nourishments", "https://www.rainbownourishments.com/feed/",[]), 
+    ("Connoisseurus Veg", "https://www.connoisseurusveg.com/feed/",[]),
+    ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/",[]),
 ]
 
 DISRUPTORS = []
@@ -57,19 +65,19 @@ HTML_SOURCES = [
 #("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
 #("Yup It's Vegan", ("https://yupitsvegan.com/page/{}/?s=+", 1, 1),[], "wordpress"),
    #("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
-        #("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
-            #("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
-          #("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
-                    ("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),
-        ("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
-     ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 1), [], "wordpress"),
-        ("Pinch of Yum (Vegan Recipes)", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 1, 1),[], "wordpress"),
-    ("Watch Learn Eat", ("https://watchlearneat.com/vegan-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#6
-        ("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 1, 1), ["Easy"], "wordpress"),#21..not working for squarespace
-            ("Make It Dairy Free", ("https://makeitdairyfree.com/recipe-filter/?sf_paged={}", 1, 1), [], "wordpress"),#23
-            ("Rainbow Nourishments", ("https://www.rainbownourishments.com/page/{}/?s=+", 1, 1), [], "wordpress"),#27
-      ("Connoisseurus Veg", ("https://www.connoisseurusveg.com/category/entrees/page/{}/", 1, 1), [], "wordpress"),#28 
-        ("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 1, 1), [], "wordpress"),
+    #("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
+        #("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
+        #("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
+                    #("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),
+        #("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
+     #("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 1), [], "wordpress"),
+       # ("Pinch of Yum (Vegan Recipes)", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 1, 1),[], "wordpress"),
+    #("Watch Learn Eat", ("https://watchlearneat.com/vegan-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#6
+        #("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 1, 1), ["Easy"], "wordpress"),#21..not working for squarespace
+            #("Make It Dairy Free", ("https://makeitdairyfree.com/recipe-filter/?sf_paged={}", 1, 1), [], "wordpress"),#23
+            #("Rainbow Nourishments", ("https://www.rainbownourishments.com/page/{}/?s=+", 1, 1), [], "wordpress"),#27
+      #("Connoisseurus Veg", ("https://www.connoisseurusveg.com/category/entrees/page/{}/", 1, 1), [], "wordpress"),#28 
+        #("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 1, 1), [], "wordpress"),
             ("Holistic Chef Academy", ("https://holisticchefacademy.com/page/{}/?s=+", 1, 1), [], "wordpress"),#6
     ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
         ("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 6, 16),[], "wordpress"),
