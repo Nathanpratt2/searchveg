@@ -239,12 +239,13 @@
     }
    // --- GLOBAL STATE ---
     let allRecipes = [];          
-    let currentContext = [];      
+    let currentContext =[];      
     let renderedCount = 0;        
     
     // Favorites State
     let savedRecipesMap = new Map(); // Link -> Recipe Object
     let isSavedView = false;   
+    let isStrictSearch = false;   // Flags when a specific blogger is clicked
 
    // --- WHIMSICAL: TYPEWRITER SEARCH PLACEHOLDERS ---
     const vibes = [
@@ -644,6 +645,7 @@
         activeType = null;
         activeTags.clear();
         isSavedView = false;
+        isStrictSearch = false;
 
         document.getElementById('mealsBtn').classList.remove('active-filter');
         document.getElementById('sweetsBtn').classList.remove('active-filter');
@@ -1029,8 +1031,17 @@
                 ${badgeHTML}
             </div>
             <h2 class="title" title="${safeTitle}">${safeTitle}</h2>
-            <div class="blogger">by ${displayBlogger}</div>
         `;
+        
+        const bloggerDiv = document.createElement('div');
+        bloggerDiv.className = 'blogger';
+        bloggerDiv.title = `See all recipes by ${displayBlogger}`;
+        bloggerDiv.style.cursor = 'pointer';
+        bloggerDiv.style.position = 'relative'; 
+        bloggerDiv.style.zIndex = '2'; // Prevents parent link from overriding the click
+        bloggerDiv.innerHTML = `by <span style="text-decoration: underline; text-decoration-color: transparent; transition: text-decoration-color 0.2s;" onmouseover="this.style.textDecorationColor='inherit'" onmouseout="this.style.textDecorationColor='transparent'">${displayBlogger}</span>`;
+        bloggerDiv.onclick = (e) => filterByBlogger(e, recipe.blog_name);
+        info.appendChild(bloggerDiv);
         
         const heartBtn = document.createElement('button');
         heartBtn.className = `action-btn heart-btn ${isSaved ? 'active' : ''}`;
@@ -1308,6 +1319,14 @@
         // 2. Apply Search
         if (term.length > 0) {
             filtered = filtered.filter(recipe => {
+                // Strict match override for clicking a blogger's name
+                if (isStrictSearch) {
+                    const displayBlogger = BLOG_DISPLAY_MAP[recipe.blog_name] || recipe.blog_name;
+                    const normalizedDisplay = displayBlogger.toLowerCase().replace(/-/g, ' ');
+                    const normalizedBlogName = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
+                    return normalizedDisplay === term || normalizedBlogName === term;
+                }
+
                 if (term === 'protein') {
                     const t = recipe.title.toLowerCase();
                     return PROTEIN_KEYWORDS.some(k => t.includes(k));
@@ -1410,6 +1429,9 @@
     }
 
     searchInput.addEventListener('keyup', (e) => {
+        // Any user typing immediately disables strict match mode
+        isStrictSearch = false;
+
         const hasText = searchInput.value.length > 0;
         toggleSearchButtons(hasText);
         
@@ -1423,9 +1445,49 @@
    clearBtn.addEventListener('click', () => {
         searchInput.value = '';
         searchInput.focus();
+        isStrictSearch = false; // Reset strict mode
         toggleSearchButtons(false);
         applyFilters(true);
     });
+
+    // --- NEW BLOGGER CLICK FUNCTIONALITY ---
+    function filterByBlogger(e, bloggerName) {
+        e.preventDefault();
+        e.stopPropagation(); // Prevents the card link from opening
+
+        // 1. Reset all filters
+        activeType = null;
+        activeTags.clear();
+        activeCuisines.clear();
+        isSavedView = false;
+
+        // Reset filter button styles
+        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active-filter'));
+        
+        // Reset cuisine dropdown state if open
+        const wrapper = document.getElementById('subControlsWrapper');
+        const arrow = document.querySelector('#cuisinesBtn .dropdown-arrow');
+        if (wrapper && arrow) {
+            wrapper.classList.remove('open');
+            arrow.classList.remove('open');
+            isCuisineMenuOpen = false;
+        }
+
+        // 2. Set search input to the blogger's display name
+        const searchInput = document.getElementById('searchInput');
+        const displayBlogger = BLOG_DISPLAY_MAP[bloggerName] || bloggerName;
+        searchInput.value = displayBlogger;
+        toggleSearchButtons(true);
+        
+        // 3. Enable Strict Match mode
+        isStrictSearch = true;
+
+        // 4. Apply Filters & Update URL
+        applyFilters(true);
+
+        // 5. Scroll to Top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
     
     // Share current Search URL
     shareSearchBtn.addEventListener('click', () => {
