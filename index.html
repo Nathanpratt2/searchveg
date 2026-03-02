@@ -95,7 +95,7 @@
         </div>
     </div>
 
-    <div class="controls">
+   <div class="controls">
         <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <!-- Arrowheads (Placed at the end of the lines) -->
@@ -109,6 +109,9 @@
   <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
 </svg>
         </button>
+
+        <button id="luckyBtn" class="btn" onclick="feelingLucky()">🍀 Lucky</button>
+
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
         <!-- SAVED BUTTON -->
         <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
@@ -1120,6 +1123,22 @@
         renderedCount = 0;
         document.getElementById('gallery').innerHTML = '';
         renderNextBatch();
+    }
+
+    function feelingLucky() {
+        // Visual feedback
+        const btn = document.getElementById('luckyBtn');
+        if(btn) {
+            btn.style.transform = "scale(0.95)";
+            setTimeout(() => btn.style.transform = "scale(1)", 150);
+        }
+
+        // Pick from current filters if active, otherwise all recipes
+        const pool = (currentContext && currentContext.length > 0) ? currentContext : allRecipes;
+        if(pool.length === 0) return;
+
+        const randomRecipe = pool[Math.floor(Math.random() * pool.length)];
+        window.open(randomRecipe.link, '_blank');
     }
 
     function toggleType(e, type) {
