@@ -98,14 +98,9 @@
    <div class="controls">
         <button id="shuffleIconBtn" class="icon-btn" onclick="shuffleRecipes()" title="Shuffle Recipes">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Arrowheads (Placed at the end of the lines) -->
   <polyline points="17 4 21 7 17 10" />
   <polyline points="17 14 21 17 17 20" />
-  
-  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
   <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
-  
-  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
   <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
 </svg>
         </button>
@@ -113,19 +108,12 @@
         <!-- LUCKY BUTTON -->
         <button id="luckyBtn" class="icon-btn" onclick="feelingLucky()" title="I'm Feeling Lucky">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-               <!-- 3D Cube Shape -->
                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
                <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
                <line x1="12" y1="22.08" x2="12" y2="12"></line>
-               
-               <!-- 1 Dot (Top Face) -->
                <circle cx="12" cy="7" r="1" fill="currentColor" stroke="none"></circle>
-               
-               <!-- 2 Dots (Left Face) -->
                <circle cx="6.5" cy="12" r="1" fill="currentColor" stroke="none"></circle>
                <circle cx="9.5" cy="17" r="1" fill="currentColor" stroke="none"></circle>
-               
-               <!-- 3 Dots (Right Face) -->
                <circle cx="14.5" cy="17.5" r="1" fill="currentColor" stroke="none"></circle>
                <circle cx="16.5" cy="14.5" r="1" fill="currentColor" stroke="none"></circle>
                <circle cx="18.5" cy="11.5" r="1" fill="currentColor" stroke="none"></circle>
@@ -136,26 +124,69 @@
         <!-- SAVED BUTTON -->
         <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
         
-        <!-- NEW SHARE LIST BUTTON -->
+        <!-- SHARE LIST BUTTON -->
         <button id="shareSavedBtn" class="btn" onclick="shareSavedList()" title="Share List" style="display:none;">
             <svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/></svg>
         </button>
 
         <a href="?type=meal" class="btn" id="mealsBtn" onclick="toggleType(event, 'meal')">🍝 Meals</a>
         <a href="?type=sweet" class="btn" id="sweetsBtn" onclick="toggleType(event, 'sweet')">🍪 Sweets</a>
-        <a href="?tag=Easy" class="btn" id="easyBtn" onclick="toggleTag(event, 'Easy')">⚡ Easy</a>
-        <!-- NEW CUISINE DROPDOWN BUTTON -->
-        <button id="cuisinesBtn" class="btn" onclick="toggleCuisineMenu(event)">
+
+        <!-- MOOD DROPDOWN BUTTON -->
+        <button id="moodsBtn" class="btn" onclick="toggleSubMenu(event, 'mood')">
+            ✨ Moods
+            <svg class="dropdown-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
+        </button>
+        
+        <!-- CUISINE DROPDOWN BUTTON -->
+        <button id="cuisinesBtn" class="btn" onclick="toggleSubMenu(event, 'cuisine')">
             🌎 Cuisines
             <svg class="dropdown-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
         </button>
 
-        <a href="?tag=Budget" class="btn" id="budgetBtn" onclick="toggleTag(event, 'Budget')">💸 Budget</a>
-        <a href="?tag=Protein" class="btn" id="proteinBtn" onclick="toggleTag(event, 'Protein')">⬆️ Protein</a>
-        <a href="?tag=WFPB" class="btn" id="wfpbBtn" onclick="toggleTag(event, 'WFPB')">🥗 WFPB</a>
-        <a href="?tag=GF" class="btn" id="gfBtn" onclick="toggleTag(event, 'GF')">🌾 GF</a>        
+        <!-- DIET DROPDOWN BUTTON -->
+        <button id="dietsBtn" class="btn" onclick="toggleSubMenu(event, 'diet')">
+            🥗 Diet
+            <svg class="dropdown-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
+        </button>      
     </div>
 
+    <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
+    <div id="subControlsWrapper" class="sub-controls-wrapper">
+        <div class="sub-controls">
+            
+            <!-- MOODS -->
+            <div class="sub-controls-inner" id="moodChips" style="display:none;">
+                <button class="btn" id="easyBtn" onclick="toggleTag(event, 'Easy')">⚡ Easy</button>
+                <button class="btn" onclick="triggerSearch(event, 'Salad')">🥗 Fresh</button>
+                <button class="btn" onclick="triggerSearch(event, 'Burger')">🍔 Comfort</button>
+                <button class="btn" onclick="triggerSearch(event, 'Pasta')">🍷 Impress Guests</button>
+                <button class="btn" onclick="triggerSearch(event, 'Soup')">🍲 Warm 'n Cozy</button>
+                <button class="btn" id="budgetBtn" onclick="toggleTag(event, 'Budget')">💸 Budget Bites</button>
+            </div>
+
+            <!-- CUISINES -->
+            <div class="sub-controls-inner" id="cuisineChips" style="display:none;">
+                <button class="btn cuisine-btn" data-cuisine="American" onclick="toggleCuisine(event, 'American')">American</button>
+                <button class="btn cuisine-btn" data-cuisine="Indian" onclick="toggleCuisine(event, 'Indian')">Indian</button>
+                <button class="btn cuisine-btn" data-cuisine="Mexican" onclick="toggleCuisine(event, 'Mexican')">Mexican</button>
+                <button class="btn cuisine-btn" data-cuisine="Italian" onclick="toggleCuisine(event, 'Italian')">Italian</button>
+                <button class="btn cuisine-btn" data-cuisine="Asian" onclick="toggleCuisine(event, 'Asian')">Asian</button>
+                <button class="btn cuisine-btn" data-cuisine="Middle Eastern" onclick="toggleCuisine(event, 'Middle Eastern')">Middle Eastern</button>
+                <button class="btn cuisine-btn" data-cuisine="Mediterranean" onclick="toggleCuisine(event, 'Mediterranean')">Mediterranean</button>
+            </div>
+
+            <!-- DIETS -->
+            <div class="sub-controls-inner" id="dietChips" style="display:none;">
+                <button class="btn" id="proteinBtn" onclick="toggleTag(event, 'Protein')">⬆️ High Protein</button>
+                <button class="btn" id="gfBtn" onclick="toggleTag(event, 'GF')">🌾 Gluten Free</button>
+                <button class="btn" id="wfpbBtn" onclick="toggleTag(event, 'WFPB')">🥗 WFPB</button>
+                <button class="btn" onclick="triggerSearch(event, 'Nut Free')">🥜 Nut Free</button>
+                <button class="btn" onclick="triggerSearch(event, 'Soy Free')">🌱 Soy Free</button>
+            </div>
+
+        </div>
+    </div>
     <!-- NEW HORIZONTAL SCROLLING CHIPS (HIDDEN BY DEFAULT) -->
     <div id="subControlsWrapper" class="sub-controls-wrapper">
         <div class="sub-controls">
@@ -1225,33 +1256,94 @@
     function toggleTag(e, tagName) {
         if(e) e.preventDefault(); 
         document.activeElement.blur();
-        const btnId = tagName.toLowerCase() + 'Btn';
+        // Construct button ID, handling spaces if necessary (though usually single word tags)
+        const btnId = tagName.toLowerCase() + 'Btn'; 
         const btn = document.getElementById(btnId);
 
         if (activeTags.has(tagName)) {
             activeTags.delete(tagName);
-            btn.classList.remove('active-filter');
+            if(btn) btn.classList.remove('active-filter');
         } else {
             activeTags.add(tagName);
-            btn.classList.add('active-filter');
+            if(btn) btn.classList.add('active-filter');
         }
+        
+        updateParentButtonStates();
         applyFilters(true);
     }
 
-    function toggleCuisineMenu(e) {
+    // Helper: Triggers a search (e.g. "Burger" for Comfort mood) 
+    // and closes the menus
+    function triggerSearch(e, term) {
         if(e) e.preventDefault();
         document.activeElement.blur();
-        isCuisineMenuOpen = !isCuisineMenuOpen;
         
+        const searchInput = document.getElementById('searchInput');
+        searchInput.value = term;
+        toggleSearchButtons(true); // Show clear button
+        isStrictSearch = false; // Allow fuzzy matching
+        
+        // Close any open menus
         const wrapper = document.getElementById('subControlsWrapper');
-        const arrow = document.querySelector('#cuisinesBtn .dropdown-arrow');
+        if(wrapper) wrapper.classList.remove('open');
+        document.querySelectorAll('.dropdown-arrow').forEach(a => a.classList.remove('open'));
         
-        if (isCuisineMenuOpen) {
-            wrapper.classList.add('open');
-            arrow.classList.add('open');
-        } else {
+        // Reset sub-menu state variables
+        activeSubMenu = null;
+        isCuisineMenuOpen = false;
+
+        applyFilters(true);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    let activeSubMenu = null; // 'mood', 'cuisine', 'diet'
+
+    function toggleSubMenu(e, menuName) {
+        if(e) e.preventDefault();
+        document.activeElement.blur();
+
+        const wrapper = document.getElementById('subControlsWrapper');
+        
+        // Get containers
+        const moodChips = document.getElementById('moodChips');
+        const cuisineChips = document.getElementById('cuisineChips');
+        const dietChips = document.getElementById('dietChips');
+        
+        // Get Arrows
+        const moodArrow = document.querySelector('#moodsBtn .dropdown-arrow');
+        const cuisineArrow = document.querySelector('#cuisinesBtn .dropdown-arrow');
+        const dietArrow = document.querySelector('#dietsBtn .dropdown-arrow');
+
+        // 1. Hide everything first (reset state)
+        if(moodChips) moodChips.style.display = 'none';
+        if(cuisineChips) cuisineChips.style.display = 'none';
+        if(dietChips) dietChips.style.display = 'none';
+        
+        if(moodArrow) moodArrow.classList.remove('open');
+        if(cuisineArrow) cuisineArrow.classList.remove('open');
+        if(dietArrow) dietArrow.classList.remove('open');
+
+        // 2. Toggle Logic
+        // If clicking the same button that is currently open, close it.
+        if (activeSubMenu === menuName) {
+            activeSubMenu = null;
             wrapper.classList.remove('open');
-            arrow.classList.remove('open');
+            return;
+        }
+
+        // 3. Open the requested menu
+        activeSubMenu = menuName;
+        wrapper.classList.add('open');
+        
+        if (menuName === 'mood') {
+            if(moodChips) moodChips.style.display = 'flex';
+            if(moodArrow) moodArrow.classList.add('open');
+        } else if (menuName === 'cuisine') {
+            if(cuisineChips) cuisineChips.style.display = 'flex';
+            if(cuisineArrow) cuisineArrow.classList.add('open');
+        } else if (menuName === 'diet') {
+            if(dietChips) dietChips.style.display = 'flex';
+            if(dietArrow) dietArrow.classList.add('open');
         }
     }
 
@@ -1263,24 +1355,44 @@
         
         if (activeCuisines.has(cuisineName)) {
             activeCuisines.delete(cuisineName);
-            btn.classList.remove('active-filter');
+            if(btn) btn.classList.remove('active-filter');
         } else {
             activeCuisines.add(cuisineName);
-            btn.classList.add('active-filter');
+            if(btn) btn.classList.add('active-filter');
         }
         
         updateCuisinesButtonState();
         applyFilters(true);
     }
 
-    // Colors main button green if ANY cuisine is selected 
+    // Colors the "Cuisines" button if any cuisine is selected
     function updateCuisinesButtonState() {
         const cuisinesBtn = document.getElementById('cuisinesBtn');
-        if (!cuisinesBtn) return;
-        if (activeCuisines.size > 0) {
-            cuisinesBtn.classList.add('active-filter');
-        } else {
-            cuisinesBtn.classList.remove('active-filter');
+        if (cuisinesBtn) {
+            if (activeCuisines.size > 0) {
+                cuisinesBtn.classList.add('active-filter');
+            } else {
+                cuisinesBtn.classList.remove('active-filter');
+            }
+        }
+    }
+
+    // Colors "Mood" or "Diet" buttons if their specific tags are active
+    function updateParentButtonStates() {
+        // Moods: Easy, Budget
+        const moodsBtn = document.getElementById('moodsBtn');
+        if(moodsBtn) {
+            const hasMoodTag = activeTags.has('Easy') || activeTags.has('Budget');
+            if(hasMoodTag) moodsBtn.classList.add('active-filter');
+            else moodsBtn.classList.remove('active-filter');
+        }
+
+        // Diet: Protein, GF, WFPB
+        const dietsBtn = document.getElementById('dietsBtn');
+        if(dietsBtn) {
+            const hasDietTag = activeTags.has('Protein') || activeTags.has('GF') || activeTags.has('WFPB');
+            if(hasDietTag) dietsBtn.classList.add('active-filter');
+            else dietsBtn.classList.remove('active-filter');
         }
     }
 
