@@ -152,17 +152,21 @@
     </div>
 
     <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
+    <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
     <div id="subControlsWrapper" class="sub-controls-wrapper">
         <div class="sub-controls">
             
             <!-- MOODS -->
             <div class="sub-controls-inner" id="moodChips" style="display:none;">
+                <!-- Tags (Easy/Budget) -->
                 <button class="btn" id="easyBtn" onclick="toggleTag(event, 'Easy')">⚡ Easy</button>
-                <button class="btn" onclick="triggerSearch(event, 'Salad')">🥗 Fresh</button>
-                <button class="btn" onclick="triggerSearch(event, 'Burger')">🍔 Comfort</button>
-                <button class="btn" onclick="triggerSearch(event, 'Pasta')">🍷 Impress Guests</button>
-                <button class="btn" onclick="triggerSearch(event, 'Soup')">🍲 Warm 'n Cozy</button>
                 <button class="btn" id="budgetBtn" onclick="toggleTag(event, 'Budget')">💸 Budget Bites</button>
+                
+                <!-- Virtual Moods -->
+                <button class="btn mood-btn" data-mood="Fresh" onclick="toggleMood(event, 'Fresh')">🥗 Fresh</button>
+                <button class="btn mood-btn" data-mood="Comfort" onclick="toggleMood(event, 'Comfort')">🍔 Comfort</button>
+                <button class="btn mood-btn" data-mood="Impress" onclick="toggleMood(event, 'Impress')">🍷 Impress Guests</button>
+                <button class="btn mood-btn" data-mood="Cozy" onclick="toggleMood(event, 'Cozy')">🍲 Warm 'n Cozy</button>
             </div>
 
             <!-- CUISINES -->
@@ -178,11 +182,14 @@
 
             <!-- DIETS -->
             <div class="sub-controls-inner" id="dietChips" style="display:none;">
+                <!-- Tags -->
                 <button class="btn" id="proteinBtn" onclick="toggleTag(event, 'Protein')">⬆️ High Protein</button>
                 <button class="btn" id="gfBtn" onclick="toggleTag(event, 'GF')">🌾 Gluten Free</button>
                 <button class="btn" id="wfpbBtn" onclick="toggleTag(event, 'WFPB')">🥗 WFPB</button>
-                <button class="btn" onclick="triggerSearch(event, 'Nut Free')">🥜 Nut Free</button>
-                <button class="btn" onclick="triggerSearch(event, 'Soy Free')">🌱 Soy Free</button>
+                
+                <!-- Virtual Diets -->
+                <button class="btn diet-btn" data-diet="Nut Free" onclick="toggleDiet(event, 'Nut Free')">🥜 Nut Free</button>
+                <button class="btn diet-btn" data-diet="Soy Free" onclick="toggleDiet(event, 'Soy Free')">🌱 Soy Free</button>
             </div>
 
         </div>
@@ -1253,10 +1260,24 @@
         applyFilters(true);
     }
 
+    // --- KEYWORD DEFINITIONS FOR FILTERS ---
+    const IMPRESS_KEYWORDS = ['lasagna', 'risotto', 'wellington', 'gnocchi', 'ravioli', 'tart', 'galette', 'paella', 'roast', 'truffle', 'scallops', 'steak', 'fancy', 'gourmet', 'pie', 'quiche', 'wine', 'carbonara'];
+    const COZY_KEYWORDS = ['soup', 'stew', 'chili', 'curry', 'dal', 'ramen', 'pho', 'chowder', 'bisque', 'casserole', 'risotto', 'oatmeal', 'porridge', 'pot pie', 'shepherd', 'congee', 'broth', 'bolognese', 'gumbo', 'jambalaya'];
+    const FRESH_KEYWORDS = ['salad', 'bowl', 'wrap', 'spring roll', 'smoothie', 'slaw', 'raw', 'ceviche', 'poke', 'lettuce'];
+    const COMFORT_KEYWORDS = ['burger', 'pizza', 'pasta', 'mac and cheese', 'mac & cheese', 'fried', 'potato', 'gravy', 'casserole', 'grilled cheese', 'nachos', 'wings', 'tots', 'fries', 'sloppy joe', 'nugget', 'tender'];
+
+    // Heuristics for Title-based exclusion
+    const NUT_KEYWORDS = ['peanut', 'almond', 'cashew', 'walnut', 'pecan', 'hazelnut', 'pistachio', 'macadamia', 'pine nut', 'nut butter', 'chestnut'];
+    const SOY_KEYWORDS = ['tofu', 'tempeh', 'edamame', 'miso', 'soy', 'tvp', 'textured vegetable protein', 'soya'];
+
+    // --- NEW STATE VARIABLES ---
+    let activeMoods = new Set();
+    let activeDiets = new Set();
+    let activeSubMenu = null; // 'mood', 'cuisine', 'diet'
+
     function toggleTag(e, tagName) {
         if(e) e.preventDefault(); 
         document.activeElement.blur();
-        // Construct button ID, handling spaces if necessary (though usually single word tags)
         const btnId = tagName.toLowerCase() + 'Btn'; 
         const btn = document.getElementById(btnId);
 
@@ -1272,31 +1293,43 @@
         applyFilters(true);
     }
 
-    // Helper: Triggers a search (e.g. "Burger" for Comfort mood) 
-    // and closes the menus
-    function triggerSearch(e, term) {
+    // New: Toggles "Virtual" Moods (Fresh, Comfort, etc) without closing menu
+    function toggleMood(e, moodName) {
         if(e) e.preventDefault();
         document.activeElement.blur();
         
-        const searchInput = document.getElementById('searchInput');
-        searchInput.value = term;
-        toggleSearchButtons(true); // Show clear button
-        isStrictSearch = false; // Allow fuzzy matching
+        const btn = document.querySelector(`.mood-btn[data-mood="${moodName}"]`);
         
-        // Close any open menus
-        const wrapper = document.getElementById('subControlsWrapper');
-        if(wrapper) wrapper.classList.remove('open');
-        document.querySelectorAll('.dropdown-arrow').forEach(a => a.classList.remove('open'));
+        if (activeMoods.has(moodName)) {
+            activeMoods.delete(moodName);
+            if(btn) btn.classList.remove('active-filter');
+        } else {
+            activeMoods.add(moodName);
+            if(btn) btn.classList.add('active-filter');
+        }
         
-        // Reset sub-menu state variables
-        activeSubMenu = null;
-        isCuisineMenuOpen = false;
-
+        updateParentButtonStates();
         applyFilters(true);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    let activeSubMenu = null; // 'mood', 'cuisine', 'diet'
+    // New: Toggles "Virtual" Diets (Nut Free, Soy Free) without closing menu
+    function toggleDiet(e, dietName) {
+        if(e) e.preventDefault();
+        document.activeElement.blur();
+        
+        const btn = document.querySelector(`.diet-btn[data-diet="${dietName}"]`);
+        
+        if (activeDiets.has(dietName)) {
+            activeDiets.delete(dietName);
+            if(btn) btn.classList.remove('active-filter');
+        } else {
+            activeDiets.add(dietName);
+            if(btn) btn.classList.add('active-filter');
+        }
+        
+        updateParentButtonStates();
+        applyFilters(true);
+    }
 
     function toggleSubMenu(e, menuName) {
         if(e) e.preventDefault();
@@ -1314,7 +1347,7 @@
         const cuisineArrow = document.querySelector('#cuisinesBtn .dropdown-arrow');
         const dietArrow = document.querySelector('#dietsBtn .dropdown-arrow');
 
-        // 1. Hide everything first (reset state)
+        // 1. Hide everything first
         if(moodChips) moodChips.style.display = 'none';
         if(cuisineChips) cuisineChips.style.display = 'none';
         if(dietChips) dietChips.style.display = 'none';
@@ -1324,7 +1357,6 @@
         if(dietArrow) dietArrow.classList.remove('open');
 
         // 2. Toggle Logic
-        // If clicking the same button that is currently open, close it.
         if (activeSubMenu === menuName) {
             activeSubMenu = null;
             wrapper.classList.remove('open');
@@ -1365,34 +1397,29 @@
         applyFilters(true);
     }
 
-    // Colors the "Cuisines" button if any cuisine is selected
     function updateCuisinesButtonState() {
         const cuisinesBtn = document.getElementById('cuisinesBtn');
         if (cuisinesBtn) {
-            if (activeCuisines.size > 0) {
-                cuisinesBtn.classList.add('active-filter');
-            } else {
-                cuisinesBtn.classList.remove('active-filter');
-            }
+            cuisinesBtn.classList.toggle('active-filter', activeCuisines.size > 0);
         }
     }
 
-    // Colors "Mood" or "Diet" buttons if their specific tags are active
+    // Consolidated state update for parent buttons
     function updateParentButtonStates() {
-        // Moods: Easy, Budget
+        // Moods: (Tag: Easy, Budget) OR (Virtual: Fresh, Comfort, Impress, Cozy)
         const moodsBtn = document.getElementById('moodsBtn');
         if(moodsBtn) {
             const hasMoodTag = activeTags.has('Easy') || activeTags.has('Budget');
-            if(hasMoodTag) moodsBtn.classList.add('active-filter');
-            else moodsBtn.classList.remove('active-filter');
+            const hasMoodVirtual = activeMoods.size > 0;
+            moodsBtn.classList.toggle('active-filter', hasMoodTag || hasMoodVirtual);
         }
 
-        // Diet: Protein, GF, WFPB
+        // Diets: (Tag: Protein, GF, WFPB) OR (Virtual: Nut Free, Soy Free)
         const dietsBtn = document.getElementById('dietsBtn');
         if(dietsBtn) {
             const hasDietTag = activeTags.has('Protein') || activeTags.has('GF') || activeTags.has('WFPB');
-            if(hasDietTag) dietsBtn.classList.add('active-filter');
-            else dietsBtn.classList.remove('active-filter');
+            const hasDietVirtual = activeDiets.size > 0;
+            dietsBtn.classList.toggle('active-filter', hasDietTag || hasDietVirtual);
         }
     }
 
@@ -1400,9 +1427,7 @@
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        // --- OVERHAULED EXCEPTIONS FOR MEALS VS SWEETS ---
-        
-        // 1. FALSE SWEETS: Words that trigger "sweet" keywords but are actually savory meals
+        // --- OVERHAULED EXCEPTIONS ---
         const FALSE_SWEETS_IN_MEALS =[
             'sweet potato', 'sweet & sour', 'sweet and sour', 'sweet corn', 'sweet pea', 
             'sweet chili', 'sweet pepper', 'sweet onion', 'pot pie', "shepherd's pie", 
@@ -1410,8 +1435,6 @@
             'english muffin', 'savory muffin', 'cornbread', 'unsweetened', 'semi-sweet'
         ];
 
-        // 2. FALSE MEALS: Words that trigger "meal" keywords but are actually desserts 
-        // Removed broad terms like 'pancake', 'bake', 'one pot' that let savory items bypass filters.
         const FALSE_MEALS_IN_SWEETS =[
             'rice pudding', 'sticky rice', 'sweet potato pie', 'sweet potato cake', 
             'sweet potato brownie', 'sweet potato dessert', 'chickpea blondie', 'chickpea cookie', 
@@ -1421,7 +1444,6 @@
             'tofu pudding', 'dessert pizza', 'fruit pizza', 'sweet pizza'
         ]; 
 
-        // 3. STRICT SAVORY: Words that unequivocally mean "Savory" and should NEVER be in Sweets.
         const STRICT_SAVORY =[
             'savory', 'garlic', 'onion', 'bbq', 'barbecue', 'mushroom', 'tomato', 'curry', 
             'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 
@@ -1431,41 +1453,25 @@
             'jambalaya', 'brussel', 'crab cake', 'fish cake', 'rice cake', 'potato cake', 'latke',
             'scallion pancake', 'potato pancake', 'savory pancake', 'pot pie', 'pierogi', 'empanada'
         ];
-        // 1. Determine Source (Main Feed or Saved Recipes)
-        let filtered =[];
-        
-        if (isSavedView) {
-            // Source: localStorage Map (Sorted by Date Saved DESC)
-            filtered = Array.from(savedRecipesMap.values());
-            filtered.sort((a, b) => (b.savedAt || 0) - (a.savedAt || 0));
-        } else {
-            // Source: Main Feed
-            filtered = allRecipes;
-        }
 
-        // 2. Apply Search
+        // 1. Determine Source
+        let filtered = isSavedView 
+            ? Array.from(savedRecipesMap.values()).sort((a, b) => (b.savedAt || 0) - (a.savedAt || 0))
+            : allRecipes;
+
+        // 2. Apply Text Search
         if (term.length > 0) {
             filtered = filtered.filter(recipe => {
-                // Strict match override for clicking a blogger's name
                 if (isStrictSearch) {
                     const displayBlogger = BLOG_DISPLAY_MAP[recipe.blog_name] || recipe.blog_name;
-                    const normalizedDisplay = displayBlogger.toLowerCase().replace(/-/g, ' ');
-                    const normalizedBlogName = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
-                    return normalizedDisplay === term || normalizedBlogName === term;
+                    return displayBlogger.toLowerCase() === term || recipe.blog_name.toLowerCase() === term;
                 }
-
-                if (term === 'protein') {
-                    const t = recipe.title.toLowerCase();
-                    return PROTEIN_KEYWORDS.some(k => t.includes(k));
-                }
+                if (term === 'protein') return PROTEIN_KEYWORDS.some(k => recipe.title.toLowerCase().includes(k));
                 
-                // Fuzzy Match on Title, Blog Name, and Tags
                 const title = recipe.title.toLowerCase().replace(/-/g, ' ');
                 const blogger = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
                 const tags = (recipe.special_tags ||[]).join(' ').toLowerCase().replace(/-/g, ' ');
-                const searchableText = `${title} ${blogger} ${tags}`;
-                
-                return isFuzzyMatch(term, searchableText);
+                return isFuzzyMatch(term, `${title} ${blogger} ${tags}`);
             });
         }
 
@@ -1476,12 +1482,8 @@
                 const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
                 const hasSweetKeyword = SWEET_KEYWORDS.some(k => t.includes(k));
                 const isFalseSweet = FALSE_SWEETS_IN_MEALS.some(k => t.includes(k));
-                
-                // Exclude explicit desserts from meals, even if they contain "sweet potato"
-                const isExplicitDessert =['pie', 'cake', 'cookie', 'brownie', 'ice cream', 'pudding', 'dessert', 'muffin', 'cupcake', 'donut', 'cheesecake'].some(k => t.includes(k)) && !['pot pie', "shepherd's pie", 'potato cake', 'rice cake', 'crab cake', 'english muffin', 'savory muffin'].some(k => t.includes(k));
-
+                const isExplicitDessert = ['pie', 'cake', 'cookie', 'brownie', 'ice cream', 'pudding', 'dessert', 'muffin', 'cupcake', 'donut', 'cheesecake'].some(k => t.includes(k)) && !['pot pie', "shepherd's pie", 'potato cake', 'rice cake', 'crab cake', 'english muffin', 'savory muffin'].some(k => t.includes(k));
                 const isSide = t.includes('sauce') || t.includes('dressing') || t.includes('side') || t.includes('treats');
-                
                 return hasMealKeyword && (!hasSweetKeyword || isFalseSweet) && !isExplicitDessert && !isSide;
             });
         } else if (activeType === 'sweet') {
@@ -1491,16 +1493,14 @@
                 const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
                 const isFalseMeal = FALSE_MEALS_IN_SWEETS.some(k => t.includes(k));
                 const isStrictSavory = STRICT_SAVORY.some(k => t.includes(k));
-                
                 return hasSweetKeyword && (!hasMealKeyword || isFalseMeal) && !isStrictSavory;
             });
         }
 
-       // 4. Apply Tags
-       if (activeTags.size > 0) {
+        // 4. Apply Tags (Strict AND logic)
+        if (activeTags.size > 0) {
             filtered = filtered.filter(recipe => {
                 const title = recipe.title.toLowerCase();
-                
                 for (let tag of activeTags) {
                     if (tag === 'Protein') {
                         if (!PROTEIN_KEYWORDS.some(k => title.includes(k))) return false;
@@ -1513,26 +1513,53 @@
             });
         }
 
-        // 5. Apply Cuisines (OR logic within cuisines, AND logic with other filters)
+        // 5. Apply Cuisines (OR logic within cuisines)
         if (activeCuisines.size > 0) {
             let activeKeywords = [];
             activeCuisines.forEach(c => {
-                if (CUISINE_KEYWORDS[c]) {
-                    activeKeywords.push(...CUISINE_KEYWORDS[c]);
-                }
+                if (CUISINE_KEYWORDS[c]) activeKeywords.push(...CUISINE_KEYWORDS[c]);
             });
-            
             filtered = filtered.filter(recipe => {
                 const title = recipe.title.toLowerCase();
-                // Check if any of the active cuisine keywords exist in the title
                 return activeKeywords.some(k => title.includes(k.toLowerCase()));
             });
         }
 
-        if (pushState) {
-            updateURL();
+        // 6. NEW: Apply "Virtual" Moods
+        if (activeMoods.size > 0) {
+            filtered = filtered.filter(recipe => {
+                const t = recipe.title.toLowerCase();
+                // Moods use OR logic (if I select Cozy AND Comfort, I probably want either)
+                // However, often tag filters are AND. Let's stick to "Must match at least one active mood".
+                
+                let matchesFresh = activeMoods.has('Fresh') ? (FRESH_KEYWORDS.some(k => t.includes(k)) && !t.includes('pasta salad') && !t.includes('macaroni')) : false;
+                let matchesComfort = activeMoods.has('Comfort') ? COMFORT_KEYWORDS.some(k => t.includes(k)) : false;
+                let matchesImpress = activeMoods.has('Impress') ? IMPRESS_KEYWORDS.some(k => t.includes(k)) : false;
+                let matchesCozy = activeMoods.has('Cozy') ? COZY_KEYWORDS.some(k => t.includes(k)) : false;
+
+                // Return true if it matches ANY of the selected moods. 
+                // If multiple moods are selected, we show recipes that fit ANY of them.
+                return matchesFresh || matchesComfort || matchesImpress || matchesCozy;
+            });
         }
-        
+
+        // 7. NEW: Apply "Virtual" Diets (Nut/Soy Free)
+        if (activeDiets.size > 0) {
+            filtered = filtered.filter(recipe => {
+                const t = recipe.title.toLowerCase();
+                // Diets are restrictive (AND logic). If I click Nut Free AND Soy Free, I need BOTH.
+                
+                if (activeDiets.has('Nut Free')) {
+                    if (NUT_KEYWORDS.some(k => t.includes(k))) return false;
+                }
+                if (activeDiets.has('Soy Free')) {
+                    if (SOY_KEYWORDS.some(k => t.includes(k))) return false;
+                }
+                return true;
+            });
+        }
+
+        if (pushState) updateURL();
         updateSEO(filtered);
         resetView(filtered);
     }
