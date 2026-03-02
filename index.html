@@ -47,53 +47,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 
-   <link rel="stylesheet" href="/style.css">
-    
-    <style>
-        /* SCROLL TO TOP TRANSITIONS */
-        #scrollTopBtn {
-            opacity: 0;
-            visibility: hidden;
-            transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease !important;
-        }
-        #scrollTopBtn.visible {
-            opacity: 1;
-            visibility: visible;
-        }
-
-        /* FASTER SHUFFLE JIGGLE */
-        .jiggle-fast {
-            animation: jiggle-fast 0.3s ease-in-out !important;
-        }
-        @keyframes jiggle-fast {
-            0% { transform: rotate(0deg); }
-            25% { transform: rotate(-20deg); }
-            50% { transform: rotate(20deg); }
-            75% { transform: rotate(-20deg); }
-            100% { transform: rotate(0deg); }
-        }
-
-        /* SPIN & CATCH FOR DICE */
-        .spin-catch {
-            animation: spin-catch 0.6s cubic-bezier(0.25, 1, 0.5, 1.3) !important;
-        }
-        @keyframes spin-catch {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        /* CLICKABLE BLOGGER */
-        .blogger-link {
-            cursor: pointer;
-            text-decoration: underline;
-            text-decoration-color: transparent;
-            transition: text-decoration-color 0.2s ease;
-        }
-        .blogger-link:hover {
-            text-decoration-color: currentColor;
-        }
-    </style>
-            
+    <link rel="stylesheet" href="/style.css">
+        
 </head>
 <body>
 <script>
@@ -114,63 +69,47 @@
     <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
     
     <div class="search-row">
-        
-        <div class="search-wrapper" style="width: 100%;">
+        <div class="search-wrapper" style="position: relative;">
             <label for="searchInput" style="display:none;">Search Recipes</label>
-            <!-- 5. INPUT UX: Input Mode and Enter Key Hint -->
-            <!-- Placeholder set to empty to prevent flash before TypeWriter starts -->
-            <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search">
             
-            <!-- NEW SEARCH ICON BUTTON (Hides when text is typed to not conflict with clear/share) -->
-            <button id="searchIconBtn" class="search-bar-btn" title="Search" aria-label="Search" style="color: #769F37;" onclick="document.getElementById('searchInput').focus()">
+            <!-- NEW LEFT MAGNIFYING GLASS BUTTON -->
+            <button id="searchLeftIcon" aria-label="Search Focus" style="position: absolute; left: 14px; top: 50%; transform: translateY(-50%); background: none; border: none; color: #769F37; padding: 0; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 2;" onclick="document.getElementById('searchInput').focus()">
                 <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <circle cx="11" cy="11" r="8"></circle>
                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                 </svg>
             </button>
 
-            <!-- NEW SHARE BUTTON -->
-            <button id="shareSearchBtn" class="search-bar-btn" title="Share this search URL" aria-label="Share Search" style="display:none;">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
-                    <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/>
-                </svg>
-            </button>
+            <!-- 5. INPUT UX: Input Mode and Enter Key Hint -->
+            <!-- Placeholder set to empty to prevent flash before TypeWriter starts -->
+            <input type="text" id="searchInput" placeholder="" inputmode="search" enterkeyhint="search" style="padding-left: 42px;">
             
-            <button id="clearBtn" class="search-bar-btn" title="Clear Search" style="display:none;">✕</button>
+            <!-- NEW SHARE BUTTON -->
+            <button id="shareSearchBtn" class="search-bar-btn" title="Share this search URL" aria-label="Share Search">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+        <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/>
+    </svg>
+</button>
+            
+            <button id="clearBtn" class="search-bar-btn" title="Clear Search">✕</button>
         </div>
     </div>
 
     <div class="controls">
+        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Arrowheads (Placed at the end of the lines) -->
+  <polyline points="17 4 21 7 17 10" />
+  <polyline points="17 14 21 17 17 20" />
+  
+  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
+  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
+  
+  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
+  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
+</svg>
+        </button>
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
-        
-        <!-- SHUFFLE BUTTON -->
-        <button id="shuffleIconBtn" class="btn" onclick="shuffleRecipes()" title="Shuffle Recipes">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-                <polyline points="17 4 21 7 17 10" />
-                <polyline points="17 14 21 17 17 20" />
-                <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
-                <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
-            </svg>
-        </button>
-
-        <!-- PICK ONE FOR ME (DICE) BUTTON -->
-        <button id="diceBtn" class="btn" onclick="rollDice()" title="Pick One For Me">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-                <polygon points="12 2 2 7 12 12 22 7 12 2" fill="#88b542" stroke="#88b542"/>
-                <polygon points="2 7 2 17 12 22 12 12 2 7" fill="#62852d" stroke="#62852d"/>
-                <polygon points="22 7 22 17 12 22 12 12 22 7" fill="#769F37" stroke="#769F37"/>
-                <!-- Top Face: 1 -->
-                <circle cx="12" cy="7" r="1.5" fill="white" stroke="none"/>
-                <!-- Left Face: 2 -->
-                <circle cx="7" cy="12.5" r="1" fill="white" stroke="none"/>
-                <circle cx="7" cy="16.5" r="1" fill="white" stroke="none"/>
-                <!-- Right Face: 3 -->
-                <circle cx="15" cy="13.5" r="1" fill="white" stroke="none"/>
-                <circle cx="17" cy="14.5" r="1" fill="white" stroke="none"/>
-                <circle cx="19" cy="15.5" r="1" fill="white" stroke="none"/>
-            </svg>
-        </button>
-
         <!-- SAVED BUTTON -->
         <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
         
@@ -285,12 +224,11 @@
     let isSavedView = false;   
 
    // --- WHIMSICAL: TYPEWRITER SEARCH PLACEHOLDERS ---
-    const vibes =[
+    const vibes = [
         "Search: Pancakes, Blog, Tofu...",
         "Find your favorite blogger",
         "⬇️ More Recipe Filters",
         "⬇️ Shuffle to mix it up",
-        "⬇️ Can't decide? Roll the dice!",
         "⬆️ Dark Mode: Press & hold logo",
         "💚 your favs for later",
         'Try, "One pot"',
@@ -596,17 +534,8 @@
         safeSetStorage(visitKey, visitData);
 
         if (visitData.count > 1) {
-            const shufBtn = document.getElementById('shuffleIconBtn');
-            const diceBtn = document.getElementById('diceBtn');
-            
-            if (shufBtn) {
-                shufBtn.classList.add('jiggle-fast');
-            }
-            if (diceBtn) {
-                setTimeout(() => {
-                    diceBtn.classList.add('spin-catch');
-                }, 1000);
-            }
+            const btn = document.getElementById('shuffleIconBtn');
+            if (btn) btn.classList.add('jiggle');
         }
     } catch (e) { console.error('Storage logic skipped', e); }
 
@@ -1071,13 +1000,12 @@
                                       .replace(/"/g, "&quot;")
                                       .replace(/'/g, "&#039;");
 
-       const safeBlogger = displayBlogger.replace(/'/g, "\\'");
         info.innerHTML = `
             <div class="meta-row">
                 ${badgeHTML}
             </div>
             <h2 class="title" title="${safeTitle}">${safeTitle}</h2>
-            <div class="blogger blogger-link" onclick="filterByBlogger(event, '${safeBlogger}')">by ${displayBlogger}</div>
+            <div class="blogger">by ${displayBlogger}</div>
         `;
         
         const heartBtn = document.createElement('button');
@@ -1119,12 +1047,6 @@
         let lastScrollY = window.scrollY || document.documentElement.scrollTop;
         let scrollUpDistance = 0;
         let isBouncing = false;
-        
-        // INITIAL LOAD FIX: Show button immediately if scrolled down on refresh
-        const scrollBtn = document.getElementById("scrollTopBtn");
-        if (scrollBtn && lastScrollY > 300) {
-            scrollBtn.classList.add('visible');
-        }
 
         const handleScroll = throttle(() => {
             const currentScrollY = window.scrollY || document.documentElement.scrollTop;
@@ -1132,11 +1054,7 @@
             const scrolled = currentScrollY > 300;
             
             if (scrollBtn) {
-                if (scrolled) {
-                    scrollBtn.classList.add('visible');
-                } else {
-                    scrollBtn.classList.remove('visible');
-                }
+                scrollBtn.style.display = scrolled ? "flex" : "none";
 
                 // Bounce logic: Detect if user scrolled up significantly
                 if (scrolled && currentScrollY < lastScrollY) {
@@ -1185,11 +1103,11 @@
     function shuffleRecipes() {
         const btn = document.getElementById('shuffleIconBtn');
         if (btn) {
-            btn.classList.remove('jiggle-fast');
+            btn.classList.remove('jiggle');
             void btn.offsetWidth; 
-            btn.classList.add('jiggle-fast');
+            btn.classList.add('jiggle');
         }
-        
+
         document.activeElement.blur(); 
         
         // Shuffle the CURRENT context (whether that is All Recipes OR Saved Recipes)
@@ -1278,7 +1196,7 @@
         applyFilters(true);
     }
 
-   // Colors main button green if ANY cuisine is selected 
+    // Colors main button green if ANY cuisine is selected 
     function updateCuisinesButtonState() {
         const cuisinesBtn = document.getElementById('cuisinesBtn');
         if (!cuisinesBtn) return;
@@ -1289,75 +1207,12 @@
         }
     }
 
-    let isStrictSearch = false;
-
-    function filterByBlogger(e, bloggerName) {
-        if(e) {
-            e.preventDefault();
-            e.stopPropagation();
-        }
-        
-        // Clear all filters
-        activeType = null;
-        activeTags.clear();
-        activeCuisines.clear();
-        isSavedView = false;
-        isCuisineMenuOpen = false;
-        
-        const wrapper = document.getElementById('subControlsWrapper');
-        if(wrapper) wrapper.classList.remove('open');
-        const arrow = document.querySelector('#cuisinesBtn .dropdown-arrow');
-        if(arrow) arrow.classList.remove('open');
-        
-        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active-filter'));
-        
-        // Set search
-        const sInput = document.getElementById('searchInput');
-        if (sInput) {
-            sInput.value = bloggerName;
-            isStrictSearch = true; // temporarily enable strict matching
-        }
-        
-        // Scroll to top
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-        
-        toggleSearchButtons(true);
-        applyFilters(true);
-    }
-
-    function rollDice() {
-        const btn = document.getElementById('diceBtn');
-        if (btn) {
-            btn.classList.remove('spin-catch');
-            void btn.offsetWidth; // trigger reflow
-            btn.classList.add('spin-catch');
-        }
-        
-        if(document.activeElement) document.activeElement.blur(); 
-        
-        // Wait 0.5s to let animation play, then open a random recipe
-        setTimeout(() => {
-            let pool = currentContext;
-            if (pool.length === 0) {
-                pool = allRecipes; // Fallback entirely to db
-            }
-            
-            if (pool.length > 0) {
-                const randomIndex = Math.floor(Math.random() * pool.length);
-                const randomRecipe = pool[randomIndex];
-                window.open(randomRecipe.link, "_blank");
-            }
-        }, 500);
-    }
-
     function applyFilters(pushState = true) {
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        const SAVORY_EXCEPTIONS = ['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut', 'cheesecake factory', 'savory'
-                                'savoury', 'maple syrup', 'crispy', 'carmelized', 'pot pie', 'rice cake', 'tomato jam', 'pancake', 'pancakes',
-                                'sweet and salty', 'sweet corn', 'sweetcorn', 'sweet and sour', 'sweet corn', 'sweet pea', 'sweet chili', 'sweet pepper']; // Even if you see the word 'Sweet', keep it in the Meals
-        const SWEET_EXCEPTIONS = ['sweet potato', 'baked oatmeal', 'lemon load', 'biscoff', 'crumb bun', 'rum balls']; // Even if you see word that is savory, keep it in the Sweets, like a sweet potato brownie
+        const SAVORY_EXCEPTIONS = ['sweet potato', 'sweet and sour', 'sweet corn', 'sweet pea', 'sweet chili', 'sweet pepper'];
+        const SWEET_EXCEPTIONS = ['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut']; 
 
         // 1. Determine Source (Main Feed or Saved Recipes)
         let filtered = [];
@@ -1374,23 +1229,23 @@
         // 2. Apply Search
         if (term.length > 0) {
             filtered = filtered.filter(recipe => {
-                // If the user clicked the blogger tag directly, bypass fuzzy logic
-                if (isStrictSearch) {
-                    const targetTerm = term.trim();
-                    const blogNameRaw = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
-                    const displayBlogRaw = (BLOG_DISPLAY_MAP[recipe.blog_name] || recipe.blog_name).toLowerCase().replace(/-/g, ' ');
-                    return blogNameRaw === targetTerm || displayBlogRaw === targetTerm;
-                }
-
                 if (term === 'protein') {
                     const t = recipe.title.toLowerCase();
                     return PROTEIN_KEYWORDS.some(k => t.includes(k));
                 }
                 
-               // Fuzzy Match on Title, Blog Name, and Tags
+                // Fuzzy Match on Title, Blog Name, and Tags
                 const title = recipe.title.toLowerCase().replace(/-/g, ' ');
                 const blogger = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
-                const tags = (recipe.special_tags ||
+                const tags = (recipe.special_tags || []).join(' ').toLowerCase().replace(/-/g, ' ');
+                const searchableText = `${title} ${blogger} ${tags}`;
+                
+                return isFuzzyMatch(term, searchableText);
+            });
+        }
+
+        // 3. Apply Categories (Meal vs Sweet)
+        if (activeType === 'meal') {
             filtered = filtered.filter(recipe => {
                 const t = recipe.title.toLowerCase();
                 const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
