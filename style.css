@@ -168,7 +168,7 @@
         }
 
         /* --- SHUFFLE & LUCKY BUTTONS --- */
-        #shuffleIconBtn, #luckyBtn {
+        .icon-btn {
             width: 48px;
             height: 48px;
             border-radius: 50%; 
@@ -182,12 +182,15 @@
             transition: all 0.2s ease;
             flex-shrink: 0;
             box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            padding: 0; /* Ensures consistent alignment */
+            appearance: none; /* Prevents iOS/Browser square default buttons */
+            -webkit-appearance: none;
         }
-        #shuffleIconBtn:active, #luckyBtn:active {
+        .icon-btn:active {
             transform: scale(0.95);
         }
         @media (hover: hover) {
-            #shuffleIconBtn:hover, #luckyBtn:hover {
+            .icon-btn:hover {
                 background-color: var(--accent-color);
                 border-color: var(--accent-color); 
                 color: white;
