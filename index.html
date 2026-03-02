@@ -48,7 +48,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="/style.css">
-        
+    
+    <style>
+        @keyframes spinCatch {
+            0% { transform: rotate(0deg); }
+            70% { transform: rotate(400deg); } /* Fast spin to overshoot */
+            100% { transform: rotate(360deg); } /* Bounce back to settle */
+        }
+        .spin-catch {
+            animation: spinCatch 0.8s ease-out;
+        }
+    </style>    
 </head>
 <body>
 <script>
@@ -109,6 +119,19 @@
   <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
 </svg>
         </button>
+
+        <!-- NEW DICE BUTTON -->
+        <button id="diceBtn" onclick="rollDice()" title="Pick One For Me" style="margin-left: 8px;">
+            <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                <path d="M16 8h.01"></path>
+                <path d="M8 8h.01"></path>
+                <path d="M8 16h.01"></path>
+                <path d="M16 16h.01"></path>
+                <path d="M12 12h.01"></path>
+            </svg>
+        </button>
+
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
         <!-- SAVED BUTTON -->
         <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
@@ -228,7 +251,8 @@
         "Search: Pancakes, Blog, Tofu...",
         "Find your favorite blogger",
         "⬇️ More Recipe Filters",
-        "⬇️ Shuffle to mix it up",
+        "⬅️ Shuffle to mix it up",
+        "🎲 Can't decide? Roll the dice!",
         "⬆️ Dark Mode: Press & hold logo",
         "💚 your favs for later",
         'Try, "One pot"',
@@ -536,6 +560,16 @@
         if (visitData.count > 1) {
             const btn = document.getElementById('shuffleIconBtn');
             if (btn) btn.classList.add('jiggle');
+            
+            // "Wave" animation: Trigger Dice spin 1s after Shuffle jiggle
+            setTimeout(() => {
+                const dice = document.getElementById('diceBtn');
+                if(dice) {
+                    dice.classList.add('spin-catch');
+                    // Remove class after animation ends so it can be re-triggered
+                    setTimeout(() => dice.classList.remove('spin-catch'), 1000);
+                }
+            }, 1000);
         }
     } catch (e) { console.error('Storage logic skipped', e); }
 
@@ -1121,6 +1155,45 @@
         document.getElementById('gallery').innerHTML = '';
         renderNextBatch();
     }
+
+    document.getElementById('gallery').innerHTML = '';
+        renderNextBatch();
+    }
+
+    function rollDice() {
+        const btn = document.getElementById('diceBtn');
+        if(btn) {
+            // Reset animation
+            btn.classList.remove('spin-catch');
+            void btn.offsetWidth; // Force reflow
+            btn.classList.add('spin-catch');
+        }
+
+        // Wait 0.5s for animation to play partially, then open recipe
+        setTimeout(() => {
+            // Use current filters (currentContext). If 0 results, fallback to ALL recipes.
+            let source = currentContext;
+            if (!source || source.length === 0) {
+                source = allRecipes;
+            }
+
+            if (source.length > 0) {
+                const randomIndex = Math.floor(Math.random() * source.length);
+                const winner = source[randomIndex];
+                window.open(winner.link, '_blank');
+            } else {
+                alert("No recipes available to roll!");
+            }
+            
+            // Cleanup animation class slightly later
+            setTimeout(() => {
+                if(btn) btn.classList.remove('spin-catch');
+            }, 500);
+
+        }, 500);
+    }
+
+    function toggleType(e, type) {
 
     function toggleType(e, type) {
         if(e) e.preventDefault(); 
