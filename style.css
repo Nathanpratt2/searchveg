@@ -211,6 +211,17 @@
             animation: jiggle 1s ease-in-out;
         }
 
+        /* --- DICE SPIN ANIMATION --- */
+        @keyframes diceSpin {
+            0% { transform: rotate(0deg); }
+            60% { transform: rotate(400deg); } /* Fast spin and big overshoot */
+            80% { transform: rotate(345deg); } /* Bounce back */
+            100% { transform: rotate(360deg); } /* Catch itself and settle */
+        }
+        .spin-catch svg {
+            animation: diceSpin 0.5s ease-in-out forwards;
+        }
+
         /* --- SCROLLING CONTROLS --- */
         .controls {
             display: flex;
