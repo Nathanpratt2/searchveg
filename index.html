@@ -1254,11 +1254,39 @@
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        const SAVORY_EXCEPTIONS = ['sweet potato', 'sweet and sour', 'sweet corn', 'sweet pea', 'sweet chili', 'sweet pepper'];
-        const SWEET_EXCEPTIONS = ['rice', 'instant pot', 'crock pot', 'one pot', 'cup', 'butter', 'nut']; 
+        // --- OVERHAULED EXCEPTIONS FOR MEALS VS SWEETS ---
+        
+        // 1. FALSE SWEETS: Words that trigger "sweet" keywords but are actually savory meals
+        const FALSE_SWEETS_IN_MEALS =[
+            'sweet potato', 'sweet & sour', 'sweet and sour', 'sweet corn', 'sweet pea', 
+            'sweet chili', 'sweet pepper', 'sweet onion', 'pot pie', "shepherd's pie", 
+            'potato cake', 'rice cake', 'fish cake', 'crab cake', 'scallion pancake', 
+            'english muffin', 'savory muffin', 'cornbread', 'unsweetened', 'semi-sweet'
+        ];
+
+        // 2. FALSE MEALS: Words that trigger "meal" keywords but are actually desserts 
+        // (Includes common baking ingredients/methods that trigger false savory flags)
+        const FALSE_MEALS_IN_SWEETS =[
+            'rice pudding', 'sticky rice', 'sweet potato pie', 'sweet potato cake', 
+            'sweet potato brownie', 'chickpea blondie', 'chickpea cookie', 'black bean brownie', 
+            'lentil brownie', 'breakfast cookie', 'breakfast cake', 'french toast', 
+            'cinnamon toast', 'smoothie bowl', 'dessert bowl', 'cookie skillet', 
+            'brownie skillet', 'no bake', 'tofu mousse', 'tofu pudding', 'dessert pizza', 
+            'fruit pizza', 'sweet pizza', 'pancake', 'waffle', 'crepe', 'bake', 'cup',
+            'instant pot', 'crock pot', 'one pot', 'butter'
+        ]; 
+
+        // 3. STRICT SAVORY: Words that unequivocally mean "Savory" and should NEVER be in Sweets.
+        const STRICT_SAVORY =[
+            'savory', 'garlic', 'onion', 'bbq', 'barbecue', 'mushroom', 'tomato', 'curry', 
+            'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 
+            'quesadilla', 'enchilada', 'casserole', 'scramble', 'pesto', 'hummus', 'nacho', 
+            'fries', 'skewer', 'kebab', 'roasted', 'parmesan', 'alfredo', 'marinara', 
+            'meatball', 'sausage', 'lasagna', 'risotto', 'shepherd', 'pad thai', 'salad', 'wrap'
+        ];
 
         // 1. Determine Source (Main Feed or Saved Recipes)
-        let filtered = [];
+        let filtered =[];
         
         if (isSavedView) {
             // Source: localStorage Map (Sorted by Date Saved DESC)
@@ -1280,7 +1308,7 @@
                 // Fuzzy Match on Title, Blog Name, and Tags
                 const title = recipe.title.toLowerCase().replace(/-/g, ' ');
                 const blogger = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
-                const tags = (recipe.special_tags || []).join(' ').toLowerCase().replace(/-/g, ' ');
+                const tags = (recipe.special_tags ||[]).join(' ').toLowerCase().replace(/-/g, ' ');
                 const searchableText = `${title} ${blogger} ${tags}`;
                 
                 return isFuzzyMatch(term, searchableText);
@@ -1293,19 +1321,24 @@
                 const t = recipe.title.toLowerCase();
                 const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
                 const hasSweetKeyword = SWEET_KEYWORDS.some(k => t.includes(k));
-                const isSavoryException = SAVORY_EXCEPTIONS.some(k => t.includes(k));
+                const isFalseSweet = FALSE_SWEETS_IN_MEALS.some(k => t.includes(k));
+                
+                // Exclude explicit desserts from meals, even if they contain "sweet potato"
+                const isExplicitDessert =['pie', 'cake', 'cookie', 'brownie', 'ice cream', 'pudding', 'dessert', 'muffin', 'cupcake', 'donut', 'cheesecake'].some(k => t.includes(k)) && !['pot pie', "shepherd's pie", 'potato cake', 'rice cake', 'crab cake', 'english muffin', 'savory muffin'].some(k => t.includes(k));
+
                 const isSide = t.includes('sauce') || t.includes('dressing') || t.includes('side') || t.includes('treats');
-                return hasMealKeyword && (!hasSweetKeyword || isSavoryException) && !isSide;
+                
+                return hasMealKeyword && (!hasSweetKeyword || isFalseSweet) && !isExplicitDessert && !isSide;
             });
         } else if (activeType === 'sweet') {
             filtered = filtered.filter(recipe => {
                 const t = recipe.title.toLowerCase();
                 const hasSweetKeyword = SWEET_KEYWORDS.some(k => t.includes(k));
                 const hasMealKeyword = MEAL_KEYWORDS.some(k => t.includes(k));
-                const isSweetException = SWEET_EXCEPTIONS.some(k => t.includes(k));
-                const isSavory = t.includes('spicy') || t.includes('chili') || t.includes("shepherd's") || t.includes('egg') || t.includes('burger');
-                const isExplicitlySavory = SAVORY_EXCEPTIONS.some(k => t.includes(k));
-                return hasSweetKeyword && (!hasMealKeyword || isSweetException) && !isExplicitlySavory && !isSavory;
+                const isFalseMeal = FALSE_MEALS_IN_SWEETS.some(k => t.includes(k));
+                const isStrictSavory = STRICT_SAVORY.some(k => t.includes(k));
+                
+                return hasSweetKeyword && (!hasMealKeyword || isFalseMeal) && !isStrictSavory;
             });
         }
 
