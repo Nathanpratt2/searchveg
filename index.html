@@ -562,14 +562,19 @@
             const shuffleBtn = document.getElementById('shuffleIconBtn');
             const luckyBtn = document.getElementById('luckyBtn');
             
+            // 1. Start the shuffle jiggle (takes 1 second)
             if (shuffleBtn) shuffleBtn.classList.add('jiggle');
             
-            // Trigger the Feeling Lucky dice roll at the same time
+            // 2. Wait 1 second, then trigger the Feeling Lucky spin
             if (luckyBtn) {
-                luckyBtn.classList.add('spin-catch');
                 setTimeout(() => {
-                    luckyBtn.classList.remove('spin-catch'); // Reset so it can be clicked again
-                }, 1000);
+                    luckyBtn.classList.add('spin-catch');
+                    
+                    // Reset the class after the 0.5s spin animation completes so it can be clicked later
+                    setTimeout(() => {
+                        luckyBtn.classList.remove('spin-catch'); 
+                    }, 600); 
+                }, 1000); // 1000ms delay perfectly chains it after the jiggle
             }
         }
     } catch (e) { console.error('Storage logic skipped', e); }
