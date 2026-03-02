@@ -69,20 +69,6 @@
     <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
     
     <div class="search-row">
-        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Arrowheads (Placed at the end of the lines) -->
-  <polyline points="17 4 21 7 17 10" />
-  <polyline points="17 14 21 17 17 20" />
-  
-  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
-  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
-  
-  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
-  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
-</svg>
-        </button>
-        
         <div class="search-wrapper">
             <label for="searchInput" style="display:none;">Search Recipes</label>
             <!-- 5. INPUT UX: Input Mode and Enter Key Hint -->
@@ -101,6 +87,19 @@
     </div>
 
     <div class="controls">
+        <button id="shuffleIconBtn" onclick="shuffleRecipes()" title="Shuffle Recipes">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Arrowheads (Placed at the end of the lines) -->
+  <polyline points="17 4 21 7 17 10" />
+  <polyline points="17 14 21 17 17 20" />
+  
+  <!-- Top-Left to Bottom-Right Path (Stops at x=17) -->
+  <path d="M3 7h3c2.5 0 4.5 10 7.5 10h3.5" />
+  
+  <!-- Bottom-Left to Top-Right Path (Stops at x=17) -->
+  <path d="M3 17h3c2.5 0 4.5-10 7.5-10h3.5" />
+</svg>
+        </button>
         <button id="installBtn" class="btn" style="display:none; color: #769F37; border-color: #769F37;" onclick="installPWA()">📲 Install App</button>
         <!-- SAVED BUTTON -->
         <a href="?view=saved" class="btn" id="savedBtn" onclick="toggleSavedView(event)">💚 Saved (0)</a>
