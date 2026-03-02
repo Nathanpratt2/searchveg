@@ -1284,15 +1284,14 @@
         ];
 
         // 2. FALSE MEALS: Words that trigger "meal" keywords but are actually desserts 
-        // (Includes common baking ingredients/methods that trigger false savory flags)
+        // Removed broad terms like 'pancake', 'bake', 'one pot' that let savory items bypass filters.
         const FALSE_MEALS_IN_SWEETS =[
             'rice pudding', 'sticky rice', 'sweet potato pie', 'sweet potato cake', 
-            'sweet potato brownie', 'chickpea blondie', 'chickpea cookie', 'black bean brownie', 
-            'lentil brownie', 'breakfast cookie', 'breakfast cake', 'french toast', 
-            'cinnamon toast', 'smoothie bowl', 'dessert bowl', 'cookie skillet', 
-            'brownie skillet', 'no bake', 'tofu mousse', 'tofu pudding', 'dessert pizza', 
-            'fruit pizza', 'sweet pizza', 'pancake', 'waffle', 'crepe', 'bake', 'cup',
-            'instant pot', 'crock pot', 'one pot', 'butter'
+            'sweet potato brownie', 'sweet potato dessert', 'chickpea blondie', 'chickpea cookie', 
+            'black bean brownie', 'lentil brownie', 'breakfast cookie', 'breakfast cake', 
+            'french toast', 'cinnamon toast', 'smoothie bowl', 'dessert bowl', 
+            'cookie skillet', 'brownie skillet', 'no bake', 'tofu mousse', 
+            'tofu pudding', 'dessert pizza', 'fruit pizza', 'sweet pizza'
         ]; 
 
         // 3. STRICT SAVORY: Words that unequivocally mean "Savory" and should NEVER be in Sweets.
@@ -1301,9 +1300,10 @@
             'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 
             'quesadilla', 'enchilada', 'casserole', 'scramble', 'pesto', 'hummus', 'nacho', 
             'fries', 'skewer', 'kebab', 'roasted', 'parmesan', 'alfredo', 'marinara', 
-            'meatball', 'sausage', 'lasagna', 'risotto', 'shepherd', 'pad thai', 'salad', 'wrap'
+            'meatball', 'sausage', 'lasagna', 'risotto', 'shepherd', 'pad thai', 'salad', 'wrap',
+            'jambalaya', 'brussel', 'crab cake', 'fish cake', 'rice cake', 'potato cake', 'latke',
+            'scallion pancake', 'potato pancake', 'savory pancake', 'pot pie', 'pierogi', 'empanada'
         ];
-
         // 1. Determine Source (Main Feed or Saved Recipes)
         let filtered =[];
         
