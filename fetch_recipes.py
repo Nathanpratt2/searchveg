@@ -36,6 +36,14 @@ TOP_BLOGGERS = [
     ("PlantYou", "https://plantyou.com/feed/", ["WFPB"]),#html scrapping was not working
     ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
     ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed", []),#html scrapping was not working
+
+    ("Justine Cooks Vegan", "https://justinecooksvegan.com/feed/",[]),
+    ("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/feed/",[]),
+    ("Yup It's Vegan", "https://yupitsvegan.com/feed/",[]),
+    ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/feed", ["WFPB"]),
+    ("Gimme Some Oven (Vegan Recipes)", "https://www.gimmesomeoven.com/dietary/vegan/feed/",[]),
+    ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB", "Budget"]),
+    ("Justine Snacks (Vegan Recipes)", "https://justinesnacks.com/category/special-diets/vegan/feed/", []),
     #permanent feed only above
 ]
 
@@ -45,15 +53,13 @@ DISRUPTORS = []
 
 HTML_SOURCES = [
 
-("Justine Cooks Vegan", ("https://justinecooksvegan.com/category/recipes/page/{}//", 1, 10),[], "wordpress"),
-("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
-("Yup It's Vegan", ("https://yupitsvegan.com/page/{}/?s=+", 1, 22),[], "wordpress"),
-    
-    # --- MAXED OUT SoURCES BELOW ---
-    ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
-        ("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
-            ("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
-          ("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
+#("Justine Cooks Vegan", ("https://justinecooksvegan.com/category/recipes/page/{}//", 1, 1),[], "wordpress"),
+#("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
+#("Yup It's Vegan", ("https://yupitsvegan.com/page/{}/?s=+", 1, 1),[], "wordpress"),
+   #("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
+        #("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
+            #("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
+          #("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
                     ("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),
         ("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
      ("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 1), [], "wordpress"),
@@ -69,12 +75,12 @@ HTML_SOURCES = [
         ("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 6, 16),[], "wordpress"),
             ("Messy Vegan Cook", ("https://messyvegancook.com/category/all-recipes/page/{}/", 1, 9), [], "wordpress"),#9
     ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 1), [], "wordpress"),#12 pages
-        ("Ambitious Kitchen (Vegan Recipes)", ("https://www.ambitiouskitchen.com/recipe-index/?_sft_diettypes=vegan&sf_paged={}", 6, 11),[], "wordpress"),
+        ("Ambitious Kitchen (Vegan Recipes)", ("https://www.ambitiouskitchen.com/recipe-index/?_sft_diettypes=vegan&sf_paged={}", 1, 1),[], "wordpress"),
          ("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 1, 1), [], "wordpress"),
         ("From My Bowl", ("https://frommybowl.com/category/diet/vegan/page/{}/", 1, 1), [], "wordpress"),#35 pages
     ("The First Mess", ("https://thefirstmess.com/page/{}/?s=+", 1, 1), [], "wordpress"),#not sure how many
         ("A Virtual Vegan", ("https://avirtualvegan.com/category/archives/page/{}/", 1, 1), [], "wordpress"),#14 pages
-    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 3), ["Budget"], "squarespace"),#52 pages #fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one
+    ("The Hidden Veggies", ("https://thehiddenveggies.com/recipe-index/page/{}/", 1, 1), ["Budget"], "squarespace"),#52 pages #fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one#fix this one
     ("The Full Helping (Vegan Recipes)",("https://www.thefullhelping.com/dietary/vegan/page/{}/", 1, 1), [],"wordpress"),#Load more so unsure how many pages
     ("Lazy Cat Kitchen", ("https://www.lazycatkitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#38 pages
     ("Flora & Vino", ("https://www.floraandvino.com/category/all-food-recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#82 pages
@@ -96,7 +102,7 @@ HTML_SOURCES = [
     ("Big Box Vegan", ("https://bigboxvegan.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#43 pages
     ("Veggiekins", ("https://veggiekinsblog.com/category/eat/gluten-free/page/{}/", 1, 1), ["Easy","GF"], "wordpress"), # GF only for now. she has others
     ("HealthyGirl Kitchen", ("https://healthygirlkitchen.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#6 pages
-    ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 1, 2), [], "wordpress"),#not sure pages
+    ("Monkey & Me Kitchen Adventures", ("https://monkeyandmekitchenadventures.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#not sure pages
     ("Vegan in the Freezer", ("https://veganinthefreezer.com/recipes/?pg={}", 1, 1), [], "wordpress"),#62 pages
     ("Running on Real Food", ("https://runningonrealfood.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#45 pages
     ("Elavegan", ("https://elavegan.com/category/recipe/page/{}/", 1, 1), ["GF"], "wordpress"), #51 pages
