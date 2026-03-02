@@ -559,8 +559,18 @@
         safeSetStorage(visitKey, visitData);
 
         if (visitData.count > 1) {
-            const btn = document.getElementById('shuffleIconBtn');
-            if (btn) btn.classList.add('jiggle');
+            const shuffleBtn = document.getElementById('shuffleIconBtn');
+            const luckyBtn = document.getElementById('luckyBtn');
+            
+            if (shuffleBtn) shuffleBtn.classList.add('jiggle');
+            
+            // Trigger the Feeling Lucky dice roll at the same time
+            if (luckyBtn) {
+                luckyBtn.classList.add('spin-catch');
+                setTimeout(() => {
+                    luckyBtn.classList.remove('spin-catch'); // Reset so it can be clicked again
+                }, 1000);
+            }
         }
     } catch (e) { console.error('Storage logic skipped', e); }
 
