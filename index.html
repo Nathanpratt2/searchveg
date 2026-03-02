@@ -1254,13 +1254,13 @@
         const rawInput = document.getElementById('searchInput').value;
         const term = rawInput.toLowerCase().replace(/-/g, ' '); 
         
-        // --- EXCEPTIONS FOR MEALS VS SWEETS ---
+        // --- OVERHAULED EXCEPTIONS FOR MEALS VS SWEETS ---
         
         // 1. FALSE SWEETS: Words that trigger "sweet" keywords but are actually savory meals
         const FALSE_SWEETS_IN_MEALS =[
             'sweet potato', 'sweet & sour', 'sweet and sour', 'sweet corn', 'sweet pea', 
-            'sweet chili', 'sweet pepper', 'sweet onion', 'pot pie', "shepherd's pie", "chicken pot pie",
-            'potato cake', 'rice cake', 'fish cake', 'crab cake', 'scallion pancake', 'crab cakes'.
+            'sweet chili', 'sweet pepper', 'sweet onion', 'pot pie', "shepherd's pie", 
+            'potato cake', 'rice cake', 'fish cake', 'crab cake', 'scallion pancake', 
             'english muffin', 'savory muffin', 'cornbread', 'unsweetened', 'semi-sweet'
         ];
 
@@ -1279,9 +1279,9 @@
         // 3. STRICT SAVORY: Words that unequivocally mean "Savory" and should NEVER be in Sweets.
         const STRICT_SAVORY =[
             'savory', 'garlic', 'onion', 'bbq', 'barbecue', 'mushroom', 'tomato', 'curry', 
-            'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 'pot pie',
-            'quesadilla', 'enchilada', 'casserole', 'scramble', 'pesto', 'hummus', 'nacho', 'sprouts',
-            'fries', 'skewer', 'kebab', 'roasted', 'parmesan', 'alfredo', 'marinara', 'crab', 'chicken',
+            'soup', 'stew', 'gravy', 'burger', 'taco', 'mac & cheese', 'mac and cheese', 
+            'quesadilla', 'enchilada', 'casserole', 'scramble', 'pesto', 'hummus', 'nacho', 
+            'fries', 'skewer', 'kebab', 'roasted', 'parmesan', 'alfredo', 'marinara', 
             'meatball', 'sausage', 'lasagna', 'risotto', 'shepherd', 'pad thai', 'salad', 'wrap'
         ];
 
