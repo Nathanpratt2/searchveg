@@ -58,14 +58,24 @@
     }
 </script>
 
-<header>
+<nav class="main-nav">
     <h1 class="sr-only">Search Vegan Recipes</h1>
-
-    <a href="index.html" class="logo-link" title="Refresh">
-        <!-- 4. IMAGE OPTIMIZATION: FetchPriority High & Async Decoding for LCP -->
-        <img src="default.png" alt=" Search Vegan Recipes" class="logo-img" fetchpriority="high" decoding="async">
+    
+    <a href="index.html" class="nav-brand-link logo-link" title="Home">
+        <!-- IMAGE OPTIMIZATION: FetchPriority High & Async Decoding for LCP -->
+        <img src="default.png" alt="SearchVeg Logo" class="nav-logo" fetchpriority="high" decoding="async">
     </a>
     
+    <div class="nav-links" id="navLinks">
+        <a href="index.html" class="active-nav">Find a Recipe</a>
+        <a href="#">Blog</a>
+        <a href="#">About</a>
+    </div>
+
+    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle Menu">☰</button>
+</nav>
+
+<header>
     <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
     
     <div class="search-row">
