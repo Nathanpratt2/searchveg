@@ -56,7 +56,7 @@ jobs:
 
              if (( DIFF < COOLDOWN )); then
                 HOURS=$((DIFF / 3600))
-                echo "Last successful run was only $HOURS hours ago (less than 6). Skipping."
+                echo "Last successful run was only $HOURS hours ago (less than 3). Skipping."
                 echo "skip_run=true" >> $GITHUB_OUTPUT
              else
                 echo "Last successful run was $DIFF seconds ago. Proceeding."
