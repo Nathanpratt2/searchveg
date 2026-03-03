@@ -63,7 +63,13 @@
     
     <a href="index.html" class="nav-brand-link logo-link" title="Home">
         <!-- IMAGE OPTIMIZATION: FetchPriority High & Async Decoding for LCP -->
-        <img src="default.png" alt="SearchVeg Logo" class="nav-logo" fetchpriority="high" decoding="async">
+        <img src="default.png" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
+        <script>
+            // PREVENT FLASH: Swap to dark mode logo immediately if saved
+            if(localStorage.getItem('theme') === 'dark') {
+                document.getElementById('navLogoImg').src = 'default_darkmode.png';
+            }
+        </script>
     </a>
     
     <div class="nav-links" id="navLinks">
@@ -657,11 +663,15 @@
         // Visual feedback
         if("vibrate" in navigator) navigator.vibrate(50);
         
+        const logoImg = document.getElementById('navLogoImg');
+
         // Save preference (optional, but good UX)
         if(document.body.classList.contains('dark-mode')) {
             localStorage.setItem('theme', 'dark');
+            if (logoImg) logoImg.src = 'default_darkmode.png';
         } else {
             localStorage.removeItem('theme');
+            if (logoImg) logoImg.src = 'default.png';
         }
     }
 
