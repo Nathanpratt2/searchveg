@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-03 00:53:49
+**Last Run:** 2026-03-03 08:22:47
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20070 | 181 new today |
+| **Total Database** | 20070 | 171 new today |
 | **Blogs Monitored** | 119 | 1 HTML / 94 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2285 / 2711 | 11% / 13% |
@@ -24,7 +24,7 @@
 | PlantYou | 1 | 15 | 15 | 2 | 2 | 0 | 2026-03-01 | ✅ OK |
 | Jessica in the Kitchen | 3 | 16 | 1 | 2 | 1 | 2 | 2026-02-27 | ✅ OK |
 | Dr. Vegan | 0 | 17 | 4 | 17 | 8 | 0 | 2026-03-02 | ✅ OK |
-| Justine Snacks (Vegan Recipes) | 9 | 17 | 0 | 1 | 0 | 1 | 2026-03-02 | ✅ OK |
+| Justine Snacks (Vegan Recipes) | 2 | 17 | 0 | 1 | 0 | 1 | 2026-03-02 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 21 | 5 | 1 | 4 | 20 | 2026-02-26 | ✅ OK |
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
 | Vegan Richa GF | 2 | 26 | 1 | 7 | 7 | 26 | 2026-02-25 | ✅ OK |
@@ -54,7 +54,7 @@
 | The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-02-28 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 214 | 0 | 30 | 0 | 3 | 2026-01-08 | ✅ OK |
-| The Vegan 8 | 1 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
+| The Vegan 8 | 0 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
 | Big Box Vegan | 3 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
 | The First Mess | 1 | 219 | 1 | 30 | 3 | 1 | 2026-02-25 | ✅ OK |
 | Sweet Simple Vegan | 1 | 223 | 5 | 49 | 18 | 2 | 2026-03-02 | ✅ OK |
@@ -107,7 +107,7 @@
 | Ann Arbor Vegan Kitchen | 0 | 279 | 279 | 24 | 3 | 0 | 2026-02-18 | ✅ OK |
 | VegNews | 0 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 13 | 3 | 5 | 2026-03-01 | ✅ OK |
-| Messy Vegan Cook | 2 | 280 | 0 | 17 | 1 | 1 | 2026-01-02 | ✅ OK |
+| Messy Vegan Cook | 0 | 280 | 0 | 17 | 1 | 1 | 2026-01-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 280 | 35 | 33 | 2 | 38 | 2026-02-28 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 280 | 1 | 4 | 4 | 1 | 2026-03-02 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
@@ -125,9 +125,9 @@
 | Max La Manna | 0 | 32 | 2 | 3 | 2 | 2 | 2020-01-01 | Skipped |
 | Chef AJ | 0 | 34 | 34 | 5 | 6 | 0 | 2025-04-24 | Skipped |
 | Snixy Kitchen (Vegan Recipes) | 0 | 39 | 0 | 7 | 2 | 39 | 2025-11-21 | Skipped |
+| Justine Snacks | 0 | 47 | 0 | 0 | 0 | 0 | 2025-10-14 | Skipped |
 | Nadia's Healthy Kitchen (Vegan Recipes) | 0 | 50 | 12 | 7 | 2 | 3 | 2026-02-18 | Skipped |
 | A Couple Cooks | 0 | 52 | 0 | 12 | 0 | 0 | 2026-02-13 | Skipped |
-| Justine Snacks | 0 | 54 | 0 | 0 | 0 | 0 | 2026-02-24 | Skipped |
 | The Loopy Whisk (Vegan Recipes) | 0 | 91 | 10 | 32 | 1 | 90 | 2024-06-07 | Skipped |
 | Pinch of Yum | 0 | 94 | 0 | 18 | 0 | 0 | 2025-03-13 | Skipped |
 | The Veg Space | 0 | 128 | 3 | 10 | 18 | 0 | 2022-10-20 | Skipped |
