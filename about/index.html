@@ -18,11 +18,11 @@
 <body>
 
 <script>
-    // PRELOAD THEME: Run immediately to prevent "flash of white"
-    if(localStorage.getItem('theme') === 'dark') {
-        document.body.classList.add('dark-mode');
-    }
-</script>
+    // PREVENT FLASH: Swap to dark mode logo immediately if saved
+            if(localStorage.getItem('theme') === 'dark') {
+                document.getElementById('navLogoImg').src = 'default_darkmode.png';
+            }
+        </script>
 
 <!-- NAVIGATION BAR -->
 <nav class="main-nav">
