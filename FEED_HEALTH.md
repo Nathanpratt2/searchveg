@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-02 23:16:47
+**Last Run:** 2026-03-03 00:53:49
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20069 | 200 new today |
+| **Total Database** | 20070 | 181 new today |
 | **Blogs Monitored** | 119 | 1 HTML / 94 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2285 / 2711 | 11% / 13% |
-| **Easy / Budget** | 4979 / 2093 | 24% / 10% |
+| **Easy / Budget** | 4977 / 2094 | 24% / 10% |
 
 ---
 
@@ -24,7 +24,7 @@
 | PlantYou | 1 | 15 | 15 | 2 | 2 | 0 | 2026-03-01 | ✅ OK |
 | Jessica in the Kitchen | 3 | 16 | 1 | 2 | 1 | 2 | 2026-02-27 | ✅ OK |
 | Dr. Vegan | 0 | 17 | 4 | 17 | 8 | 0 | 2026-03-02 | ✅ OK |
-| Justine Snacks (Vegan Recipes) | 10 | 17 | 0 | 1 | 0 | 1 | 2026-03-02 | ✅ OK |
+| Justine Snacks (Vegan Recipes) | 9 | 17 | 0 | 1 | 0 | 1 | 2026-03-02 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 21 | 5 | 1 | 4 | 20 | 2026-02-26 | ✅ OK |
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
 | Vegan Richa GF | 2 | 26 | 1 | 7 | 7 | 26 | 2026-02-25 | ✅ OK |
@@ -54,20 +54,20 @@
 | The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-02-28 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 214 | 0 | 30 | 0 | 3 | 2026-01-08 | ✅ OK |
-| The Vegan 8 | 0 | 214 | 47 | 214 | 214 | 35 | 2026-02-19 | ✅ OK |
+| The Vegan 8 | 1 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
 | Big Box Vegan | 3 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
 | The First Mess | 1 | 219 | 1 | 30 | 3 | 1 | 2026-02-25 | ✅ OK |
-| Sweet Simple Vegan | 2 | 223 | 5 | 49 | 18 | 2 | 2026-03-02 | ✅ OK |
-| Vegan in the Freezer | 1 | 224 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
+| Sweet Simple Vegan | 1 | 223 | 5 | 49 | 18 | 2 | 2026-03-02 | ✅ OK |
+| Vegan in the Freezer | 0 | 224 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Addicted to Dates | 0 | 225 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan Heaven | 4 | 225 | 0 | 30 | 0 | 1 | 2026-01-06 | ✅ OK |
 | ZardyPlants | 0 | 225 | 225 | 36 | 225 | 4 | 2025-11-08 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 19 | 230 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 3 | 230 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Cadry's Kitchen | 3 | 234 | 11 | 83 | 22 | 0 | 2026-02-23 | ✅ OK |
 | Forks Over Knives | 2 | 235 | 235 | 24 | 41 | 2 | 2026-02-05 | ✅ OK |
-| HealthyGirl Kitchen | 4 | 237 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
+| HealthyGirl Kitchen | 3 | 237 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 0 | 237 | 19 | 79 | 18 | 45 | 2026-02-10 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-01-09 | ✅ OK |
@@ -126,8 +126,8 @@
 | Chef AJ | 0 | 34 | 34 | 5 | 6 | 0 | 2025-04-24 | Skipped |
 | Snixy Kitchen (Vegan Recipes) | 0 | 39 | 0 | 7 | 2 | 39 | 2025-11-21 | Skipped |
 | Nadia's Healthy Kitchen (Vegan Recipes) | 0 | 50 | 12 | 7 | 2 | 3 | 2026-02-18 | Skipped |
+| A Couple Cooks | 0 | 52 | 0 | 12 | 0 | 0 | 2026-02-13 | Skipped |
 | Justine Snacks | 0 | 54 | 0 | 0 | 0 | 0 | 2026-02-24 | Skipped |
-| A Couple Cooks | 0 | 68 | 0 | 15 | 0 | 0 | 2026-02-27 | Skipped |
 | The Loopy Whisk (Vegan Recipes) | 0 | 91 | 10 | 32 | 1 | 90 | 2024-06-07 | Skipped |
 | Pinch of Yum | 0 | 94 | 0 | 18 | 0 | 0 | 2025-03-13 | Skipped |
 | The Veg Space | 0 | 128 | 3 | 10 | 18 | 0 | 2022-10-20 | Skipped |
