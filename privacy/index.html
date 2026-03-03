@@ -29,11 +29,11 @@
     
     <a href="../index.html" class="nav-brand-link logo-link" title="Home">
         <!-- Image source points up one level with ../ -->
-        <img src="../default.png" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
+        <img src="../default.png?v=2" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
         <script>
             // 2. PREVENT LOGO FLASH: Swaps logo instantly (using ../ for subfolders)
             if(localStorage.getItem('theme') === 'dark') {
-                document.getElementById('navLogoImg').src = '../default_darkmode.png';
+                document.getElementById('navLogoImg').src = '../default_darkmode.png?v=2';
             }
         </script>
     </a>
@@ -127,10 +127,10 @@
         if(document.body.classList.contains('dark-mode')) {
             localStorage.setItem('theme', 'dark');
             // Ensure the paths have ../ since we are in the about/ folder
-            if (logoImg) logoImg.src = '../default_darkmode.png';
+            if (logoImg) logoImg.src = '../default_darkmode.png?v=2';
         } else {
             localStorage.removeItem('theme');
-            if (logoImg) logoImg.src = '../default.png';
+            if (logoImg) logoImg.src = '../default.png?v=2';
         }
     }
 
