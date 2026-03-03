@@ -56,7 +56,7 @@ TOP_BLOGGERS = [
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
     ("The Banana Diaries", "https://thebananadiaries.com/feed/", []),
     ("Vegan Recipe Club", "https://www.veganrecipeclub.org.uk/feed/", []),
-    ("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
+    #("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
     ("Full of Plants", "https://fullofplants.com/feed/", []),
     ("Ambitious Kitchen (Vegan Recipes)", "https://www.ambitiouskitchen.com/feed/?diettypes=vegan", []),
     ("My Darling Vegan", "https://www.mydarlingvegan.com/feed/", []),
@@ -100,15 +100,15 @@ TOP_BLOGGERS = [
     ("Rainbow Plant Life", "https://rainbowplantlife.com/feed/", []),
     ("Dreena Burton", "https://dreenaburton.com/feed/", ["WFPB"]),
     ("Nora Cooks", "https://www.noracooks.com/feed/", []),
-    ("Baking Hermann", "https://bakinghermann.com/feed/", []),
+    #("Baking Hermann", "https://bakinghermann.com/feed/", []),
     ("Vegan Richa GF", "https://www.veganricha.com/category/gluten-free/feed/", ["GF"]),
     ("The Edgy Veg", "https://www.theedgyveg.com/feed/", []),
     ("Cookie and Kate (Vegan Recipes)", "https://cookieandkate.com/category/food-recipes/vegan/feed/", []),
-    ("BOSH! TV", "https://www.bosh.tv/feed/", []),
+    #("BOSH! TV", "https://www.bosh.tv/feed/", []),
     ("Simple Vegan Blog", "https://simpleveganblog.com/feed/", []),
     ("Hot For Food", "https://www.hotforfoodblog.com/feed/", []),
     ("My Goodness Kitchen", "https://mygoodnesskitchen.com/feed/", []),
-    ("VegNews", "https://vegnews.com/feed", []),
+    #("VegNews", "https://vegnews.com/feed", []),
     ("Sweet Simple Vegan", "https://sweetsimplevegan.com/feed/", []),
     ("Bianca Zapatka", "https://biancazapatka.com/en/feed/", []),
     ("The Cheap Lazy Vegan", "https://thecheaplazyvegan.com/feed/", ["Budget", "Easy"]),
@@ -122,7 +122,6 @@ TOP_BLOGGERS = [
     ("Namely Marly", "https://namelymarly.com/category/vegan-recipes/feed/", []),
     ("Gretchen's Vegan Bakery", "https://www.gretchensveganbakery.com/feed/", []),
     ("Vegan Yack Attack", "https://veganyackattack.com/feed/", []),
-    ("Minimalist Baker (Vegan Recipes)", "https://minimalistbaker.com/diet/vegan/feed/", []),
     ("The Burger Dude", "https://theeburgerdude.com/feed/", []),
     ("My Vegan Minimalist", "https://myveganminimalist.com/feed/", []),
     ("Addicted to Dates", "https://addictedtodates.com/feed/", []),
@@ -156,7 +155,7 @@ HTML_SOURCES = [
             #("Holistic Chef Academy", ("https://holisticchefacademy.com/page/{}/?s=+", 1, 1), [], "wordpress"),#6
   #  ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
        # ("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 6, 16),[], "wordpress"),
-            #("Messy Vegan Cook", ("https://messyvegancook.com/category/all-recipes/page/{}/", 1, 9), [], "wordpress"),#9
+            ("Messy Vegan Cook", ("https://messyvegancook.com/category/all-recipes/page/{}/", 1, 9), [], "wordpress"),#9
    # ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 1), [], "wordpress"),#12 pages
         #("Ambitious Kitchen (Vegan Recipes)", ("https://www.ambitiouskitchen.com/recipe-index/?_sft_diettypes=vegan&sf_paged={}", 1, 1),[], "wordpress"),
          #("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 1, 1), [], "wordpress"),
@@ -200,15 +199,15 @@ HTML_SOURCES = [
    # ("Rainbow Plant Life", ("https://rainbowplantlife.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#19 pages
     #("Dreena Burton", ("https://dreenaburton.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#21 pages of this
    #("Nora Cooks", "https://www.noracooks.com/blog/page/1/", [], "wordpress"),#maxed out
-   # ("Baking Hermann", "https://bakinghermann.com/recipes/", [], "wordpress"), #have gotten all of this catalog
+   ("Baking Hermann", "https://bakinghermann.com/recipes/", [], "wordpress"), #have gotten all of this catalog
    # ("Vegan Richa GF", "https://www.veganricha.com/category/gluten-free/", ["GF"], "wordpress"),
    # ("The Edgy Veg", ("https://www.theedgyveg.com/recipes/page/{}/", 1, 1), [], "wordpress"),#75 pages
    # ("Cookie and Kate (Vegan Recipes)", "https://cookieandkate.com/category/food-recipes/vegan/", [], "wordpress"),#maxed out
-    #("BOSH! TV", "https://www.bosh.tv/recipes", [], "wordpress"), #maxed out
+    ("BOSH! TV", "https://www.bosh.tv/recipes", [], "wordpress"), #maxed out
     #("Simple Vegan Blog", "https://simpleveganblog.com/", [], "wordpress"),#maxed
    # ("Hot For Food","https://www.hotforfoodblog.com/category/recipes/page/1/",[],"wordpress"),#maxed out
    # ("My Goodness Kitchen", "https://mygoodnesskitchen.com/recipes/page/1/", [], "wordpress"),
-   # ("VegNews", ("https://vegnews.com/recipes/page/{}/", 1, 1), [], "wordpress"),#maybe infinite pages lol
+   ("VegNews", ("https://vegnews.com/recipes/page/{}/", 1, 1), [], "wordpress"),#maybe infinite pages lol
    # ("Sweet Simple Vegan", "https://sweetsimplevegan.com/recipes/page/1/", [], "wordpress"),#maxed out recipes
    # ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 1, 1), [], "wordpress"),#70 pages, input as a range
    # ("The Cheap Lazy Vegan", ("https://thecheaplazyvegan.com/blog/page/{}/", 1, 1), ["Budget", "Easy"], "wordpress"),#62 pages
@@ -222,7 +221,7 @@ HTML_SOURCES = [
   #  ("Namely Marly", ("https://namelymarly.com/category/vegan-recipes/page/{}/", 1, 1), [], "wordpress"),#35 pages for this
    # ("Gretchen's Vegan Bakery", ("https://www.gretchensveganbakery.com/category/all-recipes/page/{}/", 1, 1), [], "wordpress"),#at least 50 pages
    # ("Vegan Yack Attack", "https://veganyackattack.com/", [], "wordpress"),#maxed out recipes. keep base link for new ones
-   # ("Minimalist Baker (Vegan Recipes)", "https://minimalistbaker.com/recipes/vegan", [], "wordpress"),#maxed out recipes
+   ("Minimalist Baker (Vegan Recipes)", "https://minimalistbaker.com/recipes/vegan", [], "wordpress"),#maxed out recipes
    # ("The Burger Dude", "https://theeburgerdude.com/recipe%20index/page/1/", [], "wordpress"),#maxed out
    # ("My Vegan Minimalist", ("https://myveganminimalist.com/page/{}/?s=+", 1, 1), [], "wordpress"),
    # ("Addicted to Dates", ("https://addictedtodates.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#19 pages
