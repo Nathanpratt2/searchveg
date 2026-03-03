@@ -47,7 +47,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1.3">
+    <link rel="stylesheet" href="style.css?v=2">
         
 </head>
 <body>
@@ -63,11 +63,11 @@
     
     <a href="index.html" class="nav-brand-link logo-link" title="Home">
         <!-- IMAGE OPTIMIZATION: FetchPriority High & Async Decoding for LCP -->
-        <img src="default.png" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
+        <img src="default.png?v=2" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
         <script>
-            // PREVENT FLASH: Swap to dark mode logo immediately if saved
+            // 2. PREVENT LOGO FLASH: Swaps logo instantly
             if(localStorage.getItem('theme') === 'dark') {
-                document.getElementById('navLogoImg').src = 'default_darkmode.png';
+                document.getElementById('navLogoImg').src = 'default_darkmode.png?v=2';
             }
         </script>
     </a>
@@ -668,10 +668,10 @@
         // Save preference (optional, but good UX)
         if(document.body.classList.contains('dark-mode')) {
             localStorage.setItem('theme', 'dark');
-            if (logoImg) logoImg.src = 'default_darkmode.png';
+            if (logoImg) logoImg.src = 'default_darkmode.png?v=2';
         } else {
             localStorage.removeItem('theme');
-            if (logoImg) logoImg.src = 'default.png';
+            if (logoImg) logoImg.src = 'default.png?v=2';
         }
     }
 
