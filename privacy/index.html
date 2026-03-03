@@ -16,20 +16,26 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-
 <script>
-    // PREVENT FLASH: Swap to dark mode logo immediately if saved
-            if(localStorage.getItem('theme') === 'dark') {
-                document.getElementById('navLogoImg').src = 'default_darkmode.png';
-            }
-        </script>
+    // 1. PRELOAD THEME: Turns the page background dark instantly
+    if(localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark-mode');
+    }
+</script>
 
 <!-- NAVIGATION BAR -->
 <nav class="main-nav">
-    <h1 class="sr-only">Privacy Policy</h1>
+    <h1 class="sr-only">About SearchVeg</h1>
     
     <a href="../index.html" class="nav-brand-link logo-link" title="Home">
-        <img src="../default.png" alt="SearchVeg Logo" class="nav-logo" fetchpriority="high" decoding="async">
+        <!-- Image source points up one level with ../ -->
+        <img src="../default.png" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
+        <script>
+            // 2. PREVENT LOGO FLASH: Swaps logo instantly (using ../ for subfolders)
+            if(localStorage.getItem('theme') === 'dark') {
+                document.getElementById('navLogoImg').src = '../default_darkmode.png';
+            }
+        </script>
     </a>
     
     <div class="nav-links" id="navLinks">
@@ -120,10 +126,11 @@
         // Save preference (optional, but good UX)
         if(document.body.classList.contains('dark-mode')) {
             localStorage.setItem('theme', 'dark');
-            if (logoImg) logoImg.src = 'default_darkmode.png';
+            // Ensure the paths have ../ since we are in the about/ folder
+            if (logoImg) logoImg.src = '../default_darkmode.png';
         } else {
             localStorage.removeItem('theme');
-            if (logoImg) logoImg.src = 'default.png';
+            if (logoImg) logoImg.src = '../default.png';
         }
     }
 
