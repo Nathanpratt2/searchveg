@@ -16,6 +16,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+<script>
+    // 1. PRELOAD THEME: Turns the page background dark instantly
+    if(localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark-mode');
+    }
+</script>
 
 <!-- NAVIGATION BAR -->
 <nav class="main-nav">
@@ -25,8 +31,7 @@
         <!-- Image source points up one level with ../ -->
         <img src="../default.png" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
         <script>
-            // PREVENT FLASH: Swap to dark mode logo immediately if saved
-            // Note the ../ added to the path for subfolders!
+            // 2. PREVENT LOGO FLASH: Swaps logo instantly (using ../ for subfolders)
             if(localStorage.getItem('theme') === 'dark') {
                 document.getElementById('navLogoImg').src = '../default_darkmode.png';
             }
