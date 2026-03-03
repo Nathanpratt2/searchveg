@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-03 08:22:47
+**Last Run:** 2026-03-03 13:59:28
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20070 | 171 new today |
+| **Total Database** | 20070 | 180 new today |
 | **Blogs Monitored** | 119 | 1 HTML / 94 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2285 / 2711 | 11% / 13% |
@@ -50,8 +50,8 @@
 | My Vegan Minimalist | 1 | 196 | 16 | 58 | 11 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 196 | 16 | 27 | 13 | 5 | 2026-03-02 | ✅ OK |
 | Watch Learn Eat | 0 | 201 | 4 | 201 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Baking Hermann | 0 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
 | The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-02-28 | ✅ OK |
+| Baking Hermann | 10 | 213 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 214 | 0 | 30 | 0 | 3 | 2026-01-08 | ✅ OK |
 | The Vegan 8 | 0 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
@@ -62,7 +62,7 @@
 | Addicted to Dates | 0 | 225 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan Heaven | 4 | 225 | 0 | 30 | 0 | 1 | 2026-01-06 | ✅ OK |
 | ZardyPlants | 0 | 225 | 225 | 36 | 225 | 4 | 2025-11-08 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 3 | 230 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 2 | 229 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Cadry's Kitchen | 3 | 234 | 11 | 83 | 22 | 0 | 2026-02-23 | ✅ OK |
