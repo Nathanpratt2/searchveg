@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-04 00:02:18
+**Last Run:** 2026-03-04 07:28:22
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20077 | 304 new today |
+| **Total Database** | 20077 | 314 new today |
 | **Blogs Monitored** | 119 | 6 HTML / 89 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2285 / 2711 | 11% / 13% |
@@ -24,7 +24,7 @@
 | PlantYou | 1 | 15 | 15 | 2 | 2 | 0 | 2026-03-01 | ✅ OK |
 | Jessica in the Kitchen | 3 | 16 | 1 | 2 | 1 | 2 | 2026-02-27 | ✅ OK |
 | Dr. Vegan | 0 | 17 | 4 | 17 | 8 | 0 | 2026-03-02 | ✅ OK |
-| Justine Snacks (Vegan Recipes) | 3 | 18 | 0 | 1 | 0 | 1 | 2026-03-03 | ✅ OK |
+| Justine Snacks (Vegan Recipes) | 2 | 18 | 0 | 1 | 0 | 1 | 2026-03-03 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 21 | 5 | 1 | 4 | 20 | 2026-02-26 | ✅ OK |
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
 | Vegan Richa GF | 2 | 26 | 1 | 7 | 7 | 26 | 2026-02-25 | ✅ OK |
@@ -50,7 +50,7 @@
 | My Vegan Minimalist | 1 | 196 | 16 | 58 | 11 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 196 | 16 | 27 | 13 | 5 | 2026-03-02 | ✅ OK |
 | Watch Learn Eat | 0 | 201 | 4 | 201 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Baking Hermann | 0 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
+| Baking Hermann | 16 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK (16) |
 | The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-02-28 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
@@ -107,9 +107,9 @@
 | Ann Arbor Vegan Kitchen | 0 | 279 | 279 | 24 | 3 | 0 | 2026-02-18 | ✅ OK |
 | VegNews | 45 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 13 | 3 | 5 | 2026-03-01 | ✅ OK |
-| Messy Vegan Cook | 84 | 280 | 0 | 17 | 1 | 1 | 2026-01-02 | ✅ OK (8) |
-| The Conscious Plant Kitchen | 0 | 280 | 35 | 33 | 2 | 38 | 2026-02-28 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 280 | 1 | 4 | 4 | 1 | 2026-03-02 | ✅ OK |
+| Messy Vegan Cook | 77 | 280 | 0 | 17 | 1 | 1 | 2026-01-02 | ✅ OK (8) |
+| The Conscious Plant Kitchen | 1 | 280 | 35 | 33 | 2 | 38 | 2026-03-04 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 280 | 1 | 4 | 4 | 1 | 2026-03-04 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
