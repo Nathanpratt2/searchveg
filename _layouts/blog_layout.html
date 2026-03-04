@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | SearchVeg</title>
     
-    <!-- FIX: Using the full URL ensures this works even deep inside blog folders -->
+    <!-- CSS & Fonts -->
     <link rel="stylesheet" href="https://searchveg.com/style.css?v={{ site.time | date: '%s' }}">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="icon" href="https://searchveg.com/logo.png" type="image/png">
@@ -60,12 +60,16 @@
     <a href="https://searchveg.com/index.html" class="nav-brand-link logo-link">
         <img src="https://searchveg.com/default.png?v=2" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg">
     </a>
+    
     <div class="nav-links" id="navLinks">
         <a href="https://searchveg.com/index.html">Find a Recipe</a>
         <a href="https://searchveg.com/blog/" class="active-nav">Blog</a>
         <a href="https://searchveg.com/about/">About</a>
         <a href="https://searchveg.com/privacy/">Privacy</a>
     </div>
+
+    <!-- NEW: The Hamburger Button was missing here! -->
+    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle Menu">☰</button>
 </nav>
 
 <main class="blog-wrapper">
@@ -78,11 +82,21 @@
 </footer>
 
 <script>
-    // Keep dark mode working on the blog
+    // 1. Dark Mode Logic
     if(localStorage.getItem('theme') === 'dark') {
         document.body.classList.add('dark-mode');
-        // FIX: Use full URL for the dark mode logo too
         document.getElementById('navLogoImg').src = 'https://searchveg.com/default_darkmode.png?v=2';
+    }
+
+    // 2. NEW: Navigation Logic (Required for mobile menu to open)
+    const hamburgerBtn = document.getElementById('hamburgerBtn');
+    const navLinks = document.getElementById('navLinks');
+    
+    if(hamburgerBtn && navLinks) {
+        hamburgerBtn.addEventListener('click', function() {
+            navLinks.classList.toggle('active');
+            this.innerText = this.innerText === '☰' ? '✕' : '☰';
+        });
     }
 </script>
 </body>
