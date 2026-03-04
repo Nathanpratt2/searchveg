@@ -74,7 +74,12 @@
 
 <main class="blog-wrapper">
     <!-- This is the magic tag where Jekyll injects your blog text -->
-    {{ content }}
+    <h1 style="color: var(--accent-color); margin-bottom: 5px; font-size: 2.2em; line-height: 1.2;">{{ page.title }}</h1>
+        <p style="color: var(--text-muted); margin-bottom: 30px; font-size: 0.95em;">
+            <strong>By: {{ page.author | default: "SearchVeg" }}</strong> | {{ page.date | date: "%B %d, %Y" }}
+        </p>
+        
+        {{ content }}
 </main>
 
 <footer>
