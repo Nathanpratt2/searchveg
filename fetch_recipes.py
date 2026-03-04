@@ -37,7 +37,7 @@ TOP_BLOGGERS = [
     ("Mary's Test Kitchen", "https://www.marystestkitchen.com/feed/", []), #She can stay here - do not need all of her back catalog
     ("Jessica in the Kitchen", "https://jessicainthekitchen.com/feed", []),#html scrapping was not working
     ("Justine Cooks Vegan", "https://justinecooksvegan.com/feed/",[]),
-    ("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/feed/",[]),
+    #("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/feed/",[]),
     ("Yup It's Vegan", "https://yupitsvegan.com/feed/",[]),
     ("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/feed", ["WFPB"]),
     ("Gimme Some Oven (Vegan Recipes)", "https://www.gimmesomeoven.com/dietary/vegan/feed/",[]),
@@ -55,7 +55,7 @@ TOP_BLOGGERS = [
     ("The Little Blog of Vegan", "https://www.thelittleblogofvegan.com/feed/",[]),
     ("Holistic Chef Academy", "https://holisticchefacademy.com/feed/", []),
     ("The Banana Diaries", "https://thebananadiaries.com/feed/", []),
-    ("Vegan Recipe Club", "https://www.veganrecipeclub.org.uk/feed/", []),
+    #("Vegan Recipe Club", "https://www.veganrecipeclub.org.uk/feed/", []),
     #("Messy Vegan Cook", "https://messyvegancook.com/feed/", []),
     ("Full of Plants", "https://fullofplants.com/feed/", []),
     ("Ambitious Kitchen (Vegan Recipes)", "https://www.ambitiouskitchen.com/feed/?diettypes=vegan", []),
@@ -71,7 +71,7 @@ TOP_BLOGGERS = [
     ("The Foodie Takes Flight", "https://thefoodietakesflight.com/feed/", ["Easy"]),
     ("Eat Figs, Not Pigs", "https://www.eatfigsnotpigs.com/feed/", []),
     ("Plant Power Couple", "https://www.plantpowercouple.com/feed/", ["Easy"]),
-    ("Ann Arbor Vegan Kitchen", "https://annarborvegankitchen.com/feed/", ["WFPB"]),
+    #("Ann Arbor Vegan Kitchen", "https://annarborvegankitchen.com/feed/", ["WFPB"]),
     ("The Conscious Plant Kitchen", "https://www.theconsciousplantkitchen.com/feed/", []),
     ("NutritionFacts.org", "https://nutritionfacts.org/topics/recipes/feed/", ["WFPB"]),
     ("Strength and Sunshine", "https://strengthandsunshine.com/feed/", ["Easy", "GF"]),
@@ -136,7 +136,7 @@ HTML_SOURCES = [
     ("Pick Up Limes", ("https://www.pickuplimes.com/recipe/?sb=&public=on&page={}", 1, 1), [], "custom_pul"),#not able to do RSS feed on this one
     
 #("Justine Cooks Vegan", ("https://justinecooksvegan.com/category/recipes/page/{}//", 1, 1),[], "wordpress"),
-#("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
+("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
 #("Yup It's Vegan", ("https://yupitsvegan.com/page/{}/?s=+", 1, 1),[], "wordpress"),
    #("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     #("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
@@ -154,7 +154,7 @@ HTML_SOURCES = [
         #("The Little Blog of Vegan", ("https://www.thelittleblogofvegan.com/tag/recipes/page/{}", 1, 1), [], "wordpress"),
             #("Holistic Chef Academy", ("https://holisticchefacademy.com/page/{}/?s=+", 1, 1), [], "wordpress"),#6
   #  ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
-       # ("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 6, 16),[], "wordpress"),
+        ("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 6, 16),[], "wordpress"),
             # She was too messy ("Messy Vegan Cook",("https://messyvegancook.com/category/all-recipes/page/{}/", 1, 9), [], "wordpress"),#9
    # ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 1), [], "wordpress"),#12 pages
         #("Ambitious Kitchen (Vegan Recipes)", ("https://www.ambitiouskitchen.com/recipe-index/?_sft_diettypes=vegan&sf_paged={}", 1, 1),[], "wordpress"),
@@ -170,7 +170,7 @@ HTML_SOURCES = [
     #("The Foodie Takes Flight", ("https://thefoodietakesflight.com/category/all-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#42 pages
     #("Eat Figs, Not Pigs", ("https://www.eatfigsnotpigs.com/page/{}/?s=+", 1, 1), [], "wordpress"),#42 pages
     #("Plant Power Couple", ("https://www.plantpowercouple.com/page/{}/?s=+", 1, 2), ["Easy"], "wordpress"),#37 pages
-    #("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 1, 1), ["WFPB"], "wordpress"),#about 35 pages
+    ("Ann Arbor Vegan Kitchen", ("https://annarborvegankitchen.com/blog/page/{}/", 1, 1), ["WFPB"], "wordpress"),#about 35 pages
     #("The Conscious Plant Kitchen", ("https://www.theconsciousplantkitchen.com/category/recipes/?_paged={}/feed/", 1, 1), [], "wordpress"),#22 pages
     #("NutritionFacts.org", "https://nutritionfacts.org/recipes", ["WFPB"], "wordpress"),#all on one page
     #("Strength and Sunshine", ("https://strengthandsunshine.com/page/{}/?s=+", 1, 1), ["Easy", "GF"], "wordpress"), #280 pages
