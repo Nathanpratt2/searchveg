@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-04 07:28:22
+**Last Run:** 2026-03-04 13:42:14
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20077 | 314 new today |
-| **Blogs Monitored** | 119 | 6 HTML / 89 RSS |
+| **Total Database** | 20082 | 223 new today |
+| **Blogs Monitored** | 119 | 5 HTML / 89 RSS |
 | **Active Sources** | 117 | 5+ recipes |
-| **WFPB / GF** | 2285 / 2711 | 11% / 13% |
-| **Easy / Budget** | 4978 / 2094 | 24% / 10% |
+| **WFPB / GF** | 2287 / 2712 | 11% / 13% |
+| **Easy / Budget** | 4979 / 2095 | 24% / 10% |
 
 ---
 
@@ -27,7 +27,7 @@
 | Justine Snacks (Vegan Recipes) | 2 | 18 | 0 | 1 | 0 | 1 | 2026-03-03 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 21 | 5 | 1 | 4 | 20 | 2026-02-26 | ✅ OK |
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
-| Vegan Richa GF | 2 | 26 | 1 | 7 | 7 | 26 | 2026-02-25 | ✅ OK |
+| Vegan Richa GF | 2 | 27 | 1 | 7 | 7 | 27 | 2026-03-04 | ✅ OK |
 | Justine Cooks Vegan | 0 | 46 | 0 | 4 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Mouthwatering Vegan | 0 | 53 | 0 | 5 | 0 | 2 | 2021-04-06 | ✅ OK |
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -50,7 +50,7 @@
 | My Vegan Minimalist | 1 | 196 | 16 | 58 | 11 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 196 | 16 | 27 | 13 | 5 | 2026-03-02 | ✅ OK |
 | Watch Learn Eat | 0 | 201 | 4 | 201 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Baking Hermann | 16 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK (16) |
+| Baking Hermann | 0 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
 | The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-02-28 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
@@ -61,7 +61,7 @@
 | Vegan in the Freezer | 0 | 224 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Addicted to Dates | 0 | 225 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan Heaven | 4 | 225 | 0 | 30 | 0 | 1 | 2026-01-06 | ✅ OK |
-| ZardyPlants | 0 | 225 | 225 | 36 | 225 | 4 | 2025-11-08 | ✅ OK |
+| ZardyPlants | 1 | 226 | 226 | 36 | 226 | 4 | 2026-03-04 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 3 | 231 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -79,7 +79,7 @@
 | Vegan Yack Attack | 1 | 246 | 21 | 52 | 24 | 220 | 2025-07-27 | ✅ OK |
 | Make It Dairy Free | 1 | 247 | 4 | 42 | 2 | 3 | 2026-03-01 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 248 | 37 | 68 | 3 | 0 | 2026-03-01 | ✅ OK |
-| It Doesn't Taste Like Chicken | 2 | 249 | 1 | 80 | 8 | 231 | 2026-03-02 | ✅ OK |
+| It Doesn't Taste Like Chicken | 3 | 250 | 1 | 81 | 8 | 231 | 2026-03-04 | ✅ OK |
 | Rhian's Recipes | 3 | 251 | 2 | 9 | 11 | 251 | 2026-01-28 | ✅ OK |
 | Veggiekins | 0 | 253 | 36 | 253 | 0 | 250 | 2026-02-10 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-02-27 | ✅ OK |
@@ -89,7 +89,7 @@
 | Sweet Potato Soul | 2 | 257 | 0 | 40 | 2 | 6 | 2026-02-15 | ✅ OK |
 | From My Bowl | 0 | 258 | 4 | 36 | 3 | 5 | 2026-02-20 | ✅ OK |
 | Plant Power Couple | 2 | 258 | 0 | 258 | 2 | 0 | 2026-03-02 | ✅ OK |
-| Vegan Richa | 9 | 258 | 10 | 60 | 41 | 75 | 2026-02-25 | ✅ OK |
+| Vegan Richa | 9 | 258 | 10 | 60 | 41 | 75 | 2026-03-04 | ✅ OK |
 | Plant-Based on a Budget | 6 | 260 | 16 | 64 | 260 | 1 | 2026-02-23 | ✅ OK |
 | Namely Marly | 12 | 262 | 11 | 27 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 264 | 0 | 38 | 0 | 9 | 2026-03-03 | ✅ OK |
@@ -103,13 +103,12 @@
 | Connoisseurus Veg | 0 | 271 | 0 | 33 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Healthy Little Vittles | 1 | 274 | 9 | 44 | 2 | 271 | 2026-02-26 | ✅ OK |
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 275 | 2 | 19 | 1 | 1 | 2026-02-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 279 | 279 | 24 | 3 | 0 | 2026-02-18 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 276 | 2 | 19 | 1 | 1 | 2026-03-03 | ✅ OK |
 | VegNews | 45 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
+| Ann Arbor Vegan Kitchen | 1 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 13 | 3 | 5 | 2026-03-01 | ✅ OK |
-| Messy Vegan Cook | 77 | 280 | 0 | 17 | 1 | 1 | 2026-01-02 | ✅ OK (8) |
-| The Conscious Plant Kitchen | 1 | 280 | 35 | 33 | 2 | 38 | 2026-03-04 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 280 | 1 | 4 | 4 | 1 | 2026-03-04 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 280 | 35 | 33 | 2 | 38 | 2026-03-04 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 280 | 1 | 4 | 4 | 1 | 2026-03-04 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
@@ -135,6 +134,7 @@
 | Ambitious Kitchen | 0 | 173 | 1 | 18 | 0 | 11 | 2026-02-25 | Skipped |
 | Vegan Punks | 0 | 224 | 5 | 98 | 22 | 1 | 2023-12-07 | Skipped |
 | Gaz Oakley | 0 | 249 | 8 | 12 | 20 | 1 | 2020-01-01 | Skipped |
+| Messy Vegan Cook | 0 | 280 | 0 | 17 | 1 | 1 | 2026-01-02 | Skipped |
 
 ---
 *Report generated automatically by searchveg.com Fetcher.*
