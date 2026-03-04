@@ -1,41 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About SearchVeg</title>
-    <link rel="stylesheet" href="/style.css">
-</head>
-<body>
-    <!-- THE NEW NAVIGATION -->
-    <nav class="main-nav">
-        <a href="/" class="nav-brand">SearchVeg</a>
-        <button class="hamburger" id="hamburgerBtn" aria-label="Toggle navigation">☰</button>
-        <div class="nav-links" id="navLinks">
-            <a href="/">Search Recipes</a>
-            <a href="/blog/">Blog</a>
-            <a href="/about/">About</a>
-            <a href="/privacy/">Privacy</a>
-        </div>
-    </nav>
+---
+layout: blog_layout
+title: The SearchVeg Blog
+---
 
-    <div style="padding: 50px; text-align: center;">
-        <h1>About SearchVeg</h1>
-        <p>This page is currently under construction!</p>
-        <a href="/">Go back to the search engine</a>
-    </div>
+<h1>Latest Articles</h1>
+<p style="color: var(--text-muted); margin-bottom: 40px;">Tips, tricks, and highlights from the vegan cooking world.</p>
 
-    <!-- THE JAVASCRIPT FOR THE MOBILE MENU -->
-    <script>
-        const hamburgerBtn = document.getElementById('hamburgerBtn');
-        const navLinks = document.getElementById('navLinks');
-        
-        if(hamburgerBtn && navLinks) {
-            hamburgerBtn.addEventListener('click', function() {
-                navLinks.classList.toggle('active');
-                this.innerText = this.innerText === '☰' ? '✕' : '☰';
-            });
-        }
-    </script>
-</body>
-</html>
+<div style="display: flex; flex-direction: column; gap: 30px;">
+    <!-- This loop automatically grabs all your posts! -->
+    {% for post in site.posts %}
+    <article style="border-bottom: 1px solid var(--input-border); padding-bottom: 20px;">
+        <h2 style="margin: 0 0 10px 0; font-size: 1.5em;">
+            <a href="{{ post.url }}" style="text-decoration: none; color: var(--text-color);">{{ post.title }}</a>
+        </h2>
+        <span style="color: var(--text-muted); font-size: 0.9em;">{{ post.date | date: "%B %d, %Y" }}</span>
+        <p style="margin-top: 10px; color: var(--text-color);">{{ post.excerpt | strip_html | truncatewords: 35 }}...</p>
+        <a href="{{ post.url }}" style="font-weight: bold; text-decoration: none;">Read more &rarr;</a>
+    </article>
+    {% endfor %}
+</div>
