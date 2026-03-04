@@ -199,7 +199,7 @@ HTML_SOURCES = [
    # ("Rainbow Plant Life", ("https://rainbowplantlife.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#19 pages
     #("Dreena Burton", ("https://dreenaburton.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),#21 pages of this
    #("Nora Cooks", "https://www.noracooks.com/blog/page/1/", [], "wordpress"),#maxed out
-   ("Baking Hermann", "https://bakinghermann.com/recipes/", [], "wordpress"), #have gotten all of this catalog
+   ("Baking Hermann", "https://bakinghermann.com/recipes/", [], "hermann"), #have gotten all of this catalog
    # ("Vegan Richa GF", "https://www.veganricha.com/category/gluten-free/", ["GF"], "wordpress"),
    # ("The Edgy Veg", ("https://www.theedgyveg.com/recipes/page/{}/", 1, 1), [], "wordpress"),#75 pages
    # ("Cookie and Kate (Vegan Recipes)", "https://cookieandkate.com/category/food-recipes/vegan/", [], "wordpress"),#maxed out
