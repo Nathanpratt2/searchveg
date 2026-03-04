@@ -1,5 +1,8 @@
-## 10 Essential Vegan Kitchen Tools
-Date: 2026-03-03
+---
+layout: blog_layout
+title: "10 Essential Kitchen Tools (According to Top Vegan Bloggers)"
+date: 2026-03-03
+---
 
 If you spend any time browsing the incredible plant-based recipes on SearchVeg, you might notice a trend. Whether it's Rainbow Plant Life whipping up a silky cashew cream, or Vegan Richa making a flavor-packed curry, top vegan bloggers rely on a specific set of tools to make plant-based cooking fast, easy, and delicious.
 
