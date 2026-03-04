@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | SearchVeg</title>
     
-    <!-- IMPORTANT: The slash before style.css ensures it finds the CSS from anywhere -->
-    <link rel="stylesheet" href="/style.css?v=1.5">
+    <!-- FIX: Using the full URL ensures this works even deep inside blog folders -->
+    <link rel="stylesheet" href="https://searchveg.com/style.css?v=1.6">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="/logo.png" type="image/png">
+    <link rel="icon" href="https://searchveg.com/logo.png" type="image/png">
 
     <style>
         /* Specific styles just for reading articles nicely */
@@ -30,16 +30,16 @@
         }
         .blog-wrapper img {
             max-width: 100%;
-            max-height: 450px; /* Stops tall Amazon photos from taking over the whole screen */
+            max-height: 450px; 
             width: auto;
             height: auto;
-            object-fit: contain; /* Ensures the WHOLE product is visible, zero cropping! */
+            object-fit: contain;
             display: block;
-            margin: 30px auto; /* Centers the image perfectly */
+            margin: 30px auto;
             border-radius: 12px;
             box-shadow: 0 4px 10px var(--shadow-color);
-            background-color: white; /* Keeps products on a clean white background in Dark Mode */
-            padding: 20px; /* Adds breathing room around the product so it looks like a showcase card */
+            background-color: white; 
+            padding: 20px; 
             box-sizing: border-box; 
         }
         .blog-wrapper a {
@@ -57,14 +57,14 @@
 <body>
 
 <nav class="main-nav">
-    <a href="/index.html" class="nav-brand-link logo-link">
-        <img src="/default.png?v=1.5" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg">
+    <a href="https://searchveg.com/index.html" class="nav-brand-link logo-link">
+        <img src="https://searchveg.com/default.png?v=2" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg">
     </a>
     <div class="nav-links" id="navLinks">
-        <a href="/index.html">Find a Recipe</a>
-        <a href="/blog/" class="active-nav">Blog</a>
-        <a href="/about/">About</a>
-        <a href="/privacy/">Privacy</a>
+        <a href="https://searchveg.com/index.html">Find a Recipe</a>
+        <a href="https://searchveg.com/blog/" class="active-nav">Blog</a>
+        <a href="https://searchveg.com/about/">About</a>
+        <a href="https://searchveg.com/privacy/">Privacy</a>
     </div>
 </nav>
 
@@ -81,7 +81,8 @@
     // Keep dark mode working on the blog
     if(localStorage.getItem('theme') === 'dark') {
         document.body.classList.add('dark-mode');
-        document.getElementById('navLogoImg').src = '/default_darkmode.png?v=1.5';
+        // FIX: Use full URL for the dark mode logo too
+        document.getElementById('navLogoImg').src = 'https://searchveg.com/default_darkmode.png?v=2';
     }
 </script>
 </body>
