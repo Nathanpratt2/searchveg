@@ -155,7 +155,7 @@ HTML_SOURCES = [
             #("Holistic Chef Academy", ("https://holisticchefacademy.com/page/{}/?s=+", 1, 1), [], "wordpress"),#6
   #  ("The Banana Diaries", ("https://thebananadiaries.com/page/{}/", 1, 1), [], "squarespace"),#123 pages
        # ("Vegan Recipe Club", ("https://www.veganrecipeclub.org.uk/recipes/?sf_paged={}", 6, 16),[], "wordpress"),
-            ("Messy Vegan Cook", ("https://messyvegancook.com/category/all-recipes/page/{}/", 1, 9), [], "wordpress"),#9
+            # She was too messy ("Messy Vegan Cook",("https://messyvegancook.com/category/all-recipes/page/{}/", 1, 9), [], "wordpress"),#9
    # ("Full of Plants", ("https://fullofplants.com/recipes/page/{}/", 1, 1), [], "wordpress"),#12 pages
         #("Ambitious Kitchen (Vegan Recipes)", ("https://www.ambitiouskitchen.com/recipe-index/?_sft_diettypes=vegan&sf_paged={}", 1, 1),[], "wordpress"),
          #("My Darling Vegan", ("https://www.mydarlingvegan.com/page/{}/?s=+&cuisine=&meal=&diet=&ingredient%5B0%5D=", 1, 1), [], "wordpress"),
