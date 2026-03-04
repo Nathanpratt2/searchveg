@@ -29,11 +29,14 @@
             margin-bottom: 20px;
         }
         .blog-wrapper img {
-            max-width: 100%;
-            border-radius: 8px;
-            height: auto;
-            margin: 20px 0;
-            box-shadow: 0 2px 5px var(--shadow-color);
+            width: 100%;
+            aspect-ratio: 16 / 9; /* Forces all images to be the exact same rectangle shape */
+            object-fit: cover; /* Crops the image perfectly so it NEVER looks squished or stretched */
+            border-radius: 12px;
+            margin: 30px 0;
+            box-shadow: 0 4px 10px var(--shadow-color);
+            display: block;
+            background-color: white; /* Adds a nice background if the image has transparent parts */
         }
         .blog-wrapper a {
             color: var(--accent-color);
