@@ -11,22 +11,38 @@
     <link rel="icon" href="https://searchveg.com/logo.png" type="image/png">
 
     <style>
-        /* Specific styles just for reading articles nicely */
+        /* Professional Blog Reading Styles */
         .blog-wrapper {
             max-width: 800px;
-            margin: 40px auto;
-            padding: 20px;
+            margin: 60px auto; /* More breathing room top and bottom */
+            padding: 40px; /* Better internal spacing */
             background: var(--card-bg);
             border-radius: 12px;
-            box-shadow: 0 4px 10px var(--shadow-color);
+            box-shadow: 0 4px 25px var(--shadow-color); /* Softer, larger shadow */
         }
-        .blog-wrapper h1, .blog-wrapper h2, .blog-wrapper h3 {
+        .blog-wrapper h1 {
             color: var(--accent-color);
+            margin-bottom: 15px;
+            font-size: 2.5em; /* Larger main title */
+            line-height: 1.2;
+        }
+        .blog-wrapper h2 {
+            color: var(--accent-color);
+            margin-top: 50px; /* Forces space above new sections */
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            border-bottom: 2px solid var(--input-border); /* Nice professional divider under headers */
+            padding-bottom: 10px;
+        }
+        .blog-wrapper h3 {
+            color: var(--accent-color);
+            margin-top: 30px;
         }
         .blog-wrapper p {
             line-height: 1.8;
-            font-size: 1.1em;
-            margin-bottom: 20px;
+            font-size: 1.15em;
+            margin-bottom: 25px;
+            color: var(--text-color);
         }
         .blog-wrapper img {
             max-width: 100%;
@@ -35,21 +51,35 @@
             height: auto;
             object-fit: contain;
             display: block;
-            margin: 30px auto;
+            margin: 50px auto;
             border-radius: 12px;
-            box-shadow: 0 4px 10px var(--shadow-color);
+            box-shadow: 0 4px 15px var(--shadow-color);
             background-color: white; 
             padding: 20px; 
             box-sizing: border-box; 
         }
         .blog-wrapper a {
             color: var(--accent-color);
-            text-decoration: underline;
+            text-decoration: none;
+            font-weight: 600;
+            border-bottom: 1px solid transparent;
+            transition: border-bottom 0.2s ease;
         }
-        .blog-date {
+        .blog-wrapper a:hover {
+            border-bottom: 1px solid var(--accent-color);
+        }
+        .blog-wrapper hr {
+            border: 0;
+            height: 1px;
+            background: var(--input-border);
+            margin: 50px 0;
+        }
+        .post-meta {
             color: var(--text-muted);
-            font-size: 0.9em;
-            margin-bottom: 30px;
+            font-size: 1.05em;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--input-border);
             display: block;
         }
     </style>
@@ -74,16 +104,22 @@
 
 <main class="blog-wrapper">
     <!-- This is the magic tag where Jekyll injects your blog text -->
-    <h1 style="color: var(--accent-color); margin-bottom: 5px; font-size: 2.2em; line-height: 1.2;">{{ page.title }}</h1>
-        <p style="color: var(--text-muted); margin-bottom: 30px; font-size: 0.95em;">
-            <strong>By: {{ page.author | default: "SearchVeg" }}</strong> | {{ page.date | date: "%B %d, %Y" }}
-        </p>
+    <h1>{{ page.title }}</h1>
+    
+    <!-- Only show Author/Date if it is actually a blog post, not the main blog page -->
+    {% if page.date %}
+    <p class="post-meta">
+        <strong>By: {{ page.author | default: "SearchVeg" }}</strong> &nbsp;|&nbsp; {{ page.date | date: "%B %d, %Y" }}
+    </p>
+    {% endif %}
         
+    <div class="post-content">
         {{ content }}
+    </div>
 </main>
 
 <footer>
-    <p>SearchVeg brings together the best plant-based cooking.</p>
+    <!-- Footer text removed as requested -->
 </footer>
 
 <script>
