@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-05 13:54:08
+**Last Run:** 2026-03-05 19:53:32
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20088 | 247 new today |
+| **Total Database** | 20088 | 248 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 86 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2287 / 2714 | 11% / 13% |
@@ -44,7 +44,7 @@
 | Steamy Vegan | 0 | 180 | 10 | 29 | 11 | 2 | 2026-02-25 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-04 | ✅ OK |
-| Simple Vegan Blog | 2 | 186 | 7 | 41 | 15 | 4 | 2026-03-03 | ✅ OK |
+| Simple Vegan Blog | 3 | 187 | 7 | 41 | 15 | 4 | 2026-03-05 | ✅ OK |
 | The Little Blog of Vegan | 1 | 188 | 0 | 33 | 0 | 1 | 2026-02-27 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
 | My Vegan Minimalist | 1 | 196 | 16 | 58 | 11 | 1 | 2026-02-16 | ✅ OK |
@@ -62,8 +62,8 @@
 | Addicted to Dates | 0 | 225 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan Heaven | 4 | 225 | 0 | 30 | 0 | 1 | 2026-01-06 | ✅ OK |
 | ZardyPlants | 0 | 226 | 226 | 36 | 226 | 4 | 2026-03-04 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 3 | 231 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 4 | 232 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Cadry's Kitchen | 3 | 234 | 11 | 83 | 22 | 0 | 2026-02-23 | ✅ OK |
 | Forks Over Knives | 2 | 235 | 235 | 24 | 41 | 2 | 2026-02-05 | ✅ OK |
@@ -101,7 +101,7 @@
 | Bianca Zapatka | 0 | 269 | 23 | 120 | 43 | 3 | 2025-12-11 | ✅ OK |
 | Connoisseurus Veg | 0 | 271 | 0 | 33 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| Healthy Little Vittles | 1 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
+| Healthy Little Vittles | 0 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 277 | 2 | 19 | 1 | 1 | 2026-03-04 | ✅ OK |
 | VegNews | 45 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
