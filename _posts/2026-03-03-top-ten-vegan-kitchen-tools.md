@@ -5,11 +5,9 @@ date: 2026-03-03
 author: "Nate at SearchVeg"
 ---
 
-Setting up a plant-based kitchen doesn't have to be complicated or expensive. After interviewing top vegan creators...
+If you spend any time browsing vegan recipes, you might notice a trend that many creators are relying on a specific set of tools to make plant-based cooking fast, easy, and delicious. Below are pictures and links to new products but we highly recommend looking for lightly used versions to avoid bringing another "thing" into the world if someone out there is selling one nearly as good for a fraction of the price. Thrift stores, Marketplace, or eBay are good sources.
 
-If you spend any time browsing the incredible plant-based recipes on SearchVeg, you might notice a trend. Top vegan bloggers rely on a specific set of tools to make plant-based cooking fast, easy, and delicious.
-
-While you definitely don't need a fancy kitchen to cook vegan food, having the right gear can take your meals to the next level. Here are the top 10 kitchen tools every vegan home cook should consider!
+None of these are necessary but having the right gear can help take your meals to the next level. Here are the top 10 kitchen tools every vegan home cook should consider!
 
 ---
 
