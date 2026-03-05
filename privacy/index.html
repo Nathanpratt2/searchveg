@@ -53,52 +53,41 @@
     
     <section style="text-align: center; margin-bottom: 40px;">
         <h1 style="font-size: 2.5em; margin-bottom: 10px; color: var(--accent-color);">Privacy Policy</h1>
-        <p style="color: var(--text-muted);">Last Updated: March 2026</p>
+        <p style="color: var(--text-muted);" id="dynamicDate">Last Updated: </p>
+        <script>
+            // Automatically sets the current month and year
+            const dateEl = document.getElementById('dynamicDate');
+            const now = new Date();
+            const month = now.toLocaleString('default', { month: 'long' });
+            const year = now.getFullYear();
+            dateEl.innerText = `Last Updated: ${month} ${year}`;
+        </script>
     </section>
 
     <article class="card" style="padding: 40px; cursor: default; height: auto;">
         
-        <h2 style="color: var(--text-color);">Your Privacy Matters</h2>
+        <h2 style="color: var(--text-color);">Advertising & Cookies</h2>
         <p style="line-height: 1.8; color: var(--text-color);">
-            At SearchVeg, we are committed to keeping this platform a safe and transparent place for the plant-based community. This policy explains how we handle information and how we work with partners to keep the site free to use.
+            We are committed to keeping this website safe and transparent. This policy explains how we handle data and how we work with advertising partners to keep the site free to use. By using this website, you are consenting that you understand this Privacy policy. We only partner with brands we think will actually be truly useful to you. These partners sometimes use tracking “cookies” based on your visit to this and other websites on the internet in order to keep track of where traffic to their website came from and to ensure they are only showing you relevant content. You can choose to opt-out of personalized advertising by visiting your browser settings.
         </p>
-
-        <hr style="border: 0; border-top: 1px solid var(--input-border); margin: 30px 0;">
-
-        <h2 style="color: var(--text-color);">Cookies & Advertising</h2>
-        <p style="line-height: 1.8; color: var(--text-color);">
-            To keep SearchVeg running, we may show advertisements. These partners sometimes use cookies based on your visit to this and other websites on the internet.
-        </p>
-        <ul style="line-height: 1.8; color: var(--text-color); padding-left: 20px;">
-            <li><strong>Personalization:</strong> Cookies help advertisers show you relevant content.</li>
-            <li><strong>Opt-Out:</strong> You can choose to opt-out of personalized advertising by visiting your browser settings</li>
-        </ul>
 
         <hr style="border: 0; border-top: 1px solid var(--input-border); margin: 30px 0;">
 
         <h2 style="color: var(--text-color);">External Links</h2>
         <p style="line-height: 1.8; color: var(--text-color);">
-            Our site contains links to many recipe creators. Please be aware that once you click a recipe link and leave SearchVeg, we do not have control over the privacy practices of those external websites. We encourage you to read the privacy policies of any site you visit.
-        </p>
-
-        <hr style="border: 0; border-top: 1px solid var(--input-border); margin: 30px 0;">
-
-        <h2 style="color: var(--text-color);">Consent</h2>
-        <p style="line-height: 1.8; color: var(--text-color);">
-            By using our website, you hereby consent to this Privacy Policy and agree to its terms.
+            Our site contains links to many recipe creators so please be aware that once you click a recipe link and leave our site, we do not have control over the privacy practices of those external websites. We encourage you to read the privacy policies of any site you visit.
         </p>
 
     </article>
 
     <div style="text-align: center; margin-top: 50px; color: var(--text-muted);">
-       <p>Have questions? Reach out via our <a href="https://searchveg.com/about/" style="color: var(--accent-color); text-decoration: none;">Contact Form</a>.</p>
+       <p>Have questions? Reach out via our <a href="https://docs.google.com/forms/d/e/1FAIpQLSebPr9UwQMRnvpHEQ35zTEjM7dyEAGY9Mh2WvFwZCvbJUWIWA/viewform" target="_blank" rel="noopener noreferrer" style="color: var(--accent-color); text-decoration: none;">Contact Form</a>.</p>
        <p style="margin-top: 20px;">
             <a href="../index.html" class="btn active-filter" style="display: inline-flex; text-decoration: none; justify-content: center; padding: 12px 30px; font-size: 1.1em;">Back to Recipes</a>
         </p>
     </div>
     
 </main>
-
 <script>
     // MOBILE MENU LOGIC
     const hamburgerBtn = document.getElementById('hamburgerBtn');
