@@ -3,19 +3,25 @@ layout: blog_layout
 title: The SearchVeg Blog
 ---
 
-<h1>Latest Articles</h1>
-<p style="color: var(--text-muted); margin-bottom: 40px;">Tips, tricks, and highlights from the vegan cooking world.</p>
+<!-- Moved subtitle to the top directly under the title -->
+<p style="color: var(--text-muted); font-size: 1.2em; margin-top: -15px; margin-bottom: 60px;">Tips, tricks, and highlights from the vegan cooking world.</p>
 
-<div style="display: flex; flex-direction: column; gap: 30px;">
+<h2 style="font-size: 2em; border-bottom: 2px solid var(--input-border); padding-bottom: 10px; margin-bottom: 40px; margin-top: 0;">Latest Articles</h2>
+
+<div style="display: flex; flex-direction: column; gap: 40px;">
     <!-- This loop automatically grabs all your posts! -->
     {% for post in site.posts %}
-    <article style="border-bottom: 1px solid var(--input-border); padding-bottom: 20px;">
-        <h2 style="margin: 0 0 10px 0; font-size: 1.5em;">
-            <a href="{{ post.url }}" style="text-decoration: none; color: var(--text-color);">{{ post.title }}</a>
-        </h2>
-        <span style="color: var(--text-muted); font-size: 0.9em;">{{ post.date | date: "%B %d, %Y" }}</span>
-        <p style="margin-top: 10px; color: var(--text-color);">{{ post.excerpt | strip_html | truncatewords: 35 }}...</p>
-        <a href="{{ post.url }}" style="font-weight: bold; text-decoration: none;">Read more &rarr;</a>
+    <article style="background: var(--card-bg); padding: 35px; border-radius: 12px; box-shadow: 0 2px 15px var(--shadow-color); border: 1px solid var(--input-border);">
+        <h3 style="margin: 0 0 10px 0; font-size: 1.7em; line-height: 1.3;">
+            <a href="{{ post.url }}" style="text-decoration: none; color: var(--accent-color);">{{ post.title }}</a>
+        </h3>
+        <span style="color: var(--text-muted); font-size: 0.95em; display: block; margin-bottom: 20px;">
+            <i style="margin-right: 5px;">📅</i> {{ post.date | date: "%B %d, %Y" }}
+        </span>
+        <p style="margin-bottom: 25px; color: var(--text-color); font-size: 1.1em; line-height: 1.7;">{{ post.excerpt | strip_html | truncatewords: 35 }}...</p>
+        
+        <!-- Upgraded Read More Button -->
+        <a href="{{ post.url }}" style="font-weight: 600; text-decoration: none; color: white; background-color: var(--accent-color); padding: 12px 25px; border-radius: 8px; display: inline-block; transition: opacity 0.2s ease;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">Read Article &rarr;</a>
     </article>
     {% endfor %}
 </div>
