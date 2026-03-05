@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-05 00:04:57
+**Last Run:** 2026-03-05 07:28:41
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20086 | 249 new today |
+| **Total Database** | 20087 | 248 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 86 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2287 / 2713 | 11% / 13% |
@@ -43,7 +43,7 @@
 | Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | Steamy Vegan | 0 | 180 | 10 | 29 | 11 | 2 | 2026-02-25 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-02-25 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-04 | ✅ OK |
 | Simple Vegan Blog | 2 | 186 | 7 | 41 | 15 | 4 | 2026-03-03 | ✅ OK |
 | The Little Blog of Vegan | 1 | 188 | 0 | 33 | 0 | 1 | 2026-02-27 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
@@ -56,7 +56,7 @@
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Vegan 8 | 0 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
 | Big Box Vegan | 3 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
-| The First Mess | 1 | 219 | 1 | 30 | 3 | 1 | 2026-02-25 | ✅ OK |
+| The First Mess | 2 | 220 | 1 | 30 | 3 | 1 | 2026-03-05 | ✅ OK |
 | Sweet Simple Vegan | 2 | 224 | 5 | 50 | 18 | 2 | 2026-03-04 | ✅ OK |
 | Vegan in the Freezer | 0 | 224 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Addicted to Dates | 0 | 225 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
@@ -76,7 +76,7 @@
 | Rainbow Plant Life | 10 | 241 | 31 | 62 | 43 | 7 | 2026-02-26 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 244 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | Vegan Yack Attack | 1 | 246 | 21 | 52 | 24 | 220 | 2025-07-27 | ✅ OK |
-| Hot For Food | 3 | 247 | 10 | 32 | 12 | 1 | 2026-03-04 | ✅ OK |
+| Hot For Food | 2 | 247 | 10 | 32 | 12 | 1 | 2026-03-04 | ✅ OK |
 | Make It Dairy Free | 1 | 247 | 4 | 42 | 2 | 3 | 2026-03-01 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 249 | 37 | 68 | 3 | 0 | 2026-03-04 | ✅ OK |
 | It Doesn't Taste Like Chicken | 2 | 250 | 1 | 81 | 8 | 231 | 2026-03-04 | ✅ OK |
@@ -108,7 +108,7 @@
 | Ann Arbor Vegan Kitchen | 4 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 13 | 3 | 5 | 2026-03-01 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 280 | 35 | 33 | 2 | 38 | 2026-03-04 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 280 | 1 | 4 | 4 | 1 | 2026-03-04 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 280 | 1 | 4 | 4 | 1 | 2026-03-04 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
