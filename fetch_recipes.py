@@ -1254,6 +1254,22 @@ for recipe in recipes:
 
     recipe['special_tags'] = combined_tags
 
+# 5.2 Clean Recipe Titles
+import re
+print("Cleaning recipe titles...", flush=True)
+# Only remove these phrases if they appear at the very END of the title
+PHRASES_TO_REMOVE = [
+    "Continue Reading", "Continue", "Read More", 
+    "Get the Recipe", "View Recipe", "Click Here"
+]
+# Compiling regex to look for these phrases at the end ($) of the string, ignoring case
+title_clean_pattern = re.compile(r'[-\|:.,]?\s*\b(' + '|'.join(PHRASES_TO_REMOVE) + r')\b\s*$', re.IGNORECASE)
+
+for r in recipes:
+    cleaned = title_clean_pattern.sub('', r['title']).strip()
+    # Apply the cleaned title, or fallback to original if cleaning accidentally emptied it
+    r['title'] = cleaned if cleaned else r['title']
+
 # 5.5 Global Non-Recipe Filter
 print("Running global non-recipe filter...", flush=True)
 non_recipes_removed_count = 0
