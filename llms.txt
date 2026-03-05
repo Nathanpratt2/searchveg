@@ -4,8 +4,8 @@
 searchveg.com is a curated, real-time aggregator of high-quality plant-based, vegan, and gluten-free recipes. It actively monitors 119 distinct food blogs and chefs to provide a centralized feed of the latest vegan culinary content.
 
 ## Dataset Statistics
-- **Total Recipes:** 20085
-- **Last Updated:** 2026-03-04
+- **Total Recipes:** 20086
+- **Last Updated:** 2026-03-05
 - **Content Types:** 100% Vegan. Includes Whole Food Plant Based (WFPB), Gluten-Free (GF), Budget-Friendly, and Easy/Quick recipes.
 
 ## Primary Sources
