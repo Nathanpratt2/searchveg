@@ -16,7 +16,7 @@ While you definitely don't need a fancy kitchen to cook vegan food, having the r
 ## 1. High-Speed Blender (Vitamix)
 **The Undisputed Champion.** Almost every top blogger lists this as "non-negotiable." Essential for making silky smooth cashew creams, hot soups, and perfect smoothies without any grit.
 
-![High Speed Blender](/assets/images/vitamix.jpg)
+![High Speed Blender](/assets/images/blender.jpg)
 *[🛍️ Check it out on Amazon: Vitamix 5200](https://www.amazon.com/s?k=vitamix+5200)*
 
 ## 2. Food Processor (14-Cup)
