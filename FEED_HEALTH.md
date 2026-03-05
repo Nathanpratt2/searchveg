@@ -1,13 +1,13 @@
 # Feed Health Report
-**Last Run:** 2026-03-05 07:28:41
+**Last Run:** 2026-03-05 13:54:08
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20087 | 248 new today |
+| **Total Database** | 20088 | 247 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 86 RSS |
 | **Active Sources** | 117 | 5+ recipes |
-| **WFPB / GF** | 2287 / 2713 | 11% / 13% |
+| **WFPB / GF** | 2287 / 2714 | 11% / 13% |
 | **Easy / Budget** | 4980 / 2095 | 24% / 10% |
 
 ---
@@ -56,7 +56,7 @@
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Vegan 8 | 0 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
 | Big Box Vegan | 3 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
-| The First Mess | 2 | 220 | 1 | 30 | 3 | 1 | 2026-03-05 | ✅ OK |
+| The First Mess | 1 | 220 | 1 | 30 | 3 | 1 | 2026-03-05 | ✅ OK |
 | Sweet Simple Vegan | 2 | 224 | 5 | 50 | 18 | 2 | 2026-03-04 | ✅ OK |
 | Vegan in the Freezer | 0 | 224 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Addicted to Dates | 0 | 225 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
@@ -100,8 +100,8 @@
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 23 | 120 | 43 | 3 | 2025-12-11 | ✅ OK |
 | Connoisseurus Veg | 0 | 271 | 0 | 33 | 1 | 0 | 2026-03-02 | ✅ OK |
-| Healthy Little Vittles | 1 | 274 | 9 | 44 | 2 | 271 | 2026-02-26 | ✅ OK |
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Healthy Little Vittles | 1 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 277 | 2 | 19 | 1 | 1 | 2026-03-04 | ✅ OK |
 | VegNews | 45 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
