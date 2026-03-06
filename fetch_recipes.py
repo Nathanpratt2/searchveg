@@ -274,7 +274,8 @@ EASY_KEYWORDS = [
     '1 pan', 'one pan', '30-minute', '15-minute', '20-minute', '10-minute', 'under 30', 'under 20',
     'under 15', '5-ingredient', '4-ingredient', '6-ingredient', 'sheet pan', 'skillet', 'mug', 
     'blender', 'no-bake', 'no bake', 'air fryer', 'instant pot', 'microwave', 'lazy', 'minimal',
-    'fuss-free', 'fuss free', 'weeknight', 'meal prep', 'make-ahead', 'make ahead'
+    'fuss-free', 'fuss free', 'weeknight', 'meal prep', 'make-ahead', 'make ahead',
+    '1-step', 'one-step', 'one step', '1 step'
 ]
 
 BUDGET_KEYWORDS = [
@@ -1257,16 +1258,22 @@ for recipe in recipes:
 # 5.2 Clean Recipe Titles
 import re
 print("Cleaning recipe titles...", flush=True)
-# Only remove these phrases if they appear at the very END of the title
+# Remove these phrases ANYWHERE they appear in the title
 PHRASES_TO_REMOVE = [
-    "Continue Reading", "Continue", "Read More", 
+    "Continue Reading", "Continue", "Read More",
     "Get the Recipe", "View Recipe", "Click Here"
 ]
-# Compiling regex to look for these phrases at the end ($) of the string, ignoring case
-title_clean_pattern = re.compile(r'[-\|:.,]?\s*\b(' + '|'.join(PHRASES_TO_REMOVE) + r')\b\s*$', re.IGNORECASE)
+# Compiling regex to look for these phrases anywhere in the string, ignoring case
+title_clean_pattern = re.compile(r'\b(' + '|'.join(PHRASES_TO_REMOVE) + r')\b', re.IGNORECASE)
 
 for r in recipes:
-    cleaned = title_clean_pattern.sub('', r['title']).strip()
+    # 1. Strip out the bad phrases
+    cleaned = title_clean_pattern.sub('', r['title'])
+    # 2. Clean up any floating punctuation (e.g. "Title - " or " : Title") left behind at edges
+    cleaned = re.sub(r'^[ \-\|:.,]+|[ \-\|:.,]+$', '', cleaned)
+    # 3. Clean up accidental double spaces
+    cleaned = re.sub(r'\s{2,}', ' ', cleaned).strip()
+    
     # Apply the cleaned title, or fallback to original if cleaning accidentally emptied it
     r['title'] = cleaned if cleaned else r['title']
 
