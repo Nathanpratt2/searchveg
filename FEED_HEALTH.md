@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-06 00:14:39
+**Last Run:** 2026-03-06 07:23:29
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20093 | 252 new today |
+| **Total Database** | 20094 | 247 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 86 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2288 / 2714 | 11% / 13% |
@@ -21,7 +21,7 @@
 | Mary's Test Kitchen | 2 | 11 | 0 | 0 | 1 | 0 | 2026-02-26 | ✅ OK |
 | Rainbow Nourishments | 1 | 11 | 0 | 2 | 1 | 0 | 2026-02-06 | ✅ OK |
 | The Banana Diaries | 0 | 12 | 0 | 4 | 2 | 0 | 2026-02-13 | ✅ OK |
-| PlantYou | 2 | 16 | 16 | 3 | 2 | 0 | 2026-03-05 | ✅ OK |
+| PlantYou | 1 | 16 | 16 | 3 | 2 | 0 | 2026-03-05 | ✅ OK |
 | Dr. Vegan | 1 | 17 | 4 | 17 | 8 | 0 | 2026-03-02 | ✅ OK |
 | Jessica in the Kitchen | 3 | 17 | 1 | 2 | 1 | 2 | 2026-03-03 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 2 | 18 | 0 | 1 | 0 | 1 | 2026-03-03 | ✅ OK |
@@ -43,7 +43,7 @@
 | Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | Steamy Vegan | 0 | 180 | 10 | 29 | 11 | 2 | 2026-02-25 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-04 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-05 | ✅ OK |
 | Simple Vegan Blog | 3 | 187 | 7 | 41 | 15 | 4 | 2026-03-05 | ✅ OK |
 | The Little Blog of Vegan | 1 | 188 | 0 | 33 | 0 | 1 | 2026-02-27 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
@@ -51,7 +51,7 @@
 | Nora Cooks | 5 | 196 | 16 | 27 | 13 | 5 | 2026-03-02 | ✅ OK |
 | Watch Learn Eat | 0 | 201 | 4 | 201 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Baking Hermann | 0 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
-| The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-03-05 | ✅ OK |
+| The Burger Dude | 3 | 206 | 6 | 13 | 13 | 0 | 2026-03-05 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Vegan 8 | 0 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
@@ -65,7 +65,7 @@
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 3 | 232 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Cadry's Kitchen | 4 | 235 | 11 | 84 | 22 | 0 | 2026-03-05 | ✅ OK |
+| Cadry's Kitchen | 3 | 235 | 11 | 84 | 22 | 0 | 2026-03-05 | ✅ OK |
 | Forks Over Knives | 2 | 235 | 235 | 24 | 41 | 2 | 2026-02-05 | ✅ OK |
 | HealthyGirl Kitchen | 3 | 237 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 0 | 237 | 19 | 79 | 18 | 45 | 2026-02-10 | ✅ OK |
@@ -94,15 +94,15 @@
 | Namely Marly | 12 | 262 | 11 | 27 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 264 | 0 | 38 | 0 | 9 | 2026-03-03 | ✅ OK |
 | The Edgy Veg | 0 | 264 | 10 | 39 | 9 | 3 | 2024-03-18 | ✅ OK |
-| The Plant-Based RD | 1 | 265 | 4 | 17 | 1 | 0 | 2026-03-05 | ✅ OK |
-| A Virtual Vegan | 1 | 266 | 2 | 35 | 1 | 4 | 2026-02-20 | ✅ OK |
+| The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-05 | ✅ OK |
+| A Virtual Vegan | 1 | 266 | 2 | 35 | 1 | 4 | 2026-03-06 | ✅ OK |
 | My Darling Vegan | 1 | 266 | 2 | 29 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 23 | 120 | 43 | 3 | 2025-12-11 | ✅ OK |
 | Connoisseurus Veg | 0 | 271 | 0 | 33 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Healthy Little Vittles | 0 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 278 | 2 | 19 | 1 | 1 | 2026-03-05 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 278 | 2 | 19 | 1 | 1 | 2026-03-05 | ✅ OK |
 | VegNews | 45 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
 | Ann Arbor Vegan Kitchen | 4 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (4) |
