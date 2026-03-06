@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-06 07:23:29
+**Last Run:** 2026-03-06 13:37:53
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20094 | 247 new today |
+| **Total Database** | 20097 | 248 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 86 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2288 / 2714 | 11% / 13% |
@@ -87,19 +87,19 @@
 | Rabbit and Wolves | 2 | 255 | 0 | 34 | 2 | 0 | 2026-03-03 | ✅ OK |
 | Healthier Steps | 1 | 257 | 14 | 28 | 40 | 19 | 2025-05-18 | ✅ OK |
 | Sweet Potato Soul | 2 | 257 | 0 | 40 | 2 | 6 | 2026-02-15 | ✅ OK |
-| From My Bowl | 0 | 258 | 4 | 36 | 3 | 5 | 2026-02-20 | ✅ OK |
-| Plant Power Couple | 3 | 258 | 0 | 258 | 2 | 0 | 2026-03-02 | ✅ OK |
+| Plant Power Couple | 3 | 258 | 0 | 258 | 2 | 0 | 2026-03-06 | ✅ OK |
 | Vegan Richa | 9 | 258 | 10 | 60 | 41 | 75 | 2026-03-04 | ✅ OK |
+| From My Bowl | 1 | 259 | 4 | 36 | 3 | 5 | 2026-03-06 | ✅ OK |
 | Plant-Based on a Budget | 6 | 260 | 16 | 64 | 260 | 1 | 2026-02-23 | ✅ OK |
 | Namely Marly | 12 | 262 | 11 | 27 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 264 | 0 | 38 | 0 | 9 | 2026-03-03 | ✅ OK |
 | The Edgy Veg | 0 | 264 | 10 | 39 | 9 | 3 | 2024-03-18 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-05 | ✅ OK |
-| A Virtual Vegan | 1 | 266 | 2 | 35 | 1 | 4 | 2026-03-06 | ✅ OK |
+| A Virtual Vegan | 0 | 266 | 2 | 35 | 1 | 4 | 2026-03-06 | ✅ OK |
 | My Darling Vegan | 1 | 266 | 2 | 29 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 23 | 120 | 43 | 3 | 2025-12-11 | ✅ OK |
-| Connoisseurus Veg | 0 | 271 | 0 | 33 | 1 | 0 | 2026-03-02 | ✅ OK |
+| Connoisseurus Veg | 1 | 272 | 0 | 33 | 1 | 0 | 2026-03-06 | ✅ OK |
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Healthy Little Vittles | 0 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 278 | 2 | 19 | 1 | 1 | 2026-03-05 | ✅ OK |
