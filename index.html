@@ -974,9 +974,11 @@
         link.target = "_blank"; 
         link.rel = "noopener noreferrer";
 
-       // --- SECRET LONG PRESS LOGIC (7 SECONDS) ---
+       // --- SECRET LONG PRESS LOGIC (5 SECONDS) ---
         let pressTimer = null;
         let wasSecretTriggered = false;
+        let startX = 0;
+        let startY = 0;
 
         const startPress = (e) => {
             // Ignore right-clicks on desktop
@@ -984,9 +986,18 @@
 
             wasSecretTriggered = false;
             
+            // Record start position to allow tiny jiggles, but prevent drag/highlighting
+            if (e.type === 'mousedown') {
+                startX = e.clientX;
+                startY = e.clientY;
+            } else if (e.type === 'touchstart') {
+                startX = e.touches[0].clientX;
+                startY = e.touches[0].clientY;
+            }
+            
             // Visual hint: slightly shrink the card while holding
             card.style.transform = "scale(0.95)";
-            card.style.transition = "transform 7s ease-in"; 
+            card.style.transition = "transform 5s ease-in"; 
             
             // Disable iOS callout menu while pressing
             card.style.webkitTouchCallout = "none"; 
@@ -995,7 +1006,7 @@
                 wasSecretTriggered = true;
                 if ("vibrate" in navigator) navigator.vibrate([100, 50, 100]); // Haptic feedback
                 
-                // FIXED: Formatted the JustTheRecipe URL correctly
+                // Formatted the JustTheRecipe URL correctly
                 window.open("https://www.justtherecipe.com/?url=" + encodeURIComponent(recipe.link), "_blank");
                 
                 cancelPress(); // Reset the visual state once triggered
@@ -1003,11 +1014,33 @@
         };
 
         const cancelPress = () => {
-            clearTimeout(pressTimer);
-            pressTimer = null; // Important: Clear the timer state
+            if (pressTimer) {
+                clearTimeout(pressTimer);
+                pressTimer = null;
+            }
             card.style.transform = "";
             card.style.transition = "transform 0.2s";
             card.style.webkitTouchCallout = "";
+        };
+
+        const handleMove = (e) => {
+            if (!pressTimer) return; // Only run if a press is actively being held
+            
+            let currentX = 0;
+            let currentY = 0;
+
+            if (e.type === 'mousemove') {
+                currentX = e.clientX;
+                currentY = e.clientY;
+            } else if (e.type === 'touchmove') {
+                currentX = e.touches[0].clientX;
+                currentY = e.touches[0].clientY;
+            }
+
+            // If dragged more than 10 pixels, cancel the long press (user is selecting text or scrolling)
+            if (Math.abs(currentX - startX) > 10 || Math.abs(currentY - startY) > 10) {
+                cancelPress();
+            }
         };
 
         // Attach listeners to the card
@@ -1019,9 +1052,10 @@
         card.addEventListener('mouseleave', cancelPress);
         card.addEventListener('touchend', cancelPress);
         
-        // NEW: Critical fixes for Mobile & Scrolling
-        card.addEventListener('touchcancel', cancelPress); // Stops timer if OS interrupts the touch
-        card.addEventListener('touchmove', cancelPress, {passive: true}); // Stops timer if user starts scrolling
+        // Interruptions from scrolling or dragging/highlighting text on PC
+        card.addEventListener('touchcancel', cancelPress); 
+        card.addEventListener('touchmove', handleMove, {passive: true}); 
+        card.addEventListener('mousemove', handleMove); 
         
         // FIX: Prevent the native context menu from interrupting the hold
         card.addEventListener('contextmenu', (e) => {
@@ -1039,7 +1073,6 @@
         };
        
         // ------------------------------------------
-
         const img = document.createElement('img');
         img.src = recipe.image;
         img.width = 400;
