@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-05 19:53:32
+**Last Run:** 2026-03-06 00:14:39
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20088 | 248 new today |
+| **Total Database** | 20093 | 252 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 86 RSS |
 | **Active Sources** | 117 | 5+ recipes |
-| **WFPB / GF** | 2287 / 2714 | 11% / 13% |
-| **Easy / Budget** | 4980 / 2095 | 24% / 10% |
+| **WFPB / GF** | 2288 / 2714 | 11% / 13% |
+| **Easy / Budget** | 4982 / 2096 | 24% / 10% |
 
 ---
 
@@ -21,7 +21,7 @@
 | Mary's Test Kitchen | 2 | 11 | 0 | 0 | 1 | 0 | 2026-02-26 | ✅ OK |
 | Rainbow Nourishments | 1 | 11 | 0 | 2 | 1 | 0 | 2026-02-06 | ✅ OK |
 | The Banana Diaries | 0 | 12 | 0 | 4 | 2 | 0 | 2026-02-13 | ✅ OK |
-| PlantYou | 1 | 15 | 15 | 2 | 2 | 0 | 2026-03-01 | ✅ OK |
+| PlantYou | 2 | 16 | 16 | 3 | 2 | 0 | 2026-03-05 | ✅ OK |
 | Dr. Vegan | 1 | 17 | 4 | 17 | 8 | 0 | 2026-03-02 | ✅ OK |
 | Jessica in the Kitchen | 3 | 17 | 1 | 2 | 1 | 2 | 2026-03-03 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 2 | 18 | 0 | 1 | 0 | 1 | 2026-03-03 | ✅ OK |
@@ -33,7 +33,7 @@
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 100 | 8 | 62 | 10 | 5 | 2026-02-25 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 1 | 105 | 0 | 8 | 0 | 0 | 2025-03-13 | ✅ OK |
-| The Hidden Veggies | 3 | 115 | 1 | 11 | 115 | 0 | 2026-03-01 | ✅ OK |
+| The Hidden Veggies | 4 | 116 | 1 | 11 | 116 | 0 | 2026-03-05 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 137 | 0 | 12 | 2 | 1 | 2026-02-26 | ✅ OK |
@@ -51,7 +51,7 @@
 | Nora Cooks | 5 | 196 | 16 | 27 | 13 | 5 | 2026-03-02 | ✅ OK |
 | Watch Learn Eat | 0 | 201 | 4 | 201 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Baking Hermann | 0 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
-| The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-02-28 | ✅ OK |
+| The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-03-05 | ✅ OK |
 | Elavegan | 0 | 213 | 5 | 39 | 2 | 204 | 2026-02-19 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Vegan 8 | 0 | 215 | 47 | 215 | 215 | 35 | 2026-03-02 | ✅ OK |
@@ -63,9 +63,9 @@
 | Vegan Heaven | 4 | 225 | 0 | 30 | 0 | 1 | 2026-01-06 | ✅ OK |
 | ZardyPlants | 0 | 226 | 226 | 36 | 226 | 4 | 2026-03-04 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 4 | 232 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 3 | 232 | 0 | 55 | 1 | 0 | 2026-03-02 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Cadry's Kitchen | 3 | 234 | 11 | 83 | 22 | 0 | 2026-02-23 | ✅ OK |
+| Cadry's Kitchen | 4 | 235 | 11 | 84 | 22 | 0 | 2026-03-05 | ✅ OK |
 | Forks Over Knives | 2 | 235 | 235 | 24 | 41 | 2 | 2026-02-05 | ✅ OK |
 | HealthyGirl Kitchen | 3 | 237 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 0 | 237 | 19 | 79 | 18 | 45 | 2026-02-10 | ✅ OK |
@@ -94,7 +94,7 @@
 | Namely Marly | 12 | 262 | 11 | 27 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 264 | 0 | 38 | 0 | 9 | 2026-03-03 | ✅ OK |
 | The Edgy Veg | 0 | 264 | 10 | 39 | 9 | 3 | 2024-03-18 | ✅ OK |
-| The Plant-Based RD | 0 | 264 | 4 | 17 | 1 | 0 | 2026-02-20 | ✅ OK |
+| The Plant-Based RD | 1 | 265 | 4 | 17 | 1 | 0 | 2026-03-05 | ✅ OK |
 | A Virtual Vegan | 1 | 266 | 2 | 35 | 1 | 4 | 2026-02-20 | ✅ OK |
 | My Darling Vegan | 1 | 266 | 2 | 29 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
@@ -102,7 +102,7 @@
 | Connoisseurus Veg | 0 | 271 | 0 | 33 | 1 | 0 | 2026-03-02 | ✅ OK |
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Healthy Little Vittles | 0 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 277 | 2 | 19 | 1 | 1 | 2026-03-04 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 278 | 2 | 19 | 1 | 1 | 2026-03-05 | ✅ OK |
 | VegNews | 45 | 279 | 22 | 33 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
 | Ann Arbor Vegan Kitchen | 4 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (4) |
@@ -115,7 +115,7 @@
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
 | Plantifully Based | 0 | 13 | 1 | 4 | 0 | 0 | 2026-02-21 | Skipped |
 | Veggies Don't Bite | 0 | 15 | 0 | 1 | 2 | 0 | 2026-02-13 | Skipped |
-| Elsa's Wholesome Life | 0 | 18 | 1 | 0 | 0 | 0 | 2022-02-14 | Skipped |
+| Elsa's Wholesome Life | 0 | 17 | 1 | 0 | 0 | 0 | 2022-02-14 | Skipped |
 | Zucker & Jagdwurst | 0 | 18 | 0 | 3 | 3 | 1 | 2020-01-01 | Skipped |
 | The Happy Pear | 0 | 21 | 0 | 2 | 0 | 1 | 2026-02-17 | Skipped |
 | Rachel Ama | 0 | 25 | 0 | 3 | 4 | 0 | 2025-02-06 | Skipped |
