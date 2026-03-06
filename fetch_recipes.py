@@ -1258,20 +1258,37 @@ for recipe in recipes:
 # 5.2 Clean Recipe Titles
 import re
 print("Cleaning recipe titles...", flush=True)
-# Remove these phrases ANYWHERE they appear in the title
+# Comprehensive list of common scraping artifacts/junk from food blogs
 PHRASES_TO_REMOVE = [
-    "Continue Reading", "Continue", "Read More",
-    "Get the Recipe", "View Recipe", "Click Here"
+    "Continue Reading", "Continue", "Read More", "Read more »",
+    "Get the Recipe", "View Recipe", "Click Here", "Click for Recipe",
+    "Just the Recipe", "Jump to Recipe", "Skip to Recipe", "Skip to Content",
+    "Print Recipe", "Print this Recipe", "Full Recipe Here", "Full Recipe",
+    "Pin it for later", "Pin this Recipe", "Pin It", "Save for Later",
+    "Share on Facebook", "Share this", "Click to Tweet",
+    "Leave a Comment", "Leave a Reply", "Add a Comment", "Read Comments",
+    "Recipe Card", "Ingredients", "Instructions", "Step-by-step", "Step by step",
+    "Previous Post", "Next Post", "Older Posts", "Newer Posts", "Load More",
+    "Watch the Video", "Watch Video", "Recipe Video"
 ]
+
+# Sort by length descending so longer phrases are matched first (e.g. "Print this Recipe" before "Print Recipe")
+PHRASES_TO_REMOVE.sort(key=len, reverse=True)
+
 # Compiling regex to look for these phrases anywhere in the string, ignoring case
-title_clean_pattern = re.compile(r'\b(' + '|'.join(PHRASES_TO_REMOVE) + r')\b', re.IGNORECASE)
+title_clean_pattern = re.compile(r'\b(' + '|'.join(re.escape(p) for p in PHRASES_TO_REMOVE) + r')\b', re.IGNORECASE)
 
 for r in recipes:
     # 1. Strip out the bad phrases
     cleaned = title_clean_pattern.sub('', r['title'])
-    # 2. Clean up any floating punctuation (e.g. "Title - " or " : Title") left behind at edges
+    
+    # 2. Special check: Remove stray "(Video)" or "[Video]" or " - Video"
+    cleaned = re.sub(r'\s*[\(\[\|\-]?\s*Video\s*[\)\]]?\s*$', '', cleaned, flags=re.IGNORECASE)
+    
+    # 3. Clean up any floating punctuation (e.g. "Title - " or " : Title") left behind at edges
     cleaned = re.sub(r'^[ \-\|:.,]+|[ \-\|:.,]+$', '', cleaned)
-    # 3. Clean up accidental double spaces
+    
+    # 4. Clean up accidental double spaces
     cleaned = re.sub(r'\s{2,}', ' ', cleaned).strip()
     
     # Apply the cleaned title, or fallback to original if cleaning accidentally emptied it
