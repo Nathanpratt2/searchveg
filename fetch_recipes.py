@@ -111,7 +111,7 @@ TOP_BLOGGERS = [
     #("VegNews", "https://vegnews.com/feed", []),
     ("Sweet Simple Vegan", "https://sweetsimplevegan.com/feed/", []),
     ("Bianca Zapatka", "https://biancazapatka.com/en/feed/", []),
-    ("The Cheap Lazy Vegan", "https://thecheaplazyvegan.com/feed/", ["Budget", "Easy"]),
+    #("The Cheap Lazy Vegan", "https://thecheaplazyvegan.com/feed/", ["Budget", "Easy"]),
     ("It Doesn't Taste Like Chicken", "https://itdoesnttastelikechicken.com/feed/", []),
     ("The Post-Punk Kitchen", "https://www.theppk.com/feed/", []),
     ("Steamy Vegan", "https://steamyvegan.com/feed/", []),
@@ -210,7 +210,7 @@ HTML_SOURCES = [
    ("VegNews", ("https://vegnews.com/recipes/page/{}/", 1, 1), [], "wordpress"),#maybe infinite pages lol
    # ("Sweet Simple Vegan", "https://sweetsimplevegan.com/recipes/page/1/", [], "wordpress"),#maxed out recipes
    # ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 1, 1), [], "wordpress"),#70 pages, input as a range
-   # ("The Cheap Lazy Vegan", ("https://thecheaplazyvegan.com/blog/page/{}/", 1, 1), ["Budget", "Easy"], "wordpress"),#62 pages
+    ("The Cheap Lazy Vegan", ("https://thecheaplazyvegan.com/blog/page/{}/", 1, 1), ["Budget", "Easy"], "wordpress"),#62 pages
    # ("It Doesn't Taste Like Chicken", "https://itdoesnttastelikechicken.com/recipe-index/", [], "wordpress"),#ma
    # ("The Post-Punk Kitchen", "https://www.theppk.com/", [], "wordpress"),#should get all of their recipes with this special link
    # ("Steamy Vegan", ("https://steamyvegan.com/page/{}/?s=+", 1, 1), [], "wordpress"), #16 paages
