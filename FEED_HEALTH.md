@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-07 13:25:21
+**Last Run:** 2026-03-07 19:06:22
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20084 | 245 new today |
+| **Total Database** | 20087 | 248 new today |
 | **Blogs Monitored** | 119 | 9 HTML / 85 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2287 / 2715 | 11% / 13% |
-| **Easy / Budget** | 4984 / 2095 | 24% / 10% |
+| **Easy / Budget** | 4985 / 2095 | 24% / 10% |
 
 ---
 
@@ -38,7 +38,7 @@
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 137 | 0 | 12 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 25 | 16 | 0 | 2026-02-11 | ✅ OK |
-| Steamy Vegan | 1 | 161 | 9 | 28 | 10 | 2 | 2026-02-25 | ✅ OK |
+| Steamy Vegan | 2 | 162 | 9 | 28 | 10 | 2 | 2026-03-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 5 | 170 | 5 | 38 | 10 | 0 | 2026-03-06 | ✅ OK |
 | Holistic Chef Academy | 1 | 173 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
 | Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
@@ -71,8 +71,8 @@
 | Minimalist Baker (Vegan Recipes) | 0 | 237 | 19 | 79 | 18 | 45 | 2026-02-10 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-01-09 | ✅ OK |
-| Eat Figs, Not Pigs | 7 | 240 | 1 | 28 | 2 | 0 | 2026-03-03 | ✅ OK |
 | Pick Up Limes | 4 | 240 | 22 | 25 | 28 | 1 | 2026-02-26 | ✅ OK (4) |
+| Eat Figs, Not Pigs | 8 | 241 | 1 | 28 | 2 | 0 | 2026-03-07 | ✅ OK |
 | Rainbow Plant Life | 10 | 241 | 31 | 62 | 43 | 7 | 2026-02-26 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 244 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | Vegan Yack Attack | 1 | 246 | 21 | 52 | 24 | 220 | 2025-07-27 | ✅ OK |
@@ -92,8 +92,8 @@
 | From My Bowl | 0 | 259 | 4 | 36 | 3 | 5 | 2026-03-06 | ✅ OK |
 | Plant-Based on a Budget | 6 | 260 | 16 | 64 | 260 | 1 | 2026-02-23 | ✅ OK |
 | Namely Marly | 12 | 262 | 11 | 27 | 15 | 2 | 2026-02-28 | ✅ OK |
-| Full of Plants | 1 | 264 | 0 | 38 | 0 | 9 | 2026-03-03 | ✅ OK |
 | The Edgy Veg | 0 | 264 | 10 | 39 | 9 | 3 | 2024-03-18 | ✅ OK |
+| Full of Plants | 2 | 265 | 0 | 38 | 0 | 9 | 2026-03-07 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-05 | ✅ OK |
 | A Virtual Vegan | 0 | 266 | 2 | 35 | 1 | 4 | 2026-03-06 | ✅ OK |
 | My Darling Vegan | 1 | 266 | 2 | 29 | 4 | 12 | 2026-02-27 | ✅ OK |
@@ -103,10 +103,10 @@
 | Yup It's Vegan | 0 | 274 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Healthy Little Vittles | 0 | 275 | 9 | 44 | 2 | 272 | 2026-03-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 279 | 2 | 19 | 1 | 1 | 2026-03-06 | ✅ OK |
-| VegNews | 45 | 279 | 22 | 34 | 28 | 3 | 2026-02-10 | ✅ OK (45) |
+| VegNews | 44 | 279 | 22 | 34 | 28 | 3 | 2026-02-10 | ✅ OK (44) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
 | Ann Arbor Vegan Kitchen | 4 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (4) |
-| Lazy Cat Kitchen | 0 | 280 | 3 | 13 | 3 | 5 | 2026-03-01 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 280 | 3 | 14 | 3 | 5 | 2026-03-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 280 | 35 | 33 | 2 | 38 | 2026-03-04 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 280 | 1 | 4 | 4 | 1 | 2026-03-04 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
