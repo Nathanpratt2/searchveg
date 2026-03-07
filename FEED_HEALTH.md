@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-06 23:55:42
+**Last Run:** 2026-03-07 07:14:25
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20084 | 247 new today |
+| **Total Database** | 20084 | 245 new today |
 | **Blogs Monitored** | 119 | 9 HTML / 85 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2287 / 2715 | 11% / 13% |
@@ -36,7 +36,7 @@
 | The Hidden Veggies | 4 | 116 | 1 | 11 | 116 | 0 | 2026-03-05 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 137 | 0 | 12 | 2 | 1 | 2026-03-06 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 137 | 0 | 12 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 25 | 16 | 0 | 2026-02-11 | ✅ OK |
 | Steamy Vegan | 1 | 161 | 9 | 28 | 10 | 2 | 2026-02-25 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 5 | 170 | 5 | 38 | 10 | 0 | 2026-03-06 | ✅ OK |
@@ -82,7 +82,7 @@
 | It Doesn't Taste Like Chicken | 2 | 250 | 1 | 81 | 8 | 231 | 2026-03-04 | ✅ OK |
 | Rhian's Recipes | 3 | 251 | 2 | 9 | 11 | 251 | 2026-01-28 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-02-27 | ✅ OK |
-| Veggiekins | 1 | 254 | 36 | 254 | 0 | 251 | 2026-03-06 | ✅ OK |
+| Veggiekins | 0 | 254 | 36 | 254 | 0 | 251 | 2026-03-06 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 255 | 25 | 255 | 21 | 4 | 2025-08-18 | ✅ OK |
 | Rabbit and Wolves | 2 | 255 | 0 | 34 | 2 | 0 | 2026-03-03 | ✅ OK |
 | Sweet Potato Soul | 2 | 256 | 0 | 40 | 2 | 6 | 2026-02-15 | ✅ OK |
