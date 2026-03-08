@@ -1,13 +1,13 @@
 # Feed Health Report
-**Last Run:** 2026-03-08 19:08:00
+**Last Run:** 2026-03-08 23:52:45
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20096 | 247 new today |
+| **Total Database** | 20097 | 239 new today |
 | **Blogs Monitored** | 119 | 9 HTML / 85 RSS |
 | **Active Sources** | 117 | 5+ recipes |
-| **WFPB / GF** | 2288 / 2716 | 11% / 13% |
+| **WFPB / GF** | 2288 / 2715 | 11% / 13% |
 | **Easy / Budget** | 4987 / 2096 | 24% / 10% |
 
 ---
@@ -29,7 +29,7 @@
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
 | Vegan Richa GF | 1 | 27 | 1 | 7 | 7 | 27 | 2026-03-04 | ✅ OK |
 | Justine Cooks Vegan | 0 | 46 | 0 | 4 | 0 | 0 | 2026-01-01 | ✅ OK |
-| Mouthwatering Vegan | 5 | 55 | 0 | 5 | 0 | 3 | 2021-04-06 | ✅ OK (5) |
+| Mouthwatering Vegan | 0 | 53 | 0 | 5 | 0 | 2 | 2021-04-06 | ✅ OK |
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 100 | 8 | 62 | 10 | 5 | 2026-02-25 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -39,7 +39,7 @@
 | Sarah's Vegan Kitchen | 3 | 137 | 0 | 12 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 25 | 16 | 0 | 2026-02-11 | ✅ OK |
 | Steamy Vegan | 1 | 162 | 9 | 28 | 10 | 2 | 2026-03-07 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 6 | 171 | 5 | 38 | 10 | 0 | 2026-03-08 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 5 | 171 | 5 | 38 | 10 | 0 | 2026-03-08 | ✅ OK |
 | Holistic Chef Academy | 1 | 173 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
 | Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
@@ -52,7 +52,7 @@
 | Watch Learn Eat | 0 | 201 | 4 | 201 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Baking Hermann | 0 | 205 | 11 | 21 | 41 | 6 | 2026-02-19 | ✅ OK |
 | The Burger Dude | 3 | 206 | 6 | 13 | 13 | 0 | 2026-03-05 | ✅ OK |
-| Elavegan | 1 | 214 | 5 | 39 | 2 | 205 | 2026-03-08 | ✅ OK |
+| Elavegan | 0 | 214 | 5 | 39 | 2 | 205 | 2026-03-08 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Vegan 8 | 0 | 216 | 47 | 216 | 216 | 35 | 2026-03-07 | ✅ OK |
 | Big Box Vegan | 3 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
@@ -73,13 +73,13 @@
 | The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-01-09 | ✅ OK |
 | Pick Up Limes | 4 | 240 | 22 | 25 | 28 | 1 | 2026-02-26 | ✅ OK (4) |
 | Rainbow Plant Life | 10 | 241 | 31 | 62 | 43 | 7 | 2026-02-26 | ✅ OK |
-| Eat Figs, Not Pigs | 8 | 242 | 1 | 28 | 2 | 0 | 2026-03-08 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 242 | 1 | 28 | 2 | 0 | 2026-03-08 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 244 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | Vegan Yack Attack | 1 | 246 | 21 | 52 | 24 | 220 | 2025-07-27 | ✅ OK |
 | Make It Dairy Free | 1 | 247 | 4 | 42 | 2 | 3 | 2026-03-01 | ✅ OK |
 | Hot For Food | 2 | 249 | 10 | 32 | 12 | 1 | 2026-03-06 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 249 | 37 | 68 | 3 | 0 | 2026-03-04 | ✅ OK |
-| It Doesn't Taste Like Chicken | 3 | 251 | 1 | 82 | 8 | 231 | 2026-03-08 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 250 | 37 | 68 | 3 | 0 | 2026-03-08 | ✅ OK |
+| It Doesn't Taste Like Chicken | 2 | 251 | 1 | 82 | 8 | 231 | 2026-03-08 | ✅ OK |
 | Rhian's Recipes | 3 | 251 | 2 | 9 | 11 | 251 | 2026-01-28 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-02-27 | ✅ OK |
 | Veggiekins | 0 | 254 | 36 | 254 | 0 | 251 | 2026-03-06 | ✅ OK |
