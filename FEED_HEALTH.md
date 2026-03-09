@@ -1,13 +1,13 @@
 # Feed Health Report
-**Last Run:** 2026-03-09 19:24:41
+**Last Run:** 2026-03-09 23:55:59
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20105 | 241 new today |
+| **Total Database** | 20105 | 242 new today |
 | **Blogs Monitored** | 119 | 9 HTML / 85 RSS |
 | **Active Sources** | 117 | 5+ recipes |
-| **WFPB / GF** | 2288 / 2715 | 11% / 13% |
+| **WFPB / GF** | 2288 / 2716 | 11% / 13% |
 | **Easy / Budget** | 4988 / 2097 | 24% / 10% |
 
 ---
@@ -23,13 +23,13 @@
 | The Banana Diaries | 0 | 12 | 0 | 4 | 2 | 0 | 2026-02-13 | ✅ OK |
 | Dr. Vegan | 1 | 17 | 4 | 17 | 8 | 0 | 2026-03-02 | ✅ OK |
 | PlantYou | 1 | 17 | 17 | 4 | 2 | 0 | 2026-03-08 | ✅ OK |
-| Jessica in the Kitchen | 4 | 19 | 1 | 2 | 1 | 2 | 2026-03-09 | ✅ OK |
+| Jessica in the Kitchen | 3 | 19 | 1 | 2 | 1 | 2 | 2026-03-09 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 2 | 19 | 0 | 1 | 0 | 1 | 2026-03-06 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 21 | 5 | 1 | 4 | 20 | 2026-02-26 | ✅ OK |
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
 | Vegan Richa GF | 1 | 27 | 1 | 7 | 7 | 27 | 2026-03-04 | ✅ OK |
 | Justine Cooks Vegan | 0 | 46 | 0 | 4 | 0 | 0 | 2026-01-01 | ✅ OK |
-| Mouthwatering Vegan | 0 | 53 | 0 | 5 | 0 | 2 | 2021-04-06 | ✅ OK |
+| Mouthwatering Vegan | 5 | 55 | 0 | 5 | 0 | 3 | 2021-04-06 | ✅ OK (5) |
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 100 | 8 | 62 | 10 | 5 | 2026-02-25 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -40,11 +40,11 @@
 | Earth to Veg | 2 | 157 | 6 | 25 | 16 | 0 | 2026-02-11 | ✅ OK |
 | Steamy Vegan | 1 | 162 | 9 | 28 | 10 | 2 | 2026-03-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 5 | 171 | 5 | 38 | 10 | 0 | 2026-03-08 | ✅ OK |
-| Holistic Chef Academy | 1 | 173 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
+| Holistic Chef Academy | 0 | 173 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
 | Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-05 | ✅ OK |
-| Simple Vegan Blog | 3 | 187 | 7 | 41 | 15 | 4 | 2026-03-09 | ✅ OK |
+| Simple Vegan Blog | 2 | 187 | 7 | 41 | 15 | 4 | 2026-03-09 | ✅ OK |
 | The Little Blog of Vegan | 1 | 189 | 0 | 34 | 0 | 1 | 2026-03-06 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
 | My Vegan Minimalist | 1 | 196 | 16 | 58 | 11 | 1 | 2026-02-16 | ✅ OK |
@@ -55,7 +55,7 @@
 | Elavegan | 0 | 214 | 5 | 39 | 2 | 205 | 2026-03-08 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Vegan 8 | 0 | 216 | 47 | 216 | 216 | 35 | 2026-03-07 | ✅ OK |
-| Big Box Vegan | 3 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
+| Big Box Vegan | 4 | 218 | 0 | 39 | 2 | 1 | 2026-02-09 | ✅ OK |
 | The First Mess | 1 | 220 | 1 | 30 | 3 | 1 | 2026-03-05 | ✅ OK |
 | Sweet Simple Vegan | 2 | 224 | 5 | 50 | 18 | 2 | 2026-03-04 | ✅ OK |
 | Vegan in the Freezer | 0 | 224 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
@@ -105,11 +105,11 @@
 | VegNews | 44 | 279 | 22 | 34 | 28 | 3 | 2026-02-10 | ✅ OK (44) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
 | Ann Arbor Vegan Kitchen | 4 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (4) |
-| Gretchen's Vegan Bakery | 1 | 280 | 2 | 19 | 1 | 1 | 2026-03-09 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 280 | 2 | 19 | 1 | 1 | 2026-03-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 14 | 3 | 5 | 2026-03-07 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 281 | 35 | 33 | 2 | 38 | 2026-03-07 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 282 | 1 | 4 | 4 | 1 | 2026-03-09 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 282 | 1 | 4 | 4 | 1 | 2026-03-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
