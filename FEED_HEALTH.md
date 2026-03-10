@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-10 07:23:23
+**Last Run:** 2026-03-10 13:53:29
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20105 | 243 new today |
+| **Total Database** | 20107 | 246 new today |
 | **Blogs Monitored** | 119 | 9 HTML / 85 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2288 / 2716 | 11% / 13% |
@@ -45,7 +45,7 @@
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-09 | ✅ OK |
 | Simple Vegan Blog | 2 | 187 | 7 | 41 | 15 | 4 | 2026-03-09 | ✅ OK |
-| The Little Blog of Vegan | 1 | 189 | 0 | 34 | 0 | 1 | 2026-03-06 | ✅ OK |
+| The Little Blog of Vegan | 2 | 190 | 0 | 34 | 0 | 1 | 2026-03-10 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
 | My Vegan Minimalist | 1 | 196 | 16 | 58 | 11 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 196 | 16 | 27 | 13 | 5 | 2026-03-09 | ✅ OK |
@@ -68,7 +68,7 @@
 | Cadry's Kitchen | 3 | 235 | 11 | 84 | 22 | 0 | 2026-03-05 | ✅ OK |
 | Forks Over Knives | 2 | 235 | 235 | 24 | 41 | 2 | 2026-02-05 | ✅ OK |
 | HealthyGirl Kitchen | 3 | 237 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 0 | 237 | 19 | 79 | 18 | 45 | 2026-02-10 | ✅ OK |
+| Minimalist Baker (Vegan Recipes) | 1 | 238 | 19 | 79 | 18 | 45 | 2026-03-10 | ✅ OK (1) |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-01-09 | ✅ OK |
 | Pick Up Limes | 4 | 240 | 22 | 25 | 28 | 1 | 2026-02-26 | ✅ OK (4) |
@@ -105,9 +105,9 @@
 | VegNews | 44 | 279 | 22 | 34 | 28 | 3 | 2026-02-10 | ✅ OK (44) |
 | Vegan Recipe Club | 20 | 279 | 0 | 45 | 2 | 2 | 2026-01-05 | ✅ OK (3) |
 | Ann Arbor Vegan Kitchen | 4 | 280 | 280 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (4) |
-| Gretchen's Vegan Bakery | 0 | 280 | 2 | 19 | 1 | 1 | 2026-03-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 14 | 3 | 5 | 2026-03-07 | ✅ OK |
 | Unconventional Baker | 0 | 280 | 1 | 20 | 0 | 280 | 2025-11-01 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 281 | 2 | 19 | 1 | 1 | 2026-03-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 281 | 35 | 33 | 2 | 38 | 2026-03-07 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 282 | 1 | 4 | 4 | 1 | 2026-03-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
