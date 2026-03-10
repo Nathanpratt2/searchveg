@@ -921,6 +921,40 @@
     }
 
     // --- RENDER LOGIC ---
+    function clearAllFilters() {
+        // Reset text search
+        const searchInput = document.getElementById('searchInput');
+        if (searchInput) {
+            searchInput.value = '';
+            isStrictSearch = false;
+            toggleSearchButtons(false);
+        }
+
+        // Reset all active states
+        activeType = null;
+        activeTags.clear();
+        activeCuisines.clear();
+        if (typeof activeMoods !== 'undefined') activeMoods.clear();
+        if (typeof activeDiets !== 'undefined') activeDiets.clear();
+        isSavedView = false;
+        
+        // Clear visual button states
+        document.querySelectorAll('.btn').forEach(b => b.classList.remove('active-filter'));
+        
+        // Hide Saved-view specific buttons
+        const shareSavedBtn = document.getElementById('shareSavedBtn');
+        if (shareSavedBtn) shareSavedBtn.style.display = 'none';
+
+        // Close any open dropdown menus
+        const wrapper = document.getElementById('subControlsWrapper');
+        if (wrapper) wrapper.classList.remove('open');
+        document.querySelectorAll('.dropdown-arrow').forEach(arrow => arrow.classList.remove('open'));
+        if (typeof activeSubMenu !== 'undefined') activeSubMenu = null;
+        
+        // Re-apply (which resets the view, URL, and renders all recipes)
+        applyFilters(true);
+    }
+
     function renderNextBatch() {
         const gallery = document.getElementById('gallery');
         const loader = document.getElementById('loader');
@@ -929,7 +963,15 @@
         gallery.setAttribute('aria-busy', 'false');
 
         if (currentContext.length === 0) {
-            gallery.innerHTML = '<div class="no-results">No recipes found. Try a different combination!</div>';
+            gallery.innerHTML = `
+                <div class="no-results" style="grid-column: 1 / -1; text-align: center; padding: 40px 20px; width: 100%;">
+                    <h3 style="margin-bottom: 10px;">No recipes found</h3>
+                    <p style="margin-bottom: 20px; opacity: 0.8;">Try a different combination of filters or search terms.</p>
+                    <button class="btn" onclick="clearAllFilters()" style="display: inline-flex; margin: 0 auto; border-color: #769F37; color: #769F37; cursor: pointer;">
+                        ✕ Clear All Filters
+                    </button>
+                </div>
+            `;
             loader.style.display = 'none';
             return;
         }
