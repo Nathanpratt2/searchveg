@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-09 23:55:59
+**Last Run:** 2026-03-10 07:23:23
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20105 | 242 new today |
+| **Total Database** | 20105 | 243 new today |
 | **Blogs Monitored** | 119 | 9 HTML / 85 RSS |
 | **Active Sources** | 117 | 5+ recipes |
 | **WFPB / GF** | 2288 / 2716 | 11% / 13% |
@@ -40,10 +40,10 @@
 | Earth to Veg | 2 | 157 | 6 | 25 | 16 | 0 | 2026-02-11 | ✅ OK |
 | Steamy Vegan | 1 | 162 | 9 | 28 | 10 | 2 | 2026-03-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 5 | 171 | 5 | 38 | 10 | 0 | 2026-03-08 | ✅ OK |
-| Holistic Chef Academy | 0 | 173 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
+| Holistic Chef Academy | 1 | 173 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
 | Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-02-24 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-05 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 12 | 184 | 1 | 25 | 1 | 30 | 2026-03-09 | ✅ OK |
 | Simple Vegan Blog | 2 | 187 | 7 | 41 | 15 | 4 | 2026-03-09 | ✅ OK |
 | The Little Blog of Vegan | 1 | 189 | 0 | 34 | 0 | 1 | 2026-03-06 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
