@@ -299,21 +299,35 @@ NON_GF_KEYWORDS = [
 ]
     
 NON_RECIPE_KEYWORDS = [
-    "meal plan", "weekly menu", "menu plan", "gift guide", "cookbook", "review", "Janelle Carss", 
-    "giveaway", "roundup", "collection", "favorites", "best of", "kitchen tour", 
-    "grocery haul", "what i eat", "what i ate", "wiaw", "routine", "travel", "restaurant", 
-    "dining out", "where to eat", "city guide", "interview", "guest post", "workshop", 
-    "class", "course", "ebook", "merch", "store", "shop", "announcement", "update", "news", 
-    "contest", "winner", "promo", "discount", "coupon", "deal", "sale", "black friday", 
-    "cyber monday", "top 10", "10" , "22 ", "25 ", "list", "top 20", "5 best", "10 best", "15 best", "20 best", "33 vegan", 
-    "ways", "rpl", "going vegan", "my story", "journey", "life lately", "coffee talk", "saturday sun", 
-    "link love", "weekend reading", "batch cooking", "staples", "essentials", "substitutes",
-    "101", "tutorial", "guide", "tips", "tricks", "faq", "policy", "terms", "privacy", 
-    "contact", "about", "search", "sitemap", "neighbor", "law", "videos", "planning", 
-    "rituals", "discontinued", "forgotten", "finds", "live", "tests", "lab", "tracking", 
-    "progress", "lifestyle", "success", "story", "obama", "trump", "stories", "appliances", 
-    "books", "I met", "reading", "shows", "headshot", "just", "2026", "2025", "2024", 
-    "best seller", "podcast", "episode", "vlog", "q&a", "recap"
+    # Listicles / Roundups
+    "roundup", "collection", "favorites", "best of", "top 10", "top 20", "top 5", "22 ", "20 ",
+    " best vegan ", " dinner ideas", " lunch ideas", " breakfast ideas", " meal prep ideas",
+    " ways to ", " things to ", "must make", "must have", "must try", " recipes for ", 
+    " recipes to ", " ideas for ",
+    
+    # Meal Plans & Diaries
+    "meal plan", "weekly menu", "menu plan", "what i eat", "what i ate", "wiaw", 
+    "grocery haul", "batch cooking plan", "meal prep plan",
+    
+    # Blog/Life Updates & Chit Chat
+    "life lately", "coffee talk", "saturday sun", "link love", "weekend reading", 
+    "my story", "journey", "routine", "travel", "city guide", "where to eat", 
+    "dining out", "restaurant", "kitchen tour", "behind the scenes", "vlog", "recap", 
+    "q&a", "podcast", "episode", "janelle carss", "rpl", "obama", "trump", "reading list",
+    
+    # Products / Promotions / Books
+    "cookbook", "gift guide", "merch", "ebook", "discount", "coupon", "promo", 
+    "black friday", "cyber monday", " sale ", "giveaway", "contest", "winner", 
+    "best seller", "appliances",
+    
+    # Educational / Guides (Not specific recipes)
+    " 101", "tutorial", "guide to", " tips ", " tricks ", "faq", "how to cut", "how to store", 
+    "how to freeze", "substitutes", "benefits of", " vs ", "difference between",
+    
+    # Admin / Website & Reviews
+    "review", "interview", "guest post", "workshop", "class", "course", 
+    "announcement", "update", "news", "policy", "terms", "privacy", "contact", 
+    "about me", "search", "sitemap", "disclaimer", "headshot"
 ]
 
 # --- ADVANCED SCRAPER SETUP & SSL FIX ---
