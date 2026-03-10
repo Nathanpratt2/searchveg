@@ -161,27 +161,25 @@
             <svg class="dropdown-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
         </button>
 
-        <!-- DIET DROPDOWN BUTTON -->
+       <!-- DIET DROPDOWN BUTTON -->
         <button id="dietsBtn" class="btn" onclick="toggleSubMenu(event, 'diet')">
             🥗 Diet
-            <svg class="dropdown-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
-        </button>
-        
-        <!-- CREATORS DROPDOWN BUTTON -->
-        <button id="creatorsBtn" class="btn" onclick="toggleSubMenu(event, 'creator')">
-            🧑‍🍳 Creators
             <svg class="dropdown-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
         </button>      
     </div>
 
-    <!-- HORIZONTAL SCROLLING CHIPS -->
+    <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
+    <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
     <div id="subControlsWrapper" class="sub-controls-wrapper">
         <div class="sub-controls">
             
             <!-- MOODS -->
             <div class="sub-controls-inner" id="moodChips" style="display:none;">
+                <!-- Tags (Easy/Budget) -->
                 <button class="btn" id="easyBtn" onclick="toggleTag(event, 'Easy')">⚡ Easy</button>
                 <button class="btn" id="budgetBtn" onclick="toggleTag(event, 'Budget')">💸 Budget</button>
+                
+                <!-- Virtual Moods -->
                 <button class="btn mood-btn" data-mood="Fresh" onclick="toggleMood(event, 'Fresh')">🥗 Fresh</button>
                 <button class="btn mood-btn" data-mood="Comfort" onclick="toggleMood(event, 'Comfort')">🍔 Comfort</button>
                 <button class="btn mood-btn" data-mood="Cozy" onclick="toggleMood(event, 'Cozy')">🍲 Cozy</button>
@@ -201,16 +199,30 @@
 
             <!-- DIETS -->
             <div class="sub-controls-inner" id="dietChips" style="display:none;">
+                <!-- Tags -->
                 <button class="btn" id="proteinBtn" onclick="toggleTag(event, 'Protein')">⬆️ High Protein</button>
                 <button class="btn" id="gfBtn" onclick="toggleTag(event, 'GF')">🌾 Gluten Free</button>
                 <button class="btn" id="wfpbBtn" onclick="toggleTag(event, 'WFPB')">🥗 WFPB</button>
+                
+                <!-- Virtual Diets -->
                 <button class="btn diet-btn" data-diet="Nut Free" onclick="toggleDiet(event, 'Nut Free')">🥜 Nut Free</button>
                 <button class="btn diet-btn" data-diet="Soy Free" onclick="toggleDiet(event, 'Soy Free')">🌱 Soy Free</button>
             </div>
-            
-            <!-- CREATORS (Populated dynamically via JS) -->
-            <div class="sub-controls-inner" id="creatorChips" style="display:none;"></div>
 
+        </div>
+    </div>
+    <!-- NEW HORIZONTAL SCROLLING CHIPS (HIDDEN BY DEFAULT) -->
+    <div id="subControlsWrapper" class="sub-controls-wrapper">
+        <div class="sub-controls">
+            <div class="sub-controls-inner" id="cuisineChips">
+                <button class="btn cuisine-btn" data-cuisine="American" onclick="toggleCuisine(event, 'American')">American</button>
+                <button class="btn cuisine-btn" data-cuisine="Indian" onclick="toggleCuisine(event, 'Indian')">Indian</button>
+                <button class="btn cuisine-btn" data-cuisine="Mexican" onclick="toggleCuisine(event, 'Mexican')">Mexican</button>
+                <button class="btn cuisine-btn" data-cuisine="Italian" onclick="toggleCuisine(event, 'Italian')">Italian</button>
+                <button class="btn cuisine-btn" data-cuisine="Asian" onclick="toggleCuisine(event, 'Asian')">Asian</button>
+                <button class="btn cuisine-btn" data-cuisine="Middle Eastern" onclick="toggleCuisine(event, 'Middle Eastern')">Middle Eastern</button>
+                <button class="btn cuisine-btn" data-cuisine="Mediterranean" onclick="toggleCuisine(event, 'Mediterranean')">Mediterranean</button>
+            </div>
         </div>
     </div>
 </header>
@@ -627,21 +639,6 @@
             allRecipes = data;
             currentContext = allRecipes; 
             
-            // Populate Creators Menu Dynamically
-            const creatorContainer = document.getElementById('creatorChips');
-            if(creatorContainer) {
-                // Get unique display names and sort alphabetically
-                const creators = [...new Set(allRecipes.map(r => BLOG_DISPLAY_MAP[r.blog_name] || r.blog_name))].sort();
-                creators.forEach(c => {
-                    const btn = document.createElement('button');
-                    btn.className = 'btn creator-btn';
-                    btn.innerText = c;
-                    // Hook into your existing blogger filtering logic
-                    btn.onclick = (e) => filterByBlogger(e, c); 
-                    creatorContainer.appendChild(btn);
-                });
-            }
-
             setupInfiniteScroll();   
             parseURLState();
         })
@@ -1439,24 +1436,20 @@
         const moodChips = document.getElementById('moodChips');
         const cuisineChips = document.getElementById('cuisineChips');
         const dietChips = document.getElementById('dietChips');
-        const creatorChips = document.getElementById('creatorChips');
         
         // Get Arrows
         const moodArrow = document.querySelector('#moodsBtn .dropdown-arrow');
         const cuisineArrow = document.querySelector('#cuisinesBtn .dropdown-arrow');
         const dietArrow = document.querySelector('#dietsBtn .dropdown-arrow');
-        const creatorArrow = document.querySelector('#creatorsBtn .dropdown-arrow');
 
         // 1. Hide everything first
         if(moodChips) moodChips.style.display = 'none';
         if(cuisineChips) cuisineChips.style.display = 'none';
         if(dietChips) dietChips.style.display = 'none';
-        if(creatorChips) creatorChips.style.display = 'none';
         
         if(moodArrow) moodArrow.classList.remove('open');
         if(cuisineArrow) cuisineArrow.classList.remove('open');
         if(dietArrow) dietArrow.classList.remove('open');
-        if(creatorArrow) creatorArrow.classList.remove('open');
 
         // 2. Toggle Logic
         if (activeSubMenu === menuName) {
@@ -1478,9 +1471,6 @@
         } else if (menuName === 'diet') {
             if(dietChips) dietChips.style.display = 'flex';
             if(dietArrow) dietArrow.classList.add('open');
-        } else if (menuName === 'creator') {
-            if(creatorChips) creatorChips.style.display = 'flex';
-            if(creatorArrow) creatorArrow.classList.add('open');
         }
     }
 
