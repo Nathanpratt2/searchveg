@@ -859,6 +859,12 @@
         const ogTitle = document.querySelector('meta[property="og:title"]');
         if (ogTitle) ogTitle.content = title;
         
+        const ogDesc = document.querySelector('meta[property="og:description"]');
+        if (ogDesc) ogDesc.content = desc;
+
+        const ogUrl = document.querySelector('meta[property="og:url"]');
+        if (ogUrl) ogUrl.content = window.location.href;
+        
         updateBreadcrumbSchema(breadcrumbName);
         updateItemListSchema(currentRecipes);
         updateNoIndexState(currentRecipes.length === 0);
