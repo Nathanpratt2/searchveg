@@ -538,18 +538,42 @@ def extract_image(entry, blog_name, link):
 
 def generate_sitemap(recipes):
     now = datetime.now().strftime("%Y-%m-%d")
-    sitemap_content = f"""<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://searchveg.com/</loc>
+    
+    # High-value category URLs for Google to index
+    seo_paths = [
+        "",
+        "?type=meal",
+        "?type=sweet",
+        "?tag=GF",
+        "?tag=WFPB",
+        "?tag=Easy",
+        "?tag=Budget",
+        "?tag=Protein",
+        "?cuisine=American",
+        "?cuisine=Indian",
+        "?cuisine=Mexican",
+        "?cuisine=Italian",
+        "?cuisine=Asian",
+        "?cuisine=Mediterranean"
+    ]
+    
+    url_nodes = ""
+    for path in seo_paths:
+        priority = "1.0" if path == "" else "0.8"
+        url_nodes += f"""   <url>
+      <loc>https://searchveg.com/{path.replace('&', '&amp;')}</loc>
       <lastmod>{now}</lastmod>
       <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-</urlset>"""
+      <priority>{priority}</priority>
+   </url>\n"""
+
+    sitemap_content = f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{url_nodes}</urlset>"""
+    
     with open('sitemap.xml', 'w') as f:
         f.write(sitemap_content)
-    print("Generated sitemap.xml")
+    print("Generated sitemap.xml with category pages")
 
 def generate_llms_txt(recipes):
     """Generates a robust llms.txt for AI/LLM indexing and GEO optimization."""
