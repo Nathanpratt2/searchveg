@@ -19,10 +19,16 @@
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
+        "name": "SearchVeg",
+        "alternateName": ["Search Veg", "SearchVeg Recipes"],
         "url": "https://searchveg.com/",
+        "description": "The best vegan recipe search engine.",
         "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://searchveg.com/?q={search_term_string}",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://searchveg.com/?q={search_term_string}"
+            },
             "query-input": "required name=search_term_string"
         }
     }
@@ -788,13 +794,24 @@
         if (activeTags.size > 0) params.set('tag', Array.from(activeTags).join(','));
         if (activeCuisines.size > 0) params.set('cuisine', Array.from(activeCuisines).join(','));
 
-        const newURL = params.toString() ? `?${params.toString()}` : window.location.pathname;
+        // Clean up path to prevent double slashes or /index.html indexing
+        let cleanPath = window.location.pathname;
+        if (cleanPath === '/' || cleanPath === '/index.html') {
+            cleanPath = ''; 
+        }
+        
+        const newURL = params.toString() ? `?${params.toString()}` : cleanPath;
         
         // FIX: Use replaceState instead of pushState to prevent Android keyboard back-button glitches
-        history.replaceState({}, '', newURL);
+        history.replaceState({}, '', newURL || '/');
         
         const canonical = document.getElementById('canonicalLink');
-        if (canonical) canonical.href = "https://searchveg.com/" + newURL;
+        if (canonical) {
+            // Ensure perfect canonical formatting for Googlebot
+            canonical.href = newURL.startsWith('?') 
+                ? `https://searchveg.com/${newURL}` 
+                : `https://searchveg.com/`;
+        }
     }
 
     // 2. DYNAMIC NOINDEX: Helps prevent Soft 404s on empty search results
