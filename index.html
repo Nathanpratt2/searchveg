@@ -59,8 +59,7 @@
 </script>
 
 <nav class="main-nav">
-    <h1 class="sr-only">SearchVeg - The Best Vegan Recipe Search Engine</h1>
-    
+    <!-- Hidden H1 removed: SEO weight is moved to the visible dynamic H1 below -->
     <a href="index.html" class="nav-brand-link logo-link" title="Home">
         <!-- IMAGE OPTIMIZATION: FetchPriority High & Async Decoding for LCP -->
         <img src="default.png?v=2.1" alt="SearchVeg Logo" class="nav-logo" id="navLogoImg" fetchpriority="high" decoding="async">
@@ -83,7 +82,7 @@
 </nav>
 
 <header>
-    <p class="sub-intro">Thousands of vegan recipes from 100+ creators</p>
+    <h1 id="dynamicH1" class="sub-intro">Thousands of vegan recipes from 100+ creators</h1>
     
     <div class="search-row">
         <div class="search-wrapper" style="position: relative;">
@@ -267,17 +266,17 @@
     <p>SearchVeg brings together the best plant-based cooking from top bloggers. Discover easy vegan dinner ideas, high-protein plant-based meals, WFPB (Whole Food Plant Based) dishes, gluten-free sweets, and budget-friendly vegan food. Updated daily. Soy free and Nut free filters are not designed as strict allergen filters and you should read each source recipe thoroughly before proceeding to make the recipe. </p>
     
     <div class="footer-topics">
-        <a href="?q=pasta">Best Vegan Pasta</a>
-        <a href="?q=tofu">Tofu Recipes</a>
-        <a href="?q=soup">Vegan Soups</a>
-        <a href="?q=salad">Healthy Salads</a>
-        <a href="?q=curry">Plant-Based Curry</a>
-        <a href="?q=breakfast">Vegan Breakfast</a>
-        <a href="?q=protein">High Protein Vegan</a>
-        <a href="?q=wfpb">Whole Food Plant Based</a>
-        <a href="?q=gluten+free">Gluten Free Vegan</a>
-        <a href="?q=budget">Budget Friendly</a>
-        <a href="?q=dessert">Vegan Desserts</a>
+        <a href="?tag=Easy">Easy Vegan Recipes</a>
+        <a href="?tag=Protein">High Protein Vegan</a>
+        <a href="?tag=WFPB">Whole Food Plant Based</a>
+        <a href="?tag=GF">Gluten Free Vegan</a>
+        <a href="?tag=Budget">Budget Friendly</a>
+        <a href="?type=sweet">Vegan Desserts</a>
+        <a href="?type=meal">Vegan Dinners</a>
+        <a href="?cuisine=Mexican">Mexican Vegan</a>
+        <a href="?cuisine=Italian">Italian Vegan</a>
+        <a href="?cuisine=Indian">Indian Vegan</a>
+        <a href="?cuisine=Asian">Asian Vegan</a>
     </div>
 </footer>
 
@@ -850,6 +849,17 @@
             title = `${primaryTag} Vegan Recipes | SearchVeg`;
             desc = `Top rated ${primaryTag} vegan recipes updated daily.`;
             breadcrumbName = primaryTag;
+        }
+
+        // Update the visible H1 for Semantic SEO
+        const pageH1 = document.getElementById('dynamicH1');
+        if (pageH1) {
+            if (title === "SearchVeg") {
+                pageH1.innerText = "Thousands of vegan recipes from 100+ creators";
+            } else {
+                // Strip the " | SearchVeg" part for a cleaner on-page header
+                pageH1.innerText = title.split(" | ")[0];
+            }
         }
 
         document.title = title;
