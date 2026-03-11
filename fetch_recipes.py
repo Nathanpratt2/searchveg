@@ -301,7 +301,7 @@ NON_GF_KEYWORDS = [
     
 NON_RECIPE_KEYWORDS = [
     # Listicles / Roundups
-    "roundup", "collection", "favorites", "best of", "top 10", "top 20", "top 5", "22 ", "20 ",
+    "roundup", "collection", "favorites", "best of", "top 10", "top 20", " 2026", "top 5", "22 ", "20 ",
     " best vegan ", " dinner ideas", " lunch ideas", " breakfast ideas", " meal prep ideas",
     " ways to ", " things to ", "must make", "must have", "must try", " recipes for ", 
     " recipes to ", " ideas for ",
