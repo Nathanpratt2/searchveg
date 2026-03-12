@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-12 19:26:53
+**Last Run:** 2026-03-12 23:58:39
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19874 | 231 new today |
+| **Total Database** | 19878 | 224 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2690 | 11% / 13% |
-| **Easy / Budget** | 4906 / 2066 | 24% / 10% |
+| **Easy / Budget** | 4906 / 2067 | 24% / 10% |
 
 ---
 
@@ -23,22 +23,22 @@
 | The Banana Diaries | 1 | 11 | 0 | 3 | 2 | 0 | 2026-02-13 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
 | PlantYou | 1 | 17 | 17 | 4 | 2 | 0 | 2026-03-08 | ✅ OK |
-| Dr. Vegan | 1 | 20 | 4 | 20 | 8 | 0 | 2026-03-12 | ✅ OK |
+| Dr. Vegan | 0 | 20 | 4 | 20 | 8 | 0 | 2026-03-12 | ✅ OK |
 | Jessica in the Kitchen | 1 | 20 | 1 | 2 | 1 | 2 | 2026-03-10 | ✅ OK |
-| Justine Snacks (Vegan Recipes) | 2 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
+| Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 22 | 5 | 1 | 4 | 21 | 2026-02-26 | ✅ OK |
-| Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
+| Plant Baes | 1 | 24 | 2 | 4 | 2 | 4 | 2026-03-12 | ✅ OK |
 | Vegan Richa GF | 1 | 28 | 1 | 7 | 7 | 28 | 2026-03-11 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 4 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 96 | 8 | 60 | 10 | 5 | 2026-02-25 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| The Hidden Veggies | 4 | 114 | 1 | 11 | 114 | 0 | 2026-03-05 | ✅ OK |
+| The Hidden Veggies | 5 | 115 | 1 | 11 | 115 | 0 | 2026-03-12 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | High Carb Hannah | 21 | 131 | 5 | 11 | 0 | 0 | 2026-02-12 | ✅ OK (21) |
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 4 | 155 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 3 | 155 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
 | Earth to Veg | 1 | 156 | 6 | 26 | 16 | 0 | 2026-03-11 | ✅ OK |
 | Steamy Vegan | 1 | 161 | 9 | 28 | 10 | 2 | 2026-03-07 | ✅ OK |
 | Holistic Chef Academy | 0 | 169 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
@@ -49,20 +49,20 @@
 | Ambitious Kitchen (Vegan Recipes) | 12 | 183 | 1 | 24 | 1 | 30 | 2026-03-10 | ✅ OK |
 | Watch Learn Eat | 0 | 187 | 4 | 187 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 192 | 16 | 59 | 11 | 1 | 2026-02-16 | ✅ OK |
-| Nora Cooks | 6 | 194 | 14 | 27 | 13 | 5 | 2026-03-12 | ✅ OK |
+| Nora Cooks | 5 | 194 | 14 | 27 | 13 | 5 | 2026-03-12 | ✅ OK |
 | Flora & Vino | 1 | 195 | 195 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
 | Baking Hermann | 0 | 204 | 10 | 20 | 41 | 6 | 2026-02-19 | ✅ OK |
-| The Burger Dude | 3 | 205 | 6 | 13 | 13 | 0 | 2026-03-05 | ✅ OK |
 | Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-03-08 | ✅ OK |
+| The Burger Dude | 4 | 206 | 6 | 13 | 13 | 0 | 2026-03-12 | ✅ OK |
 | The Vegan 8 | 1 | 207 | 46 | 207 | 207 | 33 | 2026-03-07 | ✅ OK |
-| Big Box Vegan | 1 | 208 | 0 | 39 | 2 | 1 | 2026-03-09 | ✅ OK |
+| Big Box Vegan | 2 | 208 | 0 | 39 | 2 | 1 | 2026-03-09 | ✅ OK |
 | Vegan Heaven | 4 | 211 | 0 | 24 | 0 | 1 | 2026-01-06 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 0 | 219 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Addicted to Dates | 0 | 221 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | The First Mess | 0 | 221 | 1 | 30 | 3 | 1 | 2026-03-11 | ✅ OK |
 | Sweet Simple Vegan | 1 | 222 | 5 | 50 | 18 | 2 | 2026-03-10 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 3 | 223 | 0 | 53 | 1 | 0 | 2026-03-12 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 2 | 223 | 0 | 53 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Rabbit and Wolves | 5 | 225 | 0 | 33 | 1 | 0 | 2026-03-03 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 2 | 226 | 19 | 73 | 18 | 43 | 2026-03-11 | ✅ OK (2) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-02-26 | ✅ OK |
@@ -93,23 +93,23 @@
 | My Darling Vegan | 6 | 254 | 2 | 28 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Vegan Richa | 10 | 254 | 10 | 58 | 41 | 74 | 2026-03-11 | ✅ OK |
 | VegNews | 45 | 255 | 21 | 32 | 24 | 3 | 2026-02-10 | ✅ OK (45) |
-| Full of Plants | 2 | 256 | 0 | 38 | 0 | 9 | 2026-03-12 | ✅ OK |
+| Full of Plants | 1 | 256 | 0 | 38 | 0 | 9 | 2026-03-12 | ✅ OK |
 | Plant Power Couple | 1 | 257 | 0 | 257 | 2 | 0 | 2026-03-09 | ✅ OK |
 | Plant-Based on a Budget | 6 | 258 | 16 | 64 | 258 | 1 | 2026-03-09 | ✅ OK |
 | Namely Marly | 13 | 259 | 11 | 25 | 15 | 2 | 2026-02-28 | ✅ OK |
 | A Virtual Vegan | 0 | 265 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
 | Bianca Zapatka | 0 | 265 | 23 | 118 | 43 | 3 | 2025-12-11 | ✅ OK |
-| The Plant-Based RD | 1 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
+| The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
 | Connoisseurus Veg | 0 | 272 | 0 | 33 | 1 | 0 | 2026-03-11 | ✅ OK |
-| Healthy Little Vittles | 2 | 273 | 9 | 45 | 2 | 270 | 2026-03-12 | ✅ OK |
+| Healthy Little Vittles | 1 | 273 | 9 | 45 | 2 | 270 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 273 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Unconventional Baker | 0 | 279 | 1 | 20 | 0 | 279 | 2025-11-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 14 | 3 | 5 | 2026-03-07 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 281 | 2 | 19 | 1 | 1 | 2026-03-12 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 281 | 2 | 19 | 1 | 1 | 2026-03-12 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 282 | 35 | 33 | 2 | 38 | 2026-03-10 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 282 | 1 | 4 | 4 | 1 | 2026-03-12 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
+| The Post-Punk Kitchen | 1 | 282 | 1 | 4 | 4 | 1 | 2026-03-12 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
