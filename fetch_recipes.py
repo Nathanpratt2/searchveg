@@ -537,6 +537,30 @@ def extract_image(entry, blog_name, link):
         
     return image_candidate if image_candidate else "icon.jpg"
 
+def inject_static_html(recipes):
+    """Injects the top 60 recipes into index.html <noscript> for massive SEO/crawlability gains."""
+    try:
+        with open('index.html', 'r', encoding='utf-8') as f:
+            html = f.read()
+        
+        start_marker = '<!-- SEO_STATIC_START -->'
+        end_marker = '<!-- SEO_STATIC_END -->'
+        
+        if start_marker in html and end_marker in html:
+            top_recipes = recipes[:60]
+            links_html = ""
+            for r in top_recipes:
+                safe_title = r['title'].replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+                links_html += f'\n                <a href="{r["link"]}">{safe_title} ({r["blog_name"]})</a><br>'
+            
+            new_html = html[:html.find(start_marker) + len(start_marker)] + "\n" + links_html + "\n                " + html[html.find(end_marker):]
+            
+            with open('index.html', 'w', encoding='utf-8') as f:
+                f.write(new_html)
+            print("✅ Injected static SEO links into index.html")
+    except Exception as e:
+        print(f"⚠️ Could not inject static HTML: {e}")
+        
 def generate_sitemap(recipes):
     now = datetime.now().strftime("%Y-%m-%d")
     
@@ -1423,6 +1447,7 @@ if len(final_pruned_list) > 50:
         os.replace(temp_file, final_file)
         print(f"✅ Successfully wrote {len(final_pruned_list)} items to {final_file}", flush=True)
         
+        inject_static_html(final_pruned_list)
         generate_sitemap(final_pruned_list)
         generate_llms_txt(final_pruned_list)
         
