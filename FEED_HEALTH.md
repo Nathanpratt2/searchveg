@@ -1,13 +1,13 @@
 # Feed Health Report
-**Last Run:** 2026-03-12 00:05:16
+**Last Run:** 2026-03-12 06:27:35
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19863 | 247 new today |
+| **Total Database** | 19864 | 249 new today |
 | **Blogs Monitored** | 120 | 10 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **WFPB / GF** | 2274 / 2689 | 11% / 13% |
+| **WFPB / GF** | 2274 / 2690 | 11% / 13% |
 | **Easy / Budget** | 4904 / 2066 | 24% / 10% |
 
 ---
@@ -29,7 +29,7 @@
 | Plant Baes | 0 | 23 | 2 | 4 | 2 | 4 | 2026-02-25 | ✅ OK |
 | Vegan Richa GF | 1 | 28 | 1 | 7 | 7 | 28 | 2026-03-11 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 4 | 0 | 0 | 2026-01-01 | ✅ OK |
-| Mouthwatering Vegan | 0 | 53 | 0 | 5 | 0 | 2 | 2021-04-06 | ✅ OK |
+| Mouthwatering Vegan | 5 | 55 | 0 | 5 | 0 | 3 | 2021-04-06 | ✅ OK (5) |
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 96 | 8 | 60 | 10 | 5 | 2026-02-25 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -61,7 +61,7 @@
 | Vegan in the Freezer | 0 | 219 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Addicted to Dates | 0 | 221 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | The First Mess | 0 | 221 | 1 | 30 | 3 | 1 | 2026-03-11 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 5 | 222 | 0 | 53 | 1 | 0 | 2026-03-05 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 2 | 222 | 0 | 53 | 1 | 0 | 2026-03-05 | ✅ OK |
 | Sweet Simple Vegan | 1 | 222 | 5 | 50 | 18 | 2 | 2026-03-10 | ✅ OK |
 | Rabbit and Wolves | 5 | 225 | 0 | 33 | 1 | 0 | 2026-03-03 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 2 | 226 | 19 | 73 | 18 | 43 | 2026-03-11 | ✅ OK (2) |
@@ -72,7 +72,7 @@
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Forks Over Knives | 0 | 233 | 233 | 26 | 40 | 2 | 2026-02-10 | ✅ OK |
 | HealthyGirl Kitchen | 2 | 236 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
-| Eat Figs, Not Pigs | 7 | 237 | 1 | 28 | 2 | 0 | 2026-03-10 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 237 | 1 | 28 | 2 | 0 | 2026-03-11 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 237 | 21 | 237 | 237 | 1 | 2026-01-09 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | Pick Up Limes | 5 | 239 | 22 | 26 | 28 | 1 | 2026-02-26 | ✅ OK (5) |
