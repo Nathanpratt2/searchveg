@@ -8,7 +8,43 @@
     <!-- SEO & Social Meta Tags -->
     <meta id="metaDesc" name="description" content="Search thousands of fresh vegan recipes from top plant-based bloggers. Filter by gluten-free, WFPB, budget, meals, and sweets.">
     
-    <link id="canonicalLink" rel="canonical" href="https://searchveg.com/">
+    <!-- BIGGEST SEO FIX: Instant Dynamic Canonical & Meta (Executes before DOM load to fix SPA Indexing) -->
+    <script>
+        (function() {
+            var params = new URLSearchParams(window.location.search);
+            var title = "SearchVeg: Find the Best Vegan Recipes";
+            var desc = "Search thousands of fresh vegan recipes from top plant-based bloggers. Filter by gluten-free, WFPB, budget, meals, and sweets.";
+            var canonicalPath = "";
+
+            if (params.has('type')) {
+                var type = params.get('type');
+                if (type === 'meal') { title = "Vegan Dinner & Meal Ideas | SearchVeg"; desc = "Discover savory vegan meals, dinners, and lunch ideas from top plant-based blogs."; canonicalPath = "?type=meal"; }
+                if (type === 'sweet') { title = "Vegan Sweets & Desserts | SearchVeg"; desc = "Indulge in the best vegan desserts, cookies, cakes, and sweets."; canonicalPath = "?type=sweet"; }
+            } else if (params.has('cuisine')) {
+                var c = params.get('cuisine').split(',')[0];
+                title = "Vegan " + c + " Recipes | SearchVeg"; desc = "Explore the best plant-based and vegan " + c + " recipes updated daily."; canonicalPath = "?cuisine=" + c;
+            } else if (params.has('tag')) {
+                var t = params.get('tag').split(',')[0];
+                title = t + " Vegan Recipes | SearchVeg"; desc = "Top rated " + t + " vegan recipes updated daily."; canonicalPath = "?tag=" + t;
+            } else if (params.has('q')) {
+                var q = params.get('q');
+                title = q + " - Search | SearchVeg"; desc = "Best vegan recipes matching " + q + ".";
+                var metaRobots = document.createElement('meta');
+                metaRobots.name = "robots";
+                metaRobots.content = "noindex, follow"; // Prevents penalties for thin search pages
+                document.head.appendChild(metaRobots);
+            }
+
+            document.title = title;
+            document.getElementById('metaDesc').content = desc;
+
+            var link = document.createElement('link');
+            link.id = 'canonicalLink';
+            link.rel = 'canonical';
+            link.href = "https://searchveg.com/" + canonicalPath;
+            document.head.appendChild(link);
+        })();
+    </script>
     <meta name="robots" content="index, follow, max-image-preview:large">
 
     <!-- PERFORMANCE: Preload Critical Data Source -->
@@ -242,8 +278,15 @@
                 <a href="?type=meal">Vegan Meals</a> | 
                 <a href="?type=sweet">Vegan Sweets</a> | 
                 <a href="?tag=Budget">Budget Recipes</a> | 
-                <a href="?tag=Easy">Easy Recipes</a>
+                <a href="?tag=Easy">Easy Recipes</a> |
+                <a href="?tag=GF">Gluten Free</a> |
+                <a href="?tag=WFPB">WFPB</a>
             </p>
+            <div style="text-align: left; margin-top: 20px;">
+                <h3>Latest Recipes:</h3>
+                <!-- SEO_STATIC_START -->
+                <!-- SEO_STATIC_END -->
+            </div>
         </div>
     </noscript>
     
