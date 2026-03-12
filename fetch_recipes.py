@@ -136,7 +136,7 @@ HTML_SOURCES = [
     ("Pick Up Limes", ("https://www.pickuplimes.com/recipe/?sb=&public=on&page={}", 1, 1), [], "custom_pul"),#not able to do RSS feed on this one
     
 #("Justine Cooks Vegan", ("https://justinecooksvegan.com/category/recipes/page/{}//", 1, 1),[], "wordpress"),
-("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
+#("Mouthwatering Vegan", "https://www.mouthwateringvegan.com/recipes/",[], "wordpress"),
 #("Yup It's Vegan", ("https://yupitsvegan.com/page/{}/?s=+", 1, 1),[], "wordpress"),
    #("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     #("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
