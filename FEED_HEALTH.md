@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-13 06:19:45
+**Last Run:** 2026-03-13 13:49:12
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19879 | 221 new today |
+| **Total Database** | 19881 | 222 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2690 | 11% / 13% |
@@ -86,10 +86,10 @@
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 4 | 2025-08-18 | ✅ OK |
 | Healthier Steps | 1 | 251 | 14 | 28 | 39 | 19 | 2025-05-18 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 251 | 37 | 69 | 3 | 0 | 2026-03-11 | ✅ OK |
-| From My Bowl | 0 | 252 | 3 | 34 | 3 | 5 | 2026-03-06 | ✅ OK |
 | Rhian's Recipes | 0 | 252 | 2 | 9 | 11 | 252 | 2026-01-28 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-02-27 | ✅ OK |
 | Veggiekins | 0 | 252 | 35 | 252 | 0 | 249 | 2026-03-06 | ✅ OK |
+| From My Bowl | 1 | 253 | 3 | 34 | 3 | 5 | 2026-03-13 | ✅ OK |
 | My Darling Vegan | 6 | 254 | 2 | 28 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Vegan Richa | 10 | 254 | 10 | 58 | 41 | 74 | 2026-03-11 | ✅ OK |
 | VegNews | 45 | 255 | 21 | 32 | 24 | 3 | 2026-02-10 | ✅ OK (45) |
@@ -101,7 +101,7 @@
 | Bianca Zapatka | 0 | 265 | 23 | 118 | 43 | 3 | 2025-12-11 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
-| Connoisseurus Veg | 0 | 272 | 0 | 33 | 1 | 0 | 2026-03-11 | ✅ OK |
+| Connoisseurus Veg | 1 | 273 | 0 | 33 | 1 | 0 | 2026-03-13 | ✅ OK |
 | Healthy Little Vittles | 1 | 273 | 9 | 45 | 2 | 270 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 273 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Unconventional Baker | 0 | 279 | 1 | 20 | 0 | 279 | 2025-11-01 | ✅ OK |
@@ -109,7 +109,7 @@
 | Gretchen's Vegan Bakery | 1 | 281 | 2 | 19 | 1 | 1 | 2026-03-12 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 282 | 35 | 33 | 2 | 38 | 2026-03-10 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 0 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 283 | 1 | 4 | 4 | 1 | 2026-03-13 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 283 | 1 | 4 | 4 | 1 | 2026-03-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
