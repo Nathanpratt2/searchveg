@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-13 13:49:12
+**Last Run:** 2026-03-13 19:17:08
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19881 | 222 new today |
+| **Total Database** | 19887 | 226 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2690 | 11% / 13% |
-| **Easy / Budget** | 4906 / 2067 | 24% / 10% |
+| **Easy / Budget** | 4907 / 2067 | 24% / 10% |
 
 ---
 
@@ -20,11 +20,11 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Mary's Test Kitchen | 3 | 10 | 0 | 0 | 1 | 0 | 2026-02-26 | ✅ OK |
 | Rainbow Nourishments | 1 | 11 | 0 | 2 | 1 | 0 | 2026-02-06 | ✅ OK |
-| The Banana Diaries | 1 | 11 | 0 | 3 | 2 | 0 | 2026-02-13 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
+| The Banana Diaries | 2 | 12 | 0 | 3 | 2 | 0 | 2026-03-13 | ✅ OK |
 | PlantYou | 1 | 17 | 17 | 4 | 2 | 0 | 2026-03-08 | ✅ OK |
 | Dr. Vegan | 0 | 20 | 4 | 20 | 8 | 0 | 2026-03-12 | ✅ OK |
-| Jessica in the Kitchen | 1 | 20 | 1 | 2 | 1 | 2 | 2026-03-10 | ✅ OK |
+| Jessica in the Kitchen | 2 | 21 | 1 | 2 | 1 | 2 | 2026-03-13 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 22 | 5 | 1 | 4 | 21 | 2026-02-26 | ✅ OK |
 | Plant Baes | 0 | 24 | 2 | 4 | 2 | 4 | 2026-03-12 | ✅ OK |
@@ -44,9 +44,9 @@
 | Holistic Chef Academy | 0 | 169 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
 | Dreena Burton | 0 | 172 | 172 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-02-24 | ✅ OK |
-| Simple Vegan Blog | 2 | 182 | 7 | 38 | 15 | 4 | 2026-03-11 | ✅ OK |
-| The Little Blog of Vegan | 1 | 182 | 0 | 34 | 0 | 1 | 2026-03-10 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 183 | 1 | 24 | 1 | 30 | 2026-03-10 | ✅ OK |
+| Simple Vegan Blog | 3 | 183 | 7 | 38 | 15 | 4 | 2026-03-13 | ✅ OK |
+| The Little Blog of Vegan | 2 | 183 | 0 | 35 | 0 | 1 | 2026-03-13 | ✅ OK |
 | Watch Learn Eat | 0 | 187 | 4 | 187 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 192 | 16 | 59 | 11 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 194 | 14 | 27 | 13 | 5 | 2026-03-12 | ✅ OK |
@@ -89,7 +89,7 @@
 | Rhian's Recipes | 0 | 252 | 2 | 9 | 11 | 252 | 2026-01-28 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-02-27 | ✅ OK |
 | Veggiekins | 0 | 252 | 35 | 252 | 0 | 249 | 2026-03-06 | ✅ OK |
-| From My Bowl | 1 | 253 | 3 | 34 | 3 | 5 | 2026-03-13 | ✅ OK |
+| From My Bowl | 0 | 253 | 3 | 34 | 3 | 5 | 2026-03-13 | ✅ OK |
 | My Darling Vegan | 6 | 254 | 2 | 28 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Vegan Richa | 10 | 254 | 10 | 58 | 41 | 74 | 2026-03-11 | ✅ OK |
 | VegNews | 45 | 255 | 21 | 32 | 24 | 3 | 2026-02-10 | ✅ OK (45) |
@@ -101,14 +101,14 @@
 | Bianca Zapatka | 0 | 265 | 23 | 118 | 43 | 3 | 2025-12-11 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
-| Connoisseurus Veg | 1 | 273 | 0 | 33 | 1 | 0 | 2026-03-13 | ✅ OK |
+| Connoisseurus Veg | 0 | 273 | 0 | 33 | 1 | 0 | 2026-03-13 | ✅ OK |
 | Healthy Little Vittles | 1 | 273 | 9 | 45 | 2 | 270 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 273 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Unconventional Baker | 0 | 279 | 1 | 20 | 0 | 279 | 2025-11-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 280 | 3 | 14 | 3 | 5 | 2026-03-07 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 281 | 2 | 19 | 1 | 1 | 2026-03-12 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 282 | 2 | 19 | 1 | 1 | 2026-03-12 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 282 | 35 | 33 | 2 | 38 | 2026-03-10 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
 | The Post-Punk Kitchen | 1 | 283 | 1 | 4 | 4 | 1 | 2026-03-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
