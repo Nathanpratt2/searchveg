@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-14 23:59:07
+**Last Run:** 2026-03-15 06:26:26
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19899 | 222 new today |
+| **Total Database** | 19901 | 222 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2692 | 11% / 13% |
@@ -27,7 +27,7 @@
 | Jessica in the Kitchen | 1 | 21 | 1 | 2 | 1 | 2 | 2026-03-13 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 23 | 5 | 1 | 4 | 22 | 2026-03-13 | ✅ OK |
-| Plant Baes | 0 | 24 | 2 | 4 | 2 | 4 | 2026-03-12 | ✅ OK |
+| Plant Baes | 1 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Vegan Richa GF | 1 | 28 | 1 | 7 | 7 | 28 | 2026-03-11 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 4 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 57 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -40,8 +40,8 @@
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 155 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
 | Earth to Veg | 1 | 156 | 6 | 26 | 16 | 0 | 2026-03-11 | ✅ OK |
-| Steamy Vegan | 2 | 163 | 9 | 29 | 10 | 2 | 2026-03-14 | ✅ OK |
-| Holistic Chef Academy | 0 | 169 | 2 | 7 | 0 | 7 | 2026-01-30 | ✅ OK |
+| Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-14 | ✅ OK |
+| Holistic Chef Academy | 2 | 171 | 2 | 7 | 0 | 7 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 172 | 172 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-02-24 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 183 | 1 | 24 | 1 | 30 | 2026-03-10 | ✅ OK |
@@ -79,7 +79,7 @@
 | Cookie and Kate (Vegan Recipes) | 10 | 244 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | Make It Dairy Free | 0 | 244 | 4 | 40 | 2 | 3 | 2026-03-01 | ✅ OK |
 | Vegan Yack Attack | 1 | 244 | 21 | 52 | 24 | 218 | 2025-07-27 | ✅ OK |
-| Hot For Food | 2 | 245 | 9 | 32 | 12 | 1 | 2026-03-06 | ✅ OK |
+| Hot For Food | 2 | 246 | 9 | 32 | 12 | 1 | 2026-03-06 | ✅ OK |
 | It Doesn't Taste Like Chicken | 2 | 246 | 1 | 83 | 8 | 225 | 2026-03-11 | ✅ OK |
 | Sweet Potato Soul | 1 | 249 | 0 | 39 | 2 | 6 | 2026-02-15 | ✅ OK |
 | The Edgy Veg | 0 | 249 | 9 | 39 | 8 | 3 | 2024-03-18 | ✅ OK |
@@ -106,10 +106,10 @@
 | Yup It's Vegan | 0 | 273 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Unconventional Baker | 0 | 279 | 1 | 20 | 0 | 279 | 2025-11-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
 | Gretchen's Vegan Bakery | 1 | 283 | 2 | 19 | 1 | 1 | 2026-03-13 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 283 | 35 | 33 | 2 | 38 | 2026-03-14 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 285 | 1 | 4 | 4 | 1 | 2026-03-14 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 283 | 35 | 33 | 2 | 38 | 2026-03-14 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 285 | 1 | 4 | 4 | 1 | 2026-03-14 | ❌ Blocked/ConnErr |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
