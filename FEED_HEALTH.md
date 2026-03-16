@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-15 19:13:13
+**Last Run:** 2026-03-16 00:01:19
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19906 | 222 new today |
+| **Total Database** | 19907 | 220 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2692 | 11% / 13% |
@@ -67,25 +67,25 @@
 | Minimalist Baker (Vegan Recipes) | 2 | 226 | 19 | 73 | 18 | 43 | 2026-03-11 | ✅ OK (2) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-03-13 | ✅ OK |
 | ZardyPlants | 0 | 226 | 226 | 37 | 226 | 4 | 2026-03-11 | ✅ OK |
-| Cadry's Kitchen | 2 | 228 | 11 | 81 | 22 | 0 | 2026-03-05 | ✅ OK |
+| Cadry's Kitchen | 3 | 229 | 11 | 81 | 22 | 0 | 2026-03-15 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Forks Over Knives | 0 | 233 | 233 | 26 | 40 | 2 | 2026-02-10 | ✅ OK |
 | HealthyGirl Kitchen | 2 | 236 | 30 | 50 | 0 | 62 | 2026-03-02 | ✅ OK |
-| Eat Figs, Not Pigs | 6 | 237 | 1 | 28 | 2 | 0 | 2026-03-15 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 237 | 1 | 28 | 2 | 0 | 2026-03-15 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 237 | 21 | 237 | 237 | 1 | 2026-01-09 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | Pick Up Limes | 5 | 239 | 22 | 26 | 28 | 1 | 2026-02-26 | ✅ OK (5) |
 | Cookie and Kate (Vegan Recipes) | 10 | 244 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | Vegan Yack Attack | 1 | 244 | 21 | 52 | 24 | 218 | 2025-07-27 | ✅ OK |
-| Make It Dairy Free | 1 | 245 | 4 | 40 | 2 | 3 | 2026-03-15 | ✅ OK |
+| Make It Dairy Free | 0 | 245 | 4 | 40 | 2 | 3 | 2026-03-15 | ✅ OK |
 | Hot For Food | 1 | 246 | 9 | 32 | 12 | 1 | 2026-03-06 | ✅ OK |
 | It Doesn't Taste Like Chicken | 2 | 247 | 1 | 83 | 8 | 225 | 2026-03-15 | ✅ OK |
 | Sweet Potato Soul | 1 | 249 | 0 | 39 | 2 | 6 | 2026-02-15 | ✅ OK |
 | The Edgy Veg | 0 | 249 | 9 | 39 | 8 | 3 | 2024-03-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 4 | 2025-08-18 | ✅ OK |
 | Healthier Steps | 1 | 251 | 14 | 28 | 39 | 19 | 2025-05-18 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 252 | 37 | 69 | 3 | 0 | 2026-03-15 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 252 | 37 | 69 | 3 | 0 | 2026-03-15 | ✅ OK |
 | Rhian's Recipes | 0 | 252 | 2 | 9 | 11 | 252 | 2026-01-28 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-02-27 | ✅ OK |
 | From My Bowl | 0 | 253 | 3 | 34 | 3 | 5 | 2026-03-13 | ✅ OK |
