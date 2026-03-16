@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-16 07:03:02
+**Last Run:** 2026-03-16 14:10:18
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19907 | 219 new today |
+| **Total Database** | 19910 | 221 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2692 | 11% / 13% |
-| **Easy / Budget** | 4909 / 2068 | 24% / 10% |
+| **Easy / Budget** | 4910 / 2069 | 24% / 10% |
 
 ---
 
@@ -45,7 +45,7 @@
 | Dreena Burton | 0 | 172 | 172 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-02-24 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 183 | 1 | 24 | 1 | 30 | 2026-03-10 | ✅ OK |
-| Simple Vegan Blog | 2 | 183 | 7 | 38 | 15 | 4 | 2026-03-13 | ✅ OK |
+| Simple Vegan Blog | 2 | 183 | 7 | 38 | 15 | 4 | 2026-03-16 | ✅ OK |
 | The Little Blog of Vegan | 1 | 183 | 0 | 35 | 0 | 1 | 2026-03-13 | ✅ OK |
 | Watch Learn Eat | 0 | 187 | 4 | 187 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 192 | 16 | 59 | 11 | 1 | 2026-02-16 | ✅ OK |
@@ -95,15 +95,15 @@
 | VegNews | 45 | 255 | 21 | 32 | 24 | 3 | 2026-02-10 | ✅ OK (45) |
 | Full of Plants | 1 | 256 | 0 | 38 | 0 | 9 | 2026-03-12 | ✅ OK |
 | Plant Power Couple | 1 | 257 | 0 | 257 | 2 | 0 | 2026-03-09 | ✅ OK |
-| Plant-Based on a Budget | 6 | 258 | 16 | 64 | 258 | 1 | 2026-03-09 | ✅ OK |
 | Namely Marly | 13 | 259 | 11 | 25 | 15 | 2 | 2026-02-28 | ✅ OK |
+| Plant-Based on a Budget | 7 | 259 | 16 | 65 | 259 | 1 | 2026-03-16 | ✅ OK |
 | A Virtual Vegan | 0 | 265 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
 | Bianca Zapatka | 0 | 265 | 23 | 118 | 43 | 3 | 2025-12-11 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-02-19 | ✅ OK |
-| Connoisseurus Veg | 0 | 273 | 0 | 33 | 1 | 0 | 2026-03-13 | ✅ OK |
 | Healthy Little Vittles | 1 | 273 | 9 | 45 | 2 | 270 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 273 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Connoisseurus Veg | 1 | 274 | 0 | 33 | 1 | 0 | 2026-03-16 | ✅ OK |
 | Unconventional Baker | 0 | 279 | 1 | 20 | 0 | 279 | 2025-11-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
