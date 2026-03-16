@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-16 00:01:19
+**Last Run:** 2026-03-16 07:03:02
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19907 | 220 new today |
+| **Total Database** | 19907 | 219 new today |
 | **Blogs Monitored** | 121 | 9 HTML / 85 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **WFPB / GF** | 2274 / 2692 | 11% / 13% |
@@ -67,7 +67,7 @@
 | Minimalist Baker (Vegan Recipes) | 2 | 226 | 19 | 73 | 18 | 43 | 2026-03-11 | ✅ OK (2) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-03-13 | ✅ OK |
 | ZardyPlants | 0 | 226 | 226 | 37 | 226 | 4 | 2026-03-11 | ✅ OK |
-| Cadry's Kitchen | 3 | 229 | 11 | 81 | 22 | 0 | 2026-03-15 | ✅ OK |
+| Cadry's Kitchen | 2 | 229 | 11 | 81 | 22 | 0 | 2026-03-15 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Forks Over Knives | 0 | 233 | 233 | 26 | 40 | 2 | 2026-02-10 | ✅ OK |
