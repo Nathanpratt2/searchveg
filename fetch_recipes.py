@@ -229,6 +229,7 @@ HTML_SOURCES = [
    # ("My Vegan Minimalist", ("https://myveganminimalist.com/page/{}/?s=+", 1, 1), [], "wordpress"),
    # ("Addicted to Dates", ("https://addictedtodates.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#19 pages
    # ("Rhian's Recipes", "https://www.rhiansrecipes.com/recipes", ["GF"], "wordpress") #maxed out
+   ("Reddit", "https://www.reddit.com/r/veganrecipes/new.json?limit=30", [], "custom_reddit"),
 ]
 
 # --- DISPLAY NAME MAPPING ---
@@ -756,7 +757,18 @@ def extract_metadata_from_page(url):
 def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags):
     time.sleep(random.uniform(5, 8)) # Safety delay
     
-    html = robust_fetch(url, is_scraping_page=True)
+    # --- REDDIT SPECIAL HANDLER ---
+    # Pro-tip: Reddit blocks generic browser scrapers heavily. We bypass by using a custom API User-Agent.
+    if mode == "custom_reddit":
+        headers = {'User-Agent': 'searchveg-recipe-bot/1.0 (by /u/scraper)'}
+        try:
+            r = requests.get(url, headers=headers, timeout=15)
+            html = r.text
+        except Exception as e:
+            print(f"   [!] Reddit fetch failed: {e}")
+            html = None
+    else:
+        html = robust_fetch(url, is_scraping_page=True)
     
     # --- BAKING HERMANN SPECIAL HANDLER ---
     # If standard fetch fails for Hermann, try a fallback session
@@ -778,8 +790,13 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
     if not html:
         return [], "❌ Blocked/HTML Fail"
     
-    soup = BeautifulSoup(html, 'lxml')
     found_items = []
+    
+    # Skip BeautifulSoup parsing if we are handling a JSON API like Reddit
+    if mode == "custom_reddit":
+        soup = None
+    else:
+        soup = BeautifulSoup(html, 'lxml')
     
     # --- MODE 1: WORDPRESS / GENERIC AGGREGATION ---
     if mode == "wordpress":
@@ -1137,6 +1154,56 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
                     "is_disruptor": False, "special_tags": list(source_tags)
                 })
                 existing_links.add((link, name))
+
+    # --- MODE 5: CUSTOM REDDIT ---
+    elif mode == "custom_reddit":
+        try:
+            data = json.loads(html)
+            posts = data.get('data', {}).get('children', [])
+            
+            for post in posts:
+                pdata = post.get('data', {})
+                flair = pdata.get('link_flair_text') or ''
+                
+                # Pro-tip: Check if the flair implies there is a link in the post.
+                # /r/veganrecipes uses variations like "Link in post", "Blog Link", etc.
+                valid_flairs = ['link in post', 'blog link', 'recipe link', 'link']
+                if not flair or not any(x in flair.lower() for x in valid_flairs):
+                    continue
+                
+                title = pdata.get('title', 'Reddit Recipe')
+                permalink = pdata.get('permalink', '')
+                if not permalink: continue
+                link = f"https://www.reddit.com{permalink}"
+                
+                if (link, name) in existing_links: continue
+                
+                # Date
+                created_utc = pdata.get('created_utc')
+                dt = datetime.fromtimestamp(created_utc, timezone.utc) if created_utc else datetime.now(timezone.utc)
+                
+                # Image: Extract high-res preview image and fix Reddit's HTML entity encoding (&amp;)
+                image = "icon.jpg"
+                try:
+                    images = pdata.get('preview', {}).get('images', [])
+                    if images:
+                        image = images[0]['source']['url'].replace('&amp;', '&')
+                    elif pdata.get('thumbnail') and pdata['thumbnail'].startswith('http'):
+                        image = pdata['thumbnail']
+                except: pass
+                
+                found_items.append({
+                    "blog_name": name, 
+                    "title": title, 
+                    "link": link, 
+                    "image": image,
+                    "date": dt.isoformat(), 
+                    "is_disruptor": False, 
+                    "special_tags": list(source_tags)
+                })
+                existing_links.add((link, name))
+        except Exception as e:
+            print(f"   [!] Reddit JSON parsing failed: {e}")
 
     status = f"✅ OK ({len(found_items)})" if found_items else "⚠️ Scraped 0"
     return found_items, status
