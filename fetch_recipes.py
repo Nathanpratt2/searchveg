@@ -143,6 +143,7 @@ HTML_SOURCES = [
         #("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
     ("High Carb Hannah", ("https://highcarbhannah.co/pages/recipes?page={}", 1, 1), [], "wordpress"),
     ("SO VEGAN", "https://www.wearesovegan.com/recipes", [], "squarespace"),
+    ("The Whole Food Plant Based Cooking Show", ("https://plantbasedcookingshow.com/category/recipes/page/{}/", 1, 51), ["WFPB"], "wordpress"),
         #("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
                     #("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),
         #("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
