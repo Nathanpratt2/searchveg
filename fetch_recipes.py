@@ -229,7 +229,7 @@ HTML_SOURCES = [
    # ("My Vegan Minimalist", ("https://myveganminimalist.com/page/{}/?s=+", 1, 1), [], "wordpress"),
    # ("Addicted to Dates", ("https://addictedtodates.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),#19 pages
    # ("Rhian's Recipes", "https://www.rhiansrecipes.com/recipes", ["GF"], "wordpress") #maxed out
-   ("Reddit", "https://www.reddit.com/r/veganrecipes/new.json?limit=30", [], "custom_reddit"),
+   ("Reddit", "https://www.reddit.com/r/veganrecipes/new.rss", [], "custom_reddit"),
 ]
 
 # --- DISPLAY NAME MAPPING ---
@@ -1158,40 +1158,76 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
     # --- MODE 5: CUSTOM REDDIT ---
     elif mode == "custom_reddit":
         try:
-            data = json.loads(html)
-            posts = data.get('data', {}).get('children', [])
+            feed = feedparser.parse(html)
             
-            for post in posts:
-                pdata = post.get('data', {})
-                flair = pdata.get('link_flair_text') or ''
+            if not feed.entries:
+                print("   [!] Reddit RSS returned no entries. Might be temporarily rate-limited.")
+                return [], "❌ Reddit Empty"
                 
-                # Pro-tip: Check if the flair implies there is a link in the post.
-                # /r/veganrecipes uses variations like "Link in post", "Blog Link", etc.
-                valid_flairs = ['link in post', 'blog link', 'recipe link', 'link']
-                if not flair or not any(x in flair.lower() for x in valid_flairs):
+            for entry in feed.entries:
+                title = entry.get('title', 'Reddit Recipe')
+                link = entry.get('link', '') # Link to the Reddit Post
+                
+                if not link or (link, name) in existing_links: 
                     continue
                 
-                title = pdata.get('title', 'Reddit Recipe')
-                permalink = pdata.get('permalink', '')
-                if not permalink: continue
-                link = f"https://www.reddit.com{permalink}"
+                content = entry.get('content', [{}])[0].get('value', '') or entry.get('summary', '')
+                temp_soup = BeautifulSoup(content, 'lxml') if content else None
                 
-                if (link, name) in existing_links: continue
+                # FILTER 1: NO EXTERNAL BLOG LINKS
+                has_external_link = False
+                if temp_soup:
+                    links = temp_soup.find_all('a', href=True)
+                    for a in links:
+                        href = a['href'].lower()
+                        # Allow internal Reddit links and standard image hosts. Block everything else (blogs/youtube)
+                        allowed_domains = ['reddit.com', 'redd.it', 'imgur.com']
+                        if not any(domain in href for domain in allowed_domains):
+                            has_external_link = True
+                            break
+                            
+                if has_external_link:
+                    continue # Skip because it's linking to a blog
                 
-                # Date
-                created_utc = pdata.get('created_utc')
-                dt = datetime.fromtimestamp(created_utc, timezone.utc) if created_utc else datetime.now(timezone.utc)
+                # FILTER 2: NO QUESTIONS OR ADVICE REQUESTS
+                title_lower = title.lower()
+                if "?" in title:
+                    continue
+                if any(w in title_lower for w in ['help', 'request', 'iso', 'looking for', 'advice']):
+                    continue
                 
-                # Image: Extract high-res preview image and fix Reddit's HTML entity encoding (&amp;)
+                # FILTER 3: MUST BE AN IMAGE POST OR CONTAIN RECIPE WORDS
                 image = "icon.jpg"
-                try:
-                    images = pdata.get('preview', {}).get('images', [])
-                    if images:
-                        image = images[0]['source']['url'].replace('&amp;', '&')
-                    elif pdata.get('thumbnail') and pdata['thumbnail'].startswith('http'):
-                        image = pdata['thumbnail']
-                except: pass
+                has_image = False
                 
+                if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
+                    image = entry.media_thumbnail[0]['url'].replace('&amp;', '&')
+                    has_image = True
+                elif temp_soup:
+                    img_tag = temp_soup.find('img')
+                    if img_tag and img_tag.get('src'):
+                        src = img_tag['src'].replace('&amp;', '&')
+                        # Ensure it's not just a tiny tracking pixel
+                        if "width=" in src or "preview" in src or "format=" in src:
+                            image = src
+                            has_image = True
+                
+                # If there's no image, it's a text post. Verify it actually has recipe words.
+                if not has_image:
+                    content_lower = content.lower() if content else ""
+                    recipe_keywords = ['ingredients', 'tsp', 'tbsp', 'cup ', 'cups ', 'instructions', 'method', 'yield:']
+                    if not any(kw in content_lower for kw in recipe_keywords):
+                        continue # Skip because it's just a text discussion, not a recipe
+                
+                # Date Parsing
+                dt_str = entry.get('published', entry.get('updated', None))
+                try:
+                    dt = parser.parse(dt_str)
+                    if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
+                except:
+                    dt = datetime.now(timezone.utc)
+                
+                # Success! Add the native Reddit recipe
                 found_items.append({
                     "blog_name": name, 
                     "title": title, 
@@ -1202,12 +1238,12 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
                     "special_tags": list(source_tags)
                 })
                 existing_links.add((link, name))
+                
         except Exception as e:
-            print(f"   [!] Reddit JSON parsing failed: {e}")
+            print(f"   [!] Reddit RSS parsing failed: {e}")
 
     status = f"✅ OK ({len(found_items)})" if found_items else "⚠️ Scraped 0"
     return found_items, status
-
 # --- MAIN EXECUTION ---
 
 # 1. Load Existing Data
