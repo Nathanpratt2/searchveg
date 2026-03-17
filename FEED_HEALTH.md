@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-17 06:58:21
+**Last Run:** 2026-03-17 12:44:23
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20161 | 400 new today |
-| **Blogs Monitored** | 123 | 11 HTML / 85 RSS |
-| **Active Sources** | 119 | 5+ recipes |
-| **WFPB / GF** | 2573 / 2697 | 12% / 13% |
-| **Easy / Budget** | 4915 / 2067 | 24% / 10% |
+| **Total Database** | 20171 | 235 new today |
+| **Blogs Monitored** | 122 | 10 HTML / 85 RSS |
+| **Active Sources** | 120 | 5+ recipes |
+| **WFPB / GF** | 2545 / 2697 | 12% / 13% |
+| **Easy / Budget** | 4919 / 2067 | 24% / 10% |
 
 ---
 
@@ -16,11 +16,10 @@
 
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Reddit | 0 | 0 | 0 | 0 | 0 | 0 | N/A | ❌ Empty |
-| SO VEGAN | 0 | 0 | 0 | 0 | 0 | 0 | N/A | ❌ Empty |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Mary's Test Kitchen | 3 | 10 | 0 | 0 | 1 | 0 | 2026-02-26 | ✅ OK |
 | Rainbow Nourishments | 1 | 11 | 0 | 2 | 1 | 0 | 2026-02-06 | ✅ OK |
+| Reddit | 11 | 11 | 0 | 4 | 0 | 0 | 2026-03-16 | ✅ OK (11) |
 | Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
 | The Banana Diaries | 1 | 12 | 0 | 3 | 2 | 0 | 2026-03-13 | ✅ OK |
 | PlantYou | 1 | 18 | 18 | 5 | 2 | 0 | 2026-03-16 | ✅ OK |
@@ -103,15 +102,15 @@
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Healthy Little Vittles | 1 | 272 | 9 | 45 | 2 | 269 | 2026-03-12 | ✅ OK |
+| The Whole Food Plant Based Cooking Show | 0 | 272 | 272 | 7 | 0 | 9 | 2026-03-03 | ✅ OK |
 | Yup It's Vegan | 0 | 273 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Connoisseurus Veg | 0 | 274 | 0 | 33 | 1 | 0 | 2026-03-16 | ✅ OK |
 | Unconventional Baker | 0 | 279 | 1 | 20 | 0 | 279 | 2025-11-01 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 281 | 2 | 19 | 1 | 1 | 2026-03-13 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 282 | 2 | 19 | 1 | 1 | 2026-03-13 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
 | The Conscious Plant Kitchen | 0 | 283 | 35 | 33 | 2 | 38 | 2026-03-14 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 286 | 1 | 4 | 4 | 1 | 2026-03-16 | ✅ OK |
-| The Whole Food Plant Based Cooking Show | 175 | 300 | 300 | 7 | 0 | 9 | 2026-03-03 | ✅ OK (7) |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
