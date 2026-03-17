@@ -56,7 +56,7 @@ jobs:
              LAST_TS=$(date -d "$LAST_RUN" +%s)
              NOW_TS=$(date +%s)
              DIFF=$((NOW_TS - LAST_TS))
-             COOLDOWN=10000 # 3 ish hours in seconds
+             COOLDOWN=8000 # 2 ish hours in seconds
 
              if (( DIFF < COOLDOWN )); then
                 HOURS=$((DIFF / 3600))
