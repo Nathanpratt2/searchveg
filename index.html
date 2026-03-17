@@ -1971,6 +1971,33 @@
             alert("Link copied to clipboard!");
         }
     }
+
+    // --- APP INACTIVITY REFRESH LOGIC ---
+    // Automatically reload to home if the app/page has been in the background for > 1 hour
+    safeSetStorage('app_last_hidden', Date.now());
+
+    document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "hidden") {
+            // Record exact time the user left the app / minimized the browser
+            safeSetStorage('app_last_hidden', Date.now());
+        } else if (document.visibilityState === "visible") {
+            const lastHidden = safeGetStorage('app_last_hidden', "0");
+            const ONE_HOUR = 60 * 60 * 1000; // 1 hour in milliseconds
+            
+            if (lastHidden > 0 && (Date.now() - lastHidden > ONE_HOUR)) {
+                // It has been over an hour, reset URL parameters and go home
+                let cleanPath = window.location.pathname;
+                if (cleanPath === '' || cleanPath === '/') {
+                    window.location.href = '/'; 
+                } else {
+                    window.location.href = cleanPath; 
+                }
+            } else {
+                // User came back before an hour was up. Update time so active use doesn't trigger it
+                safeSetStorage('app_last_hidden', Date.now());
+            }
+        }
+    });
 </script>
 
 </body>
