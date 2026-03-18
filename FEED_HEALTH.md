@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-18 00:04:10
+**Last Run:** 2026-03-18 06:49:10
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20066 | 235 new today |
+| **Total Database** | 20070 | 232 new today |
 | **Blogs Monitored** | 122 | 10 HTML / 85 RSS |
 | **Active Sources** | 120 | 5+ recipes |
 | **WFPB / GF** | 2532 / 2668 | 12% / 13% |
@@ -21,7 +21,7 @@
 | Rainbow Nourishments | 1 | 11 | 0 | 2 | 1 | 0 | 2026-02-06 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
 | The Banana Diaries | 1 | 12 | 0 | 3 | 2 | 0 | 2026-03-13 | ✅ OK |
-| Reddit | 5 | 13 | 0 | 4 | 0 | 0 | 2026-03-17 | ✅ OK (5) |
+| Reddit | 3 | 15 | 0 | 4 | 0 | 0 | 2026-03-18 | ✅ OK (3) |
 | PlantYou | 1 | 18 | 18 | 5 | 2 | 0 | 2026-03-16 | ✅ OK |
 | Dr. Vegan | 0 | 22 | 4 | 22 | 8 | 0 | 2026-03-17 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
@@ -67,7 +67,7 @@
 | ZardyPlants | 0 | 223 | 223 | 37 | 223 | 4 | 2026-03-11 | ✅ OK |
 | Forks Over Knives | 0 | 224 | 224 | 24 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 9 | 225 | 30 | 55 | 41 | 7 | 2026-03-13 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 3 | 226 | 0 | 53 | 1 | 0 | 2026-03-17 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 2 | 226 | 0 | 53 | 1 | 0 | 2026-03-17 | ✅ OK |
 | Cadry's Kitchen | 3 | 226 | 11 | 80 | 22 | 0 | 2026-03-05 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -107,10 +107,10 @@
 | Connoisseurus Veg | 0 | 274 | 0 | 33 | 1 | 0 | 2026-03-16 | ✅ OK |
 | Unconventional Baker | 0 | 278 | 1 | 19 | 0 | 278 | 2025-11-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 281 | 35 | 33 | 2 | 38 | 2026-03-17 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 282 | 2 | 19 | 1 | 1 | 2026-03-17 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 281 | 35 | 33 | 2 | 38 | 2026-03-17 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 282 | 2 | 19 | 1 | 1 | 2026-03-17 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
-| The Post-Punk Kitchen | 1 | 286 | 1 | 4 | 4 | 1 | 2026-03-16 | ✅ OK |
+| The Post-Punk Kitchen | 3 | 288 | 1 | 4 | 4 | 1 | 2026-03-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
