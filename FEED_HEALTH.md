@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-18 06:49:10
+**Last Run:** 2026-03-18 09:23:47
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20070 | 232 new today |
+| **Total Database** | 20074 | 232 new today |
 | **Blogs Monitored** | 122 | 10 HTML / 85 RSS |
 | **Active Sources** | 120 | 5+ recipes |
 | **WFPB / GF** | 2532 / 2668 | 12% / 13% |
-| **Easy / Budget** | 4882 / 2047 | 24% / 10% |
+| **Easy / Budget** | 4883 / 2047 | 24% / 10% |
 
 ---
 
@@ -21,8 +21,8 @@
 | Rainbow Nourishments | 1 | 11 | 0 | 2 | 1 | 0 | 2026-02-06 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
 | The Banana Diaries | 1 | 12 | 0 | 3 | 2 | 0 | 2026-03-13 | ✅ OK |
-| Reddit | 3 | 15 | 0 | 4 | 0 | 0 | 2026-03-18 | ✅ OK (3) |
-| PlantYou | 1 | 18 | 18 | 5 | 2 | 0 | 2026-03-16 | ✅ OK |
+| Reddit | 2 | 16 | 0 | 4 | 0 | 0 | 2026-03-18 | ✅ OK (2) |
+| PlantYou | 0 | 17 | 17 | 5 | 2 | 0 | 2026-03-16 | ✅ OK |
 | Dr. Vegan | 0 | 22 | 4 | 22 | 8 | 0 | 2026-03-17 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
@@ -40,7 +40,7 @@
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-03-11 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 154 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
-| Steamy Vegan | 0 | 163 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
+| Steamy Vegan | 1 | 164 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
 | Holistic Chef Academy | 1 | 170 | 2 | 7 | 0 | 7 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 172 | 172 | 12 | 18 | 42 | 2026-01-20 | ✅ OK |
 | The Stingy Vegan | 1 | 176 | 1 | 176 | 176 | 0 | 2026-02-24 | ✅ OK |
@@ -62,7 +62,7 @@
 | Minimalist Baker (Vegan Recipes) | 3 | 220 | 19 | 69 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Vegan in the Freezer | 1 | 220 | 5 | 36 | 10 | 0 | 2026-03-16 | ✅ OK |
 | Sweet Simple Vegan | 1 | 221 | 5 | 49 | 18 | 2 | 2026-03-10 | ✅ OK |
-| The First Mess | 0 | 221 | 1 | 30 | 3 | 1 | 2026-03-11 | ✅ OK |
+| The First Mess | 1 | 222 | 1 | 30 | 3 | 1 | 2026-03-18 | ✅ OK |
 | Rabbit and Wolves | 5 | 223 | 0 | 33 | 1 | 0 | 2026-03-03 | ✅ OK |
 | ZardyPlants | 0 | 223 | 223 | 37 | 223 | 4 | 2026-03-11 | ✅ OK |
 | Forks Over Knives | 0 | 224 | 224 | 24 | 39 | 2 | 2026-02-10 | ✅ OK |
@@ -82,8 +82,8 @@
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | The Edgy Veg | 0 | 244 | 9 | 39 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Hot For Food | 1 | 245 | 9 | 32 | 12 | 1 | 2026-03-06 | ✅ OK |
-| It Doesn't Taste Like Chicken | 2 | 245 | 1 | 81 | 8 | 223 | 2026-03-15 | ✅ OK |
 | Make It Dairy Free | 0 | 245 | 4 | 40 | 2 | 3 | 2026-03-15 | ✅ OK |
+| It Doesn't Taste Like Chicken | 3 | 246 | 1 | 82 | 8 | 223 | 2026-03-18 | ✅ OK |
 | The Foodie Takes Flight | 0 | 249 | 0 | 249 | 2 | 0 | 2026-02-27 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 250 | 24 | 250 | 21 | 3 | 2025-08-18 | ✅ OK |
 | Healthier Steps | 1 | 251 | 14 | 28 | 39 | 19 | 2025-05-18 | ✅ OK |
@@ -109,8 +109,8 @@
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 281 | 35 | 33 | 2 | 38 | 2026-03-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 282 | 2 | 19 | 1 | 1 | 2026-03-17 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 1 | 283 | 283 | 24 | 3 | 0 | 2026-03-04 | ✅ OK (1) |
-| The Post-Punk Kitchen | 3 | 288 | 1 | 4 | 4 | 1 | 2026-03-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 2 | 284 | 284 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (2) |
+| The Post-Punk Kitchen | 1 | 288 | 1 | 4 | 4 | 1 | 2026-03-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
