@@ -308,6 +308,25 @@ NON_RECIPE_KEYWORDS = [
     " best vegan ", " dinner ideas", " lunch ideas", " breakfast ideas", " meal prep ideas",
     " ways to ", " things to ", "must make", "must have", "must try", " recipes for ", 
     " recipes to ", " ideas for ", "why ", "guide", "recipes ",
+
+    # Reddit: Product & Ingredient Reviews
+    "y'all weren't lying", "weren't lying", "taste test", "tastes just like", 
+    "store bought", "store-bought", "has anyone tried", "has anyone bought", 
+    "found this", "trader joe", " tjs ", "aldi", "whole foods", "beyond meat", 
+    "impossible meat", "egg white powder", "brand of", "what brand",
+    
+    # Reddit: Methods, Hacks & General Discussions
+    "game changer", "game-changer", "thoughts on", "unpopular opinion", "debate", 
+    "rant", "psa:", "did you know", "appreciation post", "new here", "thank you",
+    
+    # Reddit: Help, Troubleshooting & Requests
+    "help me", "need help", "please help", "question:", "quick question", 
+    "advice", "suggestions for", "looking for", " iso ", "recommend", 
+    "recommendations", "what went wrong", "what am i doing wrong", "how do i", 
+    "what do you use", "what's the best", "can i substitute", "substitute for",
+    
+    # Reddit: Fails (Successes usually have recipes in comments, but fails don't)
+    "fail", "ruined", "disaster", "tastes awful", "tastes bad", "throw it out"
     
     # Meal Plans & Diaries
     "meal plan", "weekly menu", "menu plan", "what i eat", "what i ate", "wiaw", 
