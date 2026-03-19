@@ -405,6 +405,32 @@
    // --- GLOBAL STATE ---
     let allRecipes = [];          
     let currentContext =[];      
+
+    // Supabase Config for Analytics
+    const SUPABASE_URL = 'https://nwxnbqtipgygryqinexu.supabase.co';
+    const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im53eG5icXRpcGd5Z3J5cWluZXh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM5NDI4MzcsImV4cCI6MjA4OTUxODgzN30.X4-KaumMxKBQqziYT7SY4N3EP9ZoHM4VFqj6jVW7Da0'; 
+
+    function trackInteraction(link, action) {
+        // Anti-spam failsafe: Check if user already clicked/saved this in localStorage
+        const storageKey = `tracked_${action}_${link}`;
+        if (localStorage.getItem(storageKey)) return; // Stop if already tracked
+
+        try {
+            fetch(`${SUPABASE_URL}/rest/v1/recipe_interactions`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'apikey': SUPABASE_ANON_KEY,
+                    'Authorization': `Bearer ${SUPABASE_ANON_KEY}`
+                },
+                body: JSON.stringify({ link: link, action: action })
+            });
+            // Mark as tracked so they can't spam it
+            localStorage.setItem(storageKey, 'true');
+        } catch (e) {
+            // Failsafe: Ignore silently if Supabase is blocked by adblock or goes down
+        }
+    }   
     let renderedCount = 0;        
     
     // Favorites State
@@ -586,6 +612,24 @@
             savedRecipesMap.delete(recipeLink);
             heartBtn.classList.remove('active');
             
+            if (isSavedView) {
+                if (card) card.classList.add('dimmed');
+            }
+        } else {
+            // ADD
+            const savedItem = { ...recipe, savedAt: Date.now() };
+            savedRecipesMap.set(recipeLink, savedItem);
+            heartBtn.classList.add('active');
+            
+            // Trigger tracking!
+            trackInteraction(recipeLink, 'save');
+            
+            if (isSavedView) {
+                if (card) card.classList.remove('dimmed');
+            }
+        }
+            heartBtn.classList.remove('active');
+            
             // Visual logic for Saved View: Dim card instead of removing instantly
             if (isSavedView) {
                 if (card) card.classList.add('dimmed');
@@ -748,6 +792,12 @@
         .then(data => {
             allRecipes = data;
             currentContext = allRecipes; 
+            
+            // Failsafe: Only show the Trending button if recipes actually have the tag
+            const trendingCount = allRecipes.filter(r => r.is_trending).length;
+            if (trendingCount > 0) {
+                document.getElementById('trendingBtn').style.display = 'flex';
+            }
             
             setupInfiniteScroll();   
             parseURLState();
@@ -960,6 +1010,10 @@
             title = "Vegan Sweets & Desserts | SearchVeg";
             desc = "Indulge in the best vegan desserts, cookies, cakes, and sweets.";
             breadcrumbName = "Sweets";
+        } else if (activeType === 'trending') {
+            title = "Trending Vegan Recipes | SearchVeg";
+            desc = "The most popular, highly clicked, and saved vegan recipes right now.";
+            breadcrumbName = "Trending";
         } else if (activeCuisines.size > 0) {
             const cuisinesArr = Array.from(activeCuisines);
             const primaryCuisine = cuisinesArr[0];
@@ -1244,11 +1298,13 @@
             }
         });
 
-        // Prevent the standard link from opening if the secret long press was successful
+       // Prevent the standard link from opening if the secret long press was successful
         link.onclick = (e) => {
             if (wasSecretTriggered) {
                 e.preventDefault();
                 wasSecretTriggered = false;
+            } else {
+                trackInteraction(recipe.link, 'click'); // Track standard click
             }
         };
        
@@ -1286,7 +1342,12 @@
         const hoursOld = (now - recipeDate) / (1000 * 3600);
         
         let badgeHTML = '';
-        if (hoursOld < 20) {
+        
+        // Render Trending Badge
+        if (recipe.is_trending) {
+            badgeHTML += '<span class="trending-badge">🔥 Trending</span>';
+        } else if (hoursOld < 20) {
+            // Only show "New Today" if it isn't trending, so it's not overcrowded
             badgeHTML += '<span class="fresh-badge">New Today</span>';
         }
 
@@ -1475,16 +1536,30 @@
         document.activeElement.blur();
         const mealsBtn = document.getElementById('mealsBtn');
         const sweetsBtn = document.getElementById('sweetsBtn');
+        const trendingBtn = document.getElementById('trendingBtn');
 
         if (activeType === type) {
             activeType = null;
             mealsBtn.classList.remove('active-filter');
             sweetsBtn.classList.remove('active-filter');
+            if (trendingBtn) trendingBtn.classList.remove('active-filter');
         } else {
             activeType = type;
+            // Clear all
+            mealsBtn.classList.remove('active-filter');
+            sweetsBtn.classList.remove('active-filter');
+            if (trendingBtn) trendingBtn.classList.remove('active-filter');
+            
             if (type === 'meal') {
                 mealsBtn.classList.add('active-filter');
-                sweetsBtn.classList.remove('active-filter');
+            } else if (type === 'sweet') {
+                sweetsBtn.classList.add('active-filter');
+            } else if (type === 'trending') {
+                if (trendingBtn) trendingBtn.classList.add('active-filter');
+            }
+        }
+        applyFilters(true);
+    }
             } else {
                 sweetsBtn.classList.add('active-filter');
                 mealsBtn.classList.remove('active-filter');
@@ -1728,6 +1803,8 @@
                 const isStrictSavory = STRICT_SAVORY.some(k => t.includes(k));
                 return hasSweetKeyword && (!hasMealKeyword || isFalseMeal) && !isStrictSavory;
             });
+        } else if (activeType === 'trending') {
+            filtered = filtered.filter(recipe => recipe.is_trending === true);
         }
 
         // 4. Apply Tags (Strict AND logic)
