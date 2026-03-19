@@ -1595,6 +1595,56 @@ for recipe in final_pruned_list:
 final_pruned_list = list(deduped_recipes.values())
 final_pruned_list.sort(key=lambda x: x['date'], reverse=True)
 
+# --- TRENDING ALGORITHM (SUPABASE) ---
+trending_links = []
+try:
+    supabase_url = "https://nwxnbqtipgygryqinexu.supabase.co"
+    supabase_key = os.environ.get("SUPABASE_KEY", "")
+    
+    if supabase_key:
+        print("   Fetching interaction data from Supabase for Trending algorithm...", flush=True)
+        # Only look at the last 7 days of clicks/saves so trending stays fresh
+        seven_days_ago = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
+        
+        headers = {
+            "apikey": supabase_key,
+            "Authorization": f"Bearer {supabase_key}",
+            "Content-Profile": "public"
+        }
+        
+        # Fetch the logs
+        res = requests.get(f"{supabase_url}/rest/v1/recipe_interactions?created_at=gte.{seven_days_ago}&select=link,action", headers=headers, timeout=10)
+        
+        if res.status_code == 200:
+            interactions = res.json()
+            scores = {}
+            for row in interactions:
+                link = row.get("link")
+                action = row.get("action")
+                if link not in scores:
+                    scores[link] = 0
+                
+                # 1 point for click, 3 points for save
+                if action == "click":
+                    scores[link] += 1
+                elif action == "save":
+                    scores[link] += 3
+                    
+            # Sort by highest score and take the Top 10
+            top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:10]
+            trending_links = [item[0] for item in top_scored]
+            print(f"   Top 10 trending calculated successfully.", flush=True)
+        else:
+            print(f"   [!] Supabase API error: {res.status_code}", flush=True)
+    else:
+        print("   [!] SUPABASE_KEY secret not found. Skipping trending calculation.", flush=True)
+except Exception as e:
+    print(f"   [!] Failed to calculate trending (Failsafe triggered): {e}", flush=True)
+
+# Tag the recipes in the final list
+for recipe in final_pruned_list:
+    recipe['is_trending'] = recipe['link'] in trending_links
+
 print("Pruning complete. Saving database with distinct source names...", flush=True)
 
 if len(final_pruned_list) > 50:
