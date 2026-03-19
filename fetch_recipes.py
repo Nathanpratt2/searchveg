@@ -141,7 +141,7 @@ HTML_SOURCES = [
    #("Forks Over Knives", "https://www.forksoverknives.com/all-recipes/", ["WFPB"], "wordpress"),#maxed out
     #("Gimme Some Oven (Vegan Recipes)", ("https://www.gimmesomeoven.com/dietary/vegan/page/{}/", 1, 1), [], "wordpress"),
         #("ZardyPlants", ("https://zardyplants.com/category/recipes/page/{}/", 1, 1), ["WFPB", "Budget"], "wordpress"),
-    ("High Carb Hannah", ("https://highcarbhannah.co/pages/recipes?page={}", 1, 1), [], "wordpress"),
+    #("High Carb Hannah", ("https://highcarbhannah.co/pages/recipes?page={}", 1, 1), [], "wordpress"),
     #("SO VEGAN", "https://www.wearesovegan.com/recipes", [], "squarespace"),
     ("The Whole Food Plant Based Cooking Show", ("https://plantbasedcookingshow.com/category/recipes/page/{}/", 1, 1), ["WFPB"], "wordpress"),
         #("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
@@ -210,7 +210,7 @@ HTML_SOURCES = [
     #("Simple Vegan Blog", "https://simpleveganblog.com/", [], "wordpress"),#maxed
    # ("Hot For Food","https://www.hotforfoodblog.com/category/recipes/page/1/",[],"wordpress"),#maxed out
    # ("My Goodness Kitchen", "https://mygoodnesskitchen.com/recipes/page/1/", [], "wordpress"),
-   ("VegNews", ("https://vegnews.com/recipes/page/{}/", 1, 1), [], "wordpress"),#maybe infinite pages lol
+   ("VegNews", "https://vegnews.com/recipes/", [], "wordpress"),
    # ("Sweet Simple Vegan", "https://sweetsimplevegan.com/recipes/page/1/", [], "wordpress"),#maxed out recipes
    # ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 1, 1), [], "wordpress"),#70 pages, input as a range
     ("The Cheap Lazy Vegan", ("https://thecheaplazyvegan.com/blog/page/{}/", 1, 1), ["Budget", "Easy"], "wordpress"),#62 pages
