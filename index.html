@@ -211,7 +211,6 @@
     </div>
 
     <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
-    <!-- HORIZONTAL SCROLLING CHIPS (3 Sections) -->
     <div id="subControlsWrapper" class="sub-controls-wrapper">
         <div class="sub-controls">
             
@@ -251,20 +250,6 @@
                 <button class="btn diet-btn" data-diet="Soy Free" onclick="toggleDiet(event, 'Soy Free')">🌱 Soy Free</button>
             </div>
 
-        </div>
-    </div>
-    <!-- NEW HORIZONTAL SCROLLING CHIPS (HIDDEN BY DEFAULT) -->
-    <div id="subControlsWrapper" class="sub-controls-wrapper">
-        <div class="sub-controls">
-            <div class="sub-controls-inner" id="cuisineChips">
-                <button class="btn cuisine-btn" data-cuisine="American" onclick="toggleCuisine(event, 'American')">American</button>
-                <button class="btn cuisine-btn" data-cuisine="Indian" onclick="toggleCuisine(event, 'Indian')">Indian</button>
-                <button class="btn cuisine-btn" data-cuisine="Mexican" onclick="toggleCuisine(event, 'Mexican')">Mexican</button>
-                <button class="btn cuisine-btn" data-cuisine="Italian" onclick="toggleCuisine(event, 'Italian')">Italian</button>
-                <button class="btn cuisine-btn" data-cuisine="Asian" onclick="toggleCuisine(event, 'Asian')">Asian</button>
-                <button class="btn cuisine-btn" data-cuisine="Middle Eastern" onclick="toggleCuisine(event, 'Middle Eastern')">Middle Eastern</button>
-                <button class="btn cuisine-btn" data-cuisine="Mediterranean" onclick="toggleCuisine(event, 'Mediterranean')">Mediterranean</button>
-            </div>
         </div>
     </div>
 </header>
@@ -624,26 +609,6 @@
             // Trigger tracking!
             trackInteraction(recipeLink, 'save');
             
-            if (isSavedView) {
-                if (card) card.classList.remove('dimmed');
-            }
-        }
-            heartBtn.classList.remove('active');
-            
-            // Visual logic for Saved View: Dim card instead of removing instantly
-            if (isSavedView) {
-                if (card) card.classList.add('dimmed');
-            }
-        } else {
-            // ADD (Store Metadata for Persistence)
-            const savedItem = {
-                ...recipe,
-                savedAt: Date.now() // Timestamp for sorting
-            };
-            savedRecipesMap.set(recipeLink, savedItem);
-            heartBtn.classList.add('active');
-            
-            // Visual logic for Saved View: Undim
             if (isSavedView) {
                 if (card) card.classList.remove('dimmed');
             }
