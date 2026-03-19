@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-19 20:47:02
+**Last Run:** 2026-03-19 23:55:30
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19855 | 161 new today |
+| **Total Database** | 19856 | 162 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **WFPB / GF** | 2523 / 2663 | 12% / 13% |
@@ -26,10 +26,10 @@
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
 | Jessica in the Kitchen | 1 | 23 | 1 | 4 | 1 | 2 | 2026-03-17 | ✅ OK |
-| Reddit | 6 | 23 | 0 | 5 | 0 | 0 | 2026-03-19 | ✅ OK (6) |
+| Reddit | 4 | 23 | 0 | 5 | 0 | 0 | 2026-03-19 | ✅ OK (4) |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
-| Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
+| Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ❌ Blocked/ConnErr |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -56,7 +56,7 @@
 | The Burger Dude | 3 | 206 | 6 | 13 | 13 | 0 | 2026-03-12 | ✅ OK |
 | Vegan Heaven | 3 | 206 | 0 | 24 | 0 | 1 | 2026-01-06 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Sweet Simple Vegan | 2 | 216 | 4 | 44 | 18 | 2 | 2026-03-19 | ✅ OK |
+| Sweet Simple Vegan | 1 | 216 | 4 | 44 | 18 | 2 | 2026-03-19 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-16 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
@@ -75,7 +75,7 @@
 | HealthyGirl Kitchen | 1 | 237 | 30 | 50 | 0 | 62 | 2026-03-17 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
-| Pick Up Limes | 5 | 240 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (5) |
+| Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
 | The Edgy Veg | 0 | 242 | 9 | 39 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 1 | 242 | 21 | 52 | 23 | 216 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
@@ -85,12 +85,12 @@
 | Choosing Chia (Vegan Recipes) | 0 | 250 | 24 | 250 | 21 | 3 | 2025-08-18 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | The Foodie Takes Flight | 0 | 250 | 0 | 250 | 2 | 0 | 2026-03-18 | ✅ OK |
-| My Darling Vegan | 6 | 252 | 1 | 28 | 4 | 12 | 2026-02-27 | ✅ OK |
 | Plant Power Couple | 1 | 252 | 0 | 252 | 2 | 0 | 2026-03-09 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-03-18 | ✅ OK |
 | Veggiekins | 0 | 252 | 35 | 252 | 0 | 249 | 2026-03-13 | ✅ OK |
 | From My Bowl | 0 | 253 | 3 | 34 | 3 | 5 | 2026-03-18 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 253 | 37 | 69 | 3 | 0 | 2026-03-18 | ✅ OK |
+| My Darling Vegan | 7 | 253 | 1 | 28 | 4 | 12 | 2026-03-19 | ✅ OK |
 | Namely Marly | 16 | 255 | 11 | 25 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 256 | 0 | 38 | 0 | 10 | 2026-03-19 | ✅ OK |
 | A Virtual Vegan | 0 | 260 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
@@ -104,7 +104,7 @@
 | VegNews | 0 | 274 | 21 | 33 | 24 | 3 | 2026-03-19 | ✅ OK |
 | Connoisseurus Veg | 1 | 275 | 0 | 33 | 1 | 0 | 2026-03-18 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 4 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 281 | 35 | 33 | 2 | 38 | 2026-03-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 283 | 2 | 19 | 1 | 1 | 2026-03-19 | ✅ OK |
