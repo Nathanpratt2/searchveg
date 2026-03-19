@@ -1277,7 +1277,7 @@ except (FileNotFoundError, json.JSONDecodeError):
 # 2. Cleanse Database
 initial_count = len(recipes)
 # Remove specific requested blogs
-BLOGS_TO_REMOVE = []
+BLOGS_TO_REMOVE = ["Big Box Vegan"]
 
 recipes = [
     r for r in recipes 
