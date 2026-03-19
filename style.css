@@ -599,23 +599,42 @@
             z-index: 99;
             width: 66px;
             height: 66px;
-            border: none;
+            border: 1px solid rgba(255,255,255,0.2); /* Best Practice: Subtle edge definition */
             outline: none;
             background-color: var(--accent-color);
             color: white;
             cursor: pointer;
             border-radius: 50%;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            transition: background-color 0.3s, transform 0.3s;
+            /* Best Practice FAB Shadow: Ambient black + directional brand green glow */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.25), 0 8px 20px rgba(118, 159, 55, 0.35);
+            transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
             align-items: center;
             justify-content: center;
         }
-        #scrollTopBtn:hover {
+        
+        #scrollTopBtn:hover, 
+        #scrollTopBtn:active {
             background-color: #5d822b; 
             transform: translateY(-3px);
+            box-shadow: 0 6px 14px rgba(0,0,0,0.3), 0 12px 24px rgba(118, 159, 55, 0.45);
         }
+        
         @media (max-width: 400px) {
             #scrollTopBtn { bottom: 90px; right: 18px; width: 55px; height: 55px; }
+        }
+
+        /* --- BUY ME A COFFEE WIDGET "POP" FIX --- */
+        #bmc-wbtn {
+            border: 1px solid rgba(255,255,255,0.2) !important;
+            /* Matches the Scroll To Top shadow perfectly */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.25), 0 8px 20px rgba(118, 159, 55, 0.35) !important;
+            transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+        }
+        
+        #bmc-wbtn:hover, 
+        #bmc-wbtn:active {
+            transform: translateY(-3px) scale(1.02) !important;
+            box-shadow: 0 6px 14px rgba(0,0,0,0.3), 0 12px 24px rgba(118, 159, 55, 0.45) !important;
         }
 
         /* --- SCROLL BOUNCE ANIMATION --- */
