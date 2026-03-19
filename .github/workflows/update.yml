@@ -81,6 +81,8 @@ jobs:
 
       - name: Run Fetch Script
         if: steps.check_window.outputs.skip_run != 'true'
+        env:
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python fetch_recipes.py
 
       - name: Commit and push changes
