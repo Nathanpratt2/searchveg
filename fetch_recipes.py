@@ -1274,84 +1274,61 @@ previous_domain = ""
 
 print(f"Fetching recipes from {len(ALL_FEEDS)} RSS feeds & {len(HTML_SOURCES)} HTML sources...", flush=True)
 
-# 3. Scrape RSS Feeds
-print("::group::📡 Scraping RSS Feeds", flush=True)
-total_rss = len(ALL_FEEDS)
-for i, item in enumerate(ALL_FEEDS, 1):
-    if len(item) != 3: continue
-    name, url, special_tags = item
-
-    new_count = 0
-    status = "✅ OK"
+# 4. Scrape HTML Sources
+print("::group::🕸️ Scraping HTML Sources", flush=True)
+total_html = len(HTML_SOURCES)
+for html_idx, item in enumerate(HTML_SOURCES, 1):
+    start_time = time.time()  # <-- START TIMER
     
-    current_domain = urlparse(url).netloc
-    if current_domain == previous_domain:
-        print(f"   (Pausing 5s for same domain: {current_domain})", flush=True)
-        time.sleep(5)
-    previous_domain = current_domain
+    if len(item) != 4: continue
+    name, url_source, tags, mode = item
     
-    try:
-        print(f"[{i}/{total_rss}] Checking RSS: {name}...", flush=True)
-        xml_content = robust_fetch(url, is_scraping_page=False)
-        
-        if (not xml_content) and name == "VegNews":
-             xml_content = robust_fetch("https://vegnews.com/rss", is_scraping_page=False)
+    print(f"[{html_idx}/{total_html}] Starting HTML Scrape: {name}", flush=True)
+    
+    # Enable Multi-Page Scraping: Handle string, list, OR range tuple
+    if isinstance(url_source, tuple) and len(url_source) == 3:
+        base_url, start_page, end_page = url_source
+        urls_to_scrape = [base_url.format(i) for i in range(start_page, end_page + 1)]
+    elif isinstance(url_source, list):
+        urls_to_scrape = url_source
+    else:
+        urls_to_scrape = [url_source]
+    
+    all_new_items = []
+    last_status = "Skipped"
 
-        if not xml_content:
-            status = f"❌ Blocked/ConnErr"
-            feed_stats[name] = {'new': 0, 'status': status}
-            continue
+    total_pages = len(urls_to_scrape)
+    for i, single_url in enumerate(urls_to_scrape):
+        if i == 0:
+            time.sleep(random.uniform(2, 7))
+        else:
+            print(f"   ...cooling down (10s) before page {i+1}/{total_pages} of {name}...", flush=True)
+            time.sleep(random.uniform(8, 12))
 
-        feed = feedparser.parse(xml_content)
-        if not feed.entries:
-            status = "⚠️ Parsed 0 items"
-        
-        for entry in feed.entries:
-            try:
-                if "vegnews.com" in entry.link and "/recipes/" not in entry.link: continue
-
-                dt = entry.get('published', entry.get('updated', None))
-                if not dt: continue
-                try:
-                    published_time = parser.parse(dt)
-                except Exception: continue
-
-                if published_time.tzinfo is None:
-                    published_time = published_time.replace(tzinfo=timezone.utc)
-                else:
-                    published_time = published_time.astimezone(timezone.utc)
+        try:
+            print(f"   🔎 Page {i+1}/{total_pages} | HTML Scraping: {name} (Mode: {mode})...", flush=True)
+            new_items, status = scrape_html_feed(name, single_url, mode, existing_links, recipes, tags)
+            all_new_items.extend(new_items)
+            last_status = status
+            
+            if "Blocked" in status or "Crash" in status:
+                print(f"   Stopping multi-page scrape for {name} due to error on page {i+1}.", flush=True)
+                break
                 
-                # SAFETY: Prevent future dates
-                now_utc = datetime.now(timezone.utc)
-                if published_time > now_utc + timedelta(days=1):
-                    published_time = now_utc
+        except Exception as e:
+            print(f"   [!] Critical Error scraping {name}: {e}", flush=True)
+            last_status = "❌ HTML Crash"
 
-                if published_time > cutoff_date:
-                    if (entry.link, name) not in existing_links:
-                        if is_pet_recipe(entry.title): continue
-                        image_url = extract_image(entry, name, entry.link)
-                        if image_url and image_url.startswith('/'):
-                            base = feed.feed.get('link') or url
-                            image_url = urljoin(base, image_url)
-                        
-                        recipes.append({
-                            "blog_name": name,
-                            "title": entry.title,
-                            "link": entry.link,
-                            "image": image_url,
-                            "date": published_time.isoformat(),
-                            "is_disruptor": name in [d[0] for d in DISRUPTORS],
-                            "special_tags": [] 
-                        })
-                        existing_links.add((entry.link, name))
-                        new_count += 1
-            except Exception as e:
-                continue
-        feed_stats[name] = {'new': new_count, 'status': status}
+    recipes.extend(all_new_items)
+    feed_stats[name] = {'new': len(all_new_items), 'status': last_status}
 
-    except Exception as e:
-        print(f"   [!] Failed to parse {name}: {e}", flush=True)
-        feed_stats[name] = {'new': 0, 'status': f"❌ Crash: {str(e)[:20]}"}
+    # <-- STOP TIMER & PRINT
+    elapsed = time.time() - start_time
+    if elapsed < 60:
+        time_str = f"{elapsed:.1f} seconds"
+    else:
+        time_str = f"{int(elapsed // 60)} minutes {int(elapsed % 60)} seconds"
+    print(f"   ⏱️ Step took {time_str}\n", flush=True)
 
 print("::endgroup::", flush=True)
 
