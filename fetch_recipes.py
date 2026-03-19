@@ -108,7 +108,7 @@ TOP_BLOGGERS = [
     ("Simple Vegan Blog", "https://simpleveganblog.com/feed/", []),
     ("Hot For Food", "https://www.hotforfoodblog.com/feed/", []),
     ("My Goodness Kitchen", "https://mygoodnesskitchen.com/feed/", []),
-    #("VegNews", "https://vegnews.com/feed", []),
+    ("VegNews", "https://vegnews.com/feed.rss", []),
     ("Sweet Simple Vegan", "https://sweetsimplevegan.com/feed/", []),
     ("Bianca Zapatka", "https://biancazapatka.com/en/feed/", []),
     #("The Cheap Lazy Vegan", "https://thecheaplazyvegan.com/feed/", ["Budget", "Easy"]),
@@ -1329,7 +1329,25 @@ for i, item in enumerate(ALL_FEEDS, 1):
         
         for entry in feed.entries:
             try:
-                if "vegnews.com" in entry.link and "/recipes/" not in entry.link: continue
+                # --- ADVANCED RECIPE FILTER ---
+                if name == "VegNews":
+                    is_recipe = False
+                    
+                    # 1. Check if the URL contains /recipes/
+                    if "/recipes/" in entry.link.lower():
+                        is_recipe = True
+                        
+                    # 2. Check if the RSS XML Category is exactly "Recipes"
+                    if 'tags' in entry:
+                        for tag in entry.tags:
+                            if tag.get('term', '').lower() == 'recipes':
+                                is_recipe = True
+                                break
+                                
+                    # Skip if it failed both checks
+                    if not is_recipe:
+                        continue
+                # ------------------------------
 
                 dt = entry.get('published', entry.get('updated', None))
                 if not dt: continue
