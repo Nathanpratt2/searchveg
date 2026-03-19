@@ -82,7 +82,7 @@ TOP_BLOGGERS = [
     ("The Stingy Vegan", "https://thestingyvegan.com/feed/", ["Easy", "Budget"]),
     ("The Vegan 8", "https://thevegan8.com/feed/", ["Easy", "Budget"]),
     ("Chef Bai", "https://www.chefbai.kitchen/blog?format=rss", []),
-    ("Big Box Vegan", "https://bigboxvegan.com/feed/", []),
+    #("Big Box Vegan", "https://bigboxvegan.com/feed/", []),
     ("Veggiekins", "https://veggiekinsblog.com/feed/", ["Easy", "GF"]),
     ("HealthyGirl Kitchen", "https://healthygirlkitchen.com/feed/", []),
     ("Monkey & Me Kitchen Adventures", "https://monkeyandmekitchenadventures.com/feed/", []),
