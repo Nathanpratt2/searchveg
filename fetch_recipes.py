@@ -210,7 +210,7 @@ HTML_SOURCES = [
     #("Simple Vegan Blog", "https://simpleveganblog.com/", [], "wordpress"),#maxed
    # ("Hot For Food","https://www.hotforfoodblog.com/category/recipes/page/1/",[],"wordpress"),#maxed out
    # ("My Goodness Kitchen", "https://mygoodnesskitchen.com/recipes/page/1/", [], "wordpress"),
-   ("VegNews", "https://vegnews.com/recipes/", [], "wordpress"),
+   #("VegNews", "https://vegnews.com/recipes/", [], "wordpress"),
    # ("Sweet Simple Vegan", "https://sweetsimplevegan.com/recipes/page/1/", [], "wordpress"),#maxed out recipes
    # ("Bianca Zapatka", ("https://biancazapatka.com/en/recipes/page/{}/", 1, 1), [], "wordpress"),#70 pages, input as a range
     ("The Cheap Lazy Vegan", ("https://thecheaplazyvegan.com/blog/page/{}/", 1, 1), ["Budget", "Easy"], "wordpress"),#62 pages
