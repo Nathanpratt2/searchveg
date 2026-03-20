@@ -1630,11 +1630,11 @@ try:
                 if link not in scores:
                     scores[link] = 0
                 
-                # 1 point for click, 3 points for save
+                # 1 point for click, 5 points for save
                 if action == "click":
                     scores[link] += 1
                 elif action == "save":
-                    scores[link] += 3
+                    scores[link] += 5
                     
             # Sort by highest score and take the Top 10
             top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:10]
