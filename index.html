@@ -1763,6 +1763,9 @@
             });
         } else if (activeType === 'trending') {
             filtered = filtered.filter(recipe => recipe.is_trending === true);
+            // Sort by the trending score (Highest score first)
+            filtered.sort((a, b) => (b.trending_score || 0) - (a.trending_score || 0));
+        }
         }
 
         // 4. Apply Tags (Strict AND logic)
