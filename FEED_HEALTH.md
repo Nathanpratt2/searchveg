@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-20 06:00:31
+**Last Run:** 2026-03-20 09:10:08
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19853 | 163 new today |
+| **Total Database** | 19856 | 162 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **WFPB / GF** | 2521 / 2662 | 12% / 13% |
@@ -26,8 +26,8 @@
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
 | Jessica in the Kitchen | 1 | 23 | 1 | 4 | 1 | 2 | 2026-03-17 | ✅ OK |
-| Reddit | 4 | 23 | 0 | 4 | 0 | 0 | 2026-03-20 | ✅ OK (4) |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
+| Reddit | 5 | 25 | 0 | 4 | 0 | 0 | 2026-03-20 | ✅ OK (5) |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -95,7 +95,7 @@
 | Full of Plants | 1 | 256 | 0 | 38 | 0 | 10 | 2026-03-19 | ✅ OK |
 | A Virtual Vegan | 0 | 260 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
 | Bianca Zapatka | 0 | 263 | 22 | 117 | 43 | 3 | 2025-12-11 | ✅ OK |
-| Plant-Based on a Budget | 1 | 264 | 16 | 65 | 264 | 1 | 2026-03-19 | ✅ OK |
+| Plant-Based on a Budget | 1 | 264 | 16 | 65 | 264 | 1 | 2026-03-20 | ✅ OK |
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -106,9 +106,9 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 4 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 282 | 36 | 33 | 2 | 38 | 2026-03-20 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 282 | 36 | 33 | 2 | 38 | 2026-03-20 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 283 | 2 | 19 | 1 | 1 | 2026-03-19 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 289 | 1 | 4 | 4 | 1 | 2026-03-20 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 289 | 1 | 4 | 4 | 1 | 2026-03-20 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
