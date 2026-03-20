@@ -1647,8 +1647,10 @@ try:
 except Exception as e:
     print(f"   [!] Failed to calculate trending (Failsafe triggered): {e}", flush=True)
 
-# Tag the recipes in the final list
+# Tag the recipes in the final list and include the score for sorting
 for recipe in final_pruned_list:
+    score = scores.get(recipe['link'], 0)
+    recipe['trending_score'] = score
     recipe['is_trending'] = recipe['link'] in trending_links
 
 print("Pruning complete. Saving database with distinct source names...", flush=True)
