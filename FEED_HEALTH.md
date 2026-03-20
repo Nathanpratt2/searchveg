@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-20 00:21:23
+**Last Run:** 2026-03-20 00:40:06
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19856 | 159 new today |
+| **Total Database** | 19856 | 160 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **WFPB / GF** | 2523 / 2663 | 12% / 13% |
@@ -39,7 +39,7 @@
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-11 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 153 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
-| Steamy Vegan | 0 | 162 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
+| Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-03-19 | ✅ OK |
 | The Stingy Vegan | 1 | 176 | 1 | 176 | 176 | 0 | 2026-03-18 | ✅ OK |
