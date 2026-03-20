@@ -1612,8 +1612,14 @@ try:
             "Content-Profile": "public"
         }
         
+        # Let the requests library handle the safe URL encoding of the timestamp
+        query_params = {
+            "created_at": f"gte.{seven_days_ago}",
+            "select": "link,action"
+        }
+        
         # Fetch the logs
-        res = requests.get(f"{supabase_url}/rest/v1/recipe_interactions?created_at=gte.{seven_days_ago}&select=link,action", headers=headers, timeout=10)
+        res = requests.get(f"{supabase_url}/rest/v1/recipe_interactions", headers=headers, params=query_params, timeout=10)
         
         if res.status_code == 200:
             interactions = res.json()
