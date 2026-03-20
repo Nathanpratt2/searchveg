@@ -1638,7 +1638,8 @@ try:
                     
             # Sort by highest score and take the Top 10
             top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:10]
-            trending_links = [item[0] for item in top_scored]
+            # Create a dictionary mapping the link to its score for easy lookup
+            trending_map = dict(top_scored)
             print(f"   Top 10 trending calculated successfully.", flush=True)
         else:
             print(f"   [!] Supabase API error: {res.status_code}", flush=True)
@@ -1647,11 +1648,16 @@ try:
 except Exception as e:
     print(f"   [!] Failed to calculate trending (Failsafe triggered): {e}", flush=True)
 
-# Tag the recipes in the final list and include the score for sorting
+# Tag recipes with trending status AND their score
 for recipe in final_pruned_list:
-    score = scores.get(recipe['link'], 0)
-    recipe['trending_score'] = score
-    recipe['is_trending'] = recipe['link'] in trending_links
+    score = trending_map.get(recipe['link'])
+    if score is not None:
+        recipe['is_trending'] = True
+        recipe['trending_score'] = score
+    else:
+        # Failsafe: ensure these keys always exist to prevent errors in the website
+        recipe['is_trending'] = False
+        recipe['trending_score'] = 0
 
 print("Pruning complete. Saving database with distinct source names...", flush=True)
 
