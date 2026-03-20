@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-20 09:10:08
+**Last Run:** 2026-03-20 13:46:32
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19856 | 162 new today |
+| **Total Database** | 19858 | 160 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **WFPB / GF** | 2521 / 2662 | 12% / 13% |
@@ -27,7 +27,7 @@
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
 | Jessica in the Kitchen | 1 | 23 | 1 | 4 | 1 | 2 | 2026-03-17 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
-| Reddit | 5 | 25 | 0 | 4 | 0 | 0 | 2026-03-20 | ✅ OK (5) |
+| Reddit | 2 | 25 | 0 | 4 | 0 | 0 | 2026-03-20 | ✅ OK (2) |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -88,22 +88,22 @@
 | Plant Power Couple | 1 | 252 | 0 | 252 | 2 | 0 | 2026-03-09 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-03-18 | ✅ OK |
 | Veggiekins | 0 | 252 | 35 | 252 | 0 | 249 | 2026-03-13 | ✅ OK |
-| From My Bowl | 0 | 253 | 3 | 34 | 3 | 5 | 2026-03-18 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 253 | 37 | 69 | 3 | 0 | 2026-03-18 | ✅ OK |
 | My Darling Vegan | 6 | 253 | 1 | 28 | 4 | 12 | 2026-03-19 | ✅ OK |
+| From My Bowl | 1 | 254 | 3 | 34 | 3 | 5 | 2026-03-20 | ✅ OK |
 | Namely Marly | 16 | 255 | 11 | 25 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 256 | 0 | 38 | 0 | 10 | 2026-03-19 | ✅ OK |
 | A Virtual Vegan | 0 | 260 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
 | Bianca Zapatka | 0 | 263 | 22 | 117 | 43 | 3 | 2025-12-11 | ✅ OK |
-| Plant-Based on a Budget | 1 | 264 | 16 | 65 | 264 | 1 | 2026-03-20 | ✅ OK |
+| Plant-Based on a Budget | 0 | 264 | 16 | 65 | 264 | 1 | 2026-03-20 | ✅ OK |
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 271 | 271 | 7 | 0 | 9 | 2026-03-17 | ✅ OK |
 | Healthy Little Vittles | 1 | 272 | 9 | 46 | 2 | 269 | 2026-03-19 | ✅ OK |
 | VegNews | 0 | 274 | 21 | 33 | 24 | 3 | 2026-03-19 | ✅ OK |
-| Connoisseurus Veg | 1 | 275 | 0 | 33 | 1 | 0 | 2026-03-18 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
+| Connoisseurus Veg | 2 | 276 | 0 | 33 | 1 | 0 | 2026-03-20 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 4 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 281 | 3 | 14 | 3 | 5 | 2026-03-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 282 | 36 | 33 | 2 | 38 | 2026-03-20 | ✅ OK |
