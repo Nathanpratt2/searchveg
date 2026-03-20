@@ -5,7 +5,7 @@ searchveg.com is a curated, real-time aggregator of high-quality plant-based, ve
 
 ## Dataset Statistics
 - **Total Recipes:** 19856
-- **Last Updated:** 2026-03-19
+- **Last Updated:** 2026-03-20
 - **Content Types:** 100% Vegan. Includes Whole Food Plant Based (WFPB), Gluten-Free (GF), Budget-Friendly, and Easy/Quick recipes.
 
 ## Primary Sources

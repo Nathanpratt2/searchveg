@@ -1,10 +1,10 @@
 # Feed Health Report
-**Last Run:** 2026-03-19 23:55:30
+**Last Run:** 2026-03-20 00:21:23
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19856 | 162 new today |
+| **Total Database** | 19856 | 159 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **WFPB / GF** | 2523 / 2663 | 12% / 13% |
@@ -26,7 +26,7 @@
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
 | Jessica in the Kitchen | 1 | 23 | 1 | 4 | 1 | 2 | 2026-03-17 | ✅ OK |
-| Reddit | 4 | 23 | 0 | 5 | 0 | 0 | 2026-03-19 | ✅ OK (4) |
+| Reddit | 3 | 23 | 0 | 5 | 0 | 0 | 2026-03-19 | ✅ OK (3) |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ❌ Blocked/ConnErr |
@@ -39,7 +39,7 @@
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-11 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 153 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
-| Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
+| Steamy Vegan | 0 | 162 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-03-19 | ✅ OK |
 | The Stingy Vegan | 1 | 176 | 1 | 176 | 176 | 0 | 2026-03-18 | ✅ OK |
@@ -90,7 +90,7 @@
 | Veggiekins | 0 | 252 | 35 | 252 | 0 | 249 | 2026-03-13 | ✅ OK |
 | From My Bowl | 0 | 253 | 3 | 34 | 3 | 5 | 2026-03-18 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 253 | 37 | 69 | 3 | 0 | 2026-03-18 | ✅ OK |
-| My Darling Vegan | 7 | 253 | 1 | 28 | 4 | 12 | 2026-03-19 | ✅ OK |
+| My Darling Vegan | 6 | 253 | 1 | 28 | 4 | 12 | 2026-03-19 | ✅ OK |
 | Namely Marly | 16 | 255 | 11 | 25 | 15 | 2 | 2026-02-28 | ✅ OK |
 | Full of Plants | 1 | 256 | 0 | 38 | 0 | 10 | 2026-03-19 | ✅ OK |
 | A Virtual Vegan | 0 | 260 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
