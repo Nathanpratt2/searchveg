@@ -1,14 +1,14 @@
 # Feed Health Report
-**Last Run:** 2026-03-21 09:01:24
+**Last Run:** 2026-03-21 13:23:02
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19872 | 158 new today |
+| **Total Database** | 19875 | 161 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **WFPB / GF** | 2522 / 2663 | 12% / 13% |
-| **Easy / Budget** | 4834 / 2047 | 24% / 10% |
+| **WFPB / GF** | 2523 / 2663 | 12% / 13% |
+| **Easy / Budget** | 4833 / 2047 | 24% / 10% |
 
 ---
 
@@ -27,7 +27,7 @@
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
 | Jessica in the Kitchen | 0 | 24 | 1 | 4 | 1 | 2 | 2026-03-20 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
-| Reddit | 3 | 28 | 0 | 5 | 0 | 0 | 2026-03-21 | ✅ OK (3) |
+| Reddit | 3 | 28 | 0 | 4 | 0 | 0 | 2026-03-21 | ✅ OK (3) |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -49,7 +49,7 @@
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 192 | 14 | 27 | 13 | 5 | 2026-03-17 | ✅ OK |
-| Flora & Vino | 1 | 195 | 195 | 11 | 0 | 9 | 2026-02-28 | ✅ OK |
+| Flora & Vino | 2 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
 | Baking Hermann | 0 | 202 | 10 | 19 | 41 | 6 | 2026-02-19 | ✅ OK |
 | Elavegan | 0 | 204 | 5 | 37 | 2 | 196 | 2026-03-18 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
@@ -60,7 +60,7 @@
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-16 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Cadry's Kitchen | 5 | 221 | 11 | 79 | 21 | 0 | 2026-03-05 | ✅ OK |
+| Cadry's Kitchen | 6 | 221 | 11 | 79 | 21 | 0 | 2026-03-05 | ✅ OK |
 | The First Mess | 0 | 222 | 1 | 30 | 3 | 1 | 2026-03-18 | ✅ OK |
 | Forks Over Knives | 0 | 223 | 223 | 23 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rabbit and Wolves | 5 | 223 | 0 | 33 | 1 | 0 | 2026-03-03 | ✅ OK |
@@ -71,7 +71,7 @@
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 236 | 1 | 28 | 2 | 0 | 2026-03-18 | ✅ OK |
+| Eat Figs, Not Pigs | 4 | 236 | 1 | 28 | 2 | 0 | 2026-03-21 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 237 | 30 | 50 | 0 | 62 | 2026-03-17 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
@@ -92,7 +92,7 @@
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | From My Bowl | 0 | 254 | 3 | 34 | 3 | 5 | 2026-03-20 | ✅ OK |
 | Namely Marly | 16 | 255 | 11 | 25 | 15 | 2 | 2026-02-28 | ✅ OK |
-| Full of Plants | 1 | 256 | 0 | 38 | 0 | 10 | 2026-03-19 | ✅ OK |
+| Full of Plants | 2 | 257 | 0 | 38 | 0 | 10 | 2026-03-21 | ✅ OK |
 | A Virtual Vegan | 0 | 260 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
 | Bianca Zapatka | 0 | 263 | 22 | 117 | 43 | 3 | 2025-12-11 | ✅ OK |
 | Plant-Based on a Budget | 0 | 264 | 16 | 65 | 264 | 1 | 2026-03-20 | ✅ OK |
