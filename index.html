@@ -1376,16 +1376,24 @@
         return card;
     }
 
-    // Helper: Throttling for scroll performance
+    // Helper: Throttling for scroll performance (Fixed for Infinite Scroll drops)
     function throttle(func, limit) {
-        let inThrottle;
+        let lastFunc;
+        let lastRan;
         return function() {
-            const args = arguments;
             const context = this;
-            if (!inThrottle) {
+            const args = arguments;
+            if (!lastRan) {
                 func.apply(context, args);
-                inThrottle = true;
-                setTimeout(() => inThrottle = false, limit);
+                lastRan = Date.now();
+            } else {
+                clearTimeout(lastFunc);
+                lastFunc = setTimeout(function() {
+                    if ((Date.now() - lastRan) >= limit) {
+                        func.apply(context, args);
+                        lastRan = Date.now();
+                    }
+                }, limit - (Date.now() - lastRan));
             }
         }
     }
@@ -1425,12 +1433,14 @@
             
             lastScrollY = currentScrollY;
 
-            if ((window.innerHeight + currentScrollY) >= document.body.offsetHeight - 500) {
+            // FIX: Use scrollHeight for better mobile compatibility and increase buffer distance to 1000px
+            const scrollHeight = Math.max(document.documentElement.scrollHeight, document.body.scrollHeight);
+            if ((window.innerHeight + currentScrollY) >= scrollHeight - 1000) {
                 if (renderedCount < currentContext.length) {
                     renderNextBatch();
                 }
             }
-        }, 200); // Only run once every 200ms
+        }, 150); // Slightly faster check for a more responsive feel
 
         window.addEventListener('scroll', handleScroll);
         
