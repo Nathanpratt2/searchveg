@@ -1,12 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-03-21 19:05:25
+**Last Run:** 2026-03-21 23:52:49
+**Total Run Time:** 8m 14s
+**Longest Step:** RSS: Namely Marly (1m 4s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19884 | 166 new today |
+| **Total Database** | 19884 | 156 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 85 RSS |
 | **Active Sources** | 119 | 5+ recipes |
+| **Trending Events** | 20 | Recorded actions in last 7 days |
 | **WFPB / GF** | 2523 / 2663 | 12% / 13% |
 | **Easy / Budget** | 4835 / 2048 | 24% / 10% |
 
@@ -42,7 +45,7 @@
 | Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-21 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| The Stingy Vegan | 2 | 177 | 1 | 177 | 177 | 0 | 2026-03-21 | ✅ OK |
+| The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-21 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 182 | 1 | 23 | 1 | 30 | 2026-03-10 | ✅ OK |
 | Simple Vegan Blog | 1 | 182 | 7 | 38 | 15 | 4 | 2026-03-18 | ✅ OK |
 | The Little Blog of Vegan | 1 | 184 | 0 | 35 | 0 | 1 | 2026-03-19 | ✅ OK |
@@ -70,8 +73,8 @@
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 235 | 1 | 27 | 2 | 0 | 2026-03-21 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 236 | 1 | 28 | 2 | 0 | 2026-03-21 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 237 | 30 | 50 | 0 | 62 | 2026-03-17 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
@@ -103,12 +106,12 @@
 | Healthy Little Vittles | 1 | 272 | 9 | 46 | 2 | 269 | 2026-03-19 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Connoisseurus Veg | 1 | 276 | 0 | 33 | 1 | 0 | 2026-03-20 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 4 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
-| VegNews | 4 | 281 | 21 | 34 | 24 | 3 | 2026-03-21 | ✅ OK |
-| Lazy Cat Kitchen | 1 | 282 | 3 | 14 | 3 | 5 | 2026-03-21 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 282 | 36 | 33 | 2 | 38 | 2026-03-20 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 284 | 2 | 19 | 1 | 1 | 2026-03-21 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 292 | 1 | 4 | 4 | 1 | 2026-03-21 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
+| VegNews | 0 | 281 | 21 | 34 | 24 | 3 | 2026-03-21 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 282 | 3 | 14 | 3 | 5 | 2026-03-21 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 283 | 36 | 34 | 2 | 38 | 2026-03-21 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 284 | 2 | 19 | 1 | 1 | 2026-03-21 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 293 | 1 | 4 | 4 | 1 | 2026-03-21 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
@@ -135,7 +138,7 @@
 | Ambitious Kitchen | 0 | 168 | 1 | 18 | 0 | 11 | 2026-02-25 | Skipped |
 | Vegan Punks | 0 | 206 | 5 | 92 | 19 | 1 | 2023-10-19 | Skipped |
 | Gaz Oakley | 0 | 248 | 8 | 12 | 20 | 1 | 2020-01-01 | Skipped |
-| Vegan Recipe Club | 0 | 271 | 0 | 45 | 2 | 2 | 2026-01-05 | Skipped |
+| Vegan Recipe Club | 0 | 270 | 0 | 45 | 2 | 2 | 2026-01-05 | Skipped |
 | Messy Vegan Cook | 0 | 276 | 0 | 17 | 1 | 1 | 2026-01-02 | Skipped |
 
 ---
