@@ -317,7 +317,7 @@ NON_RECIPE_KEYWORDS = [
     
     # Reddit: Methods, Hacks & General Discussions
     "game changer", "game-changer", "thoughts on", "unpopular opinion", "debate", 
-    "rant", "psa:", "did you know", "appreciation post", "new here", "thank you",
+    "rant", "psa:", "did you know", "appreciation post", "new here", "thank you", "try this",
     
     # Reddit: Help, Troubleshooting & Requests
     "help me", "need help", "please help", "question:", "quick question", 
