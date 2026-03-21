@@ -1668,10 +1668,10 @@ try:
                     
                 scores[link] += (base_points * weight)
                     
-            # Sort by highest score and take the Top 10
-            top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:10]
+            # Sort by highest score and take the Top 8
+            top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:8]
             trending_map = dict(top_scored)
-            print(f"   Top 10 trending calculated successfully (from {trending_events_count} events).", flush=True)
+            print(f"   Top 8 trending calculated successfully (from {trending_events_count} events).", flush=True)
         else:
             print(f"   [!] Supabase API error: {res.status_code}", flush=True)
     else:
