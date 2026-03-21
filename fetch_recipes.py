@@ -1264,6 +1264,9 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
     status = f"✅ OK ({len(found_items)})" if found_items else "⚠️ Scraped 0"
     return found_items, status
 # --- MAIN EXECUTION ---
+SCRIPT_START_TIME = time.time()
+longest_step_name = "None"
+longest_step_time = 0
 
 # 1. Load Existing Data
 try:
@@ -1396,6 +1399,10 @@ for i, item in enumerate(ALL_FEEDS, 1):
     finally:
         # <-- STOP TIMER & PRINT RESULTS FOR RSS
         elapsed = time.time() - start_time
+        if elapsed > longest_step_time:
+            longest_step_time = elapsed
+            longest_step_name = f"RSS: {name}"
+
         if elapsed < 60:
             time_str = f"{elapsed:.1f} seconds"
         else:
@@ -1454,6 +1461,10 @@ for html_idx, item in enumerate(HTML_SOURCES, 1):
 
     # <-- STOP TIMER & PRINT RESULTS FOR HTML
     elapsed = time.time() - start_time
+    if elapsed > longest_step_time:
+        longest_step_time = elapsed
+        longest_step_name = f"HTML: {name}"
+
     if elapsed < 60:
         time_str = f"{elapsed:.1f} seconds"
     else:
@@ -1596,15 +1607,16 @@ final_pruned_list = list(deduped_recipes.values())
 final_pruned_list.sort(key=lambda x: x['date'], reverse=True)
 
 # --- TRENDING ALGORITHM (SUPABASE) ---
-trending_links = []
+trending_map = {}
+trending_events_count = 0
 try:
     supabase_url = "https://nwxnbqtipgygryqinexu.supabase.co"
     supabase_key = os.environ.get("SUPABASE_KEY", "")
     
     if supabase_key:
         print("   Fetching interaction data from Supabase for Trending algorithm...", flush=True)
-        # Only look at the last 7 days of clicks/saves so trending stays fresh
-        seven_days_ago = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
+        now_utc = datetime.now(timezone.utc)
+        seven_days_ago = (now_utc - timedelta(days=7)).isoformat()
         
         headers = {
             "apikey": supabase_key,
@@ -1612,35 +1624,54 @@ try:
             "Content-Profile": "public"
         }
         
-        # Let the requests library handle the safe URL encoding of the timestamp
         query_params = {
             "created_at": f"gte.{seven_days_ago}",
-            "select": "link,action"
+            "select": "link,action,created_at"
         }
         
-        # Fetch the logs
         res = requests.get(f"{supabase_url}/rest/v1/recipe_interactions", headers=headers, params=query_params, timeout=10)
         
         if res.status_code == 200:
             interactions = res.json()
+            trending_events_count = len(interactions)
             scores = {}
             for row in interactions:
                 link = row.get("link")
                 action = row.get("action")
-                if link not in scores:
-                    scores[link] = 0
+                created_at_str = row.get("created_at")
                 
-                # 1 point for click, 5 points for save
-                if action == "click":
-                    scores[link] += 1
+                if not link or not created_at_str: continue
+                
+                # Calculate Age in Days
+                try:
+                    created_at = parser.parse(created_at_str)
+                    if created_at.tzinfo is None:
+                        created_at = created_at.replace(tzinfo=timezone.utc)
+                    age_in_days = (now_utc - created_at).total_seconds() / 86400.0
+                except:
+                    age_in_days = 7 # fallback so it gets 0 weight if parsing fails
+                    
+                # Linear Decay: 0 days old = 1.0 weight, 7 days old = 0.0 weight
+                weight = max(0.0, (7.0 - age_in_days) / 7.0)
+                
+                if link not in scores:
+                    scores[link] = 0.0
+                
+                # Base points assignment
+                base_points = 1
+                if action == "share":
+                    base_points = 6
                 elif action == "save":
-                    scores[link] += 5
+                    base_points = 5
+                elif action == "click":
+                    base_points = 1
+                    
+                scores[link] += (base_points * weight)
                     
             # Sort by highest score and take the Top 10
             top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:10]
-            # Create a dictionary mapping the link to its score for easy lookup
             trending_map = dict(top_scored)
-            print(f"   Top 10 trending calculated successfully.", flush=True)
+            print(f"   Top 10 trending calculated successfully (from {trending_events_count} events).", flush=True)
         else:
             print(f"   [!] Supabase API error: {res.status_code}", flush=True)
     else:
@@ -1653,9 +1684,8 @@ for recipe in final_pruned_list:
     score = trending_map.get(recipe['link'])
     if score is not None:
         recipe['is_trending'] = True
-        recipe['trending_score'] = score
+        recipe['trending_score'] = round(score, 2)
     else:
-        # Failsafe: ensure these keys always exist to prevent errors in the website
         recipe['is_trending'] = False
         recipe['trending_score'] = 0
 
@@ -1684,9 +1714,18 @@ else:
     print("⚠️ SAFETY ALERT: Database too small (<50 items). Skipping write to prevent data loss.", flush=True)
 
 # 8. Generate Report
+total_script_time = time.time() - SCRIPT_START_TIME
+total_script_mins = int(total_script_time // 60)
+total_script_secs = int(total_script_time % 60)
+
+longest_step_mins = int(longest_step_time // 60)
+longest_step_secs = int(longest_step_time % 60)
+
 with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     f.write(f"# Feed Health Report\n")
-    f.write(f"**Last Run:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+    f.write(f"**Last Run:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+    f.write(f"**Total Run Time:** {total_script_mins}m {total_script_secs}s\n")
+    f.write(f"**Longest Step:** {longest_step_name} ({longest_step_mins}m {longest_step_secs}s)\n\n")
 
     total_new_today = sum(stats.get('new', 0) for stats in feed_stats.values())
     total_in_db = len(final_pruned_list)
@@ -1714,6 +1753,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     f.write(f"| **Total Database** | {total_in_db} | {total_new_today} new today |\n")
     f.write(f"| **Blogs Monitored** | {total_blogs_monitored} | {len(HTML_SOURCES)} HTML / {len(ALL_FEEDS)} RSS |\n")
     f.write(f"| **Active Sources** | {active_sources_count} | 5+ recipes |\n")
+    f.write(f"| **Trending Events** | {trending_events_count} | Recorded actions in last 7 days |\n")
     f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
     f.write(f"| **Easy / Budget** | {total_easy} / {total_budget} | {easy_percent}% / {budget_percent}% |\n\n")
 
