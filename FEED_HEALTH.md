@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-03-22 09:02:57
-**Total Run Time:** 8m 35s
-**Longest Step:** RSS: Justine Cooks Vegan (1m 9s)
+**Last Run:** 2026-03-22 13:23:27
+**Total Run Time:** 7m 32s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19876 | 147 new today |
+| **Total Database** | 19876 | 151 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 22 | Recorded actions in last 7 days |
+| **Trending Events** | 26 | Recorded actions in last 7 days |
 | **WFPB / GF** | 2522 / 2660 | 12% / 13% |
 | **Easy / Budget** | 4831 / 2048 | 24% / 10% |
 
@@ -22,7 +22,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Mary's Test Kitchen | 3 | 10 | 0 | 0 | 1 | 0 | 2026-02-26 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
-| Rainbow Nourishments | 2 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | The Banana Diaries | 1 | 12 | 0 | 3 | 2 | 0 | 2026-03-13 | ✅ OK |
 | PlantYou | 0 | 18 | 18 | 5 | 2 | 0 | 2026-03-18 | ✅ OK |
 | Dr. Vegan | 0 | 22 | 4 | 22 | 8 | 0 | 2026-03-17 | ✅ OK |
@@ -30,25 +30,25 @@
 | Rainbow Plant Life GF | 1 | 22 | 5 | 1 | 4 | 21 | 2026-03-13 | ✅ OK |
 | Jessica in the Kitchen | 0 | 24 | 1 | 4 | 1 | 2 | 2026-03-20 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
-| Reddit | 4 | 29 | 0 | 4 | 0 | 0 | 2026-03-22 | ✅ OK (4) |
+| Reddit | 5 | 29 | 0 | 4 | 0 | 0 | 2026-03-22 | ✅ OK (5) |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
-| Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ❌ Blocked/ConnErr |
+| Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 2 | 136 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 136 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 4 | 153 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
 | Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-21 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-21 | ✅ OK |
+| The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 182 | 1 | 23 | 1 | 30 | 2026-03-10 | ✅ OK |
 | Simple Vegan Blog | 1 | 182 | 7 | 38 | 15 | 4 | 2026-03-18 | ✅ OK |
-| The Little Blog of Vegan | 1 | 184 | 0 | 35 | 0 | 1 | 2026-03-19 | ✅ OK |
+| The Little Blog of Vegan | 2 | 185 | 0 | 35 | 0 | 1 | 2026-03-22 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 192 | 14 | 27 | 13 | 5 | 2026-03-17 | ✅ OK |
@@ -63,7 +63,7 @@
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-16 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Cadry's Kitchen | 6 | 220 | 11 | 78 | 21 | 0 | 2026-02-19 | ✅ OK |
+| Cadry's Kitchen | 7 | 220 | 11 | 78 | 21 | 0 | 2026-02-19 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 222 | 1 | 30 | 3 | 1 | 2026-03-18 | ✅ OK |
 | Rabbit and Wolves | 5 | 223 | 0 | 33 | 1 | 0 | 2026-03-03 | ✅ OK |
@@ -79,7 +79,7 @@
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
-| It Doesn't Taste Like Chicken | 3 | 241 | 1 | 81 | 7 | 218 | 2026-03-18 | ✅ OK |
+| It Doesn't Taste Like Chicken | 4 | 241 | 1 | 81 | 7 | 218 | 2026-03-18 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 1 | 242 | 21 | 52 | 23 | 216 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
