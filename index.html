@@ -2016,6 +2016,10 @@
     function shareRecipe(e, title, link) {
         e.preventDefault(); 
         e.stopPropagation(); 
+        
+        // NEW: Track the share action in Supabase for the Trending algorithm!
+        trackInteraction(link, 'share');
+        
         if (navigator.share) {
             navigator.share({ title: title, url: link }).catch(console.error);
         } else {
