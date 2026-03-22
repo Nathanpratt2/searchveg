@@ -119,7 +119,7 @@ TOP_BLOGGERS = [
     ("Choosing Chia (Vegan Recipes)", "https://choosingchia.com/category/diet/vegan/feed/", ["Easy"]),
     ("Cadry's Kitchen", "https://cadryskitchen.com/feed/", []),
     ("Plant-Based on a Budget", "https://plantbasedonabudget.com/feed/", ["Budget"]),
-    ("Namely Marly", "https://namelymarly.com/category/vegan-recipes/feed/", []),
+    #("Namely Marly", "https://namelymarly.com/category/vegan-recipes/feed/", []),
     ("Gretchen's Vegan Bakery", "https://www.gretchensveganbakery.com/feed/", []),
     ("Vegan Yack Attack", "https://veganyackattack.com/feed/", []),
     ("The Burger Dude", "https://theeburgerdude.com/feed/", []),
