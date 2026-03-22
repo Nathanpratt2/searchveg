@@ -307,7 +307,7 @@ NON_RECIPE_KEYWORDS = [
     "roundup", "collection", "favorites", "best of", "top 10", "top 20", " 2026", "top 5", "22 ", "20 ",
     " best vegan ", " dinner ideas", " lunch ideas", " breakfast ideas", " meal prep ideas",
     " ways to ", " things to ", "must make", "must have", "must try", " recipes for ", 
-    " recipes to ", " ideas for ", "why ", "guide", "recipes ", "needed", "this is",
+    " recipes to ", " ideas for ", "why ", "guide", "recipes ", "needed", "this is", "!!",
 
     # Reddit: Product & Ingredient Reviews
     "y'all weren't lying", "weren't lying", "taste test", "tastes just like", 
