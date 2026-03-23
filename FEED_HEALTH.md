@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-03-22 23:02:30
-**Total Run Time:** 7m 51s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
+**Last Run:** 2026-03-23 06:50:17
+**Total Run Time:** 7m 45s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19867 | 154 new today |
+| **Total Database** | 19870 | 155 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 32 | Recorded actions in last 7 days |
+| **Trending Events** | 34 | Recorded actions in last 7 days |
 | **WFPB / GF** | 2523 / 2661 | 12% / 13% |
 | **Easy / Budget** | 4829 / 2047 | 24% / 10% |
 
@@ -21,20 +21,20 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Mary's Test Kitchen | 3 | 10 | 0 | 0 | 1 | 0 | 2026-02-26 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 12 | 0 | 0 | 0 | 0 | 2026-03-09 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | The Banana Diaries | 1 | 12 | 0 | 3 | 2 | 0 | 2026-03-13 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 13 | 0 | 0 | 0 | 0 | 2026-03-23 | ✅ OK |
 | PlantYou | 1 | 19 | 19 | 5 | 2 | 0 | 2026-03-22 | ✅ OK |
 | Dr. Vegan | 0 | 22 | 4 | 22 | 8 | 0 | 2026-03-17 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
-| Rainbow Plant Life GF | 2 | 23 | 5 | 1 | 4 | 22 | 2026-03-22 | ✅ OK |
+| Rainbow Plant Life GF | 1 | 23 | 5 | 1 | 4 | 22 | 2026-03-22 | ✅ OK |
 | Jessica in the Kitchen | 0 | 24 | 1 | 4 | 1 | 2 | 2026-03-20 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
-| Reddit | 5 | 29 | 0 | 3 | 0 | 0 | 2026-03-22 | ✅ OK (5) |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
+| Reddit | 6 | 31 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (6) |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| The Korean Vegan | 4 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
+| The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -42,7 +42,7 @@
 | Sarah's Vegan Kitchen | 3 | 136 | 0 | 11 | 2 | 1 | 2026-03-06 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 4 | 153 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
-| Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-21 | ✅ OK |
+| Steamy Vegan | 0 | 162 | 9 | 29 | 10 | 2 | 2026-03-17 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
