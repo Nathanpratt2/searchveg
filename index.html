@@ -1537,7 +1537,7 @@
     }
 
     // --- KEYWORD DEFINITIONS FOR FILTERS ---
-    const IMPRESS_KEYWORDS = ['lasagna', 'risotto', 'wellington', 'gnocchi', 'ravioli', 'galette', 'paella', 'roast', 'truffle', 'scallops', 'steak', 'fancy', 'gourmet', 'elevated', 'quiche', 'wine', 'carbonara', 'bourguignon', 'en croute', 'hasselback', 'saffron', 'arancini', 'centerpiece', 'signature', 'decadent', 'braised', 'reduction', 'glaze', "gretchen's", 'addicted', 'hermann', 'rainbow', 'little blog of vegan'];
+    const IMPRESS_KEYWORDS = ['lasagna', 'risotto', 'wellington', 'gnocchi', 'ravioli', 'galette', 'paella', 'roast', 'truffle', 'scallops', 'steak', 'fancy', 'gourmet', 'elevated', 'quiche', 'wine', 'carbonara', 'bourguignon', 'en croute', 'hasselback', 'saffron', 'arancini', 'centerpiece', 'signature', 'decadent', 'braised', 'reduction', 'glaze', "gretchen's", 'addicted', 'hermann', 'rainbow', 'little blog of vegan', 'vegnews'];
     const COZY_KEYWORDS = ['soup', 'stew', 'chili', 'curry', 'dal', 'ramen', 'pho', 'chowder', 'bisque', 'casserole', 'risotto', 'porridge', 'pot pie', 'shepherd', 'congee', 'broth', 'bolognese', 'gumbo', 'jambalaya'];
     const FRESH_KEYWORDS = ['salad', 'bowl', 'wrap', 'spring roll', 'smoothie', 'slaw', 'raw', 'ceviche', 'poke', 'lettuce'];
     const COMFORT_KEYWORDS = ['burger', 'pizza', 'pasta', 'mac and cheese', 'mac & cheese', 'fried', 'potato', 'gravy', 'casserole', 'grilled cheese', 'nachos', 'wings', 'tots', 'fries', 'sloppy joe', 'nugget', 'tender'];
@@ -1807,13 +1807,15 @@
         if (activeMoods.size > 0) {
             filtered = filtered.filter(recipe => {
                 const t = recipe.title.toLowerCase();
+                const b = recipe.blog_name.toLowerCase(); // Ensure we can check the blog name too
+                
                 // Moods use OR logic (if I select Cozy AND Comfort, I probably want either)
                 // However, often tag filters are AND. Let's stick to "Must match at least one active mood".
                 
-                let matchesFresh = activeMoods.has('Fresh') ? (FRESH_KEYWORDS.some(k => t.includes(k)) && !t.includes('pasta salad') && !t.includes('macaroni')) : false;
-                let matchesComfort = activeMoods.has('Comfort') ? COMFORT_KEYWORDS.some(k => t.includes(k)) : false;
-                let matchesImpress = activeMoods.has('Impress') ? IMPRESS_KEYWORDS.some(k => t.includes(k)) : false;
-                let matchesCozy = activeMoods.has('Cozy') ? COZY_KEYWORDS.some(k => t.includes(k)) : false;
+                let matchesFresh = activeMoods.has('Fresh') ? (FRESH_KEYWORDS.some(k => t.includes(k) || b.includes(k)) && !t.includes('pasta salad') && !t.includes('macaroni')) : false;
+                let matchesComfort = activeMoods.has('Comfort') ? COMFORT_KEYWORDS.some(k => t.includes(k) || b.includes(k)) : false;
+                let matchesImpress = activeMoods.has('Impress') ? IMPRESS_KEYWORDS.some(k => t.includes(k) || b.includes(k)) : false;
+                let matchesCozy = activeMoods.has('Cozy') ? COZY_KEYWORDS.some(k => t.includes(k) || b.includes(k)) : false;
 
                 // Return true if it matches ANY of the selected moods. 
                 // If multiple moods are selected, we show recipes that fit ANY of them.
