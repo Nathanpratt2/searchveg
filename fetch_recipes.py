@@ -1231,12 +1231,9 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
                             image = src
                             has_image = True
                 
-                # If there's no image, it's a text post. Verify it actually has recipe words.
+               # FILTER 4: MUST HAVE AN IMAGE (Exclude text-only posts)
                 if not has_image:
-                    content_lower = content.lower() if content else ""
-                    recipe_keywords = ['ingredients', 'tsp', 'tbsp', 'cup ', 'cups ', 'instructions', 'method', 'yield:']
-                    if not any(kw in content_lower for kw in recipe_keywords):
-                        continue # Skip because it's just a text discussion, not a recipe
+                    continue # Skip because it has no picture
                 
                 # Date Parsing
                 dt_str = entry.get('published', entry.get('updated', None))
@@ -1660,9 +1657,9 @@ try:
                 # Base points assignment
                 base_points = 1
                 if action == "share":
-                    base_points = 6
+                    base_points = 7
                 elif action == "save":
-                    base_points = 5
+                    base_points = 6
                 elif action == "click":
                     base_points = 1
                     
