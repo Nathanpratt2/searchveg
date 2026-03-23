@@ -1500,7 +1500,7 @@ PHRASES_TO_REMOVE = [
     "Pin it for later", "Pin this Recipe", "Pin It", "Save for Later",
     "Share on Facebook", "Share this", "Click to Tweet",
     "Leave a Comment", "Leave a Reply", "Add a Comment", "Read Comments",
-    "Recipe Card", "Ingredients", "Instructions", "Step-by-step", "Step by step",
+    "Recipe Card", "Instructions", "Step-by-step", "Step by step",
     "Previous Post", "Next Post", "Older Posts", "Newer Posts", "Load More",
     "Watch the Video", "Watch Video", "Recipe Video"
 ]
