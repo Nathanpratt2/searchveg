@@ -1865,7 +1865,8 @@
         resetView(filtered);
 
         // NEW: Track Search Appearances for the first 8 recipes visually shown on screen
-        if (term.length > 0 && filtered.length > 0) {
+        // ADDED: !isStrictSearch prevents this from firing when a user clicks a blogger's name
+        if (term.length > 0 && filtered.length > 0 && !isStrictSearch) {
             logSearchAppearances(filtered.slice(0, 8)); // Grabs the first 8 items in the rendered list
         } else if (term.length === 0 && typeof searchAppearTimeout !== 'undefined') {
             // Immediately cancel pending tracking if they cleared the search
