@@ -4,7 +4,7 @@ on:
   schedule:
     # Changed to 8:44 UTC to force a timer reset.
     # Note: GitHub Free actions can be delayed by 15-30 mins.4 pm in most US zones are covered for prime time
-    - cron: '27 5,8,12,18,23 * * *' 
+    - cron: '27 1,6,11,16,21 * * *' 
   workflow_dispatch: # Allows manual button click
 
 # FIX: Force GitHub actions to use Node 24 to clear the deprecation warning
