@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-03-23 09:23:30
-**Total Run Time:** 7m 35s
-**Longest Step:** HTML: Pick Up Limes (0m 32s)
+**Last Run:** 2026-03-23 13:24:38
+**Total Run Time:** 8m 5s
+**Longest Step:** HTML: Baking Hermann (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19870 | 149 new today |
+| **Total Database** | 19872 | 155 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 40 | Recorded actions in last 7 days |
+| **Trending Events** | 41 | Recorded actions in last 7 days |
 | **WFPB / GF** | 2523 / 2661 | 12% / 13% |
-| **Easy / Budget** | 4829 / 2047 | 24% / 10% |
+| **Easy / Budget** | 4831 / 2048 | 24% / 10% |
 
 ---
 
@@ -31,7 +31,7 @@
 | Jessica in the Kitchen | 0 | 24 | 1 | 4 | 1 | 2 | 2026-03-20 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
-| Reddit | 4 | 31 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (4) |
+| Reddit | 4 | 32 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (4) |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
@@ -97,7 +97,7 @@
 | Full of Plants | 1 | 257 | 0 | 38 | 0 | 10 | 2026-03-21 | ✅ OK |
 | A Virtual Vegan | 0 | 260 | 3 | 35 | 1 | 4 | 2026-03-11 | ✅ OK |
 | Bianca Zapatka | 0 | 263 | 22 | 117 | 43 | 3 | 2025-12-11 | ✅ OK |
-| Plant-Based on a Budget | 0 | 264 | 16 | 65 | 264 | 1 | 2026-03-20 | ✅ OK |
+| Plant-Based on a Budget | 1 | 265 | 16 | 66 | 265 | 1 | 2026-03-23 | ✅ OK |
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | The Plant-Based RD | 0 | 265 | 4 | 17 | 1 | 0 | 2026-03-12 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -105,10 +105,10 @@
 | Healthy Little Vittles | 1 | 272 | 9 | 46 | 2 | 269 | 2026-03-19 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Connoisseurus Veg | 1 | 276 | 0 | 33 | 1 | 0 | 2026-03-20 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 4 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 282 | 3 | 14 | 3 | 5 | 2026-03-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 283 | 36 | 34 | 2 | 38 | 2026-03-21 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 284 | 2 | 19 | 1 | 1 | 2026-03-21 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 285 | 2 | 20 | 1 | 1 | 2026-03-21 | ✅ OK |
 | VegNews | 0 | 285 | 21 | 35 | 24 | 4 | 2026-03-22 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 293 | 1 | 4 | 4 | 1 | 2026-03-21 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
