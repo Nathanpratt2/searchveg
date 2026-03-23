@@ -1662,6 +1662,8 @@ try:
                     base_points = 6
                 elif action == "click":
                     base_points = 1
+                elif action == "search_appear":
+                    base_points = 0.3
                     
                 scores[link] += (base_points * weight)
                     
