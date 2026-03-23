@@ -646,6 +646,21 @@
         };
     }
 
+    // NEW: Smart Search Tracker (waits 3s, checks if search is still active, logs the first 8 visible cards)
+    let searchAppearTimeout;
+    function logSearchAppearances(firstEightRecipes) {
+        clearTimeout(searchAppearTimeout);
+        searchAppearTimeout = setTimeout(() => {
+            // Failsafe: Only send to Supabase if they didn't clear the search box
+            const currentSearch = document.getElementById('searchInput').value.trim();
+            if (currentSearch.length > 0) {
+                firstEightRecipes.forEach(recipe => {
+                    trackInteraction(recipe.link, 'search_appear');
+                });
+            }
+        }, 2000); // 2-second delay
+    }
+
     // Standard Levenshtein Distance Algorithm
     function levenshteinDistance(a, b) {
         if (a.length === 0) return b.length;
@@ -1848,6 +1863,14 @@
         if (pushState) updateURL();
         updateSEO(filtered);
         resetView(filtered);
+
+        // NEW: Track Search Appearances for the first 8 recipes visually shown on screen
+        if (term.length > 0 && filtered.length > 0) {
+            logSearchAppearances(filtered.slice(0, 8)); // Grabs the first 8 items in the rendered list
+        } else if (term.length === 0 && typeof searchAppearTimeout !== 'undefined') {
+            // Immediately cancel pending tracking if they cleared the search
+            clearTimeout(searchAppearTimeout);
+        }
     }
 
     const processSearchChange = debounce(() => {
