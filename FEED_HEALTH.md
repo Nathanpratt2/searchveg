@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-03-23 17:21:34
-**Total Run Time:** 7m 48s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
+**Last Run:** 2026-03-23 22:03:24
+**Total Run Time:** 8m 12s
+**Longest Step:** RSS: Hot For Food (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19877 | 159 new today |
+| **Total Database** | 19882 | 158 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 50 | Recorded actions in last 7 days |
+| **Trending Events** | 56 | Recorded actions in last 7 days |
 | **WFPB / GF** | 2523 / 2661 | 12% / 13% |
-| **Easy / Budget** | 4832 / 2048 | 24% / 10% |
+| **Easy / Budget** | 4833 / 2048 | 24% / 10% |
 
 ---
 
@@ -28,10 +28,10 @@
 | Dr. Vegan | 0 | 22 | 4 | 22 | 8 | 0 | 2026-03-17 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 23 | 5 | 1 | 4 | 22 | 2026-03-22 | ✅ OK |
-| Jessica in the Kitchen | 1 | 25 | 1 | 5 | 1 | 2 | 2026-03-23 | ✅ OK |
+| Jessica in the Kitchen | 0 | 25 | 1 | 5 | 1 | 2 | 2026-03-23 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
-| Reddit | 3 | 32 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (3) |
+| Reddit | 5 | 34 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (5) |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
@@ -66,8 +66,8 @@
 | Cadry's Kitchen | 7 | 220 | 11 | 78 | 21 | 0 | 2026-02-19 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 222 | 1 | 30 | 3 | 1 | 2026-03-18 | ✅ OK |
-| Rabbit and Wolves | 5 | 223 | 0 | 33 | 1 | 0 | 2026-03-03 | ✅ OK |
 | ZardyPlants | 0 | 223 | 223 | 37 | 223 | 4 | 2026-03-20 | ✅ OK |
+| Rabbit and Wolves | 5 | 224 | 0 | 33 | 1 | 0 | 2026-03-23 | ✅ OK |
 | Rainbow Plant Life | 9 | 225 | 30 | 55 | 41 | 7 | 2026-03-22 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 3 | 229 | 0 | 53 | 1 | 0 | 2026-03-19 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -108,9 +108,9 @@
 | Ann Arbor Vegan Kitchen | 4 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 282 | 3 | 14 | 3 | 5 | 2026-03-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 283 | 36 | 34 | 2 | 38 | 2026-03-21 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 286 | 2 | 20 | 1 | 1 | 2026-03-23 | ✅ OK |
-| VegNews | 3 | 288 | 21 | 35 | 24 | 4 | 2026-03-23 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 293 | 1 | 4 | 4 | 1 | 2026-03-21 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 286 | 2 | 20 | 1 | 1 | 2026-03-23 | ✅ OK |
+| VegNews | 0 | 288 | 21 | 35 | 24 | 4 | 2026-03-23 | ✅ OK |
+| The Post-Punk Kitchen | 3 | 295 | 1 | 5 | 4 | 1 | 2026-03-23 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
