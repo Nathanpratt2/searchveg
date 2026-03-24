@@ -1655,8 +1655,9 @@ try:
                     scores[link] = 0.0
                 
                 # Base points assignment
-                base_points = 1
-                if action == "share":
+                if action in ["share_search", "save_search"]:
+                    base_points = 8
+                elif action == "share":
                     base_points = 7
                 elif action == "save":
                     base_points = 6
@@ -1664,6 +1665,8 @@ try:
                     base_points = 1
                 elif action == "search_appear":
                     base_points = 0.1
+                else:
+                    base_points = 1
                     
                 scores[link] += (base_points * weight)
                     
