@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-03-23 22:03:24
-**Total Run Time:** 8m 12s
-**Longest Step:** RSS: Hot For Food (0m 37s)
+**Last Run:** 2026-03-24 04:03:55
+**Total Run Time:** 7m 23s
+**Longest Step:** HTML: Pick Up Limes (0m 26s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19882 | 158 new today |
+| **Total Database** | 19883 | 152 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 56 | Recorded actions in last 7 days |
+| **Trending Events** | 61 | Recorded actions in last 7 days |
 | **WFPB / GF** | 2523 / 2661 | 12% / 13% |
 | **Easy / Budget** | 4833 / 2048 | 24% / 10% |
 
@@ -31,10 +31,10 @@
 | Jessica in the Kitchen | 0 | 25 | 1 | 5 | 1 | 2 | 2026-03-23 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Vegan Richa GF | 1 | 29 | 1 | 8 | 7 | 29 | 2026-03-18 | ✅ OK |
-| Reddit | 5 | 34 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (5) |
+| Reddit | 2 | 34 | 0 | 3 | 0 | 0 | 2026-03-23 | ✅ OK (2) |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
+| The Korean Vegan | 5 | 94 | 8 | 59 | 10 | 5 | 2026-03-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -67,7 +67,7 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 222 | 1 | 30 | 3 | 1 | 2026-03-18 | ✅ OK |
 | ZardyPlants | 0 | 223 | 223 | 37 | 223 | 4 | 2026-03-20 | ✅ OK |
-| Rabbit and Wolves | 5 | 224 | 0 | 33 | 1 | 0 | 2026-03-23 | ✅ OK |
+| Rabbit and Wolves | 4 | 224 | 0 | 33 | 1 | 0 | 2026-03-23 | ✅ OK |
 | Rainbow Plant Life | 9 | 225 | 30 | 55 | 41 | 7 | 2026-03-22 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 3 | 229 | 0 | 53 | 1 | 0 | 2026-03-19 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -110,7 +110,7 @@
 | The Conscious Plant Kitchen | 0 | 283 | 36 | 34 | 2 | 38 | 2026-03-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 286 | 2 | 20 | 1 | 1 | 2026-03-23 | ✅ OK |
 | VegNews | 0 | 288 | 21 | 35 | 24 | 4 | 2026-03-23 | ✅ OK |
-| The Post-Punk Kitchen | 3 | 295 | 1 | 5 | 4 | 1 | 2026-03-23 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 295 | 1 | 5 | 4 | 1 | 2026-03-23 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
