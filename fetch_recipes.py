@@ -1761,10 +1761,35 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     f.write(f"| **Blogs Monitored** | {total_blogs_monitored} | {len(HTML_SOURCES)} HTML / {len(ALL_FEEDS)} RSS |\n")
     f.write(f"| **Active Sources** | {active_sources_count} | 5+ recipes |\n")
     f.write(f"| **Trending Events** | {trending_events_count} | Recorded actions in last 7 days |\n")
-    f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
+   f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
     f.write(f"| **Easy / Budget** | {total_easy} / {total_budget} | {easy_percent}% / {budget_percent}% |\n\n")
 
     f.write("---\n\n")
+    
+    # NEW TRENDING FORECAST SECTION
+    f.write("### 🔥 Trending Algorithm & Forecast (Top 8)\n")
+    f.write("*Scores use an Exponential Decay with a 1.5-day half-life. The forecast shows what the points will drop to in exactly 48 hours assuming absolutely zero new user interactions.*  \n\n")
+    f.write("| Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |\n")
+    f.write("| :--- | :--- | :--- | :--- | :--- |\n")
+    
+    rank = 1
+    # trending_map holds the top 8 ordered by highest score
+    for link, score in trending_map.items():
+        # Match the link back to our recipe database to get the Title and Blog name
+        matched_recipe = next((r for r in final_pruned_list if r['link'] == link), None)
+        title = matched_recipe['title'] if matched_recipe else "Unknown Recipe"
+        blog = matched_recipe['blog_name'] if matched_recipe else "Unknown Blog"
+        
+        # Calculate exactly what the score will be in 2 days using the same exponential formula
+        forecast_score = score * (0.5 ** (2.0 / 1.5))
+        
+        # Clean the title just in case it contains a pipe '|' which breaks Markdown tables
+        safe_title = title.replace('|', '-').strip()
+        
+        f.write(f"| {rank} |[{safe_title}]({link}) | {blog} | **{score:.2f}** | *{forecast_score:.2f}* |\n")
+        rank += 1
+
+    f.write("\n---\n\n")
     f.write("### 📋 Detailed Blog Status (Sorted: 0 Recipes First)\n\n")
     
     f.write("| Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |\n")
