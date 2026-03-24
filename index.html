@@ -606,8 +606,10 @@
             savedRecipesMap.set(recipeLink, savedItem);
             heartBtn.classList.add('active');
             
-            // Trigger tracking!
-            trackInteraction(recipeLink, 'save');
+            // Trigger tracking! (Reward saving from search higher)
+            const searchInput = document.getElementById('searchInput');
+            const isSearching = searchInput && searchInput.value.trim().length > 0;
+            trackInteraction(recipeLink, isSearching ? 'save_search' : 'save');
             
             if (isSavedView) {
                 if (card) card.classList.remove('dimmed');
@@ -887,6 +889,10 @@
             activeType = type;
             if (type === 'meal') document.getElementById('mealsBtn').classList.add('active-filter');
             if (type === 'sweet') document.getElementById('sweetsBtn').classList.add('active-filter');
+            if (type === 'trending') {
+                const trendingBtn = document.getElementById('trendingBtn');
+                if (trendingBtn) trendingBtn.classList.add('active-filter');
+            }
         }
 
         if (params.has('tag')) {
@@ -1522,30 +1528,35 @@
     }
 
    function toggleType(e, type) {
-        if(e) e.preventDefault(); 
-        document.activeElement.blur();
+        if(e) {
+            e.preventDefault();
+            // Crucial fix: Safely force the tapped button to lose "hover" focus on mobile
+            if (e.currentTarget) e.currentTarget.blur();
+        }
+        document.activeElement.blur(); 
+        
         const mealsBtn = document.getElementById('mealsBtn');
         const sweetsBtn = document.getElementById('sweetsBtn');
         const trendingBtn = document.getElementById('trendingBtn');
 
         if (activeType === type) {
             activeType = null;
-            mealsBtn.classList.remove('active-filter');
-            sweetsBtn.classList.remove('active-filter');
+            if (mealsBtn) mealsBtn.classList.remove('active-filter');
+            if (sweetsBtn) sweetsBtn.classList.remove('active-filter');
             if (trendingBtn) trendingBtn.classList.remove('active-filter');
         } else {
             activeType = type;
             // Clear all
-            mealsBtn.classList.remove('active-filter');
-            sweetsBtn.classList.remove('active-filter');
+            if (mealsBtn) mealsBtn.classList.remove('active-filter');
+            if (sweetsBtn) sweetsBtn.classList.remove('active-filter');
             if (trendingBtn) trendingBtn.classList.remove('active-filter');
             
-            if (type === 'meal') {
+            if (type === 'meal' && mealsBtn) {
                 mealsBtn.classList.add('active-filter');
-            } else if (type === 'sweet') {
+            } else if (type === 'sweet' && sweetsBtn) {
                 sweetsBtn.classList.add('active-filter');
-            } else if (type === 'trending') {
-                if (trendingBtn) trendingBtn.classList.add('active-filter');
+            } else if (type === 'trending' && trendingBtn) {
+                trendingBtn.classList.add('active-filter');
             }
         }
         applyFilters(true);
@@ -2043,8 +2054,10 @@
         e.preventDefault(); 
         e.stopPropagation(); 
         
-        // NEW: Track the share action in Supabase for the Trending algorithm!
-        trackInteraction(link, 'share');
+        // Track the share action in Supabase for the Trending algorithm!
+        const searchInput = document.getElementById('searchInput');
+        const isSearching = searchInput && searchInput.value.trim().length > 0;
+        trackInteraction(link, isSearching ? 'share_search' : 'share');
         
         if (navigator.share) {
             navigator.share({ title: title, url: link }).catch(console.error);
