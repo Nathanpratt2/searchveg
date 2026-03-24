@@ -1768,8 +1768,10 @@
         if (term.length > 0) {
             filtered = filtered.filter(recipe => {
                 if (isStrictSearch) {
-                    const displayBlogger = BLOG_DISPLAY_MAP[recipe.blog_name] || recipe.blog_name;
-                    return displayBlogger.toLowerCase() === term || recipe.blog_name.toLowerCase() === term;
+                    // FIX: Remove hyphens from the database names so they match the cleaned search term
+                    const displayBlogger = (BLOG_DISPLAY_MAP[recipe.blog_name] || recipe.blog_name).toLowerCase().replace(/-/g, ' ');
+                    const rawBlogger = recipe.blog_name.toLowerCase().replace(/-/g, ' ');
+                    return displayBlogger === term || rawBlogger === term;
                 }
                 if (term === 'protein') return PROTEIN_KEYWORDS.some(k => recipe.title.toLowerCase().includes(k));
                 
