@@ -1639,7 +1639,7 @@ try:
                 
                 if not link or not created_at_str: continue
                 
-                # Calculate Age in Days
+               # Calculate Age in Days
                 try:
                     created_at = parser.parse(created_at_str)
                     if created_at.tzinfo is None:
@@ -1648,14 +1648,19 @@ try:
                 except:
                     age_in_days = 7 # fallback so it gets 0 weight if parsing fails
                     
-                # Linear Decay: 0 days old = 1.0 weight, 7 days old = 0.0 weight
-                weight = max(0.0, (7.0 - age_in_days) / 7.0)
+                # EXPONENTIAL DECAY: Half-life of 1.5 days. 
+                # Breaks the "Trending Loop" where items stay at top forever.
+                # Day 0 = 100% weight, Day 1.5 = 50%, Day 3 = 25%, Day 7 = almost 0%
+                if age_in_days > 7:
+                    weight = 0.0
+                else:
+                    weight = 0.5 ** (age_in_days / 1.5)
                 
                 if link not in scores:
                     scores[link] = 0.0
                 
                 # Base points assignment
-                if action in ["share_search", "save_search"]:
+                if action in["share_search", "save_search"]:
                     base_points = 8
                 elif action == "share":
                     base_points = 7
