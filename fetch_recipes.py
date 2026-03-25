@@ -1761,7 +1761,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     f.write(f"| **Blogs Monitored** | {total_blogs_monitored} | {len(HTML_SOURCES)} HTML / {len(ALL_FEEDS)} RSS |\n")
     f.write(f"| **Active Sources** | {active_sources_count} | 5+ recipes |\n")
     f.write(f"| **Trending Events** | {trending_events_count} | Recorded actions in last 7 days |\n")
-   f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
+    f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
     f.write(f"| **Easy / Budget** | {total_easy} / {total_budget} | {easy_percent}% / {budget_percent}% |\n\n")
 
     f.write("---\n\n")
@@ -1786,7 +1786,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
         # Clean the title just in case it contains a pipe '|' which breaks Markdown tables
         safe_title = title.replace('|', '-').strip()
         
-        f.write(f"| {rank} |[{safe_title}]({link}) | {blog} | **{score:.2f}** | *{forecast_score:.2f}* |\n")
+    f.write(f"| {rank} |[{safe_title}]({link}) | {blog} | **{score:.2f}** | *{forecast_score:.2f}* |\n")
         rank += 1
 
     f.write("\n---\n\n")
@@ -1815,7 +1815,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     report_rows.sort(key=lambda r: (1 if r['status'] == 'Skipped' else 0, r['total'], r['name']))
 
     for r in report_rows:
-        f.write(f"| {r['name']} | {r['new']} | {r['total']} | {r['wfpb']} | {r['easy']} | {r['budget']} | {r['gf']} | {r['latest']} | {r['status']} |\n")
+    f.write(f"| {r['name']} | {r['new']} | {r['total']} | {r['wfpb']} | {r['easy']} | {r['budget']} | {r['gf']} | {r['latest']} | {r['status']} |\n")
 
     f.write("\n---\n*Report generated automatically by searchveg.com Fetcher.*")
 
