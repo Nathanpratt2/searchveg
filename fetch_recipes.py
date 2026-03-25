@@ -1787,7 +1787,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
         safe_title = title.replace('|', '-').strip()
         
     f.write(f"| {rank} |[{safe_title}]({link}) | {blog} | **{score:.2f}** | *{forecast_score:.2f}* |\n")
-        rank += 1
+    rank += 1
 
     f.write("\n---\n\n")
     f.write("### 📋 Detailed Blog Status (Sorted: 0 Recipes First)\n\n")
