@@ -1751,7 +1751,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     budget_percent = int((total_budget / total_in_db) * 100) if total_in_db > 0 else 0
     gf_percent = int((total_gf / total_in_db) * 100) if total_in_db > 0 else 0
     
-    all_dates = [parser.parse(d) for d in latest_dates.values() if d != "N/A"]
+    all_dates =[parser.parse(d) for d in latest_dates.values() if d != "N/A"]
     avg_date = datetime.fromtimestamp(sum(d.timestamp() for d in all_dates) / len(all_dates)).strftime('%Y-%m-%d') if all_dates else "N/A"
 
     f.write("### 📊 System Summary\n")
@@ -1762,36 +1762,36 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     f.write(f"| **Active Sources** | {active_sources_count} | 5+ recipes |\n")
     f.write(f"| **Trending Events** | {trending_events_count} | Recorded actions in last 7 days |\n")
     f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
-        f.write(f"| **Easy / Budget** | {total_easy} / {total_budget} | {easy_percent}% / {budget_percent}% |\n\n")
+    f.write(f"| **Easy / Budget** | {total_easy} / {total_budget} | {easy_percent}% / {budget_percent}% |\n\n")
 
-        f.write("---\n\n")
-        
-        # NEW TRENDING FORECAST SECTION
-        f.write("### 🔥 Trending Algorithm & Forecast (Top 8)\n")
-        f.write("*Scores use an Exponential Decay with a 1.5-day half-life. The forecast shows what the points will drop to in exactly 48 hours assuming absolutely zero new user interactions.*  \n\n")
-        f.write("| Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |\n")
-        f.write("| :--- | :--- | :--- | :--- | :--- |\n")
-        
-        rank = 1
-        # Everything below this 'for' line has "a ton" of spaces (12) because it is INSIDE the loop
-        for link, score in trending_map.items():
-            matched_recipe = next((r for r in final_pruned_list if r['link'] == link), None)
-            title = matched_recipe['title'] if matched_recipe else "Unknown Recipe"
-            blog = matched_recipe['blog_name'] if matched_recipe else "Unknown Blog"
-            forecast_score = score * (0.5 ** (2.0 / 1.5))
-            safe_title = title.replace('|', '-').strip()
-            
-            # This line writes the actual row for each trending recipe
-            f.write(f"| {rank} |[{safe_title}]({link}) | {blog} | **{score:.2f}** | *{forecast_score:.2f}* |\n")
-            rank += 1
-
-        f.write("\n---\n\n")
-        f.write("### 📋 Detailed Blog Status (Sorted: 0 Recipes First)\n\n")
-        
-        f.write("| Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |\n")
-        f.write("| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n")
+    f.write("---\n\n")
     
-    report_rows = []
+    # NEW TRENDING FORECAST SECTION
+    f.write("### 🔥 Trending Algorithm & Forecast (Top 8)\n")
+    f.write("*Scores use an Exponential Decay with a 1.5-day half-life. The forecast shows what the points will drop to in exactly 48 hours assuming absolutely zero new user interactions.*  \n\n")
+    f.write("| Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |\n")
+    f.write("| :--- | :--- | :--- | :--- | :--- |\n")
+    
+    rank = 1
+    # Everything below this 'for' line is cleanly aligned
+    for link, score in trending_map.items():
+        matched_recipe = next((r for r in final_pruned_list if r['link'] == link), None)
+        title = matched_recipe['title'] if matched_recipe else "Unknown Recipe"
+        blog = matched_recipe['blog_name'] if matched_recipe else "Unknown Blog"
+        forecast_score = score * (0.5 ** (2.0 / 1.5))
+        safe_title = title.replace('|', '-').strip()
+        
+        # This line writes the actual row for each trending recipe
+        f.write(f"| {rank} |[{safe_title}]({link}) | {blog} | **{score:.2f}** | *{forecast_score:.2f}* |\n")
+        rank += 1
+
+    f.write("\n---\n\n")
+    f.write("### 📋 Detailed Blog Status (Sorted: 0 Recipes First)\n\n")
+    
+    f.write("| Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |\n")
+    f.write("| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n")
+    
+    report_rows =[]
     for name in all_monitored_names:
         new = feed_stats.get(name, {}).get('new', 0)
         status = feed_stats.get(name, {}).get('status', 'Skipped')
@@ -1811,9 +1811,9 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     report_rows.sort(key=lambda r: (1 if r['status'] == 'Skipped' else 0, r['total'], r['name']))
 
     for r in report_rows:
-    f.write(f"| {r['name']} | {r['new']} | {r['total']} | {r['wfpb']} | {r['easy']} | {r['budget']} | {r['gf']} | {r['latest']} | {r['status']} |\n")
+        f.write(f"| {r['name']} | {r['new']} | {r['total']} | {r['wfpb']} | {r['easy']} | {r['budget']} | {r['gf']} | {r['latest']} | {r['status']} |\n")
 
-    f.write("\n---\n*Report generated automatically by searchveg.com Fetcher.*")
+    f.write("\n---\n*Report generated automatically by searchveg.com Fetcher.*\n")
 
 print(f"Successfully generated FEED_HEALTH.md with scrollable table. Database size: {len(final_pruned_list)}", flush=True)
 print("::endgroup::", flush=True)
