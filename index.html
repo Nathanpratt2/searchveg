@@ -1293,7 +1293,9 @@
                 e.preventDefault();
                 wasSecretTriggered = false;
             } else {
-                trackInteraction(recipe.link, 'click'); // Track standard click
+                const searchInput = document.getElementById('searchInput');
+                const isSearching = searchInput && searchInput.value.trim().length > 0;
+                trackInteraction(recipe.link, isSearching ? 'click_search' : 'click'); 
             }
         };
        
