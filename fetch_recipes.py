@@ -1664,7 +1664,7 @@ try:
                     base_points = 8
                 elif action == "share":
                     base_points = 7
-                elif action == "save":
+                elif action in ["save", "click_search"]:
                     base_points = 6
                 elif action == "click":
                     base_points = 1
