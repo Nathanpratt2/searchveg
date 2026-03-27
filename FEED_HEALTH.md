@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-03-27 07:47:14
-**Total Run Time:** 7m 38s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-03-27 12:09:27
+**Total Run Time:** 7m 39s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19929 | 160 new today |
+| **Total Database** | 19930 | 160 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 122 | Recorded actions in last 7 days |
-| **WFPB / GF** | 2523 / 2663 | 12% / 13% |
-| **Easy / Budget** | 4844 / 2050 | 24% / 10% |
+| **Trending Events** | 121 | Recorded actions in last 7 days |
+| **WFPB / GF** | 2522 / 2663 | 12% / 13% |
+| **Easy / Budget** | 4845 / 2050 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Hot Cross Buns with Dried Cherries & Chocolate](https://thefirstmess.com/2026/03/25/vegan-hot-cross-buns-cherry-chocolate/) | The First Mess | **2.64** | *1.05* |
-| 2 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **1.74** | *0.69* |
-| 3 |[Creamy Sun-dried Tomato Pasta](https://www.reddit.com/r/veganrecipes/comments/1s0wzsg/creamy_sundried_tomato_pasta/) | Reddit | **1.60** | *0.64* |
-| 4 |[Linguine With Vegan White Clam Sauce](https://vegnews.com/recipes/linguine-with-vegan-white-clam-sauce) | VegNews | **1.50** | *0.59* |
-| 5 |[Deliciously Ella's Homemade Mango Fruit Roll-Ups (Just 3 !)](https://vegnews.com/recipes/vegan-mango-fruit-roll-ups) | VegNews | **1.43** | *0.57* |
-| 6 |[Strawberry Feta Salad with Maple Dijon Dressing](https://www.theppk.com/2026/03/vegan-strawberry-feta-salad/) | The Post-Punk Kitchen | **1.39** | *0.55* |
-| 7 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **1.38** | *0.55* |
-| 8 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **1.33** | *0.53* |
+| 1 |[Vegan Hot Cross Buns with Dried Cherries & Chocolate](https://thefirstmess.com/2026/03/25/vegan-hot-cross-buns-cherry-chocolate/) | The First Mess | **2.43** | *0.96* |
+| 2 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **1.60** | *0.63* |
+| 3 |[Creamy Sun-dried Tomato Pasta](https://www.reddit.com/r/veganrecipes/comments/1s0wzsg/creamy_sundried_tomato_pasta/) | Reddit | **1.47** | *0.58* |
+| 4 |[Linguine With Vegan White Clam Sauce](https://vegnews.com/recipes/linguine-with-vegan-white-clam-sauce) | VegNews | **1.38** | *0.55* |
+| 5 |[Deliciously Ella's Homemade Mango Fruit Roll-Ups (Just 3 !)](https://vegnews.com/recipes/vegan-mango-fruit-roll-ups) | VegNews | **1.32** | *0.52* |
+| 6 |[Strawberry Feta Salad with Maple Dijon Dressing](https://www.theppk.com/2026/03/vegan-strawberry-feta-salad/) | The Post-Punk Kitchen | **1.28** | *0.51* |
+| 7 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **1.27** | *0.50* |
+| 8 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **1.22** | *0.49* |
 
 ---
 
@@ -40,14 +40,14 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 13 | 0 | 0 | 0 | 0 | 2026-03-23 | ✅ OK |
 | The Banana Diaries | 1 | 13 | 0 | 3 | 2 | 0 | 2026-03-24 | ✅ OK |
-| PlantYou | 1 | 19 | 19 | 5 | 2 | 0 | 2026-03-22 | ✅ OK |
+| PlantYou | 0 | 18 | 18 | 5 | 2 | 0 | 2026-03-18 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 23 | 5 | 1 | 4 | 22 | 2026-03-22 | ✅ OK |
 | Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Jessica in the Kitchen | 1 | 26 | 1 | 5 | 1 | 2 | 2026-03-24 | ✅ OK |
 | Vegan Richa GF | 1 | 30 | 1 | 8 | 7 | 30 | 2026-03-25 | ✅ OK |
-| Reddit | 2 | 39 | 0 | 3 | 0 | 0 | 2026-03-27 | ✅ OK (2) |
+| Reddit | 1 | 39 | 0 | 3 | 0 | 0 | 2026-03-27 | ✅ OK (1) |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
@@ -120,11 +120,11 @@
 | The Whole Food Plant Based Cooking Show | 0 | 272 | 272 | 7 | 0 | 9 | 2026-03-24 | ✅ OK |
 | Healthy Little Vittles | 1 | 273 | 9 | 46 | 2 | 270 | 2026-03-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Connoisseurus Veg | 1 | 276 | 0 | 33 | 1 | 0 | 2026-03-20 | ✅ OK |
+| Connoisseurus Veg | 2 | 277 | 0 | 33 | 1 | 0 | 2026-03-27 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 282 | 3 | 14 | 3 | 5 | 2026-03-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 284 | 36 | 35 | 2 | 38 | 2026-03-24 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 290 | 2 | 20 | 1 | 1 | 2026-03-26 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 291 | 2 | 21 | 1 | 1 | 2026-03-27 | ✅ OK |
 | VegNews | 0 | 296 | 21 | 36 | 24 | 4 | 2026-03-26 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 301 | 1 | 6 | 4 | 1 | 2026-03-26 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
