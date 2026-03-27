@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-03-26 22:00:16
-**Total Run Time:** 7m 56s
-**Longest Step:** HTML: Pick Up Limes (0m 30s)
+**Last Run:** 2026-03-27 04:19:41
+**Total Run Time:** 7m 53s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19931 | 159 new today |
+| **Total Database** | 19928 | 156 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 119 | Recorded actions in last 7 days |
-| **WFPB / GF** | 2525 / 2663 | 12% / 13% |
+| **Trending Events** | 122 | Recorded actions in last 7 days |
+| **WFPB / GF** | 2523 / 2663 | 12% / 13% |
 | **Easy / Budget** | 4844 / 2050 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Hot Cross Buns with Dried Cherries & Chocolate](https://thefirstmess.com/2026/03/25/vegan-hot-cross-buns-cherry-chocolate/) | The First Mess | **3.19** | *1.27* |
-| 2 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **2.10** | *0.83* |
-| 3 |[Creamy Sun-dried Tomato Pasta](https://www.reddit.com/r/veganrecipes/comments/1s0wzsg/creamy_sundried_tomato_pasta/) | Reddit | **1.93** | *0.77* |
-| 4 |[Linguine With Vegan White Clam Sauce](https://vegnews.com/recipes/linguine-with-vegan-white-clam-sauce) | VegNews | **1.81** | *0.72* |
-| 5 |[Deliciously Ella's Homemade Mango Fruit Roll-Ups (Just 3 !)](https://vegnews.com/recipes/vegan-mango-fruit-roll-ups) | VegNews | **1.73** | *0.69* |
-| 6 |[Strawberry Feta Salad with Maple Dijon Dressing](https://www.theppk.com/2026/03/vegan-strawberry-feta-salad/) | The Post-Punk Kitchen | **1.68** | *0.67* |
-| 7 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **1.66** | *0.66* |
-| 8 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **1.61** | *0.64* |
+| 1 |[Vegan Hot Cross Buns with Dried Cherries & Chocolate](https://thefirstmess.com/2026/03/25/vegan-hot-cross-buns-cherry-chocolate/) | The First Mess | **2.82** | *1.12* |
+| 2 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **1.86** | *0.74* |
+| 3 |[Creamy Sun-dried Tomato Pasta](https://www.reddit.com/r/veganrecipes/comments/1s0wzsg/creamy_sundried_tomato_pasta/) | Reddit | **1.71** | *0.68* |
+| 4 |[Linguine With Vegan White Clam Sauce](https://vegnews.com/recipes/linguine-with-vegan-white-clam-sauce) | VegNews | **1.60** | *0.64* |
+| 5 |[Deliciously Ella's Homemade Mango Fruit Roll-Ups (Just 3 !)](https://vegnews.com/recipes/vegan-mango-fruit-roll-ups) | VegNews | **1.53** | *0.61* |
+| 6 |[Strawberry Feta Salad with Maple Dijon Dressing](https://www.theppk.com/2026/03/vegan-strawberry-feta-salad/) | The Post-Punk Kitchen | **1.49** | *0.59* |
+| 7 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **1.47** | *0.58* |
+| 8 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **1.42** | *0.56* |
 
 ---
 
@@ -47,7 +47,7 @@
 | Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
 | Jessica in the Kitchen | 1 | 26 | 1 | 5 | 1 | 2 | 2026-03-24 | ✅ OK |
 | Vegan Richa GF | 1 | 30 | 1 | 8 | 7 | 30 | 2026-03-25 | ✅ OK |
-| Reddit | 1 | 39 | 0 | 3 | 0 | 0 | 2026-03-26 | ✅ OK (1) |
+| Reddit | 0 | 38 | 0 | 3 | 0 | 0 | 2026-03-26 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
@@ -55,7 +55,7 @@
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
+| Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 4 | 153 | 3 | 28 | 10 | 0 | 2026-03-12 | ✅ OK |
 | Steamy Vegan | 1 | 163 | 9 | 29 | 10 | 2 | 2026-03-21 | ✅ OK |
@@ -87,7 +87,7 @@
 | Rainbow Plant Life | 9 | 225 | 30 | 55 | 41 | 7 | 2026-03-22 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 3 | 233 | 0 | 53 | 1 | 0 | 2026-03-26 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 2 | 233 | 0 | 53 | 1 | 0 | 2026-03-26 | ✅ OK |
 | BOSH! TV | 0 | 233 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | Eat Figs, Not Pigs | 5 | 236 | 1 | 27 | 2 | 0 | 2026-03-26 | ✅ OK |
@@ -108,7 +108,7 @@
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-03-25 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | From My Bowl | 0 | 254 | 3 | 34 | 3 | 5 | 2026-03-20 | ✅ OK |
-| My Darling Vegan | 7 | 254 | 1 | 29 | 4 | 12 | 2026-03-26 | ✅ OK |
+| My Darling Vegan | 6 | 254 | 1 | 29 | 4 | 12 | 2026-03-26 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 255 | 37 | 69 | 3 | 0 | 2026-03-25 | ✅ OK |
 | Full of Plants | 1 | 257 | 0 | 38 | 0 | 10 | 2026-03-21 | ✅ OK |
 | A Virtual Vegan | 0 | 261 | 3 | 35 | 1 | 4 | 2026-03-24 | ✅ OK |
@@ -121,12 +121,12 @@
 | Healthy Little Vittles | 1 | 273 | 9 | 46 | 2 | 270 | 2026-03-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Connoisseurus Veg | 1 | 276 | 0 | 33 | 1 | 0 | 2026-03-20 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 4 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (4) |
 | Lazy Cat Kitchen | 0 | 282 | 3 | 14 | 3 | 5 | 2026-03-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 284 | 36 | 35 | 2 | 38 | 2026-03-24 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 290 | 2 | 20 | 1 | 1 | 2026-03-26 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 290 | 2 | 20 | 1 | 1 | 2026-03-26 | ✅ OK |
 | VegNews | 0 | 296 | 21 | 36 | 24 | 4 | 2026-03-26 | ✅ OK |
-| The Post-Punk Kitchen | 3 | 301 | 1 | 6 | 4 | 1 | 2026-03-26 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 301 | 1 | 6 | 4 | 1 | 2026-03-26 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
