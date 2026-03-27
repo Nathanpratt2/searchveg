@@ -311,7 +311,7 @@ NON_RECIPE_KEYWORDS = [
 
     # Reddit: Product & Ingredient Reviews
     "y'all weren't lying", "weren't lying", "taste test", "tastes just like", 
-    "store bought", "store-bought", "has anyone tried", "has anyone bought", 
+    "store bought", "store-bought", "has anyone tried", "has anyone bought", "tonight",
     "found this", "trader joe", " tjs ", "aldi", "whole foods", "beyond meat", 
     "impossible meat", "egg white powder", "brand of", "what brand", "are ", "need ", " my ",
     
