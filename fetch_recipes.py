@@ -1613,7 +1613,6 @@ try:
     if supabase_key:
         print("   Fetching interaction data from Supabase for Trending algorithm...", flush=True)
         now_utc = datetime.now(timezone.utc)
-        seven_days_ago = (now_utc - timedelta(days=7)).isoformat()
         
         headers = {
             "apikey": supabase_key,
@@ -1621,8 +1620,8 @@ try:
             "Content-Profile": "public"
         }
         
+        # Removed the 7-day restriction to look at the entire Supabase history. Just temp as we test the algo. Once there is more traffic lets cut this off at 7 days
         query_params = {
-            "created_at": f"gte.{seven_days_ago}",
             "select": "link,action,created_at"
         }
         
@@ -1649,27 +1648,24 @@ try:
                     age_in_days = 7 # fallback so it gets 0 weight if parsing fails
                     
                 # EXPONENTIAL DECAY: Half-life of 1.5 days. 
-                # Breaks the "Trending Loop" where items stay at top forever.
-                # Day 0 = 100% weight, Day 1.5 = 50%, Day 3 = 25%, Day 7 = almost 0%
-                if age_in_days > 7:
-                    weight = 0.0
-                else:
-                    weight = 0.5 ** (age_in_days / 1.5)
+                # Removed the hard 7-day cutoff so all historical data is read.
+                # Older data will naturally weigh less due to the decay curve.
+                weight = 0.5 ** (age_in_days / 1.5)
                 
                 if link not in scores:
                     scores[link] = 0.0
                 
                 # Base points assignment
-                if action in["share_search", "save_search"]:
+                if action in ["share_search", "save_search"]:
                     base_points = 8
                 elif action == "share":
                     base_points = 7
                 elif action in ["save", "click_search"]:
                     base_points = 6
                 elif action == "click":
-                    base_points = 1
-                elif action == "search_appear":
-                    base_points = 0.1
+                    base_points = 4
+                elif action in["search_appear", "search_query", "filter_click", "mood_click", "feeling_lucky"]:
+                    base_points = 0 # Ignore search_appear and custom report tracking
                 else:
                     base_points = 1
                     
@@ -1760,7 +1756,7 @@ with open('FEED_HEALTH.md', 'w', encoding='utf-8') as f:
     f.write(f"| **Total Database** | {total_in_db} | {total_new_today} new today |\n")
     f.write(f"| **Blogs Monitored** | {total_blogs_monitored} | {len(HTML_SOURCES)} HTML / {len(ALL_FEEDS)} RSS |\n")
     f.write(f"| **Active Sources** | {active_sources_count} | 5+ recipes |\n")
-    f.write(f"| **Trending Events** | {trending_events_count} | Recorded actions in last 7 days |\n")
+    f.write(f"| **Trending Events** | {trending_events_count} | Total recorded actions in database |\n")
     f.write(f"| **WFPB / GF** | {total_wfpb} / {total_gf} | {wfpb_percent}% / {gf_percent}% |\n")
     f.write(f"| **Easy / Budget** | {total_easy} / {total_budget} | {easy_percent}% / {budget_percent}% |\n\n")
 
