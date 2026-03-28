@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-03-28 07:36:31
-**Total Run Time:** 8m 0s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-03-28 11:57:50
+**Total Run Time:** 7m 51s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19946 | 161 new today |
+| **Total Database** | 19946 | 160 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 169 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[15 Easy Easter Appetizers](https://www.loveandlemons.com/easter-appetizers/) | Love and Lemons (Vegan Recipes) | **8.99** | *3.57* |
-| 2 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **6.41** | *2.54* |
-| 3 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **6.08** | *2.41* |
-| 4 |[The Best Chocolate Chip Cookies](https://www.pickuplimes.com/recipe/the-best-chocolate-chip-cookies-1437) | Pick Up Limes | **4.94** | *1.96* |
-| 5 |[BBQ “Chicken” & Coleslaw Wraps](https://plantbasedcookingshow.com/2021/10/02/vegan-bbq-chicken-coleslaw-wraps/) | The Whole Food Plant Based Cooking Show | **4.88** | *1.94* |
-| 6 |[Crispy Tofu Caesar Sandwich](https://www.eatfigsnotpigs.com/crispy-tofu-caesar-sandwich/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-caesar-sandwich) | Eat Figs, Not Pigs | **3.49** | *1.38* |
-| 7 |[Easy Vegan White Cake Recipe](https://www.gretchensveganbakery.com/easy-vegan-white-cake-recipe/) | Gretchen's Vegan Bakery | **3.27** | *1.30* |
-| 8 |[BEST Vegan Carrot Cake](https://www.thelittleblogofvegan.com/2026/03/best-vegan-carrot-cake.html) | The Little Blog of Vegan | **3.27** | *1.30* |
+| 1 |[15 Easy Easter Appetizers](https://www.loveandlemons.com/easter-appetizers/) | Love and Lemons (Vegan Recipes) | **8.26** | *3.28* |
+| 2 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **5.90** | *2.34* |
+| 3 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **5.59** | *2.22* |
+| 4 |[The Best Chocolate Chip Cookies](https://www.pickuplimes.com/recipe/the-best-chocolate-chip-cookies-1437) | Pick Up Limes | **4.54** | *1.80* |
+| 5 |[BBQ “Chicken” & Coleslaw Wraps](https://plantbasedcookingshow.com/2021/10/02/vegan-bbq-chicken-coleslaw-wraps/) | The Whole Food Plant Based Cooking Show | **4.49** | *1.78* |
+| 6 |[Crispy Tofu Caesar Sandwich](https://www.eatfigsnotpigs.com/crispy-tofu-caesar-sandwich/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-caesar-sandwich) | Eat Figs, Not Pigs | **3.21** | *1.27* |
+| 7 |[Easy Vegan White Cake Recipe](https://www.gretchensveganbakery.com/easy-vegan-white-cake-recipe/) | Gretchen's Vegan Bakery | **3.00** | *1.19* |
+| 8 |[BEST Vegan Carrot Cake](https://www.thelittleblogofvegan.com/2026/03/best-vegan-carrot-cake.html) | The Little Blog of Vegan | **3.00** | *1.19* |
 
 ---
 
@@ -48,7 +48,7 @@
 | Jessica in the Kitchen | 1 | 27 | 1 | 5 | 1 | 2 | 2026-03-27 | ✅ OK |
 | Vegan Richa GF | 1 | 30 | 1 | 8 | 7 | 30 | 2026-03-25 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
-| Reddit | 4 | 47 | 0 | 5 | 0 | 0 | 2026-03-28 | ✅ OK (4) |
+| Reddit | 3 | 47 | 0 | 5 | 0 | 0 | 2026-03-28 | ✅ OK (3) |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
