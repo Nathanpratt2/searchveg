@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-03-28 21:59:21
-**Total Run Time:** 7m 13s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-03-29 04:25:44
+**Total Run Time:** 8m 29s
+**Longest Step:** RSS: The Post-Punk Kitchen (1m 6s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19958 | 164 new today |
+| **Total Database** | 19965 | 162 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 169 | Total recorded actions in database |
-| **WFPB / GF** | 2523 / 2663 | 12% / 13% |
-| **Easy / Budget** | 4851 / 2050 | 24% / 10% |
+| **Trending Events** | 170 | Total recorded actions in database |
+| **WFPB / GF** | 2523 / 2665 | 12% / 13% |
+| **Easy / Budget** | 4852 / 2050 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[15 Easy Easter Appetizers](https://www.loveandlemons.com/easter-appetizers/) | Love and Lemons (Vegan Recipes) | **6.81** | *2.70* |
-| 2 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **4.86** | *1.93* |
-| 3 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **4.61** | *1.83* |
-| 4 |[The Best Chocolate Chip Cookies](https://www.pickuplimes.com/recipe/the-best-chocolate-chip-cookies-1437) | Pick Up Limes | **3.74** | *1.49* |
-| 5 |[BBQ “Chicken” & Coleslaw Wraps](https://plantbasedcookingshow.com/2021/10/02/vegan-bbq-chicken-coleslaw-wraps/) | The Whole Food Plant Based Cooking Show | **3.70** | *1.47* |
-| 6 |[Crispy Tofu Caesar Sandwich](https://www.eatfigsnotpigs.com/crispy-tofu-caesar-sandwich/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-caesar-sandwich) | Eat Figs, Not Pigs | **2.64** | *1.05* |
-| 7 |[Easy Vegan White Cake Recipe](https://www.gretchensveganbakery.com/easy-vegan-white-cake-recipe/) | Gretchen's Vegan Bakery | **2.48** | *0.98* |
-| 8 |[BEST Vegan Carrot Cake](https://www.thelittleblogofvegan.com/2026/03/best-vegan-carrot-cake.html) | The Little Blog of Vegan | **2.48** | *0.98* |
+| 1 |[15 Easy Easter Appetizers](https://www.loveandlemons.com/easter-appetizers/) | Love and Lemons (Vegan Recipes) | **6.02** | *2.39* |
+| 2 |[Tater tot Breakfast Burrito](https://www.hotforfoodblog.com/recipes/2026/03/25/tater-tot-breakfast-burrito/) | Hot For Food | **4.29** | *1.70* |
+| 3 |[Sloppy Joseph](https://www.reddit.com/r/veganrecipes/comments/1rzoays/sloppy_joseph/) | Reddit | **4.07** | *1.61* |
+| 4 |[Sweet and Sour Vegan Ribs With Lemongrass Bones](https://vegnews.com/recipes/sweet-and-sour-vegan-ribs-with-lemongrass-bones) | VegNews | **3.59** | *1.42* |
+| 5 |[The Best Chocolate Chip Cookies](https://www.pickuplimes.com/recipe/the-best-chocolate-chip-cookies-1437) | Pick Up Limes | **3.31** | *1.31* |
+| 6 |[BBQ “Chicken” & Coleslaw Wraps](https://plantbasedcookingshow.com/2021/10/02/vegan-bbq-chicken-coleslaw-wraps/) | The Whole Food Plant Based Cooking Show | **3.27** | *1.30* |
+| 7 |[Crispy Tofu Caesar Sandwich](https://www.eatfigsnotpigs.com/crispy-tofu-caesar-sandwich/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-caesar-sandwich) | Eat Figs, Not Pigs | **2.34** | *0.93* |
+| 8 |[Easy Vegan White Cake Recipe](https://www.gretchensveganbakery.com/easy-vegan-white-cake-recipe/) | Gretchen's Vegan Bakery | **2.19** | *0.87* |
 
 ---
 
@@ -42,13 +42,13 @@
 | The Banana Diaries | 1 | 13 | 0 | 3 | 2 | 0 | 2026-03-24 | ✅ OK |
 | PlantYou | 1 | 19 | 19 | 5 | 2 | 0 | 2026-03-22 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 22 | 0 | 1 | 0 | 1 | 2026-03-12 | ✅ OK |
-| Rainbow Plant Life GF | 1 | 23 | 5 | 1 | 4 | 22 | 2026-03-22 | ✅ OK |
 | Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
-| Plant Baes | 0 | 25 | 2 | 4 | 2 | 4 | 2026-03-15 | ✅ OK |
+| Rainbow Plant Life GF | 2 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
+| Plant Baes | 1 | 26 | 2 | 4 | 2 | 4 | 2026-03-29 | ✅ OK |
 | Jessica in the Kitchen | 1 | 27 | 1 | 5 | 1 | 2 | 2026-03-27 | ✅ OK |
 | Vegan Richa GF | 1 | 30 | 1 | 8 | 7 | 30 | 2026-03-25 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
-| Reddit | 2 | 49 | 0 | 6 | 0 | 0 | 2026-03-28 | ✅ OK (2) |
+| Reddit | 4 | 51 | 0 | 6 | 0 | 0 | 2026-03-29 | ✅ OK (4) |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -58,7 +58,7 @@
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 154 | 3 | 29 | 10 | 0 | 2026-03-27 | ✅ OK |
-| Steamy Vegan | 1 | 164 | 9 | 29 | 10 | 2 | 2026-03-27 | ✅ OK |
+| Steamy Vegan | 0 | 163 | 9 | 29 | 10 | 2 | 2026-03-27 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
@@ -72,19 +72,19 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Elavegan | 0 | 204 | 5 | 37 | 2 | 196 | 2026-03-18 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
-| The Burger Dude | 3 | 207 | 6 | 13 | 13 | 0 | 2026-03-20 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
+| The Burger Dude | 4 | 208 | 6 | 14 | 13 | 0 | 2026-03-29 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-16 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 217 | 4 | 44 | 18 | 2 | 2026-03-27 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Cadry's Kitchen | 8 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
+| Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 223 | 1 | 30 | 3 | 1 | 2026-03-25 | ✅ OK |
 | ZardyPlants | 0 | 224 | 224 | 38 | 224 | 4 | 2026-03-25 | ✅ OK |
 | Rabbit and Wolves | 3 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
-| Rainbow Plant Life | 9 | 225 | 30 | 55 | 41 | 7 | 2026-03-22 | ✅ OK |
+| Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 2 | 233 | 0 | 53 | 1 | 0 | 2026-03-26 | ✅ OK |
@@ -122,11 +122,11 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Connoisseurus Veg | 2 | 277 | 0 | 33 | 1 | 0 | 2026-03-27 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (6) |
-| Lazy Cat Kitchen | 1 | 283 | 3 | 14 | 3 | 5 | 2026-03-28 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 284 | 36 | 35 | 2 | 38 | 2026-03-24 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 283 | 3 | 14 | 3 | 5 | 2026-03-28 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 285 | 36 | 35 | 2 | 39 | 2026-03-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 292 | 2 | 21 | 1 | 1 | 2026-03-27 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 302 | 1 | 6 | 4 | 1 | 2026-03-28 | ✅ OK |
-| VegNews | 4 | 303 | 21 | 37 | 24 | 4 | 2026-03-28 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 302 | 1 | 6 | 4 | 1 | 2026-03-28 | ❌ Blocked/ConnErr |
+| VegNews | 0 | 303 | 21 | 37 | 24 | 4 | 2026-03-28 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
