@@ -1214,6 +1214,9 @@
                 startX = e.clientX;
                 startY = e.clientY;
             } else if (e.type === 'touchstart') {
+                // Prevent pinch-to-zoom from triggering the long press
+                if (e.touches && e.touches.length > 1) return;
+                
                 startX = e.touches[0].clientX;
                 startY = e.touches[0].clientY;
             }
@@ -1256,6 +1259,11 @@
                 currentX = e.clientX;
                 currentY = e.clientY;
             } else if (e.type === 'touchmove') {
+                // Cancel immediately if multiple fingers are used (e.g. pinch to zoom)
+                if (e.touches && e.touches.length > 1) {
+                    cancelPress();
+                    return;
+                }
                 currentX = e.touches[0].clientX;
                 currentY = e.touches[0].clientY;
             }
