@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-03-30 22:10:42
-**Total Run Time:** 8m 23s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-03-31 04:22:16
+**Total Run Time:** 8m 1s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19992 | 163 new today |
+| **Total Database** | 19993 | 159 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 187 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **4.98** | *1.98* |
-| 2 |[Chocolate Hazelnut Granola Bars (Homemade Clif Nut Butter Bars)](https://fullofplants.com/nutella-filled-soft-granola-bars/?adt_ei={$email}) | Full of Plants | **4.97** | *1.97* |
-| 3 |[BEST Vegan Carrot Cake](https://www.thelittleblogofvegan.com/2026/03/best-vegan-carrot-cake.html) | The Little Blog of Vegan | **3.50** | *1.39* |
-| 4 |[Garlicky Brussels Sprout Tacos](https://vegnews.com/recipes/garlicky-brussels-sprout-tacos) | VegNews | **3.01** | *1.19* |
-| 5 |[EASY Asian Vegan Cashew Stir Fry Recipe](https://www.reddit.com/r/veganrecipes/comments/1s6kl10/easy_asian_vegan_cashew_stir_fry_recipe/) | Reddit | **2.83** | *1.12* |
-| 6 |[Crispy Vegan Chicken Nuggets (Chick’n Nuggies)](https://www.theppk.com/2026/03/vegan-chicken-nuggets/) | The Post-Punk Kitchen | **2.82** | *1.12* |
-| 7 |[Loaded Vegan Nachos](https://theeburgerdude.com/loaded-vegan-nachos/) | The Burger Dude | **2.82** | *1.12* |
-| 8 |[15 Easy Easter Appetizers](https://www.loveandlemons.com/easter-appetizers/) | Love and Lemons (Vegan Recipes) | **2.69** | *1.07* |
+| 1 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **4.42** | *1.75* |
+| 2 |[Chocolate Hazelnut Granola Bars (Homemade Clif Nut Butter Bars)](https://fullofplants.com/nutella-filled-soft-granola-bars/?adt_ei={$email}) | Full of Plants | **4.41** | *1.75* |
+| 3 |[BEST Vegan Carrot Cake](https://www.thelittleblogofvegan.com/2026/03/best-vegan-carrot-cake.html) | The Little Blog of Vegan | **3.10** | *1.23* |
+| 4 |[Garlicky Brussels Sprout Tacos](https://vegnews.com/recipes/garlicky-brussels-sprout-tacos) | VegNews | **2.67** | *1.06* |
+| 5 |[EASY Asian Vegan Cashew Stir Fry Recipe](https://www.reddit.com/r/veganrecipes/comments/1s6kl10/easy_asian_vegan_cashew_stir_fry_recipe/) | Reddit | **2.51** | *1.00* |
+| 6 |[Crispy Vegan Chicken Nuggets (Chick’n Nuggies)](https://www.theppk.com/2026/03/vegan-chicken-nuggets/) | The Post-Punk Kitchen | **2.50** | *0.99* |
+| 7 |[Loaded Vegan Nachos](https://theeburgerdude.com/loaded-vegan-nachos/) | The Burger Dude | **2.50** | *0.99* |
+| 8 |[15 Easy Easter Appetizers](https://www.loveandlemons.com/easter-appetizers/) | Love and Lemons (Vegan Recipes) | **2.39** | *0.95* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 30 | 1 | 8 | 7 | 30 | 2026-03-25 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 6 | 60 | 1 | 8 | 0 | 0 | 2026-03-30 | ✅ OK (6) |
+| Reddit | 2 | 60 | 1 | 8 | 0 | 0 | 2026-03-30 | ✅ OK (2) |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
@@ -73,7 +73,7 @@
 | Elavegan | 0 | 204 | 5 | 37 | 2 | 196 | 2026-03-18 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Burger Dude | 3 | 209 | 6 | 14 | 13 | 0 | 2026-03-29 | ✅ OK |
+| The Burger Dude | 3 | 209 | 6 | 14 | 13 | 0 | 2026-03-31 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-16 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
