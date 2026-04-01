@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-01 04:35:27
-**Total Run Time:** 8m 2s
-**Longest Step:** HTML: The Cheap Lazy Vegan (0m 36s)
+**Last Run:** 2026-04-01 08:08:17
+**Total Run Time:** 8m 18s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20010 | 160 new today |
+| **Total Database** | 20012 | 159 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 217 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **5.94** | *2.36* |
-| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **5.94** | *2.36* |
-| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **5.94** | *2.36* |
-| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **5.94** | *2.36* |
-| 5 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **3.25** | *1.29* |
-| 6 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **3.25** | *1.29* |
-| 7 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **2.77** | *1.10* |
-| 8 |[Chocolate Hazelnut Granola Bars (Homemade Clif Nut Butter Bars)](https://fullofplants.com/nutella-filled-soft-granola-bars/?adt_ei={$email}) | Full of Plants | **2.77** | *1.10* |
+| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **5.55** | *2.20* |
+| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **5.55** | *2.20* |
+| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **5.55** | *2.20* |
+| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **5.55** | *2.20* |
+| 5 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **3.04** | *1.20* |
+| 6 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **3.04** | *1.20* |
+| 7 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **2.59** | *1.03* |
+| 8 |[Chocolate Hazelnut Granola Bars (Homemade Clif Nut Butter Bars)](https://fullofplants.com/nutella-filled-soft-granola-bars/?adt_ei={$email}) | Full of Plants | **2.59** | *1.03* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 30 | 1 | 8 | 7 | 30 | 2026-03-25 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 1 | 61 | 1 | 8 | 0 | 0 | 2026-03-31 | ✅ OK (1) |
+| Reddit | 2 | 63 | 1 | 8 | 0 | 0 | 2026-04-01 | ✅ OK (2) |
 | The Korean Vegan | 5 | 93 | 8 | 59 | 10 | 5 | 2026-03-19 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
@@ -83,7 +83,7 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 223 | 1 | 30 | 3 | 1 | 2026-03-25 | ✅ OK |
 | Rabbit and Wolves | 3 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
-| ZardyPlants | 1 | 225 | 225 | 39 | 225 | 4 | 2026-04-01 | ✅ OK |
+| ZardyPlants | 0 | 225 | 225 | 39 | 225 | 4 | 2026-04-01 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -111,7 +111,7 @@
 | From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 256 | 37 | 69 | 3 | 0 | 2026-03-29 | ✅ OK |
 | Full of Plants | 0 | 258 | 0 | 38 | 0 | 10 | 2026-03-31 | ✅ OK |
-| A Virtual Vegan | 1 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
+| A Virtual Vegan | 0 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
 | Bianca Zapatka | 0 | 264 | 22 | 118 | 43 | 3 | 2026-03-25 | ✅ OK |
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | Plant-Based on a Budget | 1 | 266 | 16 | 66 | 266 | 1 | 2026-03-26 | ✅ OK |
