@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-03-31 22:09:22
-**Total Run Time:** 7m 35s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-04-01 04:35:27
+**Total Run Time:** 8m 2s
+**Longest Step:** HTML: The Cheap Lazy Vegan (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20008 | 161 new today |
+| **Total Database** | 20010 | 160 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 189 | Total recorded actions in database |
-| **WFPB / GF** | 2527 / 2666 | 12% / 13% |
-| **Easy / Budget** | 4855 / 2050 | 24% / 10% |
+| **Trending Events** | 217 | Total recorded actions in database |
+| **WFPB / GF** | 2528 / 2666 | 12% / 13% |
+| **Easy / Budget** | 4856 / 2051 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **3.68** | *1.46* |
-| 2 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **3.68** | *1.46* |
-| 3 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **3.14** | *1.25* |
-| 4 |[Chocolate Hazelnut Granola Bars (Homemade Clif Nut Butter Bars)](https://fullofplants.com/nutella-filled-soft-granola-bars/?adt_ei={$email}) | Full of Plants | **3.13** | *1.24* |
-| 5 |[BEST Vegan Carrot Cake](https://www.thelittleblogofvegan.com/2026/03/best-vegan-carrot-cake.html) | The Little Blog of Vegan | **2.20** | *0.87* |
-| 6 |[Garlicky Brussels Sprout Tacos](https://vegnews.com/recipes/garlicky-brussels-sprout-tacos) | VegNews | **1.90** | *0.75* |
-| 7 |[EASY Asian Vegan Cashew Stir Fry Recipe](https://www.reddit.com/r/veganrecipes/comments/1s6kl10/easy_asian_vegan_cashew_stir_fry_recipe/) | Reddit | **1.78** | *0.71* |
-| 8 |[Crispy Vegan Chicken Nuggets (Chick’n Nuggies)](https://www.theppk.com/2026/03/vegan-chicken-nuggets/) | The Post-Punk Kitchen | **1.78** | *0.71* |
+| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **5.94** | *2.36* |
+| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **5.94** | *2.36* |
+| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **5.94** | *2.36* |
+| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **5.94** | *2.36* |
+| 5 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **3.25** | *1.29* |
+| 6 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **3.25** | *1.29* |
+| 7 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **2.77** | *1.10* |
+| 8 |[Chocolate Hazelnut Granola Bars (Homemade Clif Nut Butter Bars)](https://fullofplants.com/nutella-filled-soft-granola-bars/?adt_ei={$email}) | Full of Plants | **2.77** | *1.10* |
 
 ---
 
@@ -82,8 +82,8 @@
 | Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 223 | 1 | 30 | 3 | 1 | 2026-03-25 | ✅ OK |
-| ZardyPlants | 0 | 224 | 224 | 38 | 224 | 4 | 2026-03-25 | ✅ OK |
 | Rabbit and Wolves | 3 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
+| ZardyPlants | 1 | 225 | 225 | 39 | 225 | 4 | 2026-04-01 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -100,7 +100,7 @@
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | It Doesn't Taste Like Chicken | 5 | 243 | 1 | 81 | 7 | 218 | 2026-03-25 | ✅ OK |
 | Make It Dairy Free | 2 | 246 | 4 | 40 | 2 | 3 | 2026-03-29 | ✅ OK |
-| Hot For Food | 2 | 248 | 9 | 34 | 12 | 1 | 2026-03-31 | ✅ OK |
+| Hot For Food | 1 | 248 | 9 | 34 | 12 | 1 | 2026-03-31 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 250 | 24 | 250 | 21 | 3 | 2025-08-18 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
@@ -111,19 +111,19 @@
 | From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 256 | 37 | 69 | 3 | 0 | 2026-03-29 | ✅ OK |
 | Full of Plants | 0 | 258 | 0 | 38 | 0 | 10 | 2026-03-31 | ✅ OK |
-| A Virtual Vegan | 0 | 261 | 3 | 35 | 1 | 4 | 2026-03-24 | ✅ OK |
+| A Virtual Vegan | 1 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
 | Bianca Zapatka | 0 | 264 | 22 | 118 | 43 | 3 | 2026-03-25 | ✅ OK |
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | Plant-Based on a Budget | 1 | 266 | 16 | 66 | 266 | 1 | 2026-03-26 | ✅ OK |
 | The Plant-Based RD | 0 | 266 | 4 | 17 | 1 | 0 | 2026-03-27 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 273 | 9 | 46 | 2 | 270 | 2026-03-26 | ✅ OK |
-| The Whole Food Plant Based Cooking Show | 1 | 273 | 273 | 7 | 0 | 9 | 2026-03-31 | ✅ OK (1) |
+| The Whole Food Plant Based Cooking Show | 0 | 273 | 273 | 7 | 0 | 9 | 2026-03-31 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Connoisseurus Veg | 2 | 278 | 0 | 33 | 1 | 0 | 2026-03-30 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 283 | 3 | 14 | 3 | 5 | 2026-03-28 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 286 | 36 | 35 | 2 | 39 | 2026-03-31 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 286 | 36 | 35 | 2 | 39 | 2026-03-31 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 294 | 2 | 21 | 1 | 1 | 2026-03-30 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 305 | 1 | 6 | 4 | 1 | 2026-03-30 | ✅ OK |
 | VegNews | 0 | 313 | 21 | 37 | 24 | 5 | 2026-03-31 | ✅ OK |
