@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-02 07:53:25
-**Total Run Time:** 7m 21s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 33s)
+**Last Run:** 2026-04-02 12:12:30
+**Total Run Time:** 7m 47s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20032 | 152 new today |
+| **Total Database** | 20034 | 155 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 218 | Total recorded actions in database |
 | **WFPB / GF** | 2528 / 2668 | 12% / 13% |
-| **Easy / Budget** | 4859 / 2051 | 24% / 10% |
+| **Easy / Budget** | 4859 / 2052 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **3.51** | *1.39* |
-| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **3.51** | *1.39* |
-| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **3.51** | *1.39* |
-| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **3.51** | *1.39* |
-| 5 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **3.42** | *1.36* |
-| 6 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **1.92** | *0.76* |
-| 7 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **1.92** | *0.76* |
-| 8 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **1.64** | *0.65* |
+| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **3.23** | *1.28* |
+| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **3.23** | *1.28* |
+| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **3.23** | *1.28* |
+| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **3.23** | *1.28* |
+| 5 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **3.15** | *1.25* |
+| 6 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **1.77** | *0.70* |
+| 7 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **1.77** | *0.70* |
+| 8 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **1.51** | *0.60* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 0 | 66 | 1 | 8 | 0 | 0 | 2026-04-01 | ✅ OK |
+| Reddit | 1 | 67 | 1 | 8 | 0 | 0 | 2026-04-02 | ✅ OK (1) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
@@ -98,7 +98,7 @@
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 241 | 21 | 51 | 23 | 215 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 4 | 243 | 1 | 81 | 7 | 218 | 2026-04-01 | ✅ OK |
+| It Doesn't Taste Like Chicken | 5 | 243 | 1 | 81 | 7 | 218 | 2026-04-01 | ✅ OK |
 | Make It Dairy Free | 2 | 246 | 4 | 40 | 2 | 3 | 2026-03-29 | ✅ OK |
 | Hot For Food | 1 | 248 | 9 | 34 | 12 | 1 | 2026-03-31 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
@@ -114,8 +114,8 @@
 | A Virtual Vegan | 0 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
 | Bianca Zapatka | 0 | 265 | 22 | 118 | 43 | 3 | 2026-04-01 | ✅ OK |
 | Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
-| Plant-Based on a Budget | 1 | 266 | 16 | 66 | 266 | 1 | 2026-03-26 | ✅ OK |
 | The Plant-Based RD | 0 | 266 | 4 | 17 | 1 | 0 | 2026-03-27 | ✅ OK |
+| Plant-Based on a Budget | 2 | 267 | 16 | 66 | 267 | 1 | 2026-04-02 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 273 | 273 | 7 | 0 | 9 | 2026-03-31 | ✅ OK |
 | Healthy Little Vittles | 1 | 274 | 9 | 46 | 2 | 271 | 2026-04-01 | ✅ OK |
