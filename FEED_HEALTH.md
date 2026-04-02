@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-02 04:14:46
-**Total Run Time:** 8m 6s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 45s)
+**Last Run:** 2026-04-02 07:53:25
+**Total Run Time:** 7m 21s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 33s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20032 | 158 new today |
+| **Total Database** | 20032 | 152 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 218 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **3.77** | *1.50* |
-| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **3.77** | *1.50* |
-| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **3.77** | *1.50* |
-| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **3.77** | *1.49* |
-| 5 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **3.67** | *1.46* |
-| 6 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **2.06** | *0.82* |
-| 7 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **2.06** | *0.82* |
-| 8 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **1.76** | *0.70* |
+| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **3.51** | *1.39* |
+| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **3.51** | *1.39* |
+| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **3.51** | *1.39* |
+| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **3.51** | *1.39* |
+| 5 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **3.42** | *1.36* |
+| 6 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **1.92** | *0.76* |
+| 7 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **1.92** | *0.76* |
+| 8 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **1.64** | *0.65* |
 
 ---
 
@@ -44,13 +44,13 @@
 | Justine Snacks (Vegan Recipes) | 1 | 23 | 0 | 2 | 0 | 1 | 2026-04-01 | ✅ OK |
 | Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
-| Plant Baes | 1 | 27 | 2 | 4 | 2 | 4 | 2026-04-02 | ✅ OK |
+| Plant Baes | 0 | 27 | 2 | 4 | 2 | 4 | 2026-04-02 | ✅ OK |
 | Jessica in the Kitchen | 1 | 29 | 1 | 5 | 1 | 2 | 2026-03-31 | ✅ OK |
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 2 | 66 | 1 | 8 | 0 | 0 | 2026-04-01 | ✅ OK (2) |
-| The Korean Vegan | 5 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
+| Reddit | 0 | 66 | 1 | 8 | 0 | 0 | 2026-04-01 | ✅ OK |
+| The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -105,7 +105,7 @@
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-01 | ✅ OK |
-| Plant Power Couple | 2 | 253 | 0 | 253 | 2 | 0 | 2026-04-01 | ✅ OK |
+| Plant Power Couple | 1 | 253 | 0 | 253 | 2 | 0 | 2026-04-01 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | My Darling Vegan | 6 | 254 | 1 | 29 | 4 | 12 | 2026-03-26 | ✅ OK |
 | From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
@@ -124,7 +124,7 @@
 | Ann Arbor Vegan Kitchen | 6 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 283 | 3 | 14 | 3 | 5 | 2026-03-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 286 | 36 | 35 | 2 | 39 | 2026-03-31 | ✅ OK |
-| Gretchen's Vegan Bakery | 4 | 295 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
+| Gretchen's Vegan Bakery | 3 | 295 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 305 | 1 | 6 | 4 | 1 | 2026-03-30 | ✅ OK |
 | VegNews | 0 | 316 | 21 | 37 | 24 | 5 | 2026-04-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
