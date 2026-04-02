@@ -1219,27 +1219,21 @@ def scrape_html_feed(name, url, mode, existing_links, recipes_list, source_tags)
                 if any(w in title_lower for w in ['help', 'request', 'iso', 'looking for', 'advice']):
                     continue
                 
-                # FILTER 3: MUST BE AN IMAGE POST OR CONTAIN RECIPE WORDS
+               # FILTER 3: MUST BE AN IMAGE POST OR CONTAIN RECIPE WORDS
                 image = "icon.jpg"
                 has_image = False
                 
-                img_src = None
-                if temp_soup:
+                if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
+                    image = entry.media_thumbnail[0]['url'].replace('&amp;', '&')
+                    has_image = True
+                elif temp_soup:
                     img_tag = temp_soup.find('img')
                     if img_tag and img_tag.get('src'):
-                        img_src = img_tag['src'].replace('&amp;', '&')
-                        
-                if not img_src and 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
-                    img_src = entry.media_thumbnail[0]['url'].replace('&amp;', '&')
-                    
-                if img_src:
-                    # Ensure it's not just a tiny tracking pixel
-                    if "width=" in img_src or "preview" in img_src or "format=" in img_src or "redd.it" in img_src:
-                        # Fix for high-quality Reddit images: strip query parameters to get original size
-                        if "?" in img_src and "redd.it" in img_src:
-                            img_src = img_src.split("?")[0]
-                        image = img_src
-                        has_image = True
+                        src = img_tag['src'].replace('&amp;', '&')
+                        # Ensure it's not just a tiny tracking pixel
+                        if "width=" in src or "preview" in src or "format=" in src:
+                            image = src
+                            has_image = True
                 
                # FILTER 4: MUST HAVE AN IMAGE (Exclude text-only posts)
                 if not has_image:
