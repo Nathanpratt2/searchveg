@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-04-03 12:05:39
-**Total Run Time:** 7m 37s
+**Last Run:** 2026-04-03 17:10:19
+**Total Run Time:** 8m 7s
 **Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20046 | 154 new today |
+| **Total Database** | 20057 | 168 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 226 | Total recorded actions in database |
-| **WFPB / GF** | 2527 / 2669 | 12% / 13% |
+| **WFPB / GF** | 2529 / 2669 | 12% / 13% |
 | **Easy / Budget** | 4861 / 2052 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **2.04** | *0.81* |
-| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **2.04** | *0.81* |
-| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **2.04** | *0.81* |
-| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **2.04** | *0.81* |
-| 5 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.99** | *0.79* |
-| 6 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **1.12** | *0.44* |
-| 7 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **1.12** | *0.44* |
-| 8 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **0.95** | *0.38* |
+| 1 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.85** | *0.73* |
+| 2 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.85** | *0.73* |
+| 3 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.85** | *0.73* |
+| 4 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.85** | *0.73* |
+| 5 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.80** | *0.72* |
+| 6 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **1.01** | *0.40* |
+| 7 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **1.01** | *0.40* |
+| 8 |[40 Vegan Meal Prep Recipes](https://theeburgerdude.com/vegan-meal-prep-recipes/) | The Burger Dude | **0.86** | *0.34* |
 
 ---
 
@@ -40,7 +40,7 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | The Banana Diaries | 1 | 13 | 0 | 3 | 2 | 0 | 2026-03-24 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
-| PlantYou | 0 | 20 | 20 | 5 | 2 | 0 | 2026-03-31 | ✅ OK |
+| PlantYou | 1 | 21 | 21 | 5 | 2 | 0 | 2026-03-31 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 23 | 0 | 2 | 0 | 1 | 2026-04-01 | ✅ OK |
 | Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 2 | 71 | 1 | 9 | 0 | 0 | 2026-04-03 | ✅ OK (2) |
+| Reddit | 6 | 74 | 1 | 9 | 0 | 0 | 2026-04-03 | ✅ OK (6) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
@@ -57,13 +57,13 @@
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-03-27 | ✅ OK |
-| Steamy Vegan | 1 | 164 | 9 | 29 | 10 | 2 | 2026-03-27 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 3 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
+| Steamy Vegan | 2 | 165 | 9 | 29 | 10 | 2 | 2026-04-03 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 1 | 23 | 1 | 30 | 2026-03-10 | ✅ OK |
-| The Little Blog of Vegan | 2 | 183 | 0 | 35 | 0 | 1 | 2026-03-27 | ✅ OK |
+| The Little Blog of Vegan | 3 | 184 | 0 | 35 | 0 | 1 | 2026-04-03 | ✅ OK |
 | Simple Vegan Blog | 1 | 185 | 7 | 38 | 15 | 4 | 2026-03-27 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 3 | 279 | 0 | 33 | 1 | 0 | 2026-04-03 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 283 | 3 | 14 | 3 | 5 | 2026-03-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 286 | 36 | 35 | 2 | 39 | 2026-03-31 | ✅ OK |
-| Gretchen's Vegan Bakery | 3 | 296 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
+| Gretchen's Vegan Bakery | 6 | 299 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 306 | 1 | 6 | 4 | 1 | 2026-04-02 | ✅ OK |
-| VegNews | 0 | 319 | 21 | 37 | 24 | 5 | 2026-04-02 | ✅ OK |
+| VegNews | 3 | 322 | 22 | 37 | 24 | 5 | 2026-04-03 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
