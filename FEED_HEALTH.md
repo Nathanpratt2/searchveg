@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-04-04 11:58:22
-**Total Run Time:** 7m 27s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
+**Last Run:** 2026-04-04 17:08:21
+**Total Run Time:** 7m 21s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20061 | 157 new today |
+| **Total Database** | 20064 | 161 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 235 | Total recorded actions in database |
-| **WFPB / GF** | 2529 / 2669 | 12% / 13% |
+| **Trending Events** | 236 | Total recorded actions in database |
+| **WFPB / GF** | 2529 / 2670 | 12% / 13% |
 | **Easy / Budget** | 4862 / 2052 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Homemade Cultured Butter (Easy!)](https://www.reddit.com/r/veganrecipes/comments/1sbpdg7/homemade_cultured_butter_easy/) | Reddit | **6.53** | *2.59* |
-| 2 |[Roasted Cauliflower Tacos with Chipotle Cashew Crema](https://www.floraandvino.com/roasted-cauliflower-tacos-with-chipotle-cashew-crema/) | Flora & Vino | **4.46** | *1.77* |
-| 3 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.29** | *0.51* |
-| 4 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.29** | *0.51* |
-| 5 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.29** | *0.51* |
-| 6 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.29** | *0.51* |
-| 7 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.26** | *0.50* |
-| 8 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **0.70** | *0.28* |
+| 1 |[Homemade Cultured Butter (Easy!)](https://www.reddit.com/r/veganrecipes/comments/1sbpdg7/homemade_cultured_butter_easy/) | Reddit | **5.91** | *2.35* |
+| 2 |[Roasted Cauliflower Tacos with Chipotle Cashew Crema](https://www.floraandvino.com/roasted-cauliflower-tacos-with-chipotle-cashew-crema/) | Flora & Vino | **4.04** | *1.60* |
+| 3 |[Chocolate Peanut Butter Easter Eggs](https://plantyou.com/chocolate-peanut-butter-easter-eggs/) | PlantYou | **3.98** | *1.58* |
+| 4 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.17** | *0.46* |
+| 5 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.17** | *0.46* |
+| 6 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.17** | *0.46* |
+| 7 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.17** | *0.46* |
+| 8 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.14** | *0.45* |
 
 ---
 
@@ -45,11 +45,11 @@
 | Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Plant Baes | 0 | 28 | 2 | 4 | 2 | 4 | 2026-04-02 | ✅ OK |
-| Jessica in the Kitchen | 1 | 29 | 1 | 5 | 1 | 2 | 2026-03-31 | ✅ OK |
+| Jessica in the Kitchen | 2 | 30 | 1 | 5 | 1 | 2 | 2026-04-03 | ✅ OK |
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 2 | 78 | 1 | 10 | 0 | 0 | 2026-04-04 | ✅ OK (2) |
+| Reddit | 4 | 81 | 1 | 10 | 0 | 0 | 2026-04-04 | ✅ OK (4) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
@@ -70,8 +70,8 @@
 | Nora Cooks | 5 | 192 | 14 | 27 | 13 | 5 | 2026-04-01 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| Elavegan | 0 | 204 | 5 | 37 | 2 | 196 | 2026-03-18 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
+| Elavegan | 1 | 205 | 5 | 37 | 2 | 197 | 2026-04-04 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Burger Dude | 2 | 209 | 6 | 14 | 13 | 0 | 2026-03-31 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
