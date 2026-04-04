@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-04 04:03:31
-**Total Run Time:** 7m 48s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-04-04 07:41:16
+**Total Run Time:** 8m 27s
+**Longest Step:** RSS: Steamy Vegan (1m 1s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20059 | 157 new today |
+| **Total Database** | 20060 | 157 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 235 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Homemade Cultured Butter (Easy!)](https://www.reddit.com/r/veganrecipes/comments/1sbpdg7/homemade_cultured_butter_easy/) | Reddit | **7.61** | *3.02* |
-| 2 |[Roasted Cauliflower Tacos with Chipotle Cashew Crema](https://www.floraandvino.com/roasted-cauliflower-tacos-with-chipotle-cashew-crema/) | Flora & Vino | **5.20** | *2.06* |
-| 3 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.50** | *0.60* |
-| 4 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.50** | *0.60* |
-| 5 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.50** | *0.60* |
-| 6 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.50** | *0.60* |
-| 7 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.46** | *0.58* |
-| 8 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **0.82** | *0.33* |
+| 1 |[Homemade Cultured Butter (Easy!)](https://www.reddit.com/r/veganrecipes/comments/1sbpdg7/homemade_cultured_butter_easy/) | Reddit | **7.09** | *2.81* |
+| 2 |[Roasted Cauliflower Tacos with Chipotle Cashew Crema](https://www.floraandvino.com/roasted-cauliflower-tacos-with-chipotle-cashew-crema/) | Flora & Vino | **4.85** | *1.92* |
+| 3 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.40** | *0.56* |
+| 4 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.40** | *0.56* |
+| 5 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.40** | *0.56* |
+| 6 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.40** | *0.56* |
+| 7 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.36** | *0.54* |
+| 8 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **0.77** | *0.30* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 2 | 76 | 1 | 10 | 0 | 0 | 2026-04-03 | ✅ OK (2) |
+| Reddit | 3 | 77 | 1 | 10 | 0 | 0 | 2026-04-04 | ✅ OK (3) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
@@ -58,7 +58,7 @@
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
 | Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 1 | 165 | 9 | 29 | 10 | 2 | 2026-04-03 | ✅ OK |
+| Steamy Vegan | 0 | 164 | 9 | 29 | 10 | 2 | 2026-04-03 | ❌ Blocked/ConnErr |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
