@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-03 22:03:07
-**Total Run Time:** 7m 44s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-04-04 04:03:31
+**Total Run Time:** 7m 48s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20059 | 159 new today |
+| **Total Database** | 20059 | 157 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 233 | Total recorded actions in database |
+| **Trending Events** | 235 | Total recorded actions in database |
 | **WFPB / GF** | 2529 / 2669 | 12% / 13% |
 | **Easy / Budget** | 4862 / 2052 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Roasted Cauliflower Tacos with Chipotle Cashew Crema](https://www.floraandvino.com/roasted-cauliflower-tacos-with-chipotle-cashew-crema/) | Flora & Vino | **5.84** | *2.32* |
-| 2 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.69** | *0.67* |
-| 3 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.68** | *0.67* |
-| 4 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.68** | *0.67* |
-| 5 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.68** | *0.67* |
-| 6 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.64** | *0.65* |
-| 7 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **0.92** | *0.37* |
-| 8 |[Smoky Grilled Eggplant Ballpark Hot Dogs](https://vegnews.com/recipes/vegan-eggplant-ballpark-hot-dogs) | VegNews | **0.92** | *0.37* |
+| 1 |[Homemade Cultured Butter (Easy!)](https://www.reddit.com/r/veganrecipes/comments/1sbpdg7/homemade_cultured_butter_easy/) | Reddit | **7.61** | *3.02* |
+| 2 |[Roasted Cauliflower Tacos with Chipotle Cashew Crema](https://www.floraandvino.com/roasted-cauliflower-tacos-with-chipotle-cashew-crema/) | Flora & Vino | **5.20** | *2.06* |
+| 3 |[Creamy Vegan Broccoli Cheddar Soup](https://minimalistbaker.com/creamy-vegan-broccoli-cheddar-soup/) | Minimalist Baker (Vegan Recipes) | **1.50** | *0.60* |
+| 4 |[Broccoli Fridge Clean-Out Soup](https://jessicainthekitchen.com/broccoli-fridge-clean-out-soup/) | Jessica in the Kitchen | **1.50** | *0.60* |
+| 5 |[Creamy Broccoli and Chickpea Soup](https://makeitdairyfree.com/creamy-broccoli-and-chickpea-soup/) | Make It Dairy Free | **1.50** | *0.60* |
+| 6 |[Broccoli Cheddar Soup](https://highcarbhannah.co/blogs/lunch/broccoli-cheddar-soup) | High Carb Hannah | **1.50** | *0.60* |
+| 7 |[The Ultimate Vegan Easter Brunch Spread](https://avirtualvegan.com/the-ultimate-vegan-easter-brunch-spread/) | A Virtual Vegan | **1.46** | *0.58* |
+| 8 |[Tofu Skewers](https://plantyou.com/tofu-skewers/) | PlantYou | **0.82** | *0.33* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 4 | 76 | 1 | 10 | 0 | 0 | 2026-04-03 | ✅ OK (4) |
+| Reddit | 2 | 76 | 1 | 10 | 0 | 0 | 2026-04-03 | ✅ OK (2) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 115 | 1 | 10 | 115 | 0 | 2026-03-18 | ✅ OK |
