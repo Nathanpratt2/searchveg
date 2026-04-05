@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-05 17:10:29
-**Total Run Time:** 9m 9s
-**Longest Step:** RSS: Eat Figs, Not Pigs (1m 0s)
+**Last Run:** 2026-04-05 22:01:59
+**Total Run Time:** 7m 49s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20082 | 131 new today |
+| **Total Database** | 20087 | 163 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 318 | Total recorded actions in database |
-| **WFPB / GF** | 2530 / 2670 | 12% / 13% |
-| **Easy / Budget** | 4861 / 2052 | 24% / 10% |
+| **Trending Events** | 322 | Total recorded actions in database |
+| **WFPB / GF** | 2531 / 2671 | 12% / 13% |
+| **Easy / Budget** | 4866 / 2053 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **5.27** | *2.09* |
-| 2 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **5.26** | *2.09* |
-| 3 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **5.20** | *2.06* |
-| 4 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **4.60** | *1.83* |
-| 5 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **4.60** | *1.83* |
-| 6 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **4.60** | *1.83* |
-| 7 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **4.58** | *1.82* |
-| 8 |[Vegan Poke Bowl](https://choosingchia.com/vegan-poke-bowls/) | Choosing Chia (Vegan Recipes) | **4.58** | *1.82* |
+| 1 |[Leek & Spinach Tofu Quiche](https://www.pickuplimes.com/recipe/leek-and-spinach-tofu-quiche-589) | Pick Up Limes | **5.67** | *2.25* |
+| 2 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **4.80** | *1.90* |
+| 3 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **4.79** | *1.90* |
+| 4 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **4.74** | *1.88* |
+| 5 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **4.19** | *1.66* |
+| 6 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **4.19** | *1.66* |
+| 7 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **4.19** | *1.66* |
+| 8 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **4.17** | *1.66* |
 
 ---
 
@@ -40,67 +40,67 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | The Banana Diaries | 1 | 13 | 0 | 3 | 2 | 0 | 2026-03-24 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
-| PlantYou | 2 | 22 | 22 | 5 | 2 | 0 | 2026-04-05 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 23 | 0 | 2 | 0 | 1 | 2026-04-01 | ✅ OK |
+| PlantYou | 2 | 23 | 23 | 5 | 2 | 0 | 2026-04-05 | ✅ OK |
 | Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Plant Baes | 0 | 28 | 2 | 4 | 2 | 4 | 2026-04-02 | ✅ OK |
 | Jessica in the Kitchen | 2 | 30 | 1 | 5 | 1 | 2 | 2026-04-03 | ✅ OK |
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
-| Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ❌ Blocked/ConnErr |
+| Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 5 | 86 | 1 | 10 | 0 | 0 | 2026-04-05 | ✅ OK (5) |
+| Reddit | 0 | 85 | 1 | 10 | 0 | 0 | 2026-04-05 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
-| One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ❌ Blocked/ConnErr |
+| One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
-| Earth to Veg | 1 | 153 | 6 | 26 | 16 | 0 | 2026-03-20 | ✅ OK |
+| Earth to Veg | 2 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 1 | 165 | 9 | 29 | 10 | 2 | 2026-04-03 | ✅ OK |
+| Steamy Vegan | 0 | 164 | 9 | 29 | 10 | 2 | 2026-04-03 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| The Stingy Vegan | 0 | 176 | 1 | 176 | 176 | 0 | 2026-03-21 | ✅ OK |
+| The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 1 | 23 | 1 | 30 | 2026-03-10 | ✅ OK |
 | The Little Blog of Vegan | 2 | 184 | 0 | 35 | 0 | 1 | 2026-04-03 | ✅ OK |
 | Simple Vegan Blog | 1 | 185 | 7 | 38 | 15 | 4 | 2026-03-27 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 5 | 192 | 14 | 27 | 13 | 5 | 2026-04-01 | ✅ OK |
-| Flora & Vino | 0 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
+| Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Vegan 8 | 0 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
-| Elavegan | 1 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
+| The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
+| Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Burger Dude | 2 | 209 | 6 | 14 | 13 | 0 | 2026-03-31 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Vegan in the Freezer | 0 | 215 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
+| Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-31 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 217 | 4 | 43 | 18 | 2 | 2026-04-01 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Cadry's Kitchen | 0 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
+| Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 224 | 1 | 30 | 3 | 1 | 2026-04-01 | ✅ OK |
-| Rabbit and Wolves | 0 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
+| Rabbit and Wolves | 3 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
 | ZardyPlants | 0 | 225 | 225 | 39 | 225 | 4 | 2026-04-01 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | BOSH! TV | 0 | 234 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Eat Figs, Not Pigs | 0 | 234 | 1 | 27 | 2 | 0 | 2026-04-04 | ❌ Blocked/ConnErr |
-| A Couple Cooks (Vegan Recipes) | 3 | 235 | 0 | 53 | 1 | 0 | 2026-03-30 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 4 | 236 | 0 | 54 | 1 | 0 | 2026-03-30 | ✅ OK |
 | HealthyGirl Kitchen | 2 | 237 | 30 | 50 | 0 | 62 | 2026-03-31 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
+| Eat Figs, Not Pigs | 6 | 240 | 1 | 27 | 2 | 0 | 2026-04-04 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 241 | 21 | 51 | 23 | 215 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | It Doesn't Taste Like Chicken | 5 | 244 | 1 | 82 | 7 | 218 | 2026-04-05 | ✅ OK |
-| Hot For Food | 0 | 247 | 9 | 34 | 12 | 1 | 2026-03-31 | ✅ OK |
 | Make It Dairy Free | 2 | 247 | 4 | 40 | 2 | 3 | 2026-04-05 | ✅ OK |
+| Hot For Food | 1 | 248 | 9 | 34 | 12 | 1 | 2026-03-31 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
@@ -109,24 +109,24 @@
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | My Darling Vegan | 6 | 254 | 1 | 29 | 4 | 12 | 2026-03-26 | ✅ OK |
 | From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 257 | 37 | 69 | 3 | 0 | 2026-04-01 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 2 | 258 | 37 | 70 | 3 | 0 | 2026-04-05 | ✅ OK |
 | Full of Plants | 0 | 259 | 0 | 38 | 0 | 10 | 2026-04-02 | ✅ OK |
 | A Virtual Vegan | 0 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
 | Bianca Zapatka | 0 | 265 | 22 | 118 | 43 | 3 | 2026-04-01 | ✅ OK |
-| Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
+| Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
 | The Plant-Based RD | 0 | 266 | 4 | 17 | 1 | 0 | 2026-03-27 | ✅ OK |
 | Plant-Based on a Budget | 1 | 267 | 16 | 66 | 267 | 1 | 2026-04-02 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 273 | 273 | 7 | 0 | 9 | 2026-03-31 | ✅ OK |
 | Healthy Little Vittles | 1 | 274 | 9 | 46 | 2 | 271 | 2026-04-01 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (6) |
 | Connoisseurus Veg | 3 | 279 | 0 | 33 | 1 | 0 | 2026-04-03 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 287 | 36 | 35 | 2 | 39 | 2026-04-05 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 296 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 308 | 1 | 6 | 4 | 1 | 2026-04-05 | ✅ OK |
-| VegNews | 0 | 325 | 22 | 37 | 24 | 5 | 2026-04-04 | ✅ OK |
+| Gretchen's Vegan Bakery | 4 | 299 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 309 | 1 | 6 | 4 | 1 | 2026-04-05 | ✅ OK |
+| VegNews | 3 | 325 | 22 | 38 | 24 | 5 | 2026-04-05 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
