@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-04 22:02:39
-**Total Run Time:** 8m 37s
-**Longest Step:** RSS: Plant Power Couple (1m 0s)
+**Last Run:** 2026-04-05 04:23:52
+**Total Run Time:** 7m 26s
+**Longest Step:** HTML: Pick Up Limes (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20071 | 158 new today |
+| **Total Database** | 20073 | 153 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 286 | Total recorded actions in database |
+| **Trending Events** | 296 | Total recorded actions in database |
 | **WFPB / GF** | 2529 / 2670 | 12% / 13% |
 | **Easy / Budget** | 4862 / 2053 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **7.61** | *3.02* |
-| 2 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **7.61** | *3.02* |
-| 3 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **6.66** | *2.64* |
-| 4 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **6.65** | *2.64* |
-| 5 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **6.65** | *2.64* |
-| 6 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **6.62** | *2.63* |
-| 7 |[Vegan Poke Bowl](https://choosingchia.com/vegan-poke-bowls/) | Choosing Chia (Vegan Recipes) | **6.62** | *2.63* |
-| 8 |[Vegan Rice Crispy Treats](https://zardyplants.com/recipes/vegan-rice-crispy-treats/) | ZardyPlants | **5.72** | *2.27* |
+| 1 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **6.73** | *2.67* |
+| 2 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **6.73** | *2.67* |
+| 3 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **5.89** | *2.34* |
+| 4 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **5.89** | *2.34* |
+| 5 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **5.88** | *2.34* |
+| 6 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **5.86** | *2.33* |
+| 7 |[Vegan Poke Bowl](https://choosingchia.com/vegan-poke-bowls/) | Choosing Chia (Vegan Recipes) | **5.86** | *2.32* |
+| 8 |[Tofu Fried Rice](https://simpleveganblog.com/tofu-fried-rice/) | Simple Vegan Blog | **5.66** | *2.25* |
 
 ---
 
@@ -52,7 +52,7 @@
 | Reddit | 1 | 81 | 1 | 10 | 0 | 0 | 2026-04-04 | ✅ OK (1) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| The Hidden Veggies | 4 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
+| The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
@@ -94,7 +94,7 @@
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
-| Eat Figs, Not Pigs | 7 | 240 | 1 | 27 | 2 | 0 | 2026-04-04 | ✅ OK |
+| Eat Figs, Not Pigs | 6 | 240 | 1 | 27 | 2 | 0 | 2026-04-04 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 241 | 21 | 51 | 23 | 215 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
@@ -105,7 +105,7 @@
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-01 | ✅ OK |
-| Plant Power Couple | 0 | 253 | 0 | 253 | 2 | 0 | 2026-04-01 | ✅ OK |
+| Plant Power Couple | 1 | 253 | 0 | 253 | 2 | 0 | 2026-04-01 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | My Darling Vegan | 6 | 254 | 1 | 29 | 4 | 12 | 2026-03-26 | ✅ OK |
 | From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
@@ -122,11 +122,11 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 0 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
 | Connoisseurus Veg | 3 | 279 | 0 | 33 | 1 | 0 | 2026-04-03 | ✅ OK |
-| Lazy Cat Kitchen | 1 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 286 | 36 | 35 | 2 | 39 | 2026-03-31 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 287 | 36 | 35 | 2 | 39 | 2026-04-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 4 | 299 | 2 | 21 | 1 | 1 | 2026-04-01 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 307 | 1 | 6 | 4 | 1 | 2026-04-04 | ✅ OK |
-| VegNews | 4 | 325 | 22 | 37 | 24 | 5 | 2026-04-04 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 308 | 1 | 6 | 4 | 1 | 2026-04-05 | ✅ OK |
+| VegNews | 0 | 325 | 22 | 37 | 24 | 5 | 2026-04-04 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
