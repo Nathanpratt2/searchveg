@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-05 07:44:07
-**Total Run Time:** 7m 35s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
+**Last Run:** 2026-04-05 11:59:07
+**Total Run Time:** 7m 23s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20074 | 158 new today |
+| **Total Database** | 20076 | 153 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 297 | Total recorded actions in database |
+| **Trending Events** | 318 | Total recorded actions in database |
 | **WFPB / GF** | 2529 / 2670 | 12% / 13% |
-| **Easy / Budget** | 4862 / 2053 | 24% / 10% |
+| **Easy / Budget** | 4863 / 2053 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **6.31** | *2.51* |
-| 2 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **6.31** | *2.51* |
-| 3 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **5.52** | *2.19* |
-| 4 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **5.52** | *2.19* |
-| 5 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **5.52** | *2.19* |
-| 6 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **5.50** | *2.18* |
-| 7 |[Vegan Poke Bowl](https://choosingchia.com/vegan-poke-bowls/) | Choosing Chia (Vegan Recipes) | **5.49** | *2.18* |
-| 8 |[Tofu Fried Rice](https://simpleveganblog.com/tofu-fried-rice/) | Simple Vegan Blog | **5.31** | *2.11* |
+| 1 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **5.82** | *2.31* |
+| 2 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **5.82** | *2.31* |
+| 3 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **5.75** | *2.28* |
+| 4 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **5.09** | *2.02* |
+| 5 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **5.09** | *2.02* |
+| 6 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **5.08** | *2.02* |
+| 7 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **5.06** | *2.01* |
+| 8 |[Vegan Poke Bowl](https://choosingchia.com/vegan-poke-bowls/) | Choosing Chia (Vegan Recipes) | **5.06** | *2.01* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 1 | 81 | 1 | 10 | 0 | 0 | 2026-04-04 | ✅ OK (1) |
+| Reddit | 2 | 82 | 1 | 10 | 0 | 0 | 2026-04-05 | ✅ OK (2) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
@@ -98,8 +98,8 @@
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 241 | 21 | 51 | 23 | 215 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 5 | 243 | 1 | 81 | 7 | 218 | 2026-04-01 | ✅ OK |
-| Make It Dairy Free | 3 | 247 | 4 | 40 | 2 | 3 | 2026-04-05 | ✅ OK |
+| It Doesn't Taste Like Chicken | 6 | 244 | 1 | 82 | 7 | 218 | 2026-04-05 | ✅ OK |
+| Make It Dairy Free | 2 | 247 | 4 | 40 | 2 | 3 | 2026-04-05 | ✅ OK |
 | Hot For Food | 1 | 248 | 9 | 34 | 12 | 1 | 2026-03-31 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
@@ -120,7 +120,7 @@
 | The Whole Food Plant Based Cooking Show | 0 | 273 | 273 | 7 | 0 | 9 | 2026-03-31 | ✅ OK |
 | Healthy Little Vittles | 1 | 274 | 9 | 46 | 2 | 271 | 2026-04-01 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 279 | 279 | 24 | 3 | 0 | 2026-03-18 | ✅ OK |
 | Connoisseurus Veg | 3 | 279 | 0 | 33 | 1 | 0 | 2026-04-03 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 287 | 36 | 35 | 2 | 39 | 2026-04-05 | ✅ OK |
