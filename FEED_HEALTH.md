@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-07 08:02:55
+**Last Run:** 2026-04-07 12:14:37
 **Total Run Time:** 7m 35s
-**Longest Step:** HTML: Pick Up Limes (0m 33s)
+**Longest Step:** HTML: Pick Up Limes (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20102 | 157 new today |
+| **Total Database** | 20105 | 159 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 322 | Total recorded actions in database |
 | **WFPB / GF** | 2532 / 2671 | 12% / 13% |
-| **Easy / Budget** | 4871 / 2053 | 24% / 10% |
+| **Easy / Budget** | 4872 / 2053 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Leek & Spinach Tofu Quiche](https://www.pickuplimes.com/recipe/leek-and-spinach-tofu-quiche-589) | Pick Up Limes | **2.94** | *1.17* |
-| 2 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **2.49** | *0.99* |
-| 3 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **2.49** | *0.99* |
-| 4 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **2.46** | *0.98* |
-| 5 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **2.18** | *0.86* |
-| 6 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **2.18** | *0.86* |
-| 7 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **2.18** | *0.86* |
-| 8 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **2.17** | *0.86* |
+| 1 |[Leek & Spinach Tofu Quiche](https://www.pickuplimes.com/recipe/leek-and-spinach-tofu-quiche-589) | Pick Up Limes | **2.71** | *1.08* |
+| 2 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **2.30** | *0.91* |
+| 3 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **2.30** | *0.91* |
+| 4 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **2.27** | *0.90* |
+| 5 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **2.01** | *0.80* |
+| 6 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **2.01** | *0.80* |
+| 7 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **2.01** | *0.80* |
+| 8 |[Vegan Lasagna (with Tofu Ricotta)](https://simpleveganblog.com/vegan-lasagna/) | Simple Vegan Blog | **2.00** | *0.79* |
 
 ---
 
@@ -42,15 +42,15 @@
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 23 | 0 | 2 | 0 | 1 | 2026-04-01 | ✅ OK |
 | PlantYou | 1 | 23 | 23 | 5 | 2 | 0 | 2026-04-05 | ✅ OK |
-| Dr. Vegan | 0 | 24 | 4 | 24 | 8 | 0 | 2026-03-26 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
+| Dr. Vegan | 1 | 25 | 4 | 25 | 8 | 0 | 2026-04-07 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
 | Jessica in the Kitchen | 3 | 31 | 1 | 5 | 1 | 2 | 2026-04-06 | ✅ OK |
 | Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
-| Reddit | 1 | 93 | 1 | 12 | 0 | 0 | 2026-04-07 | ✅ OK (1) |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
+| Reddit | 2 | 95 | 1 | 12 | 0 | 0 | 2026-04-07 | ✅ OK (2) |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
