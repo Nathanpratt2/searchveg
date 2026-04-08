@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-04-08 08:05:23
-**Total Run Time:** 7m 23s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 27s)
+**Last Run:** 2026-04-08 12:14:12
+**Total Run Time:** 7m 5s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 29s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20122 | 156 new today |
+| **Total Database** | 20124 | 157 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 339 | Total recorded actions in database |
-| **WFPB / GF** | 2532 / 2671 | 12% / 13% |
+| **WFPB / GF** | 2532 / 2672 | 12% / 13% |
 | **Easy / Budget** | 4877 / 2053 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Butternut Squash Risotto with Kale](https://sweetsimplevegan.com/butternut-squash-risotto-with-kale/) | Sweet Simple Vegan | **4.76** | *1.89* |
-| 2 |[Leek & Spinach Tofu Quiche](https://www.pickuplimes.com/recipe/leek-and-spinach-tofu-quiche-589) | Pick Up Limes | **1.85** | *0.74* |
-| 3 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **1.57** | *0.62* |
-| 4 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **1.57** | *0.62* |
-| 5 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **1.55** | *0.61* |
-| 6 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **1.37** | *0.54* |
-| 7 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **1.37** | *0.54* |
-| 8 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **1.37** | *0.54* |
+| 1 |[Butternut Squash Risotto with Kale](https://sweetsimplevegan.com/butternut-squash-risotto-with-kale/) | Sweet Simple Vegan | **4.40** | *1.75* |
+| 2 |[Leek & Spinach Tofu Quiche](https://www.pickuplimes.com/recipe/leek-and-spinach-tofu-quiche-589) | Pick Up Limes | **1.71** | *0.68* |
+| 3 |[Strawberry & Mango Chopped Spinach Quinoa Salad with Sesame-Lime Vinaigrette](https://www.ambitiouskitchen.com/strawberry-mango-chopped-spinach-quinoa-salad-with-sesame-lime-vinaigrette/) | Ambitious Kitchen (Vegan Recipes) | **1.45** | *0.57* |
+| 4 |[Spinach, Blueberry & "Feta" Salad](https://www.pickuplimes.com/recipe/spinach-blueberry-feta-salad-495) | Pick Up Limes | **1.45** | *0.57* |
+| 5 |[SOFT Fluffy Tofu Scramble – Ready in 7 minutes!](https://thebananadiaries.com/soft-fluffy-tofu-scramble-ready-in-7-minutes/) | The Banana Diaries | **1.43** | *0.57* |
+| 6 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **1.27** | *0.50* |
+| 7 |[Air-Fried BBQ Tempeh](https://annarborvegankitchen.com/2021/03/03/air-fried-bbq-tempeh/) | Ann Arbor Vegan Kitchen | **1.27** | *0.50* |
+| 8 |[Vegan Spicy “Honey” Garlic Tofu](https://www.rabbitandwolves.com/vegan-spicy-honey-garlic-tofu/) | Rabbit and Wolves | **1.27** | *0.50* |
 
 ---
 
@@ -45,12 +45,12 @@
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Dr. Vegan | 0 | 25 | 4 | 25 | 8 | 0 | 2026-04-07 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
-| Vegan Richa GF | 1 | 31 | 1 | 8 | 7 | 31 | 2026-04-01 | ✅ OK |
 | Jessica in the Kitchen | 3 | 32 | 1 | 5 | 1 | 2 | 2026-04-07 | ✅ OK |
+| Vegan Richa GF | 2 | 32 | 1 | 8 | 7 | 32 | 2026-04-08 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
-| Reddit | 1 | 99 | 1 | 12 | 0 | 0 | 2026-04-08 | ✅ OK (1) |
+| Reddit | 1 | 100 | 1 | 12 | 0 | 0 | 2026-04-08 | ✅ OK (1) |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -104,7 +104,7 @@
 | Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
-| Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-01 | ✅ OK |
+| Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-08 | ✅ OK |
 | Plant Power Couple | 1 | 253 | 0 | 253 | 2 | 0 | 2026-04-01 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
