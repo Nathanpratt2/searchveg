@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-10 08:14:21
-**Total Run Time:** 8m 16s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-04-10 12:11:18
+**Total Run Time:** 6m 40s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20144 | 164 new today |
+| **Total Database** | 20145 | 146 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 382 | Total recorded actions in database |
-| **WFPB / GF** | 2534 / 2675 | 12% / 13% |
-| **Easy / Budget** | 4880 / 2054 | 24% / 10% |
+| **WFPB / GF** | 2534 / 2674 | 12% / 13% |
+| **Easy / Budget** | 4878 / 2053 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **5.18** | *2.06* |
-| 2 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **4.69** | *1.86* |
-| 3 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **4.23** | *1.68* |
-| 4 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **4.23** | *1.68* |
-| 5 |[Vegan Banoffee Bars](https://www.gretchensveganbakery.com/vegan-banoffee-bars/) | Gretchen's Vegan Bakery | **4.23** | *1.68* |
-| 6 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **3.29** | *1.31* |
-| 7 |[Sheet Pan Pierogies](https://plantyou.com/sheet-pan-pierogies/) | PlantYou | **3.29** | *1.31* |
-| 8 |[Unknown Recipe](https://www.reddit.com/r/veganrecipes/comments/1sgvczs/i_made_a_free_chrome_extension_just_cook_to/) | Unknown Blog | **3.20** | *1.27* |
+| 1 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **4.80** | *1.90* |
+| 2 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **4.35** | *1.73* |
+| 3 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **3.92** | *1.56* |
+| 4 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **3.92** | *1.56* |
+| 5 |[Vegan Banoffee Bars](https://www.gretchensveganbakery.com/vegan-banoffee-bars/) | Gretchen's Vegan Bakery | **3.92** | *1.56* |
+| 6 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **3.05** | *1.21* |
+| 7 |[Sheet Pan Pierogies](https://plantyou.com/sheet-pan-pierogies/) | PlantYou | **3.05** | *1.21* |
+| 8 |[Unknown Recipe](https://www.reddit.com/r/veganrecipes/comments/1sgvczs/i_made_a_free_chrome_extension_just_cook_to/) | Unknown Blog | **2.97** | *1.18* |
 
 ---
 
@@ -51,38 +51,38 @@
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| Reddit | 2 | 105 | 1 | 13 | 0 | 0 | 2026-04-10 | ✅ OK (2) |
+| Reddit | 1 | 105 | 1 | 13 | 0 | 0 | 2026-04-10 | ✅ OK (1) |
 | The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 1 | 166 | 9 | 29 | 10 | 2 | 2026-04-07 | ✅ OK |
+| Steamy Vegan | 0 | 165 | 9 | 29 | 10 | 2 | 2026-04-07 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
+| The Stingy Vegan | 0 | 176 | 1 | 176 | 176 | 0 | 2026-03-21 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 1 | 23 | 1 | 30 | 2026-03-10 | ✅ OK |
 | The Little Blog of Vegan | 2 | 184 | 0 | 35 | 0 | 1 | 2026-04-07 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Simple Vegan Blog | 2 | 187 | 7 | 38 | 15 | 4 | 2026-04-09 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Nora Cooks | 7 | 194 | 14 | 27 | 13 | 5 | 2026-04-08 | ✅ OK |
-| Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
+| Flora & Vino | 0 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
+| The Vegan 8 | 0 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Burger Dude | 2 | 209 | 6 | 14 | 13 | 0 | 2026-03-31 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-31 | ✅ OK |
+| Vegan in the Freezer | 0 | 215 | 5 | 36 | 10 | 0 | 2026-03-02 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Sweet Simple Vegan | 1 | 218 | 4 | 43 | 18 | 2 | 2026-04-09 | ✅ OK |
-| Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
+| Cadry's Kitchen | 0 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 224 | 1 | 30 | 3 | 1 | 2026-04-01 | ✅ OK |
-| Rabbit and Wolves | 3 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
+| Rabbit and Wolves | 0 | 225 | 0 | 33 | 1 | 0 | 2026-03-24 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | ZardyPlants | 0 | 226 | 226 | 40 | 226 | 4 | 2026-04-07 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -100,20 +100,20 @@
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | It Doesn't Taste Like Chicken | 5 | 244 | 1 | 82 | 7 | 218 | 2026-04-05 | ✅ OK |
 | Make It Dairy Free | 2 | 247 | 4 | 40 | 2 | 3 | 2026-04-05 | ✅ OK |
+| Hot For Food | 0 | 249 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-08 | ✅ OK |
 | Plant Power Couple | 1 | 253 | 0 | 253 | 2 | 0 | 2026-04-01 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
-| From My Bowl | 0 | 255 | 3 | 34 | 3 | 5 | 2026-03-31 | ✅ OK |
 | My Darling Vegan | 6 | 255 | 1 | 30 | 4 | 12 | 2026-04-07 | ✅ OK |
+| From My Bowl | 1 | 256 | 3 | 34 | 3 | 5 | 2026-04-10 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 259 | 37 | 71 | 3 | 0 | 2026-04-08 | ✅ OK |
 | Full of Plants | 0 | 260 | 0 | 38 | 0 | 11 | 2026-04-09 | ✅ OK |
 | A Virtual Vegan | 1 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
 | Bianca Zapatka | 0 | 265 | 22 | 118 | 43 | 3 | 2026-04-01 | ✅ OK |
-| Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
+| Strength and Sunshine | 0 | 265 | 8 | 265 | 2 | 258 | 2026-02-19 | ✅ OK |
 | The Plant-Based RD | 0 | 266 | 4 | 17 | 1 | 0 | 2026-03-27 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Plant-Based on a Budget | 2 | 269 | 16 | 66 | 269 | 1 | 2026-04-09 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 3 | 280 | 0 | 33 | 1 | 0 | 2026-04-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 288 | 36 | 36 | 2 | 39 | 2026-04-07 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 301 | 2 | 22 | 1 | 1 | 2026-04-07 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 300 | 2 | 22 | 1 | 1 | 2026-04-07 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 314 | 1 | 8 | 4 | 1 | 2026-04-09 | ✅ OK |
 | VegNews | 0 | 325 | 21 | 38 | 22 | 6 | 2026-04-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
