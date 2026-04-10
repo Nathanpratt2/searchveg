@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-09 21:13:28
-**Total Run Time:** 7m 36s
-**Longest Step:** HTML: Pick Up Limes (0m 28s)
+**Last Run:** 2026-04-10 04:32:15
+**Total Run Time:** 7m 16s
+**Longest Step:** HTML: Pick Up Limes (0m 27s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20143 | 159 new today |
+| **Total Database** | 20143 | 156 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 371 | Total recorded actions in database |
+| **Trending Events** | 382 | Total recorded actions in database |
 | **WFPB / GF** | 2534 / 2675 | 12% / 13% |
 | **Easy / Budget** | 4879 / 2054 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **5.80** | *2.30* |
-| 2 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **5.23** | *2.08* |
-| 3 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **5.23** | *2.08* |
-| 4 |[Vegan Banoffee Bars](https://www.gretchensveganbakery.com/vegan-banoffee-bars/) | Gretchen's Vegan Bakery | **5.23** | *2.08* |
-| 5 |[Unknown Recipe](https://www.reddit.com/r/veganrecipes/comments/1sgvczs/i_made_a_free_chrome_extension_just_cook_to/) | Unknown Blog | **3.96** | *1.57* |
-| 6 |[Sautéed Kale With Garlic & Tahini Dressing](https://www.theppk.com/2026/02/easy-sauteed-kale-with-tahini/) | The Post-Punk Kitchen | **3.74** | *1.48* |
-| 7 |[Vegan Banoffee Pie 🍌 bananas, caramel, & whipped cream nestled in a shortbread crust](https://www.reddit.com/r/veganrecipes/comments/1sem1lh/vegan_banoffee_pie_bananas_caramel_whipped_cream/) | Reddit | **3.49** | *1.38* |
-| 8 |[Chickpea Fennel Salad](https://steamyvegan.com/chickpea-fennel-salad/) | Steamy Vegan | **3.49** | *1.38* |
+| 1 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **5.56** | *2.21* |
+| 2 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **5.04** | *2.00* |
+| 3 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **4.55** | *1.80* |
+| 4 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **4.54** | *1.80* |
+| 5 |[Vegan Banoffee Bars](https://www.gretchensveganbakery.com/vegan-banoffee-bars/) | Gretchen's Vegan Bakery | **4.54** | *1.80* |
+| 6 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **3.54** | *1.40* |
+| 7 |[Sheet Pan Pierogies](https://plantyou.com/sheet-pan-pierogies/) | PlantYou | **3.54** | *1.40* |
+| 8 |[Unknown Recipe](https://www.reddit.com/r/veganrecipes/comments/1sgvczs/i_made_a_free_chrome_extension_just_cook_to/) | Unknown Blog | **3.44** | *1.36* |
 
 ---
 
@@ -41,7 +41,7 @@
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
 | The Banana Diaries | 1 | 16 | 0 | 3 | 2 | 0 | 2026-04-09 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 24 | 0 | 2 | 0 | 1 | 2026-04-07 | ✅ OK |
-| PlantYou | 2 | 24 | 24 | 6 | 2 | 0 | 2026-04-09 | ✅ OK |
+| PlantYou | 1 | 24 | 24 | 6 | 2 | 0 | 2026-04-09 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Dr. Vegan | 0 | 25 | 4 | 25 | 8 | 0 | 2026-04-07 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
@@ -51,7 +51,7 @@
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| Reddit | 0 | 104 | 1 | 12 | 0 | 0 | 2026-04-09 | ✅ OK |
+| Reddit | 1 | 104 | 1 | 12 | 0 | 0 | 2026-04-09 | ✅ OK (1) |
 | The Hidden Veggies | 3 | 116 | 1 | 10 | 116 | 0 | 2026-04-04 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
@@ -78,7 +78,7 @@
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-31 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Sweet Simple Vegan | 2 | 218 | 4 | 43 | 18 | 2 | 2026-04-09 | ✅ OK |
+| Sweet Simple Vegan | 1 | 218 | 4 | 43 | 18 | 2 | 2026-04-09 | ✅ OK |
 | Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 224 | 1 | 30 | 3 | 1 | 2026-04-01 | ✅ OK |
@@ -118,13 +118,13 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Plant-Based on a Budget | 2 | 269 | 16 | 66 | 269 | 1 | 2026-04-09 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 274 | 274 | 7 | 0 | 9 | 2026-04-07 | ✅ OK |
-| Healthy Little Vittles | 2 | 275 | 9 | 46 | 2 | 272 | 2026-04-09 | ✅ OK |
+| Healthy Little Vittles | 1 | 275 | 9 | 46 | 2 | 272 | 2026-04-09 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 0 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK |
 | Connoisseurus Veg | 3 | 280 | 0 | 33 | 1 | 0 | 2026-04-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 288 | 36 | 36 | 2 | 39 | 2026-04-07 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 301 | 2 | 22 | 1 | 1 | 2026-04-07 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 301 | 2 | 22 | 1 | 1 | 2026-04-07 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 314 | 1 | 8 | 4 | 1 | 2026-04-09 | ✅ OK |
 | VegNews | 0 | 325 | 21 | 38 | 22 | 6 | 2026-04-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
