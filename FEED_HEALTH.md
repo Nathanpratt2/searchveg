@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-11 11:59:14
-**Total Run Time:** 7m 16s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 28s)
+**Last Run:** 2026-04-11 17:10:39
+**Total Run Time:** 7m 53s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20158 | 157 new today |
+| **Total Database** | 20164 | 168 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 390 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **3.37** | *1.34* |
-| 2 |[Smoky Tofu Ground Beef](https://www.reddit.com/r/veganrecipes/comments/1shn9qt/smoky_tofu_ground_beef/) | Reddit | **3.37** | *1.34* |
-| 3 |[Strawberry Basil Shortcakes With Cashew Whipped Cream](https://vegnews.com/recipes/strawberry-basil-shortcakes-with-cashew-whipped-cream) | VegNews | **3.37** | *1.34* |
-| 4 |[Potatoes tossed in a spicy herb sauce](https://www.reddit.com/r/veganrecipes/comments/1shu0ai/potatoes_tossed_in_a_spicy_herb_sauce/) | Reddit | **3.37** | *1.34* |
-| 5 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **3.04** | *1.20* |
-| 6 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **2.75** | *1.09* |
-| 7 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **2.48** | *0.98* |
-| 8 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **2.48** | *0.98* |
+| 1 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **3.05** | *1.21* |
+| 2 |[Smoky Tofu Ground Beef](https://www.reddit.com/r/veganrecipes/comments/1shn9qt/smoky_tofu_ground_beef/) | Reddit | **3.05** | *1.21* |
+| 3 |[Strawberry Basil Shortcakes With Cashew Whipped Cream](https://vegnews.com/recipes/strawberry-basil-shortcakes-with-cashew-whipped-cream) | VegNews | **3.05** | *1.21* |
+| 4 |[Potatoes tossed in a spicy herb sauce](https://www.reddit.com/r/veganrecipes/comments/1shu0ai/potatoes_tossed_in_a_spicy_herb_sauce/) | Reddit | **3.05** | *1.21* |
+| 5 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **2.75** | *1.09* |
+| 6 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **2.49** | *0.99* |
+| 7 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **2.25** | *0.89* |
+| 8 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **2.24** | *0.89* |
 
 ---
 
@@ -51,14 +51,14 @@
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| Reddit | 2 | 109 | 1 | 13 | 0 | 0 | 2026-04-10 | ✅ OK (2) |
+| Reddit | 5 | 112 | 1 | 13 | 0 | 0 | 2026-04-11 | ✅ OK (5) |
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 1 | 166 | 9 | 29 | 10 | 2 | 2026-04-07 | ✅ OK |
+| Steamy Vegan | 2 | 167 | 9 | 29 | 10 | 2 | 2026-04-11 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | The Stingy Vegan | 1 | 177 | 1 | 177 | 177 | 0 | 2026-03-22 | ✅ OK |
@@ -94,7 +94,7 @@
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 4 | 239 | 0 | 54 | 1 | 0 | 2026-04-10 | ✅ OK |
 | Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
-| Eat Figs, Not Pigs | 6 | 241 | 1 | 29 | 2 | 0 | 2026-04-10 | ✅ OK |
+| Eat Figs, Not Pigs | 6 | 241 | 1 | 29 | 2 | 0 | 2026-04-11 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 241 | 21 | 51 | 23 | 215 | 2025-07-27 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
@@ -120,11 +120,11 @@
 | The Whole Food Plant Based Cooking Show | 0 | 274 | 274 | 7 | 0 | 9 | 2026-04-07 | ✅ OK |
 | Healthy Little Vittles | 1 | 275 | 9 | 46 | 2 | 272 | 2026-04-09 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK (6) |
 | Connoisseurus Veg | 3 | 280 | 0 | 33 | 1 | 0 | 2026-04-06 | ✅ OK |
-| Lazy Cat Kitchen | 0 | 284 | 3 | 14 | 3 | 5 | 2026-04-04 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 288 | 36 | 36 | 2 | 39 | 2026-04-07 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 304 | 2 | 22 | 1 | 1 | 2026-04-09 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 304 | 2 | 22 | 1 | 1 | 2026-04-10 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 315 | 1 | 8 | 4 | 1 | 2026-04-10 | ✅ OK |
 | VegNews | 0 | 325 | 21 | 38 | 22 | 6 | 2026-04-10 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
