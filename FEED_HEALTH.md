@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-11 22:03:23
-**Total Run Time:** 8m 5s
-**Longest Step:** HTML: Pick Up Limes (0m 35s)
+**Last Run:** 2026-04-12 04:33:46
+**Total Run Time:** 7m 33s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20164 | 166 new today |
+| **Total Database** | 20166 | 163 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 390 | Total recorded actions in database |
+| **Trending Events** | 391 | Total recorded actions in database |
 | **WFPB / GF** | 2534 / 2675 | 12% / 13% |
 | **Easy / Budget** | 4881 / 2056 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **2.78** | *1.10* |
-| 2 |[Smoky Tofu Ground Beef](https://www.reddit.com/r/veganrecipes/comments/1shn9qt/smoky_tofu_ground_beef/) | Reddit | **2.78** | *1.10* |
-| 3 |[Strawberry Basil Shortcakes With Cashew Whipped Cream](https://vegnews.com/recipes/strawberry-basil-shortcakes-with-cashew-whipped-cream) | VegNews | **2.78** | *1.10* |
-| 4 |[Potatoes tossed in a spicy herb sauce](https://www.reddit.com/r/veganrecipes/comments/1shu0ai/potatoes_tossed_in_a_spicy_herb_sauce/) | Reddit | **2.78** | *1.10* |
-| 5 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **2.50** | *0.99* |
-| 6 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **2.26** | *0.90* |
-| 7 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **2.04** | *0.81* |
-| 8 |[Vegan Bang Bang ‘Chicken’ Salad](https://www.eatfigsnotpigs.com/vegan-bang-bang-chicken-salad/) | Eat Figs, Not Pigs | **2.04** | *0.81* |
+| 1 |[Vegan Raspberry White Chocolate Muffins🩷sweet, tart, & simply scrumptious](https://www.reddit.com/r/veganrecipes/comments/1sinacl/vegan_raspberry_white_chocolate_muffinssweet_tart/) | Reddit | **3.65** | *1.45* |
+| 2 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **2.45** | *0.97* |
+| 3 |[Smoky Tofu Ground Beef](https://www.reddit.com/r/veganrecipes/comments/1shn9qt/smoky_tofu_ground_beef/) | Reddit | **2.45** | *0.97* |
+| 4 |[Strawberry Basil Shortcakes With Cashew Whipped Cream](https://vegnews.com/recipes/strawberry-basil-shortcakes-with-cashew-whipped-cream) | VegNews | **2.45** | *0.97* |
+| 5 |[Potatoes tossed in a spicy herb sauce](https://www.reddit.com/r/veganrecipes/comments/1shu0ai/potatoes_tossed_in_a_spicy_herb_sauce/) | Reddit | **2.45** | *0.97* |
+| 6 |[Vegan Orange Cake](https://www.rainbownourishments.com/vegan-orange-cake/) | Rainbow Nourishments | **2.21** | *0.88* |
+| 7 |[Recipe Zesty Spinach Salad With Blackened Chickpeas Zesty Spinach Salad With Blackened Chickpeas](https://vegnews.com/recipes/vegan-spinach-salad-chickpeas) | VegNews | **2.00** | *0.79* |
+| 8 |[Sticky Roasted Butternut Squash with Apricot & Harissa](https://schoolnightvegan.com/home/roasted-butternut-squash-with-apricot-and-harissa/) | School Night Vegan | **1.80** | *0.72* |
 
 ---
 
@@ -51,7 +51,7 @@
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| Reddit | 2 | 112 | 1 | 13 | 0 | 0 | 2026-04-11 | ✅ OK (2) |
+| Reddit | 1 | 112 | 1 | 13 | 0 | 0 | 2026-04-11 | ✅ OK (1) |
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
@@ -125,8 +125,8 @@
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 288 | 36 | 36 | 2 | 39 | 2026-04-07 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 304 | 2 | 22 | 1 | 1 | 2026-04-10 | ✅ OK |
-| The Post-Punk Kitchen | 0 | 315 | 1 | 8 | 4 | 1 | 2026-04-10 | ✅ OK |
-| VegNews | 4 | 325 | 21 | 36 | 22 | 6 | 2026-04-11 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 317 | 1 | 8 | 4 | 1 | 2026-04-12 | ✅ OK |
+| VegNews | 0 | 325 | 21 | 36 | 22 | 6 | 2026-04-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
