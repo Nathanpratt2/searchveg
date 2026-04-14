@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-14 08:18:50
-**Total Run Time:** 8m 23s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-04-14 12:20:15
+**Total Run Time:** 8m 7s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20196 | 164 new today |
+| **Total Database** | 20197 | 163 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 418 | Total recorded actions in database |
 | **WFPB / GF** | 2534 / 2677 | 12% / 13% |
-| **Easy / Budget** | 4888 / 2057 | 24% / 10% |
+| **Easy / Budget** | 4889 / 2057 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Comfort Rice Bowl with Golden Sauce](https://www.noracooks.com/comfort-rice-bowl/) | Nora Cooks | **3.58** | *1.42* |
-| 2 |[My Favorite Vegan Ranch Dressing](https://www.theppk.com/2026/03/best-vegan-ranch-dressing/) | The Post-Punk Kitchen | **3.09** | *1.22* |
-| 3 |[Tofu cheesecake with berry lemon lavender syrup](https://www.reddit.com/r/veganrecipes/comments/1sk04ol/tofu_cheesecake_with_berry_lemon_lavender_syrup/) | Reddit | **2.91** | *1.15* |
-| 4 |[Best Vegan Lemon Curd Coffee Cake](https://veganyackattack.com/2026/04/12/best-vegan-lemon-curd-coffee-cake/) | Vegan Yack Attack | **2.91** | *1.15* |
-| 5 |[Homemade Vegan Boursin](https://www.plantpowercouple.com/recipes/vegan-boursin/) | Plant Power Couple | **2.16** | *0.86* |
-| 6 |[Gluten-Free Chocolate Strawberry Pie](https://vegnews.com/recipes/gluten-free-chocolate-strawberry-pie) | VegNews | **2.02** | *0.80* |
-| 7 |[Vegan Raspberry White Chocolate Muffins🩷sweet, tart, & simply scrumptious](https://www.reddit.com/r/veganrecipes/comments/1sinacl/vegan_raspberry_white_chocolate_muffinssweet_tart/) | Reddit | **1.35** | *0.54* |
-| 8 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **0.91** | *0.36* |
+| 1 |[Comfort Rice Bowl with Golden Sauce](https://www.noracooks.com/comfort-rice-bowl/) | Nora Cooks | **3.31** | *1.32* |
+| 2 |[My Favorite Vegan Ranch Dressing](https://www.theppk.com/2026/03/best-vegan-ranch-dressing/) | The Post-Punk Kitchen | **2.86** | *1.13* |
+| 3 |[Tofu cheesecake with berry lemon lavender syrup](https://www.reddit.com/r/veganrecipes/comments/1sk04ol/tofu_cheesecake_with_berry_lemon_lavender_syrup/) | Reddit | **2.69** | *1.07* |
+| 4 |[Best Vegan Lemon Curd Coffee Cake](https://veganyackattack.com/2026/04/12/best-vegan-lemon-curd-coffee-cake/) | Vegan Yack Attack | **2.69** | *1.07* |
+| 5 |[Homemade Vegan Boursin](https://www.plantpowercouple.com/recipes/vegan-boursin/) | Plant Power Couple | **1.99** | *0.79* |
+| 6 |[Gluten-Free Chocolate Strawberry Pie](https://vegnews.com/recipes/gluten-free-chocolate-strawberry-pie) | VegNews | **1.87** | *0.74* |
+| 7 |[Vegan Raspberry White Chocolate Muffins🩷sweet, tart, & simply scrumptious](https://www.reddit.com/r/veganrecipes/comments/1sinacl/vegan_raspberry_white_chocolate_muffinssweet_tart/) | Reddit | **1.25** | *0.50* |
+| 8 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **0.84** | *0.33* |
 
 ---
 
@@ -52,7 +52,7 @@
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
-| Reddit | 4 | 122 | 1 | 15 | 0 | 1 | 2026-04-14 | ✅ OK (4) |
+| Reddit | 3 | 122 | 1 | 15 | 0 | 1 | 2026-04-14 | ✅ OK (3) |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 138 | 0 | 11 | 2 | 1 | 2026-04-13 | ✅ OK |
@@ -77,7 +77,7 @@
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-31 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 4 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (4) |
+| Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 219 | 4 | 43 | 18 | 2 | 2026-04-13 | ✅ OK |
 | Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
@@ -108,7 +108,7 @@
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
 | My Darling Vegan | 6 | 255 | 1 | 30 | 4 | 12 | 2026-04-07 | ✅ OK |
-| From My Bowl | 0 | 256 | 3 | 34 | 3 | 5 | 2026-04-10 | ✅ OK |
+| From My Bowl | 1 | 257 | 3 | 35 | 3 | 5 | 2026-04-14 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 260 | 37 | 72 | 3 | 0 | 2026-04-13 | ✅ OK |
 | Full of Plants | 0 | 261 | 0 | 39 | 0 | 11 | 2026-04-13 | ✅ OK |
 | A Virtual Vegan | 1 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
