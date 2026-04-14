@@ -44,7 +44,7 @@ TOP_BLOGGERS = [
     ("ZardyPlants", "https://zardyplants.com/feed/", ["WFPB", "Budget"]),
     ("Justine Snacks (Vegan Recipes)", "https://justinesnacks.com/category/special-diets/vegan/feed/", []),
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/",[]),
-    ("A Couple Cooks (Vegan Recipes)", "https://www.acouplecooks.com/tag/vegan/feed/",[]),
+    #("A Couple Cooks (Vegan Recipes)", "https://www.acouplecooks.com/tag/vegan/feed/",[]),
     ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/",[]),
     ("Pinch of Yum (Vegan Recipes)", "https://pinchofyum.com/recipes/vegan/feed", []),
     ("Watch Learn Eat", "https://watchlearneat.com/vegan-recipes/feed/", ["Easy"]), 
