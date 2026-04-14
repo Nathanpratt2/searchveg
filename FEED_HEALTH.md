@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-14 12:20:15
-**Total Run Time:** 8m 7s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
+**Last Run:** 2026-04-14 17:48:51
+**Total Run Time:** 7m 44s
+**Longest Step:** HTML: Pick Up Limes (0m 28s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20197 | 163 new today |
-| **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
-| **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 418 | Total recorded actions in database |
-| **WFPB / GF** | 2534 / 2677 | 12% / 13% |
-| **Easy / Budget** | 4889 / 2057 | 24% / 10% |
+| **Total Database** | 19933 | 181 new today |
+| **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
+| **Active Sources** | 118 | 5+ recipes |
+| **Trending Events** | 462 | Total recorded actions in database |
+| **WFPB / GF** | 2535 / 2678 | 12% / 13% |
+| **Easy / Budget** | 4829 / 2055 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Comfort Rice Bowl with Golden Sauce](https://www.noracooks.com/comfort-rice-bowl/) | Nora Cooks | **3.31** | *1.32* |
-| 2 |[My Favorite Vegan Ranch Dressing](https://www.theppk.com/2026/03/best-vegan-ranch-dressing/) | The Post-Punk Kitchen | **2.86** | *1.13* |
-| 3 |[Tofu cheesecake with berry lemon lavender syrup](https://www.reddit.com/r/veganrecipes/comments/1sk04ol/tofu_cheesecake_with_berry_lemon_lavender_syrup/) | Reddit | **2.69** | *1.07* |
-| 4 |[Best Vegan Lemon Curd Coffee Cake](https://veganyackattack.com/2026/04/12/best-vegan-lemon-curd-coffee-cake/) | Vegan Yack Attack | **2.69** | *1.07* |
-| 5 |[Homemade Vegan Boursin](https://www.plantpowercouple.com/recipes/vegan-boursin/) | Plant Power Couple | **1.99** | *0.79* |
-| 6 |[Gluten-Free Chocolate Strawberry Pie](https://vegnews.com/recipes/gluten-free-chocolate-strawberry-pie) | VegNews | **1.87** | *0.74* |
-| 7 |[Vegan Raspberry White Chocolate Muffins🩷sweet, tart, & simply scrumptious](https://www.reddit.com/r/veganrecipes/comments/1sinacl/vegan_raspberry_white_chocolate_muffinssweet_tart/) | Reddit | **1.25** | *0.50* |
-| 8 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **0.84** | *0.33* |
+| 1 |[Healthy Chocolate Coconut Cookies](https://monkeyandmekitchenadventures.com/healthy-chocolate-coconut-cookies/) | Monkey & Me Kitchen Adventures | **5.80** | *2.30* |
+| 2 |[Unknown Recipe](https://www.acouplecooks.com/breakfast-cookies/) | Unknown Blog | **5.80** | *2.30* |
+| 3 |[Creamy Vegan Dill Pasta with Peas & Asparagus](https://www.connoisseurusveg.com/dill-pasta/) | Connoisseurus Veg | **5.67** | *2.25* |
+| 4 |[Roasted Asparagus Salad with Ginger Lime Dressing & Peanuts](https://thefirstmess.com/2025/05/07/roasted-asparagus-salad-ginger-lime-dressing-peanuts/) | The First Mess | **5.66** | *2.25* |
+| 5 |[Sheet Pan Black Bean & Corn Quesadillas (Easy No-Chop Recipe!)](https://frommybowl.com/sheet-pan-black-bean-corn-quesadillas/?utm_source=rss&utm_medium=rss&utm_campaign=sheet-pan-black-bean-corn-quesadillas) | From My Bowl | **3.89** | *1.55* |
+| 6 |[Comfort Rice Bowl with Golden Sauce](https://www.noracooks.com/comfort-rice-bowl/) | Nora Cooks | **2.98** | *1.18* |
+| 7 |[My Favorite Vegan Ranch Dressing](https://www.theppk.com/2026/03/best-vegan-ranch-dressing/) | The Post-Punk Kitchen | **2.57** | *1.02* |
+| 8 |[Tofu cheesecake with berry lemon lavender syrup](https://www.reddit.com/r/veganrecipes/comments/1sk04ol/tofu_cheesecake_with_berry_lemon_lavender_syrup/) | Reddit | **2.42** | *0.96* |
 
 ---
 
@@ -39,28 +39,29 @@
 | Mary's Test Kitchen | 3 | 11 | 0 | 0 | 1 | 0 | 2026-04-02 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
-| The Banana Diaries | 1 | 16 | 0 | 3 | 2 | 0 | 2026-04-09 | ✅ OK |
+| The Banana Diaries | 2 | 17 | 0 | 3 | 2 | 0 | 2026-04-14 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 5 | 0 | 0 | 2026-04-14 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 24 | 0 | 2 | 0 | 1 | 2026-04-07 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Dr. Vegan | 0 | 25 | 4 | 25 | 8 | 0 | 2026-04-07 | ✅ OK |
 | PlantYou | 1 | 25 | 25 | 6 | 2 | 0 | 2026-04-12 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
 | Vegan Richa GF | 1 | 32 | 1 | 8 | 7 | 32 | 2026-04-08 | ✅ OK |
-| Jessica in the Kitchen | 3 | 34 | 1 | 5 | 1 | 2 | 2026-04-13 | ✅ OK |
+| Jessica in the Kitchen | 4 | 35 | 1 | 5 | 1 | 2 | 2026-04-14 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
-| Reddit | 3 | 122 | 1 | 15 | 0 | 1 | 2026-04-14 | ✅ OK (3) |
+| Reddit | 6 | 125 | 1 | 15 | 0 | 1 | 2026-04-14 | ✅ OK (6) |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 138 | 0 | 11 | 2 | 1 | 2026-04-13 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 0 | 166 | 9 | 29 | 10 | 2 | 2026-04-11 | ✅ OK |
-| Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
+| Steamy Vegan | 1 | 167 | 9 | 29 | 10 | 2 | 2026-04-11 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
+| Dreena Burton | 1 | 169 | 169 | 11 | 18 | 41 | 2026-04-14 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 1 | 23 | 1 | 30 | 2026-03-10 | ✅ OK |
 | The Little Blog of Vegan | 2 | 185 | 0 | 36 | 0 | 1 | 2026-04-10 | ✅ OK |
@@ -75,7 +76,7 @@
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Burger Dude | 1 | 210 | 6 | 14 | 13 | 0 | 2026-04-14 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-31 | ✅ OK |
+| Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-04-14 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 219 | 4 | 43 | 18 | 2 | 2026-04-13 | ✅ OK |
@@ -92,7 +93,6 @@
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | HealthyGirl Kitchen | 2 | 238 | 30 | 51 | 0 | 62 | 2026-04-10 | ✅ OK |
 | Running on Real Food | 1 | 238 | 238 | 25 | 2 | 8 | 2026-02-12 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 4 | 239 | 0 | 54 | 1 | 0 | 2026-04-10 | ✅ OK |
 | Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Eat Figs, Not Pigs | 6 | 242 | 1 | 29 | 2 | 0 | 2026-04-13 | ✅ OK |
@@ -100,15 +100,15 @@
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 245 | 1 | 82 | 7 | 218 | 2026-04-12 | ✅ OK |
 | Make It Dairy Free | 2 | 248 | 4 | 40 | 2 | 3 | 2026-04-12 | ✅ OK |
+| Hot For Food | 0 | 249 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-08 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
 | My Darling Vegan | 6 | 255 | 1 | 30 | 4 | 12 | 2026-04-07 | ✅ OK |
-| From My Bowl | 1 | 257 | 3 | 35 | 3 | 5 | 2026-04-14 | ✅ OK |
+| From My Bowl | 0 | 257 | 3 | 35 | 3 | 5 | 2026-04-14 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 260 | 37 | 72 | 3 | 0 | 2026-04-13 | ✅ OK |
 | Full of Plants | 0 | 261 | 0 | 39 | 0 | 11 | 2026-04-13 | ✅ OK |
 | A Virtual Vegan | 1 | 262 | 3 | 35 | 1 | 4 | 2026-04-01 | ✅ OK |
@@ -120,13 +120,13 @@
 | The Whole Food Plant Based Cooking Show | 0 | 274 | 274 | 7 | 0 | 9 | 2026-04-07 | ✅ OK |
 | Healthy Little Vittles | 1 | 275 | 9 | 46 | 2 | 272 | 2026-04-09 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK |
 | Connoisseurus Veg | 3 | 281 | 0 | 33 | 1 | 0 | 2026-04-13 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 288 | 36 | 36 | 2 | 39 | 2026-04-07 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 304 | 2 | 22 | 1 | 1 | 2026-04-10 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 321 | 1 | 8 | 4 | 1 | 2026-04-13 | ✅ OK |
-| VegNews | 0 | 325 | 20 | 37 | 21 | 7 | 2026-04-13 | ✅ OK |
+| VegNews | 3 | 325 | 20 | 37 | 20 | 8 | 2026-04-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
@@ -143,7 +143,6 @@
 | Snixy Kitchen (Vegan Recipes) | 0 | 39 | 0 | 7 | 2 | 39 | 2025-11-21 | Skipped |
 | Justine Snacks | 0 | 47 | 0 | 0 | 0 | 0 | 2025-10-14 | Skipped |
 | Nadia's Healthy Kitchen (Vegan Recipes) | 0 | 49 | 11 | 7 | 2 | 3 | 2026-02-18 | Skipped |
-| A Couple Cooks | 0 | 50 | 0 | 11 | 0 | 0 | 2026-02-13 | Skipped |
 | Mouthwatering Vegan | 0 | 53 | 0 | 5 | 0 | 2 | 2021-04-06 | Skipped |
 | The Loopy Whisk (Vegan Recipes) | 0 | 88 | 10 | 32 | 1 | 87 | 2024-06-07 | Skipped |
 | Pinch of Yum | 0 | 93 | 0 | 18 | 0 | 0 | 2025-03-13 | Skipped |
