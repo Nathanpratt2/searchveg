@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-13 22:16:03
-**Total Run Time:** 8m 2s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-04-14 04:32:09
+**Total Run Time:** 7m 33s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20192 | 164 new today |
+| **Total Database** | 20194 | 165 new today |
 | **Blogs Monitored** | 121 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
-| **Trending Events** | 417 | Total recorded actions in database |
+| **Trending Events** | 418 | Total recorded actions in database |
 | **WFPB / GF** | 2534 / 2677 | 12% / 13% |
 | **Easy / Budget** | 4888 / 2057 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[My Favorite Vegan Ranch Dressing](https://www.theppk.com/2026/03/best-vegan-ranch-dressing/) | The Post-Punk Kitchen | **3.74** | *1.49* |
-| 2 |[Tofu cheesecake with berry lemon lavender syrup](https://www.reddit.com/r/veganrecipes/comments/1sk04ol/tofu_cheesecake_with_berry_lemon_lavender_syrup/) | Reddit | **3.53** | *1.40* |
-| 3 |[Best Vegan Lemon Curd Coffee Cake](https://veganyackattack.com/2026/04/12/best-vegan-lemon-curd-coffee-cake/) | Vegan Yack Attack | **3.53** | *1.40* |
-| 4 |[Homemade Vegan Boursin](https://www.plantpowercouple.com/recipes/vegan-boursin/) | Plant Power Couple | **2.62** | *1.04* |
-| 5 |[Gluten-Free Chocolate Strawberry Pie](https://vegnews.com/recipes/gluten-free-chocolate-strawberry-pie) | VegNews | **2.45** | *0.97* |
-| 6 |[Vegan Raspberry White Chocolate Muffins🩷sweet, tart, & simply scrumptious](https://www.reddit.com/r/veganrecipes/comments/1sinacl/vegan_raspberry_white_chocolate_muffinssweet_tart/) | Reddit | **1.64** | *0.65* |
-| 7 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **1.10** | *0.44* |
-| 8 |[Smoky Tofu Ground Beef](https://www.reddit.com/r/veganrecipes/comments/1shn9qt/smoky_tofu_ground_beef/) | Reddit | **1.10** | *0.44* |
+| 1 |[Comfort Rice Bowl with Golden Sauce](https://www.noracooks.com/comfort-rice-bowl/) | Nora Cooks | **3.85** | *1.53* |
+| 2 |[My Favorite Vegan Ranch Dressing](https://www.theppk.com/2026/03/best-vegan-ranch-dressing/) | The Post-Punk Kitchen | **3.32** | *1.32* |
+| 3 |[Tofu cheesecake with berry lemon lavender syrup](https://www.reddit.com/r/veganrecipes/comments/1sk04ol/tofu_cheesecake_with_berry_lemon_lavender_syrup/) | Reddit | **3.13** | *1.24* |
+| 4 |[Best Vegan Lemon Curd Coffee Cake](https://veganyackattack.com/2026/04/12/best-vegan-lemon-curd-coffee-cake/) | Vegan Yack Attack | **3.12** | *1.24* |
+| 5 |[Homemade Vegan Boursin](https://www.plantpowercouple.com/recipes/vegan-boursin/) | Plant Power Couple | **2.32** | *0.92* |
+| 6 |[Gluten-Free Chocolate Strawberry Pie](https://vegnews.com/recipes/gluten-free-chocolate-strawberry-pie) | VegNews | **2.17** | *0.86* |
+| 7 |[Vegan Raspberry White Chocolate Muffins🩷sweet, tart, & simply scrumptious](https://www.reddit.com/r/veganrecipes/comments/1sinacl/vegan_raspberry_white_chocolate_muffinssweet_tart/) | Reddit | **1.45** | *0.58* |
+| 8 |[No-Bake Mini Orange Cheesecakes](https://www.thelittleblogofvegan.com/2026/04/no-bake-mini-orange-cheesecakes.html) | The Little Blog of Vegan | **0.97** | *0.39* |
 
 ---
 
@@ -52,13 +52,13 @@
 | The Korean Vegan | 4 | 94 | 8 | 60 | 10 | 5 | 2026-04-01 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
-| Reddit | 3 | 120 | 1 | 15 | 0 | 1 | 2026-04-13 | ✅ OK (3) |
+| Reddit | 4 | 121 | 1 | 15 | 0 | 1 | 2026-04-14 | ✅ OK (4) |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 2 | 137 | 0 | 11 | 2 | 1 | 2026-03-26 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 138 | 0 | 11 | 2 | 1 | 2026-04-13 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 0 | 166 | 9 | 29 | 10 | 2 | 2026-04-11 | ✅ OK |
+| Steamy Vegan | 1 | 167 | 9 | 29 | 10 | 2 | 2026-04-11 | ✅ OK |
 | Dreena Burton | 0 | 168 | 168 | 11 | 18 | 41 | 2026-03-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
@@ -67,18 +67,18 @@
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Simple Vegan Blog | 2 | 187 | 7 | 38 | 15 | 4 | 2026-04-12 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
-| Nora Cooks | 7 | 194 | 14 | 27 | 13 | 5 | 2026-04-13 | ✅ OK |
+| Nora Cooks | 6 | 194 | 14 | 27 | 13 | 5 | 2026-04-13 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Burger Dude | 2 | 209 | 6 | 14 | 13 | 0 | 2026-04-13 | ✅ OK |
+| The Burger Dude | 2 | 210 | 6 | 14 | 13 | 0 | 2026-04-14 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-03-31 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 217 | 19 | 68 | 18 | 42 | 2026-03-11 | ✅ OK (3) |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Sweet Simple Vegan | 2 | 219 | 4 | 43 | 18 | 2 | 2026-04-13 | ✅ OK |
+| Sweet Simple Vegan | 1 | 219 | 4 | 43 | 18 | 2 | 2026-04-13 | ✅ OK |
 | Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The First Mess | 0 | 224 | 1 | 30 | 3 | 1 | 2026-04-01 | ✅ OK |
