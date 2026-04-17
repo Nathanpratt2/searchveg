@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-17 08:18:32
-**Total Run Time:** 7m 58s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-04-17 12:17:43
+**Total Run Time:** 8m 44s
+**Longest Step:** RSS: Make It Dairy Free (1m 6s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19970 | 177 new today |
+| **Total Database** | 19970 | 174 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 469 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **3.55** | *1.41* |
-| 2 |[PSA- if you have a sourdough starter you can use it like an omelette!](https://www.reddit.com/r/veganrecipes/comments/1slyepd/psa_if_you_have_a_sourdough_starter_you_can_use/) | Reddit | **2.19** | *0.87* |
-| 3 |[Healthy Chocolate Coconut Cookies](https://monkeyandmekitchenadventures.com/healthy-chocolate-coconut-cookies/) | Monkey & Me Kitchen Adventures | **1.74** | *0.69* |
-| 4 |[Unknown Recipe](https://www.acouplecooks.com/breakfast-cookies/) | Unknown Blog | **1.74** | *0.69* |
-| 5 |[Creamy Vegan Dill Pasta with Peas & Asparagus](https://www.connoisseurusveg.com/dill-pasta/) | Connoisseurus Veg | **1.70** | *0.67* |
-| 6 |[Roasted Asparagus Salad with Ginger Lime Dressing & Peanuts](https://thefirstmess.com/2025/05/07/roasted-asparagus-salad-ginger-lime-dressing-peanuts/) | The First Mess | **1.70** | *0.67* |
-| 7 |[Power Up Your Plant-Based Plate: 10 Protein-Packed Vegan Foods](https://dreenaburton.com/protein-rich-foods/) | Dreena Burton | **1.46** | *0.58* |
-| 8 |[Sheet Pan Black Bean & Corn Quesadillas (Easy No-Chop Recipe!)](https://frommybowl.com/sheet-pan-black-bean-corn-quesadillas/?utm_source=rss&utm_medium=rss&utm_campaign=sheet-pan-black-bean-corn-quesadillas) | From My Bowl | **1.17** | *0.46* |
+| 1 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **3.29** | *1.30* |
+| 2 |[PSA- if you have a sourdough starter you can use it like an omelette!](https://www.reddit.com/r/veganrecipes/comments/1slyepd/psa_if_you_have_a_sourdough_starter_you_can_use/) | Reddit | **2.03** | *0.80* |
+| 3 |[Healthy Chocolate Coconut Cookies](https://monkeyandmekitchenadventures.com/healthy-chocolate-coconut-cookies/) | Monkey & Me Kitchen Adventures | **1.61** | *0.64* |
+| 4 |[Unknown Recipe](https://www.acouplecooks.com/breakfast-cookies/) | Unknown Blog | **1.61** | *0.64* |
+| 5 |[Creamy Vegan Dill Pasta with Peas & Asparagus](https://www.connoisseurusveg.com/dill-pasta/) | Connoisseurus Veg | **1.58** | *0.63* |
+| 6 |[Roasted Asparagus Salad with Ginger Lime Dressing & Peanuts](https://thefirstmess.com/2025/05/07/roasted-asparagus-salad-ginger-lime-dressing-peanuts/) | The First Mess | **1.57** | *0.62* |
+| 7 |[Power Up Your Plant-Based Plate: 10 Protein-Packed Vegan Foods](https://dreenaburton.com/protein-rich-foods/) | Dreena Burton | **1.35** | *0.54* |
+| 8 |[Sheet Pan Black Bean & Corn Quesadillas (Easy No-Chop Recipe!)](https://frommybowl.com/sheet-pan-black-bean-corn-quesadillas/?utm_source=rss&utm_medium=rss&utm_campaign=sheet-pan-black-bean-corn-quesadillas) | From My Bowl | **1.08** | *0.43* |
 
 ---
 
@@ -55,7 +55,7 @@
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Reddit | 2 | 138 | 1 | 17 | 0 | 1 | 2026-04-17 | ✅ OK (2) |
+| Reddit | 1 | 138 | 1 | 17 | 0 | 1 | 2026-04-17 | ✅ OK (1) |
 | Sarah's Vegan Kitchen | 3 | 138 | 0 | 11 | 2 | 1 | 2026-04-13 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 155 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
@@ -99,7 +99,7 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 246 | 1 | 83 | 7 | 218 | 2026-04-15 | ✅ OK |
-| Make It Dairy Free | 2 | 248 | 4 | 40 | 2 | 3 | 2026-04-12 | ✅ OK |
+| Make It Dairy Free | 0 | 247 | 4 | 40 | 2 | 3 | 2026-04-12 | ❌ Blocked/ConnErr |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
