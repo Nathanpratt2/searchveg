@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-18 07:47:28
-**Total Run Time:** 7m 45s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-04-18 12:04:06
+**Total Run Time:** 7m 44s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19984 | 174 new today |
+| **Total Database** | 19984 | 175 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 479 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Smokey Crispy Tempeh Bacon](https://www.mouthwateringvegan.com/2020/02/10/smokey-crispy-tempeh-bacon/) | Mouthwatering Vegan | **4.67** | *1.85* |
-| 2 |[Vegan Lemon Blueberry Bread 🍋 🫐 A simply scrumptious quick bread loaf topped with a citrusy lemony glaze](https://www.reddit.com/r/veganrecipes/comments/1snsowr/vegan_lemon_blueberry_bread_a_simply_scrumptious/) | Reddit | **3.42** | *1.36* |
-| 3 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **2.26** | *0.90* |
-| 4 |[PSA- if you have a sourdough starter you can use it like an omelette!](https://www.reddit.com/r/veganrecipes/comments/1slyepd/psa_if_you_have_a_sourdough_starter_you_can_use/) | Reddit | **1.39** | *0.55* |
-| 5 |[Healthy Chocolate Coconut Cookies](https://monkeyandmekitchenadventures.com/healthy-chocolate-coconut-cookies/) | Monkey & Me Kitchen Adventures | **1.11** | *0.44* |
-| 6 |[Unknown Recipe](https://www.acouplecooks.com/breakfast-cookies/) | Unknown Blog | **1.11** | *0.44* |
-| 7 |[Creamy Vegan Dill Pasta with Peas & Asparagus](https://www.connoisseurusveg.com/dill-pasta/) | Connoisseurus Veg | **1.08** | *0.43* |
-| 8 |[Roasted Asparagus Salad with Ginger Lime Dressing & Peanuts](https://thefirstmess.com/2025/05/07/roasted-asparagus-salad-ginger-lime-dressing-peanuts/) | The First Mess | **1.08** | *0.43* |
+| 1 |[Smokey Crispy Tempeh Bacon](https://www.mouthwateringvegan.com/2020/02/10/smokey-crispy-tempeh-bacon/) | Mouthwatering Vegan | **4.30** | *1.71* |
+| 2 |[Vegan Lemon Blueberry Bread 🍋 🫐 A simply scrumptious quick bread loaf topped with a citrusy lemony glaze](https://www.reddit.com/r/veganrecipes/comments/1snsowr/vegan_lemon_blueberry_bread_a_simply_scrumptious/) | Reddit | **3.15** | *1.25* |
+| 3 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **2.08** | *0.82* |
+| 4 |[PSA- if you have a sourdough starter you can use it like an omelette!](https://www.reddit.com/r/veganrecipes/comments/1slyepd/psa_if_you_have_a_sourdough_starter_you_can_use/) | Reddit | **1.28** | *0.51* |
+| 5 |[Healthy Chocolate Coconut Cookies](https://monkeyandmekitchenadventures.com/healthy-chocolate-coconut-cookies/) | Monkey & Me Kitchen Adventures | **1.02** | *0.41* |
+| 6 |[Unknown Recipe](https://www.acouplecooks.com/breakfast-cookies/) | Unknown Blog | **1.02** | *0.40* |
+| 7 |[Creamy Vegan Dill Pasta with Peas & Asparagus](https://www.connoisseurusveg.com/dill-pasta/) | Connoisseurus Veg | **1.00** | *0.40* |
+| 8 |[Roasted Asparagus Salad with Ginger Lime Dressing & Peanuts](https://thefirstmess.com/2025/05/07/roasted-asparagus-salad-ginger-lime-dressing-peanuts/) | The First Mess | **1.00** | *0.40* |
 
 ---
 
@@ -59,8 +59,8 @@
 | Reddit | 0 | 145 | 1 | 17 | 1 | 1 | 2026-04-18 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 0 | 167 | 9 | 29 | 10 | 2 | 2026-04-15 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
+| Steamy Vegan | 1 | 168 | 9 | 29 | 10 | 2 | 2026-04-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 0 | 22 | 1 | 30 | 2026-04-16 | ✅ OK |
