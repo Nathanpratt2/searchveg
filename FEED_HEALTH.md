@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-18 17:11:36
-**Total Run Time:** 8m 1s
+**Last Run:** 2026-04-18 22:04:51
+**Total Run Time:** 8m 7s
 **Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19986 | 177 new today |
+| **Total Database** | 19989 | 182 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 479 | Total recorded actions in database |
+| **Trending Events** | 499 | Total recorded actions in database |
 | **WFPB / GF** | 2537 / 2681 | 12% / 13% |
-| **Easy / Budget** | 4833 / 2056 | 24% / 10% |
+| **Easy / Budget** | 4834 / 2056 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Smokey Crispy Tempeh Bacon](https://www.mouthwateringvegan.com/2020/02/10/smokey-crispy-tempeh-bacon/) | Mouthwatering Vegan | **3.89** | *1.54* |
-| 2 |[Vegan Lemon Blueberry Bread 🍋 🫐 A simply scrumptious quick bread loaf topped with a citrusy lemony glaze](https://www.reddit.com/r/veganrecipes/comments/1snsowr/vegan_lemon_blueberry_bread_a_simply_scrumptious/) | Reddit | **2.85** | *1.13* |
-| 3 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **1.88** | *0.75* |
-| 4 |[PSA- if you have a sourdough starter you can use it like an omelette!](https://www.reddit.com/r/veganrecipes/comments/1slyepd/psa_if_you_have_a_sourdough_starter_you_can_use/) | Reddit | **1.16** | *0.46* |
-| 5 |[Healthy Chocolate Coconut Cookies](https://monkeyandmekitchenadventures.com/healthy-chocolate-coconut-cookies/) | Monkey & Me Kitchen Adventures | **0.92** | *0.37* |
-| 6 |[Unknown Recipe](https://www.acouplecooks.com/breakfast-cookies/) | Unknown Blog | **0.92** | *0.37* |
-| 7 |[Creamy Vegan Dill Pasta with Peas & Asparagus](https://www.connoisseurusveg.com/dill-pasta/) | Connoisseurus Veg | **0.90** | *0.36* |
-| 8 |[Roasted Asparagus Salad with Ginger Lime Dressing & Peanuts](https://thefirstmess.com/2025/05/07/roasted-asparagus-salad-ginger-lime-dressing-peanuts/) | The First Mess | **0.90** | *0.36* |
+| 1 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **5.88** | *2.33* |
+| 2 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **5.88** | *2.33* |
+| 3 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **3.87** | *1.53* |
+| 4 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **3.68** | *1.46* |
+| 5 |[Pearl Couscous Salad with Snap Peas and Champagne Vinaigrette](https://sarahsvegankitchen.com/recipes/spring-couscous-salad/) | Sarah's Vegan Kitchen | **3.68** | *1.46* |
+| 6 |[Smokey Crispy Tempeh Bacon](https://www.mouthwateringvegan.com/2020/02/10/smokey-crispy-tempeh-bacon/) | Mouthwatering Vegan | **3.54** | *1.41* |
+| 7 |[Vegan Lemon Blueberry Bread 🍋 🫐 A simply scrumptious quick bread loaf topped with a citrusy lemony glaze](https://www.reddit.com/r/veganrecipes/comments/1snsowr/vegan_lemon_blueberry_bread_a_simply_scrumptious/) | Reddit | **2.60** | *1.03* |
+| 8 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **1.71** | *0.68* |
 
 ---
 
@@ -55,7 +55,7 @@
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 140 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
+| Sarah's Vegan Kitchen | 5 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Reddit | 0 | 145 | 1 | 17 | 1 | 1 | 2026-04-18 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
@@ -74,13 +74,13 @@
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Burger Dude | 1 | 211 | 6 | 14 | 13 | 0 | 2026-04-16 | ✅ OK |
+| The Burger Dude | 2 | 212 | 6 | 14 | 13 | 0 | 2026-04-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-04-14 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 220 | 4 | 43 | 18 | 2 | 2026-04-17 | ✅ OK |
-| Cadry's Kitchen | 7 | 221 | 11 | 78 | 21 | 0 | 2026-03-28 | ✅ OK |
+| Cadry's Kitchen | 7 | 222 | 11 | 79 | 21 | 0 | 2026-04-18 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 10 | 225 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The First Mess | 0 | 225 | 1 | 30 | 3 | 1 | 2026-04-15 | ✅ OK |
@@ -114,7 +114,7 @@
 | A Virtual Vegan | 1 | 263 | 3 | 35 | 1 | 4 | 2026-04-15 | ✅ OK |
 | Bianca Zapatka | 0 | 265 | 22 | 118 | 43 | 3 | 2026-04-01 | ✅ OK |
 | Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
-| The Plant-Based RD | 1 | 267 | 4 | 17 | 1 | 0 | 2026-04-18 | ✅ OK |
+| The Plant-Based RD | 0 | 267 | 4 | 17 | 1 | 0 | 2026-04-18 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Plant-Based on a Budget | 1 | 271 | 16 | 66 | 271 | 1 | 2026-04-16 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 275 | 275 | 7 | 0 | 9 | 2026-04-15 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 3 | 282 | 0 | 33 | 1 | 0 | 2026-04-17 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 289 | 36 | 36 | 2 | 39 | 2026-04-14 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 309 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
-| The Post-Punk Kitchen | 0 | 325 | 1 | 9 | 5 | 1 | 2026-04-17 | ✅ OK |
-| VegNews | 0 | 325 | 20 | 37 | 18 | 8 | 2026-04-17 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 309 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 325 | 1 | 9 | 5 | 1 | 2026-04-18 | ✅ OK |
+| VegNews | 3 | 325 | 20 | 37 | 18 | 8 | 2026-04-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
