@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-04-19 12:05:12
-**Total Run Time:** 8m 11s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
+**Last Run:** 2026-04-19 17:11:12
+**Total Run Time:** 7m 33s
+**Longest Step:** HTML: Pick Up Limes (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19996 | 176 new today |
+| **Total Database** | 19997 | 173 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 535 | Total recorded actions in database |
-| **WFPB / GF** | 2537 / 2681 | 12% / 13% |
+| **WFPB / GF** | 2535 / 2681 | 12% / 13% |
 | **Easy / Budget** | 4835 / 2056 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **8.87** | *3.52* |
-| 2 |[Calendula Body Balm](https://www.gazoakleychef.com/recipes/144618-2/) | Gaz Oakley | **5.99** | *2.38* |
-| 3 |[Roasted Pumpkin Seed Butter »](https://earthtoveg.com/roasted-pumpkin-seed-butter/) | Earth to Veg | **4.84** | *1.92* |
-| 4 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **4.49** | *1.78* |
-| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **4.49** | *1.78* |
-| 6 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **3.40** | *1.35* |
-| 7 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **2.95** | *1.17* |
-| 8 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **2.81** | *1.12* |
+| 1 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **8.04** | *3.19* |
+| 2 |[Calendula Body Balm](https://www.gazoakleychef.com/recipes/144618-2/) | Gaz Oakley | **5.43** | *2.15* |
+| 3 |[Roasted Pumpkin Seed Butter »](https://earthtoveg.com/roasted-pumpkin-seed-butter/) | Earth to Veg | **4.39** | *1.74* |
+| 4 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **4.07** | *1.62* |
+| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **4.07** | *1.61* |
+| 6 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **3.09** | *1.22* |
+| 7 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **2.68** | *1.06* |
+| 8 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **2.55** | *1.01* |
 
 ---
 
@@ -60,7 +60,7 @@
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
 | Earth to Veg | 1 | 155 | 6 | 26 | 16 | 0 | 2026-04-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| Steamy Vegan | 1 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
+| Steamy Vegan | 0 | 168 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 0 | 22 | 1 | 30 | 2026-04-16 | ✅ OK |
@@ -98,7 +98,7 @@
 | Eat Figs, Not Pigs | 6 | 242 | 1 | 29 | 2 | 0 | 2026-04-16 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 7 | 247 | 1 | 84 | 7 | 218 | 2026-04-19 | ✅ OK |
+| It Doesn't Taste Like Chicken | 6 | 247 | 1 | 84 | 7 | 218 | 2026-04-19 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
@@ -120,13 +120,13 @@
 | The Whole Food Plant Based Cooking Show | 0 | 275 | 275 | 7 | 0 | 9 | 2026-04-15 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Healthy Little Vittles | 1 | 276 | 9 | 46 | 2 | 273 | 2026-04-16 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK |
 | Connoisseurus Veg | 3 | 282 | 0 | 33 | 1 | 0 | 2026-04-17 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 289 | 36 | 36 | 2 | 39 | 2026-04-14 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 309 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 310 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 325 | 1 | 9 | 5 | 1 | 2026-04-18 | ✅ OK |
-| VegNews | 0 | 325 | 20 | 37 | 18 | 8 | 2026-04-18 | ✅ OK |
+| VegNews | 4 | 325 | 18 | 37 | 18 | 8 | 2026-04-19 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
