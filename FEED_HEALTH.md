@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-19 04:38:30
-**Total Run Time:** 8m 24s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-04-19 08:00:24
+**Total Run Time:** 7m 49s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 33s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19993 | 179 new today |
+| **Total Database** | 19995 | 177 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 503 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **10.23** | *4.06* |
-| 2 |[Roasted Pumpkin Seed Butter »](https://earthtoveg.com/roasted-pumpkin-seed-butter/) | Earth to Veg | **5.59** | *2.22* |
-| 3 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **5.18** | *2.06* |
-| 4 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **5.18** | *2.06* |
-| 5 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **3.93** | *1.56* |
-| 6 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **3.41** | *1.35* |
-| 7 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **3.25** | *1.29* |
-| 8 |[Pearl Couscous Salad with Snap Peas and Champagne Vinaigrette](https://sarahsvegankitchen.com/recipes/spring-couscous-salad/) | Sarah's Vegan Kitchen | **3.24** | *1.29* |
+| 1 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **9.59** | *3.81* |
+| 2 |[Roasted Pumpkin Seed Butter »](https://earthtoveg.com/roasted-pumpkin-seed-butter/) | Earth to Veg | **5.24** | *2.08* |
+| 3 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **4.86** | *1.93* |
+| 4 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **4.86** | *1.93* |
+| 5 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **3.68** | *1.46* |
+| 6 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **3.20** | *1.27* |
+| 7 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **3.04** | *1.21* |
+| 8 |[Pearl Couscous Salad with Snap Peas and Champagne Vinaigrette](https://sarahsvegankitchen.com/recipes/spring-couscous-salad/) | Sarah's Vegan Kitchen | **3.04** | *1.21* |
 
 ---
 
@@ -56,11 +56,11 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
-| Reddit | 0 | 145 | 1 | 17 | 1 | 1 | 2026-04-18 | ✅ OK |
-| Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
+| Reddit | 1 | 146 | 1 | 17 | 1 | 1 | 2026-04-19 | ✅ OK (1) |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
+| Earth to Veg | 2 | 155 | 6 | 26 | 16 | 0 | 2026-04-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| Steamy Vegan | 2 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
+| Steamy Vegan | 1 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 0 | 22 | 1 | 30 | 2026-04-16 | ✅ OK |
@@ -102,7 +102,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
-| Make It Dairy Free | 5 | 251 | 4 | 40 | 2 | 3 | 2026-04-19 | ✅ OK |
+| Make It Dairy Free | 2 | 251 | 4 | 40 | 2 | 3 | 2026-04-19 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-15 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
