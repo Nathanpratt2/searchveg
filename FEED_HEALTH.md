@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-18 22:04:51
-**Total Run Time:** 8m 7s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-04-19 04:38:30
+**Total Run Time:** 8m 24s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19989 | 182 new today |
+| **Total Database** | 19993 | 179 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 499 | Total recorded actions in database |
+| **Trending Events** | 503 | Total recorded actions in database |
 | **WFPB / GF** | 2537 / 2681 | 12% / 13% |
 | **Easy / Budget** | 4834 / 2056 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **5.88** | *2.33* |
-| 2 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **5.88** | *2.33* |
-| 3 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **3.87** | *1.53* |
-| 4 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **3.68** | *1.46* |
-| 5 |[Pearl Couscous Salad with Snap Peas and Champagne Vinaigrette](https://sarahsvegankitchen.com/recipes/spring-couscous-salad/) | Sarah's Vegan Kitchen | **3.68** | *1.46* |
-| 6 |[Smokey Crispy Tempeh Bacon](https://www.mouthwateringvegan.com/2020/02/10/smokey-crispy-tempeh-bacon/) | Mouthwatering Vegan | **3.54** | *1.41* |
-| 7 |[Vegan Lemon Blueberry Bread 🍋 🫐 A simply scrumptious quick bread loaf topped with a citrusy lemony glaze](https://www.reddit.com/r/veganrecipes/comments/1snsowr/vegan_lemon_blueberry_bread_a_simply_scrumptious/) | Reddit | **2.60** | *1.03* |
-| 8 |[Shredded Tofu Chicken](https://theeburgerdude.com/shredded-tofu-chicken/) | The Burger Dude | **1.71** | *0.68* |
+| 1 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **10.23** | *4.06* |
+| 2 |[Roasted Pumpkin Seed Butter »](https://earthtoveg.com/roasted-pumpkin-seed-butter/) | Earth to Veg | **5.59** | *2.22* |
+| 3 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **5.18** | *2.06* |
+| 4 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **5.18** | *2.06* |
+| 5 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **3.93** | *1.56* |
+| 6 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **3.41** | *1.35* |
+| 7 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **3.25** | *1.29* |
+| 8 |[Pearl Couscous Salad with Snap Peas and Champagne Vinaigrette](https://sarahsvegankitchen.com/recipes/spring-couscous-salad/) | Sarah's Vegan Kitchen | **3.24** | *1.29* |
 
 ---
 
@@ -55,12 +55,12 @@
 | The Hidden Veggies | 2 | 118 | 1 | 10 | 118 | 0 | 2026-04-10 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 5 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
+| Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Reddit | 0 | 145 | 1 | 17 | 1 | 1 | 2026-04-18 | ✅ OK |
 | Earth to Veg | 1 | 154 | 6 | 26 | 16 | 0 | 2026-04-05 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Steamy Vegan | 0 | 167 | 9 | 29 | 10 | 2 | 2026-04-15 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
+| Steamy Vegan | 2 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 0 | 22 | 1 | 30 | 2026-04-16 | ✅ OK |
@@ -74,13 +74,13 @@
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Burger Dude | 2 | 212 | 6 | 14 | 13 | 0 | 2026-04-18 | ✅ OK |
+| The Burger Dude | 1 | 212 | 6 | 14 | 13 | 0 | 2026-04-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-04-14 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 220 | 4 | 43 | 18 | 2 | 2026-04-17 | ✅ OK |
-| Cadry's Kitchen | 7 | 222 | 11 | 79 | 21 | 0 | 2026-04-18 | ✅ OK |
+| Cadry's Kitchen | 6 | 222 | 11 | 79 | 21 | 0 | 2026-04-18 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 10 | 225 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The First Mess | 0 | 225 | 1 | 30 | 3 | 1 | 2026-04-15 | ✅ OK |
@@ -99,10 +99,10 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 246 | 1 | 83 | 7 | 218 | 2026-04-15 | ✅ OK |
-| Make It Dairy Free | 2 | 248 | 4 | 40 | 2 | 3 | 2026-04-12 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
+| Make It Dairy Free | 5 | 251 | 4 | 40 | 2 | 3 | 2026-04-19 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-15 | ✅ OK |
 | Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
@@ -125,8 +125,8 @@
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 289 | 36 | 36 | 2 | 39 | 2026-04-14 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 309 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 325 | 1 | 9 | 5 | 1 | 2026-04-18 | ✅ OK |
-| VegNews | 3 | 325 | 20 | 37 | 18 | 8 | 2026-04-18 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 325 | 1 | 9 | 5 | 1 | 2026-04-18 | ✅ OK |
+| VegNews | 0 | 325 | 20 | 37 | 18 | 8 | 2026-04-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
