@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-20 08:40:13
-**Total Run Time:** 7m 54s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
+**Last Run:** 2026-04-20 12:53:08
+**Total Run Time:** 8m 9s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20002 | 179 new today |
+| **Total Database** | 20009 | 184 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 645 | Total recorded actions in database |
-| **WFPB / GF** | 2535 / 2682 | 12% / 13% |
-| **Easy / Budget** | 4838 / 2057 | 24% / 10% |
+| **Trending Events** | 655 | Total recorded actions in database |
+| **WFPB / GF** | 2535 / 2683 | 12% / 13% |
+| **Easy / Budget** | 4839 / 2057 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **8.83** | *3.50* |
-| 2 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **5.97** | *2.37* |
-| 3 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **5.64** | *2.24* |
-| 4 |[Will Sesame Cheese?](https://www.marystestkitchen.com/will-sesame-cheese/) | Mary's Test Kitchen | **5.43** | *2.16* |
-| 5 |[Cashew Provolone Slices (Homemade Vegan Cheese)](https://www.theppk.com/2026/04/vegan-cashew-provolone-recipe/) | The Post-Punk Kitchen | **5.43** | *2.15* |
-| 6 |[Vegan Bologna From Red Lentils](https://elavegan.com/vegan-bologna/) | Elavegan | **5.41** | *2.15* |
-| 7 |[Meaty Vegan Burger Patties (Gluten-Free!)](https://fullofplants.com/meaty-vegan-burger-patties-gluten-free/?adt_ei={$email}) | Full of Plants | **5.40** | *2.14* |
-| 8 |[Vegan Lemon Bars (Gluten-Free, Eggless)](https://strengthandsunshine.com/vegan-lemon-bars-gluten-free/) | Strength and Sunshine | **5.39** | *2.14* |
+| 1 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **11.04** | *4.38* |
+| 2 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **8.14** | *3.23* |
+| 3 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **5.83** | *2.31* |
+| 4 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **5.50** | *2.18* |
+| 5 |[Will Sesame Cheese?](https://www.marystestkitchen.com/will-sesame-cheese/) | Mary's Test Kitchen | **5.01** | *1.99* |
+| 6 |[Cashew Provolone Slices (Homemade Vegan Cheese)](https://www.theppk.com/2026/04/vegan-cashew-provolone-recipe/) | The Post-Punk Kitchen | **5.01** | *1.99* |
+| 7 |[Vegan Bologna From Red Lentils](https://elavegan.com/vegan-bologna/) | Elavegan | **4.98** | *1.98* |
+| 8 |[Meaty Vegan Burger Patties (Gluten-Free!)](https://fullofplants.com/meaty-vegan-burger-patties-gluten-free/?adt_ei={$email}) | Full of Plants | **4.98** | *1.98* |
 
 ---
 
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
-| Reddit | 3 | 148 | 1 | 18 | 1 | 1 | 2026-04-20 | ✅ OK (3) |
+| Reddit | 7 | 153 | 1 | 18 | 1 | 1 | 2026-04-20 | ✅ OK (7) |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
 | Earth to Veg | 1 | 155 | 6 | 26 | 16 | 0 | 2026-04-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
@@ -92,7 +92,7 @@
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 239 | 30 | 52 | 0 | 62 | 2026-04-16 | ✅ OK |
-| Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-02-27 | ✅ OK (4) |
+| Pick Up Limes | 4 | 239 | 22 | 26 | 28 | 1 | 2026-03-01 | ✅ OK (4) |
 | Running on Real Food | 1 | 239 | 239 | 25 | 2 | 8 | 2026-04-15 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
@@ -112,16 +112,16 @@
 | Monkey & Me Kitchen Adventures | 1 | 261 | 37 | 72 | 3 | 0 | 2026-04-16 | ✅ OK |
 | Full of Plants | 0 | 262 | 0 | 39 | 0 | 12 | 2026-04-16 | ✅ OK |
 | A Virtual Vegan | 1 | 263 | 3 | 35 | 1 | 4 | 2026-04-15 | ✅ OK |
-| Bianca Zapatka | 0 | 265 | 22 | 118 | 43 | 3 | 2026-04-01 | ✅ OK |
+| Bianca Zapatka | 1 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
 | The Plant-Based RD | 0 | 267 | 4 | 17 | 1 | 0 | 2026-04-18 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| Plant-Based on a Budget | 2 | 272 | 16 | 66 | 272 | 1 | 2026-04-20 | ✅ OK |
+| Plant-Based on a Budget | 1 | 272 | 16 | 66 | 272 | 1 | 2026-04-20 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 275 | 275 | 7 | 0 | 9 | 2026-04-15 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Healthy Little Vittles | 1 | 276 | 9 | 46 | 2 | 273 | 2026-04-16 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK (6) |
-| Connoisseurus Veg | 3 | 282 | 0 | 33 | 1 | 0 | 2026-04-17 | ✅ OK |
+| Connoisseurus Veg | 4 | 283 | 0 | 33 | 1 | 0 | 2026-04-20 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 289 | 36 | 36 | 2 | 39 | 2026-04-14 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 310 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
