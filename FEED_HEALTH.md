@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-19 22:04:59
-**Total Run Time:** 8m 7s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 46s)
+**Last Run:** 2026-04-20 04:46:19
+**Total Run Time:** 7m 57s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 19998 | 177 new today |
+| **Total Database** | 20000 | 180 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 535 | Total recorded actions in database |
-| **WFPB / GF** | 2535 / 2681 | 12% / 13% |
-| **Easy / Budget** | 4836 / 2056 | 24% / 10% |
+| **Trending Events** | 636 | Total recorded actions in database |
+| **WFPB / GF** | 2535 / 2682 | 12% / 13% |
+| **Easy / Budget** | 4837 / 2056 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **7.31** | *2.90* |
-| 2 |[Calendula Body Balm](https://www.gazoakleychef.com/recipes/144618-2/) | Gaz Oakley | **4.94** | *1.96* |
-| 3 |[Roasted Pumpkin Seed Butter »](https://earthtoveg.com/roasted-pumpkin-seed-butter/) | Earth to Veg | **3.99** | *1.58* |
-| 4 |[Rhubarb Crumble Cake – Grandma’s Tray Bake Recipe (Vegan)](https://biancazapatka.com/en/rhubarb-crumble-cake/) | Bianca Zapatka | **3.70** | *1.47* |
-| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **3.70** | *1.47* |
-| 6 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **2.81** | *1.11* |
-| 7 |[The cost of Tofurky is too damn high!](https://www.reddit.com/r/veganrecipes/comments/1sogsas/the_cost_of_tofurky_is_too_damn_high/) | Reddit | **2.44** | *0.97* |
-| 8 |[Chipotle Dense Bean Salad](https://runningonrealfood.com/chipotle-dense-bean-salad/) | Running on Real Food | **2.32** | *0.92* |
+| 1 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **9.51** | *3.78* |
+| 2 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **6.43** | *2.55* |
+| 3 |[Will Sesame Cheese?](https://www.marystestkitchen.com/will-sesame-cheese/) | Mary's Test Kitchen | **5.85** | *2.32* |
+| 4 |[Cashew Provolone Slices (Homemade Vegan Cheese)](https://www.theppk.com/2026/04/vegan-cashew-provolone-recipe/) | The Post-Punk Kitchen | **5.85** | *2.32* |
+| 5 |[Vegan Bologna From Red Lentils](https://elavegan.com/vegan-bologna/) | Elavegan | **5.83** | *2.31* |
+| 6 |[Meaty Vegan Burger Patties (Gluten-Free!)](https://fullofplants.com/meaty-vegan-burger-patties-gluten-free/?adt_ei={$email}) | Full of Plants | **5.82** | *2.31* |
+| 7 |[Vegan Lemon Bars (Gluten-Free, Eggless)](https://strengthandsunshine.com/vegan-lemon-bars-gluten-free/) | Strength and Sunshine | **5.81** | *2.30* |
+| 8 |[Calendula Body Balm](https://www.gazoakleychef.com/recipes/144618-2/) | Gaz Oakley | **4.34** | *1.72* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Mary's Test Kitchen | 3 | 11 | 0 | 0 | 1 | 0 | 2026-04-02 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
-| The Banana Diaries | 2 | 18 | 0 | 3 | 2 | 0 | 2026-04-19 | ✅ OK |
+| The Banana Diaries | 1 | 18 | 0 | 3 | 2 | 0 | 2026-04-19 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 3 | 0 | 0 | 2026-04-16 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 24 | 0 | 2 | 0 | 1 | 2026-04-07 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
@@ -56,11 +56,11 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
-| Reddit | 1 | 147 | 1 | 17 | 1 | 1 | 2026-04-19 | ✅ OK (1) |
+| Reddit | 2 | 147 | 1 | 17 | 1 | 1 | 2026-04-19 | ✅ OK (2) |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
 | Earth to Veg | 1 | 155 | 6 | 26 | 16 | 0 | 2026-04-19 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| Steamy Vegan | 0 | 168 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
+| Steamy Vegan | 1 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 0 | 22 | 1 | 30 | 2026-04-16 | ✅ OK |
@@ -105,8 +105,8 @@
 | Make It Dairy Free | 2 | 251 | 4 | 40 | 2 | 3 | 2026-04-19 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 58 | 41 | 73 | 2026-04-15 | ✅ OK |
-| Veggiekins | 0 | 253 | 35 | 253 | 0 | 250 | 2026-03-20 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
+| Veggiekins | 1 | 254 | 35 | 254 | 0 | 251 | 2026-04-20 | ✅ OK |
 | My Darling Vegan | 6 | 255 | 1 | 30 | 4 | 12 | 2026-04-07 | ✅ OK |
 | From My Bowl | 0 | 257 | 3 | 35 | 3 | 5 | 2026-04-14 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 261 | 37 | 72 | 3 | 0 | 2026-04-16 | ✅ OK |
@@ -125,7 +125,7 @@
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 289 | 36 | 36 | 2 | 39 | 2026-04-14 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 310 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
-| The Post-Punk Kitchen | 0 | 325 | 1 | 9 | 5 | 1 | 2026-04-18 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 325 | 1 | 9 | 5 | 1 | 2026-04-19 | ✅ OK |
 | VegNews | 0 | 325 | 18 | 37 | 18 | 8 | 2026-04-19 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
