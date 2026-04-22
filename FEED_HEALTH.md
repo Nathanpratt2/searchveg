@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-22 12:20:18
-**Total Run Time:** 7m 34s
-**Longest Step:** HTML: Pick Up Limes (0m 30s)
+**Last Run:** 2026-04-22 17:39:13
+**Total Run Time:** 7m 43s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 47s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20034 | 171 new today |
+| **Total Database** | 20036 | 178 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 679 | Total recorded actions in database |
-| **WFPB / GF** | 2536 / 2684 | 12% / 13% |
-| **Easy / Budget** | 4844 / 2057 | 24% / 10% |
+| **WFPB / GF** | 2537 / 2685 | 12% / 13% |
+| **Easy / Budget** | 4847 / 2056 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **4.69** | *1.86* |
-| 2 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **4.67** | *1.86* |
-| 3 |[Easy Black Bean Dip](https://www.noracooks.com/black-bean-dip/) | Nora Cooks | **4.67** | *1.85* |
-| 4 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **4.43** | *1.76* |
-| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **3.26** | *1.30* |
-| 6 |[Vegan Biscoff Sheet Cake](https://www.thelittleblogofvegan.com/2026/04/vegan-biscoff-sheet-cake.html) | The Little Blog of Vegan | **3.12** | *1.24* |
-| 7 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **2.34** | *0.93* |
-| 8 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **2.21** | *0.88* |
+| 1 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **4.24** | *1.68* |
+| 2 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **4.22** | *1.67* |
+| 3 |[Easy Black Bean Dip](https://www.noracooks.com/black-bean-dip/) | Nora Cooks | **4.22** | *1.67* |
+| 4 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **4.00** | *1.59* |
+| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **2.95** | *1.17* |
+| 6 |[Vegan Biscoff Sheet Cake](https://www.thelittleblogofvegan.com/2026/04/vegan-biscoff-sheet-cake.html) | The Little Blog of Vegan | **2.82** | *1.12* |
+| 7 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **2.11** | *0.84* |
+| 8 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **1.99** | *0.79* |
 
 ---
 
@@ -40,13 +40,13 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
 | The Banana Diaries | 1 | 18 | 0 | 3 | 2 | 0 | 2026-04-19 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 3 | 0 | 0 | 2026-04-14 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 4 | 0 | 0 | 2026-04-22 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 25 | 0 | 2 | 0 | 1 | 2026-04-21 | ✅ OK |
 | PlantYou | 1 | 25 | 25 | 6 | 2 | 0 | 2026-04-12 | ✅ OK |
 | Dr. Vegan | 0 | 26 | 4 | 26 | 8 | 0 | 2026-04-21 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
-| Vegan Richa GF | 2 | 34 | 1 | 9 | 7 | 34 | 2026-04-22 | ✅ OK |
+| Vegan Richa GF | 1 | 34 | 1 | 9 | 7 | 34 | 2026-04-22 | ✅ OK |
 | Jessica in the Kitchen | 2 | 37 | 1 | 5 | 1 | 2 | 2026-04-21 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -58,12 +58,12 @@
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
 | Earth to Veg | 1 | 155 | 6 | 26 | 16 | 0 | 2026-04-19 | ✅ OK |
-| Reddit | 1 | 161 | 1 | 18 | 1 | 1 | 2026-04-22 | ✅ OK (1) |
+| Reddit | 2 | 162 | 1 | 19 | 1 | 1 | 2026-04-22 | ✅ OK (2) |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| Steamy Vegan | 1 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
+| Steamy Vegan | 0 | 168 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 12 | 180 | 0 | 22 | 1 | 30 | 2026-04-22 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 180 | 0 | 22 | 1 | 30 | 2026-04-22 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Little Blog of Vegan | 2 | 187 | 0 | 36 | 0 | 1 | 2026-04-21 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -72,7 +72,7 @@
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
-| Elavegan | 0 | 206 | 5 | 37 | 2 | 198 | 2026-04-05 | ✅ OK |
+| Elavegan | 1 | 207 | 5 | 38 | 2 | 199 | 2026-04-22 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Burger Dude | 1 | 212 | 6 | 14 | 13 | 0 | 2026-04-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
@@ -98,7 +98,7 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 10 | 243 | 40 | 27 | 33 | 1 | 2026-01-30 | ✅ OK |
 | Eat Figs, Not Pigs | 6 | 244 | 1 | 30 | 2 | 0 | 2026-04-22 | ✅ OK |
-| It Doesn't Taste Like Chicken | 7 | 248 | 1 | 85 | 7 | 218 | 2026-04-22 | ✅ OK |
+| It Doesn't Taste Like Chicken | 6 | 248 | 1 | 85 | 7 | 218 | 2026-04-22 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
@@ -120,13 +120,13 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Healthy Little Vittles | 1 | 276 | 9 | 46 | 2 | 273 | 2026-04-16 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 276 | 276 | 7 | 0 | 9 | 2026-04-21 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 280 | 280 | 24 | 3 | 0 | 2026-04-08 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 7 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (7) |
 | Connoisseurus Veg | 3 | 283 | 0 | 33 | 1 | 0 | 2026-04-20 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 290 | 36 | 36 | 2 | 39 | 2026-04-22 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 311 | 2 | 22 | 1 | 1 | 2026-04-17 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 325 | 1 | 9 | 5 | 1 | 2026-04-22 | ✅ OK |
-| VegNews | 0 | 325 | 17 | 37 | 17 | 8 | 2026-04-21 | ✅ OK |
+| VegNews | 2 | 325 | 17 | 37 | 16 | 8 | 2026-04-22 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
