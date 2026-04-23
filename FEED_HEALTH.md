@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-22 22:17:39
-**Total Run Time:** 7m 57s
-**Longest Step:** HTML: The Cheap Lazy Vegan (0m 41s)
+**Last Run:** 2026-04-23 04:37:49
+**Total Run Time:** 8m 25s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20037 | 171 new today |
+| **Total Database** | 20043 | 178 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 679 | Total recorded actions in database |
+| **Trending Events** | 681 | Total recorded actions in database |
 | **WFPB / GF** | 2537 / 2685 | 12% / 13% |
-| **Easy / Budget** | 4845 / 2056 | 24% / 10% |
+| **Easy / Budget** | 4844 / 2056 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **3.87** | *1.54* |
-| 2 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **3.86** | *1.53* |
-| 3 |[Easy Black Bean Dip](https://www.noracooks.com/black-bean-dip/) | Nora Cooks | **3.86** | *1.53* |
-| 4 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **3.66** | *1.45* |
-| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **2.69** | *1.07* |
-| 6 |[Vegan Biscoff Sheet Cake](https://www.thelittleblogofvegan.com/2026/04/vegan-biscoff-sheet-cake.html) | The Little Blog of Vegan | **2.57** | *1.02* |
-| 7 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **1.93** | *0.77* |
-| 8 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **1.82** | *0.72* |
+| 1 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **3.43** | *1.36* |
+| 2 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **3.42** | *1.36* |
+| 3 |[Easy Black Bean Dip](https://www.noracooks.com/black-bean-dip/) | Nora Cooks | **3.42** | *1.36* |
+| 4 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **3.24** | *1.28* |
+| 5 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **2.39** | *0.95* |
+| 6 |[Vegan Biscoff Sheet Cake](https://www.thelittleblogofvegan.com/2026/04/vegan-biscoff-sheet-cake.html) | The Little Blog of Vegan | **2.28** | *0.90* |
+| 7 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **1.71** | *0.68* |
+| 8 |[Warm Asparagus and Puy Lentil Salad – Lemony Tarragon Vinaigrette](https://bakinghermann.com/asparagus-lentil-salad/) | Baking Hermann | **1.61** | *0.64* |
 
 ---
 
@@ -57,7 +57,7 @@
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Earth to Veg | 1 | 155 | 6 | 26 | 16 | 0 | 2026-04-19 | ✅ OK |
+| Earth to Veg | 2 | 156 | 6 | 26 | 16 | 0 | 2026-04-23 | ✅ OK |
 | Reddit | 3 | 163 | 1 | 19 | 1 | 1 | 2026-04-22 | ✅ OK (3) |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Steamy Vegan | 1 | 169 | 9 | 29 | 10 | 2 | 2026-04-18 | ✅ OK |
@@ -74,13 +74,13 @@
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Elavegan | 0 | 207 | 5 | 38 | 2 | 199 | 2026-04-22 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Burger Dude | 1 | 212 | 6 | 14 | 13 | 0 | 2026-04-18 | ✅ OK |
+| The Burger Dude | 3 | 214 | 6 | 13 | 13 | 0 | 2026-04-23 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-04-14 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 220 | 4 | 43 | 18 | 2 | 2026-04-17 | ✅ OK |
-| Cadry's Kitchen | 6 | 222 | 11 | 79 | 21 | 0 | 2026-04-18 | ✅ OK |
+| Cadry's Kitchen | 7 | 222 | 11 | 79 | 21 | 0 | 2026-04-18 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 10 | 225 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The First Mess | 0 | 225 | 1 | 30 | 3 | 1 | 2026-04-15 | ✅ OK |
@@ -100,8 +100,8 @@
 | Eat Figs, Not Pigs | 6 | 244 | 1 | 30 | 2 | 0 | 2026-04-22 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 248 | 1 | 85 | 7 | 218 | 2026-04-22 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 1 | 250 | 9 | 35 | 12 | 1 | 2026-04-07 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
+| Hot For Food | 2 | 251 | 9 | 35 | 12 | 1 | 2026-04-22 | ✅ OK |
 | Make It Dairy Free | 2 | 251 | 4 | 40 | 2 | 3 | 2026-04-19 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Vegan Richa | 10 | 252 | 10 | 59 | 41 | 73 | 2026-04-22 | ✅ OK |
@@ -109,9 +109,9 @@
 | Veggiekins | 0 | 254 | 35 | 254 | 0 | 251 | 2026-04-20 | ✅ OK |
 | My Darling Vegan | 6 | 255 | 1 | 30 | 4 | 12 | 2026-04-07 | ✅ OK |
 | From My Bowl | 0 | 257 | 3 | 35 | 3 | 5 | 2026-04-14 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 262 | 37 | 72 | 3 | 0 | 2026-04-20 | ✅ OK |
-| A Virtual Vegan | 1 | 263 | 3 | 35 | 1 | 4 | 2026-04-15 | ✅ OK |
 | Full of Plants | 0 | 263 | 0 | 39 | 0 | 12 | 2026-04-21 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 2 | 263 | 37 | 72 | 3 | 0 | 2026-04-22 | ✅ OK |
+| A Virtual Vegan | 2 | 264 | 3 | 35 | 1 | 4 | 2026-04-23 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
 | The Plant-Based RD | 0 | 267 | 4 | 17 | 1 | 0 | 2026-04-18 | ✅ OK |
