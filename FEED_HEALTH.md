@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-24 12:21:10
-**Total Run Time:** 8m 43s
-**Longest Step:** RSS: Steamy Vegan (1m 9s)
+**Last Run:** 2026-04-24 17:35:57
+**Total Run Time:** 7m 42s
+**Longest Step:** RSS: Hot For Food (0m 29s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20062 | 168 new today |
+| **Total Database** | 20070 | 174 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 682 | Total recorded actions in database |
 | **WFPB / GF** | 2538 / 2686 | 12% / 13% |
-| **Easy / Budget** | 4848 / 2057 | 24% / 10% |
+| **Easy / Budget** | 4849 / 2057 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[The Best Homemade Spreadable Vegan Butter (Cultured, Easy & Creamy, Dairy-Free!)](https://healthylittlevittles.com/the-best-homemade-spreadable-vegan-butter/) | Healthy Little Vittles | **3.05** | *1.21* |
-| 2 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **1.86** | *0.74* |
-| 3 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **1.85** | *0.74* |
-| 4 |[Easy Black Bean Dip](https://www.noracooks.com/black-bean-dip/) | Nora Cooks | **1.85** | *0.74* |
-| 5 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **1.76** | *0.70* |
-| 6 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **1.29** | *0.51* |
-| 7 |[Vegan Biscoff Sheet Cake](https://www.thelittleblogofvegan.com/2026/04/vegan-biscoff-sheet-cake.html) | The Little Blog of Vegan | **1.24** | *0.49* |
-| 8 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **0.93** | *0.37* |
+| 1 |[The Best Homemade Spreadable Vegan Butter (Cultured, Easy & Creamy, Dairy-Free!)](https://healthylittlevittles.com/the-best-homemade-spreadable-vegan-butter/) | Healthy Little Vittles | **2.76** | *1.09* |
+| 2 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **1.68** | *0.67* |
+| 3 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **1.68** | *0.67* |
+| 4 |[Easy Black Bean Dip](https://www.noracooks.com/black-bean-dip/) | Nora Cooks | **1.68** | *0.67* |
+| 5 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **1.59** | *0.63* |
+| 6 |[Magic rhubarb pudding cake (vegan)](https://cadryskitchen.com/rhubarb-pudding-cake-vegan/) | Cadry's Kitchen | **1.17** | *0.46* |
+| 7 |[Vegan Biscoff Sheet Cake](https://www.thelittleblogofvegan.com/2026/04/vegan-biscoff-sheet-cake.html) | The Little Blog of Vegan | **1.12** | *0.44* |
+| 8 |[Vegan Pepperoni](https://plantbasedcookingshow.com/2021/05/08/vegan-pepperoni/) | The Whole Food Plant Based Cooking Show | **0.84** | *0.33* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Mary's Test Kitchen | 3 | 11 | 0 | 0 | 1 | 0 | 2026-04-02 | ✅ OK |
+| Mary's Test Kitchen | 4 | 12 | 0 | 1 | 1 | 0 | 2026-04-24 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 14 | 0 | 0 | 0 | 0 | 2026-03-29 | ✅ OK |
 | The Banana Diaries | 0 | 19 | 0 | 3 | 2 | 0 | 2026-04-23 | ✅ OK |
@@ -47,7 +47,7 @@
 | PlantYou | 1 | 26 | 26 | 6 | 2 | 0 | 2026-04-23 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
 | Vegan Richa GF | 1 | 34 | 1 | 9 | 7 | 34 | 2026-04-22 | ✅ OK |
-| Jessica in the Kitchen | 2 | 37 | 1 | 5 | 1 | 2 | 2026-04-21 | ✅ OK |
+| Jessica in the Kitchen | 3 | 38 | 1 | 5 | 1 | 2 | 2026-04-24 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 95 | 8 | 60 | 10 | 5 | 2026-04-15 | ✅ OK |
@@ -56,20 +56,20 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 2 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 3 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
 | Earth to Veg | 1 | 156 | 6 | 26 | 16 | 0 | 2026-04-23 | ✅ OK |
-| Reddit | 2 | 166 | 1 | 20 | 1 | 1 | 2026-04-24 | ✅ OK (2) |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| Steamy Vegan | 0 | 168 | 9 | 29 | 10 | 2 | 2026-04-18 | ❌ Blocked/ConnErr |
+| Reddit | 4 | 168 | 1 | 20 | 1 | 1 | 2026-04-24 | ✅ OK (4) |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
+| Steamy Vegan | 2 | 170 | 9 | 29 | 10 | 2 | 2026-04-24 | ✅ OK |
 | The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 6 | 180 | 0 | 22 | 1 | 30 | 2026-04-22 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Little Blog of Vegan | 2 | 187 | 0 | 36 | 0 | 1 | 2026-04-21 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 189 | 7 | 38 | 15 | 4 | 2026-04-20 | ✅ OK |
-| Nora Cooks | 6 | 195 | 14 | 29 | 13 | 5 | 2026-04-20 | ✅ OK |
 | Flora & Vino | 1 | 196 | 196 | 11 | 0 | 9 | 2026-03-21 | ✅ OK |
+| Nora Cooks | 7 | 196 | 14 | 29 | 13 | 5 | 2026-04-24 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | The Vegan 8 | 1 | 204 | 43 | 204 | 204 | 31 | 2026-03-13 | ✅ OK |
 | Elavegan | 0 | 207 | 5 | 38 | 2 | 199 | 2026-04-22 | ✅ OK |
@@ -97,7 +97,7 @@
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
-| Eat Figs, Not Pigs | 6 | 244 | 1 | 30 | 2 | 0 | 2026-04-22 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 245 | 1 | 30 | 2 | 0 | 2026-04-24 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 248 | 1 | 85 | 7 | 218 | 2026-04-22 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
@@ -111,7 +111,7 @@
 | From My Bowl | 0 | 258 | 3 | 36 | 3 | 5 | 2026-04-23 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 263 | 37 | 72 | 3 | 0 | 2026-04-22 | ✅ OK |
 | A Virtual Vegan | 1 | 264 | 3 | 35 | 1 | 4 | 2026-04-23 | ✅ OK |
-| Full of Plants | 0 | 264 | 0 | 39 | 0 | 12 | 2026-04-23 | ✅ OK |
+| Full of Plants | 1 | 265 | 0 | 39 | 0 | 12 | 2026-04-24 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
 | The Plant-Based RD | 0 | 267 | 4 | 17 | 1 | 0 | 2026-04-18 | ✅ OK |
@@ -120,13 +120,13 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 276 | 276 | 7 | 0 | 9 | 2026-04-21 | ✅ OK |
 | Healthy Little Vittles | 1 | 277 | 9 | 47 | 2 | 274 | 2026-04-23 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (6) |
-| Connoisseurus Veg | 4 | 284 | 0 | 33 | 1 | 0 | 2026-04-24 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK |
+| Connoisseurus Veg | 3 | 284 | 0 | 33 | 1 | 0 | 2026-04-24 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 285 | 3 | 14 | 3 | 5 | 2026-04-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 290 | 36 | 36 | 2 | 39 | 2026-04-22 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 312 | 2 | 22 | 1 | 1 | 2026-04-23 | ✅ OK |
-| The Post-Punk Kitchen | 0 | 325 | 1 | 9 | 5 | 1 | 2026-04-23 | ✅ OK |
-| VegNews | 0 | 325 | 17 | 38 | 16 | 8 | 2026-04-23 | ✅ OK |
+| Gretchen's Vegan Bakery | 3 | 313 | 2 | 22 | 1 | 1 | 2026-04-23 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 325 | 1 | 9 | 5 | 1 | 2026-04-24 | ✅ OK |
+| VegNews | 1 | 325 | 17 | 38 | 16 | 8 | 2026-04-24 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
