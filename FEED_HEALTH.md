@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-04-28 05:00:56
-**Total Run Time:** 7m 27s
-**Longest Step:** RSS: Cadry's Kitchen (0m 28s)
+**Last Run:** 2026-04-28 08:49:47
+**Total Run Time:** 7m 36s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20101 | 161 new today |
+| **Total Database** | 20103 | 169 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 721 | Total recorded actions in database |
+| **Trending Events** | 722 | Total recorded actions in database |
 | **WFPB / GF** | 2541 / 2687 | 12% / 13% |
-| **Easy / Budget** | 4852 / 2057 | 24% / 10% |
+| **Easy / Budget** | 4853 / 2058 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Coleslaw](https://plantbasedcookingshow.com/2020/07/25/creamy-vegan-coleslaw/) | The Whole Food Plant Based Cooking Show | **5.07** | *2.01* |
-| 2 |[Vegan Crab Cakes Recipe (Fried, Baked or Air Fried)](https://schoolnightvegan.com/home/vegan-crab-cakes/) | School Night Vegan | **4.98** | *1.98* |
-| 3 |[Vegan Apple Crisp Bars](https://makeitdairyfree.com/vegan-apple-crisp-bars/) | Make It Dairy Free | **3.30** | *1.31* |
-| 4 |[Vegan Worcestershire Sauce](https://fullofplants.com/vegan-worcestershire-sauce/?adt_ei={$email}) | Full of Plants | **1.26** | *0.50* |
-| 5 |[Easy Vegan Croissants](https://www.marystestkitchen.com/easy-vegan-croissants/) | Mary's Test Kitchen | **1.26** | *0.50* |
-| 6 |[The Best Homemade Spreadable Vegan Butter (Cultured, Easy & Creamy, Dairy-Free!)](https://healthylittlevittles.com/the-best-homemade-spreadable-vegan-butter/) | Healthy Little Vittles | **0.55** | *0.22* |
-| 7 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **0.34** | *0.13* |
-| 8 |[Vietnamese-Inspired Tofu Bánh Mì](https://vegnews.com/recipes/vegan-tofu-banh-mi-sandwich) | VegNews | **0.34** | *0.13* |
+| 1 |[Creamy Vegan Coleslaw](https://plantbasedcookingshow.com/2020/07/25/creamy-vegan-coleslaw/) | The Whole Food Plant Based Cooking Show | **4.71** | *1.87* |
+| 2 |[Vegan Crab Cakes Recipe (Fried, Baked or Air Fried)](https://schoolnightvegan.com/home/vegan-crab-cakes/) | School Night Vegan | **4.62** | *1.84* |
+| 3 |[Creamy Velvety Tofu Pasta Sauce Recipe](https://zardyplants.com/recipes/creamy-velvety-tofu-pasta-sauce-recipe/) | ZardyPlants | **3.81** | *1.51* |
+| 4 |[Vegan Apple Crisp Bars](https://makeitdairyfree.com/vegan-apple-crisp-bars/) | Make It Dairy Free | **3.07** | *1.22* |
+| 5 |[Vegan Worcestershire Sauce](https://fullofplants.com/vegan-worcestershire-sauce/?adt_ei={$email}) | Full of Plants | **1.17** | *0.46* |
+| 6 |[Easy Vegan Croissants](https://www.marystestkitchen.com/easy-vegan-croissants/) | Mary's Test Kitchen | **1.17** | *0.46* |
+| 7 |[The Best Homemade Spreadable Vegan Butter (Cultured, Easy & Creamy, Dairy-Free!)](https://healthylittlevittles.com/the-best-homemade-spreadable-vegan-butter/) | Healthy Little Vittles | **0.51** | *0.20* |
+| 8 |[Vegan Lemon Ricotta Pasta](https://www.connoisseurusveg.com/vegan-lemon-ricotta-pasta/) | Connoisseurus Veg | **0.31** | *0.12* |
 
 ---
 
@@ -61,9 +61,9 @@
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | Steamy Vegan | 1 | 171 | 9 | 29 | 10 | 2 | 2026-04-27 | ✅ OK |
-| The Stingy Vegan | 1 | 178 | 1 | 178 | 178 | 0 | 2026-04-13 | ✅ OK |
+| The Stingy Vegan | 2 | 179 | 1 | 179 | 179 | 0 | 2026-04-28 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 6 | 180 | 0 | 22 | 1 | 30 | 2026-04-22 | ✅ OK |
-| Reddit | 1 | 180 | 1 | 20 | 1 | 2 | 2026-04-27 | ✅ OK (1) |
+| Reddit | 2 | 181 | 1 | 20 | 1 | 2 | 2026-04-28 | ✅ OK (2) |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | The Little Blog of Vegan | 2 | 188 | 0 | 36 | 0 | 1 | 2026-04-26 | ✅ OK |
@@ -120,7 +120,7 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 276 | 276 | 7 | 0 | 9 | 2026-04-21 | ✅ OK |
 | Healthy Little Vittles | 1 | 277 | 9 | 47 | 2 | 274 | 2026-04-23 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (6) |
 | Connoisseurus Veg | 2 | 284 | 0 | 33 | 1 | 0 | 2026-04-27 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 286 | 3 | 14 | 3 | 5 | 2026-04-25 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 290 | 36 | 36 | 2 | 39 | 2026-04-22 | ✅ OK |
