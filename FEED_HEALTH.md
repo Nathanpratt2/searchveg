@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-04-29 04:56:10
-**Total Run Time:** 7m 52s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-04-29 08:44:59
+**Total Run Time:** 7m 53s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20115 | 172 new today |
+| **Total Database** | 20117 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 732 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Easy Vegan spanakopita with cashew feta](https://www.mydarlingvegan.com/easy-vegan-spanakopita-with-cashew-feta/) | My Darling Vegan | **4.40** | *1.75* |
-| 2 |[cheesy vegan spanakopita](https://schoolnightvegan.com/home/vegan-spanakopita/) | School Night Vegan | **4.40** | *1.75* |
-| 3 |[Creamy Vegan Coleslaw](https://plantbasedcookingshow.com/2020/07/25/creamy-vegan-coleslaw/) | The Whole Food Plant Based Cooking Show | **3.20** | *1.27* |
-| 4 |[Vegan Crab Cakes Recipe (Fried, Baked or Air Fried)](https://schoolnightvegan.com/home/vegan-crab-cakes/) | School Night Vegan | **3.14** | *1.25* |
-| 5 |[Creamy Velvety Tofu Pasta Sauce Recipe](https://zardyplants.com/recipes/creamy-velvety-tofu-pasta-sauce-recipe/) | ZardyPlants | **2.59** | *1.03* |
-| 6 |[Vegan Apple Crisp Bars](https://makeitdairyfree.com/vegan-apple-crisp-bars/) | Make It Dairy Free | **2.08** | *0.83* |
-| 7 |[Vegan Worcestershire Sauce](https://fullofplants.com/vegan-worcestershire-sauce/?adt_ei={$email}) | Full of Plants | **0.80** | *0.32* |
-| 8 |[Easy Vegan Croissants](https://www.marystestkitchen.com/easy-vegan-croissants/) | Mary's Test Kitchen | **0.80** | *0.32* |
+| 1 |[Easy Vegan spanakopita with cashew feta](https://www.mydarlingvegan.com/easy-vegan-spanakopita-with-cashew-feta/) | My Darling Vegan | **4.09** | *1.62* |
+| 2 |[cheesy vegan spanakopita](https://schoolnightvegan.com/home/vegan-spanakopita/) | School Night Vegan | **4.09** | *1.62* |
+| 3 |[Creamy Vegan Coleslaw](https://plantbasedcookingshow.com/2020/07/25/creamy-vegan-coleslaw/) | The Whole Food Plant Based Cooking Show | **2.97** | *1.18* |
+| 4 |[Vegan Crab Cakes Recipe (Fried, Baked or Air Fried)](https://schoolnightvegan.com/home/vegan-crab-cakes/) | School Night Vegan | **2.92** | *1.16* |
+| 5 |[Creamy Velvety Tofu Pasta Sauce Recipe](https://zardyplants.com/recipes/creamy-velvety-tofu-pasta-sauce-recipe/) | ZardyPlants | **2.41** | *0.95* |
+| 6 |[Vegan Apple Crisp Bars](https://makeitdairyfree.com/vegan-apple-crisp-bars/) | Make It Dairy Free | **1.94** | *0.77* |
+| 7 |[Vegan Worcestershire Sauce](https://fullofplants.com/vegan-worcestershire-sauce/?adt_ei={$email}) | Full of Plants | **0.74** | *0.29* |
+| 8 |[Easy Vegan Croissants](https://www.marystestkitchen.com/easy-vegan-croissants/) | Mary's Test Kitchen | **0.74** | *0.29* |
 
 ---
 
@@ -64,7 +64,7 @@
 | The Stingy Vegan | 1 | 179 | 1 | 179 | 179 | 0 | 2026-04-28 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 7 | 181 | 0 | 22 | 1 | 30 | 2026-04-28 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Reddit | 4 | 186 | 1 | 20 | 1 | 2 | 2026-04-29 | ✅ OK (4) |
+| Reddit | 4 | 187 | 1 | 20 | 1 | 2 | 2026-04-29 | ✅ OK (4) |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | The Little Blog of Vegan | 2 | 188 | 0 | 36 | 0 | 1 | 2026-04-26 | ✅ OK |
 | Simple Vegan Blog | 2 | 190 | 7 | 38 | 15 | 4 | 2026-04-28 | ✅ OK |
@@ -83,8 +83,8 @@
 | Cadry's Kitchen | 7 | 222 | 11 | 79 | 21 | 0 | 2026-04-18 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 10 | 225 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
-| The First Mess | 0 | 225 | 1 | 30 | 3 | 1 | 2026-04-15 | ✅ OK |
-| Rabbit and Wolves | 3 | 227 | 0 | 33 | 1 | 0 | 2026-04-28 | ✅ OK |
+| The First Mess | 1 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
+| Rabbit and Wolves | 2 | 227 | 0 | 33 | 1 | 0 | 2026-04-28 | ✅ OK |
 | ZardyPlants | 0 | 227 | 227 | 40 | 227 | 4 | 2026-04-27 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -115,17 +115,17 @@
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Strength and Sunshine | 1 | 266 | 8 | 266 | 2 | 259 | 2026-04-02 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| The Plant-Based RD | 1 | 268 | 4 | 17 | 1 | 0 | 2026-04-28 | ✅ OK |
+| The Plant-Based RD | 0 | 268 | 4 | 17 | 1 | 0 | 2026-04-28 | ✅ OK |
 | Plant-Based on a Budget | 2 | 275 | 16 | 66 | 275 | 1 | 2026-04-27 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Healthy Little Vittles | 1 | 277 | 9 | 47 | 2 | 274 | 2026-04-23 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 277 | 277 | 7 | 0 | 9 | 2026-04-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK |
 | Connoisseurus Veg | 2 | 284 | 0 | 33 | 1 | 0 | 2026-04-27 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 286 | 3 | 14 | 3 | 5 | 2026-04-25 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 291 | 36 | 36 | 2 | 39 | 2026-04-29 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 291 | 36 | 36 | 2 | 39 | 2026-04-29 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 312 | 2 | 22 | 1 | 1 | 2026-04-25 | ✅ OK |
-| The Post-Punk Kitchen | 3 | 325 | 2 | 10 | 5 | 1 | 2026-04-29 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-04-29 | ✅ OK |
 | VegNews | 0 | 325 | 16 | 38 | 13 | 7 | 2026-04-28 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
