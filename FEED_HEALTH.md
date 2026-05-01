@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-04-30 22:35:21
-**Total Run Time:** 7m 53s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-05-01 05:11:11
+**Total Run Time:** 7m 43s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20138 | 168 new today |
+| **Total Database** | 20140 | 166 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 755 | Total recorded actions in database |
+| **Trending Events** | 758 | Total recorded actions in database |
 | **WFPB / GF** | 2544 / 2690 | 12% / 13% |
 | **Easy / Budget** | 4862 / 2060 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **5.84** | *2.32* |
-| 2 |[Rhubarb Cake (1 Bowl, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/rhubarb-cake/) | The Conscious Plant Kitchen | **5.68** | *2.25* |
-| 3 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **2.37** | *0.94* |
-| 4 |[Easy Vegan spanakopita with cashew feta](https://www.mydarlingvegan.com/easy-vegan-spanakopita-with-cashew-feta/) | My Darling Vegan | **1.97** | *0.78* |
-| 5 |[cheesy vegan spanakopita](https://schoolnightvegan.com/home/vegan-spanakopita/) | School Night Vegan | **1.97** | *0.78* |
-| 6 |[Creamy Vegan Coleslaw](https://plantbasedcookingshow.com/2020/07/25/creamy-vegan-coleslaw/) | The Whole Food Plant Based Cooking Show | **1.43** | *0.57* |
-| 7 |[Vegan Crab Cakes Recipe (Fried, Baked or Air Fried)](https://schoolnightvegan.com/home/vegan-crab-cakes/) | School Night Vegan | **1.41** | *0.56* |
-| 8 |[Creamy Velvety Tofu Pasta Sauce Recipe](https://zardyplants.com/recipes/creamy-velvety-tofu-pasta-sauce-recipe/) | ZardyPlants | **1.16** | *0.46* |
+| 1 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **7.85** | *3.12* |
+| 2 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **5.76** | *2.29* |
+| 3 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **5.14** | *2.04* |
+| 4 |[Rhubarb Cake (1 Bowl, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/rhubarb-cake/) | The Conscious Plant Kitchen | **5.00** | *1.98* |
+| 5 |[Easy Breezy Cheesy Sauce (oil-free + nut-free)](https://www.theppk.com/2026/04/easy-breezy-cheesy-sauce-oil-free-nut-free/) | The Post-Punk Kitchen | **3.84** | *1.52* |
+| 6 |[Easy Vegan spanakopita with cashew feta](https://www.mydarlingvegan.com/easy-vegan-spanakopita-with-cashew-feta/) | My Darling Vegan | **1.74** | *0.69* |
+| 7 |[cheesy vegan spanakopita](https://schoolnightvegan.com/home/vegan-spanakopita/) | School Night Vegan | **1.74** | *0.69* |
+| 8 |[Creamy Vegan Coleslaw](https://plantbasedcookingshow.com/2020/07/25/creamy-vegan-coleslaw/) | The Whole Food Plant Based Cooking Show | **1.26** | *0.50* |
 
 ---
 
@@ -40,7 +40,7 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 15 | 0 | 0 | 0 | 0 | 2026-04-27 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 2 | 0 | 0 | 2026-04-28 | ✅ OK |
-| The Banana Diaries | 1 | 20 | 0 | 3 | 2 | 0 | 2026-04-30 | ✅ OK |
+| The Banana Diaries | 0 | 20 | 0 | 3 | 2 | 0 | 2026-04-30 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 1 | 27 | 27 | 6 | 2 | 0 | 2026-04-30 | ✅ OK |
@@ -52,21 +52,21 @@
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 95 | 8 | 60 | 10 | 5 | 2026-04-15 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| The Hidden Veggies | 3 | 119 | 1 | 10 | 119 | 0 | 2026-04-30 | ✅ OK |
+| The Hidden Veggies | 2 | 119 | 1 | 10 | 119 | 0 | 2026-04-30 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 154 | 3 | 29 | 10 | 0 | 2026-04-03 | ✅ OK |
-| Earth to Veg | 1 | 156 | 6 | 26 | 16 | 0 | 2026-04-23 | ✅ OK |
+| Earth to Veg | 2 | 156 | 6 | 26 | 16 | 0 | 2026-04-23 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
-| Steamy Vegan | 0 | 170 | 9 | 29 | 10 | 2 | 2026-04-27 | ✅ OK |
+| Steamy Vegan | 1 | 171 | 9 | 29 | 10 | 2 | 2026-04-27 | ✅ OK |
 | The Stingy Vegan | 1 | 179 | 1 | 179 | 179 | 0 | 2026-04-28 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 8 | 182 | 0 | 22 | 1 | 30 | 2026-04-29 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | The Little Blog of Vegan | 2 | 188 | 0 | 36 | 0 | 1 | 2026-04-26 | ✅ OK |
-| Reddit | 3 | 190 | 1 | 20 | 1 | 2 | 2026-04-30 | ✅ OK (3) |
+| Reddit | 3 | 190 | 1 | 20 | 1 | 2 | 2026-05-01 | ✅ OK (3) |
 | Simple Vegan Blog | 2 | 190 | 7 | 38 | 15 | 4 | 2026-04-28 | ✅ OK |
 | Nora Cooks | 4 | 196 | 14 | 30 | 13 | 5 | 2026-04-30 | ✅ OK |
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
@@ -76,7 +76,7 @@
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Burger Dude | 1 | 214 | 6 | 13 | 13 | 0 | 2026-04-23 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Vegan in the Freezer | 1 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
+| Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 221 | 4 | 43 | 18 | 2 | 2026-04-30 | ✅ OK |
@@ -102,7 +102,7 @@
 | It Doesn't Taste Like Chicken | 7 | 250 | 1 | 85 | 7 | 218 | 2026-04-29 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
-| Hot For Food | 2 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
+| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Make It Dairy Free | 2 | 252 | 4 | 40 | 2 | 3 | 2026-04-26 | ✅ OK |
 | Vegan Richa | 10 | 253 | 10 | 59 | 41 | 73 | 2026-04-30 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
@@ -113,9 +113,9 @@
 | Monkey & Me Kitchen Adventures | 1 | 265 | 38 | 72 | 3 | 0 | 2026-04-29 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Full of Plants | 0 | 266 | 0 | 39 | 0 | 12 | 2026-04-29 | ✅ OK |
-| Strength and Sunshine | 2 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
+| Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| The Plant-Based RD | 0 | 268 | 4 | 17 | 1 | 0 | 2026-04-28 | ✅ OK |
+| The Plant-Based RD | 1 | 269 | 4 | 17 | 1 | 0 | 2026-05-01 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 276 | 16 | 66 | 276 | 1 | 2026-04-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 277 | 277 | 7 | 0 | 9 | 2026-04-28 | ✅ OK |
