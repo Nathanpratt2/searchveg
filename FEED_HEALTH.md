@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-02 12:12:30
-**Total Run Time:** 7m 34s
+**Last Run:** 2026-05-02 17:19:42
+**Total Run Time:** 7m 30s
 **Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20155 | 166 new today |
+| **Total Database** | 20158 | 161 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 759 | Total recorded actions in database |
 | **WFPB / GF** | 2546 / 2690 | 12% / 13% |
-| **Easy / Budget** | 4864 / 2060 | 24% / 10% |
+| **Easy / Budget** | 4865 / 2060 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **4.32** | *1.71* |
-| 2 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **3.31** | *1.31* |
-| 3 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **3.17** | *1.26* |
-| 4 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **2.83** | *1.12* |
-| 5 |[Rhubarb Cake (1 Bowl, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/rhubarb-cake/) | The Conscious Plant Kitchen | **2.75** | *1.09* |
-| 6 |[Easy Breezy Cheesy Sauce (oil-free + nut-free)](https://www.theppk.com/2026/04/easy-breezy-cheesy-sauce-oil-free-nut-free/) | The Post-Punk Kitchen | **2.11** | *0.84* |
-| 7 |[Easy Vegan spanakopita with cashew feta](https://www.mydarlingvegan.com/easy-vegan-spanakopita-with-cashew-feta/) | My Darling Vegan | **0.96** | *0.38* |
-| 8 |[cheesy vegan spanakopita](https://schoolnightvegan.com/home/vegan-spanakopita/) | School Night Vegan | **0.96** | *0.38* |
+| 1 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **3.91** | *1.55* |
+| 2 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **3.00** | *1.19* |
+| 3 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **2.87** | *1.14* |
+| 4 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **2.56** | *1.02* |
+| 5 |[Rhubarb Cake (1 Bowl, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/rhubarb-cake/) | The Conscious Plant Kitchen | **2.49** | *0.99* |
+| 6 |[Easy Breezy Cheesy Sauce (oil-free + nut-free)](https://www.theppk.com/2026/04/easy-breezy-cheesy-sauce-oil-free-nut-free/) | The Post-Punk Kitchen | **1.92** | *0.76* |
+| 7 |[Easy Vegan spanakopita with cashew feta](https://www.mydarlingvegan.com/easy-vegan-spanakopita-with-cashew-feta/) | My Darling Vegan | **0.87** | *0.34* |
+| 8 |[cheesy vegan spanakopita](https://schoolnightvegan.com/home/vegan-spanakopita/) | School Night Vegan | **0.87** | *0.34* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Mary's Test Kitchen | 3 | 12 | 0 | 1 | 1 | 0 | 2026-04-24 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 15 | 0 | 0 | 0 | 0 | 2026-04-27 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 2 | 0 | 0 | 2026-04-28 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 3 | 0 | 0 | 2026-04-28 | ✅ OK |
 | The Banana Diaries | 0 | 20 | 0 | 3 | 2 | 0 | 2026-04-30 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 24 | 5 | 1 | 4 | 23 | 2026-03-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
@@ -61,13 +61,13 @@
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | Steamy Vegan | 0 | 171 | 9 | 29 | 10 | 2 | 2026-05-01 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 175 | 0 | 22 | 1 | 30 | 2026-04-22 | ✅ OK |
 | The Stingy Vegan | 1 | 179 | 1 | 179 | 179 | 0 | 2026-04-28 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 8 | 182 | 0 | 22 | 1 | 30 | 2026-04-29 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | The Little Blog of Vegan | 2 | 189 | 0 | 36 | 0 | 1 | 2026-05-01 | ✅ OK |
 | Simple Vegan Blog | 2 | 190 | 7 | 38 | 15 | 4 | 2026-05-01 | ✅ OK |
-| Reddit | 3 | 193 | 1 | 20 | 1 | 2 | 2026-05-02 | ✅ OK (3) |
+| Reddit | 4 | 195 | 1 | 20 | 1 | 2 | 2026-05-02 | ✅ OK (4) |
 | Nora Cooks | 4 | 196 | 14 | 30 | 13 | 5 | 2026-04-30 | ✅ OK |
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
@@ -97,7 +97,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
-| Eat Figs, Not Pigs | 6 | 245 | 1 | 29 | 2 | 0 | 2026-05-01 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 246 | 1 | 29 | 2 | 0 | 2026-05-02 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | It Doesn't Taste Like Chicken | 8 | 250 | 1 | 85 | 7 | 218 | 2026-04-29 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
@@ -122,7 +122,7 @@
 | Healthy Little Vittles | 1 | 278 | 9 | 47 | 2 | 275 | 2026-04-30 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (6) |
 | Connoisseurus Veg | 2 | 285 | 0 | 33 | 1 | 0 | 2026-05-01 | ✅ OK |
-| Lazy Cat Kitchen | 0 | 286 | 3 | 14 | 3 | 5 | 2026-04-25 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 292 | 36 | 36 | 2 | 39 | 2026-05-02 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 314 | 2 | 22 | 1 | 1 | 2026-04-30 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-04-29 | ✅ OK |
