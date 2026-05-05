@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-04 22:41:01
-**Total Run Time:** 8m 50s
-**Longest Step:** RSS: One Arab Vegan (0m 55s)
+**Last Run:** 2026-05-05 04:45:15
+**Total Run Time:** 7m 23s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20175 | 168 new today |
+| **Total Database** | 20175 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 779 | Total recorded actions in database |
 | **WFPB / GF** | 2545 / 2692 | 12% / 13% |
-| **Easy / Budget** | 4868 / 2061 | 24% / 10% |
+| **Easy / Budget** | 4866 / 2061 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **3.72** | *1.48* |
-| 2 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **3.72** | *1.47* |
-| 3 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **1.71** | *0.68* |
-| 4 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **1.40** | *0.56* |
-| 5 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **1.07** | *0.43* |
-| 6 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **1.03** | *0.41* |
-| 7 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **0.92** | *0.36* |
-| 8 |[Rhubarb Cake (1 Bowl, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/rhubarb-cake/) | The Conscious Plant Kitchen | **0.89** | *0.35* |
+| 1 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **3.31** | *1.31* |
+| 2 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **3.31** | *1.31* |
+| 3 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **1.52** | *0.60* |
+| 4 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **1.25** | *0.49* |
+| 5 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **0.95** | *0.38* |
+| 6 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **0.92** | *0.36* |
+| 7 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **0.82** | *0.32* |
+| 8 |[Rhubarb Cake (1 Bowl, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/rhubarb-cake/) | The Conscious Plant Kitchen | **0.79** | *0.32* |
 
 ---
 
@@ -54,7 +54,7 @@
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 2 | 119 | 1 | 10 | 119 | 0 | 2026-04-30 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
-| One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ❌ Blocked/ConnErr |
+| One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 155 | 3 | 29 | 10 | 0 | 2026-05-01 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
@@ -81,7 +81,7 @@
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Sweet Simple Vegan | 1 | 221 | 4 | 43 | 18 | 2 | 2026-04-30 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
-| Cadry's Kitchen | 8 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
+| Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
 | Rainbow Plant Life | 10 | 225 | 30 | 55 | 41 | 7 | 2026-03-28 | ✅ OK |
 | The First Mess | 0 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
 | ZardyPlants | 0 | 227 | 227 | 40 | 227 | 4 | 2026-04-27 | ✅ OK |
@@ -97,6 +97,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
+| Vegan Richa | 0 | 243 | 10 | 57 | 41 | 73 | 2025-10-08 | ✅ OK |
 | Eat Figs, Not Pigs | 7 | 247 | 1 | 29 | 2 | 0 | 2026-05-04 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
@@ -104,7 +105,6 @@
 | The Foodie Takes Flight | 0 | 251 | 0 | 251 | 2 | 0 | 2026-03-30 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Make It Dairy Free | 2 | 253 | 4 | 40 | 2 | 3 | 2026-05-03 | ✅ OK |
-| Vegan Richa | 10 | 253 | 10 | 59 | 41 | 73 | 2026-04-30 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
 | Veggiekins | 0 | 255 | 35 | 255 | 0 | 252 | 2026-04-24 | ✅ OK |
 | My Darling Vegan | 5 | 256 | 1 | 31 | 4 | 12 | 2026-04-23 | ✅ OK |
@@ -120,7 +120,7 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 277 | 277 | 7 | 0 | 9 | 2026-04-28 | ✅ OK |
 | Healthy Little Vittles | 1 | 278 | 9 | 47 | 2 | 275 | 2026-04-30 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK |
 | Connoisseurus Veg | 1 | 285 | 0 | 33 | 1 | 0 | 2026-05-04 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 292 | 36 | 36 | 2 | 39 | 2026-05-02 | ✅ OK |
