@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-06 13:18:12
-**Total Run Time:** 7m 22s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 31s)
+**Last Run:** 2026-05-06 18:06:07
+**Total Run Time:** 8m 5s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20196 | 162 new today |
+| **Total Database** | 20202 | 172 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 781 | Total recorded actions in database |
-| **WFPB / GF** | 2545 / 2694 | 12% / 13% |
-| **Easy / Budget** | 4875 / 2062 | 24% / 10% |
+| **WFPB / GF** | 2546 / 2694 | 12% / 13% |
+| **Easy / Budget** | 4876 / 2062 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **7.71** | *3.06* |
-| 2 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.77** | *0.70* |
-| 3 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.77** | *0.70* |
-| 4 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.81** | *0.32* |
-| 5 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.67** | *0.26* |
-| 6 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **0.51** | *0.20* |
-| 7 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **0.49** | *0.19* |
-| 8 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **0.44** | *0.17* |
+| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **7.03** | *2.79* |
+| 2 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.61** | *0.64* |
+| 3 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.61** | *0.64* |
+| 4 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.74** | *0.29* |
+| 5 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.61** | *0.24* |
+| 6 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **0.47** | *0.18* |
+| 7 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **0.45** | *0.18* |
+| 8 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **0.40** | *0.16* |
 
 ---
 
@@ -40,13 +40,13 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 16 | 0 | 0 | 0 | 0 | 2026-05-04 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 6 | 0 | 0 | 2026-05-05 | ✅ OK |
-| The Banana Diaries | 1 | 22 | 0 | 3 | 2 | 0 | 2026-05-06 | ✅ OK |
+| The Banana Diaries | 0 | 22 | 0 | 3 | 2 | 0 | 2026-05-06 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
-| PlantYou | 1 | 28 | 28 | 6 | 2 | 0 | 2026-05-01 | ✅ OK |
+| PlantYou | 1 | 28 | 28 | 6 | 2 | 0 | 2026-05-06 | ✅ OK |
 | Dr. Vegan | 0 | 29 | 4 | 29 | 8 | 0 | 2026-05-05 | ✅ OK |
 | Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
-| Vegan Richa GF | 1 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
+| Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
 | Jessica in the Kitchen | 1 | 40 | 1 | 5 | 1 | 2 | 2026-05-05 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -61,7 +61,7 @@
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
 | Steamy Vegan | 1 | 172 | 9 | 29 | 10 | 2 | 2026-05-01 | ✅ OK |
-| The Stingy Vegan | 2 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
+| The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -71,9 +71,9 @@
 | Nora Cooks | 4 | 197 | 14 | 30 | 13 | 5 | 2026-05-04 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | The Vegan 8 | 1 | 205 | 43 | 205 | 205 | 31 | 2026-04-26 | ✅ OK |
-| Reddit | 1 | 206 | 1 | 23 | 1 | 2 | 2026-05-06 | ✅ OK (1) |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Elavegan | 0 | 208 | 5 | 38 | 2 | 200 | 2026-05-04 | ✅ OK |
+| Reddit | 3 | 208 | 1 | 23 | 1 | 2 | 2026-05-06 | ✅ OK (3) |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Burger Dude | 2 | 216 | 6 | 13 | 13 | 0 | 2026-05-02 | ✅ OK |
 | Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
@@ -101,7 +101,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 9 | 252 | 1 | 86 | 7 | 218 | 2026-05-06 | ✅ OK |
+| It Doesn't Taste Like Chicken | 8 | 252 | 1 | 86 | 7 | 218 | 2026-05-06 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
 | Make It Dairy Free | 2 | 253 | 4 | 40 | 2 | 3 | 2026-05-03 | ✅ OK |
 | Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-06 | ✅ OK |
@@ -112,21 +112,21 @@
 | A Virtual Vegan | 1 | 264 | 3 | 35 | 1 | 4 | 2026-04-23 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 266 | 38 | 72 | 3 | 0 | 2026-05-03 | ✅ OK |
-| Full of Plants | 0 | 267 | 0 | 39 | 0 | 12 | 2026-05-03 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Full of Plants | 1 | 268 | 0 | 39 | 0 | 12 | 2026-05-06 | ✅ OK |
 | The Plant-Based RD | 0 | 269 | 4 | 17 | 1 | 0 | 2026-05-01 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | Healthy Little Vittles | 1 | 278 | 9 | 47 | 2 | 275 | 2026-04-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 7 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (7) |
 | Connoisseurus Veg | 1 | 285 | 0 | 33 | 1 | 0 | 2026-05-04 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 314 | 2 | 22 | 1 | 1 | 2026-04-30 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 315 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-03 | ✅ OK |
-| VegNews | 0 | 325 | 14 | 39 | 13 | 8 | 2026-05-05 | ✅ OK |
+| VegNews | 3 | 325 | 14 | 40 | 13 | 8 | 2026-05-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
