@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-06 04:59:14
-**Total Run Time:** 7m 53s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-05-06 08:50:34
+**Total Run Time:** 7m 27s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20191 | 168 new today |
+| **Total Database** | 20192 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 781 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **9.04** | *3.59* |
-| 2 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **2.08** | *0.82* |
-| 3 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **2.07** | *0.82* |
-| 4 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.95** | *0.38* |
-| 5 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.78** | *0.31* |
-| 6 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **0.60** | *0.24* |
-| 7 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **0.57** | *0.23* |
-| 8 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **0.51** | *0.20* |
+| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **8.40** | *3.33* |
+| 2 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.93** | *0.76* |
+| 3 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.93** | *0.76* |
+| 4 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.88** | *0.35* |
+| 5 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.73** | *0.29* |
+| 6 |[Vegan Mango Sheet Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-mango-sheet-cake.html) | The Little Blog of Vegan | **0.56** | *0.22* |
+| 7 |[Chocolate Frosty Milkshake with Whippity Whip](https://www.theppk.com/2026/04/vegan-chocoate-milkshakes/) | The Post-Punk Kitchen | **0.53** | *0.21* |
+| 8 |[Butternut Squash Pasta (High-Protein!)](https://steamyvegan.com/butternut-squash-pasta/) | Steamy Vegan | **0.48** | *0.19* |
 
 ---
 
@@ -41,7 +41,7 @@
 | Fragrant Vanilla Cake | 1 | 16 | 0 | 0 | 0 | 0 | 2026-05-04 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 6 | 0 | 0 | 2026-05-05 | ✅ OK |
 | The Banana Diaries | 0 | 21 | 0 | 3 | 2 | 0 | 2026-05-05 | ✅ OK |
-| Rainbow Plant Life GF | 2 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
+| Rainbow Plant Life GF | 1 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 1 | 28 | 28 | 6 | 2 | 0 | 2026-05-01 | ✅ OK |
 | Dr. Vegan | 0 | 29 | 4 | 29 | 8 | 0 | 2026-05-05 | ✅ OK |
@@ -70,8 +70,8 @@
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Nora Cooks | 4 | 197 | 14 | 30 | 13 | 5 | 2026-05-04 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| Reddit | 4 | 205 | 1 | 23 | 1 | 2 | 2026-05-06 | ✅ OK (4) |
 | The Vegan 8 | 1 | 205 | 43 | 205 | 205 | 31 | 2026-04-26 | ✅ OK |
+| Reddit | 2 | 206 | 1 | 23 | 1 | 2 | 2026-05-06 | ✅ OK (2) |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Elavegan | 0 | 208 | 5 | 38 | 2 | 200 | 2026-05-04 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
@@ -120,10 +120,10 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | Healthy Little Vittles | 1 | 278 | 9 | 47 | 2 | 275 | 2026-04-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 281 | 281 | 24 | 3 | 0 | 2026-04-22 | ✅ OK |
 | Connoisseurus Veg | 1 | 285 | 0 | 33 | 1 | 0 | 2026-05-04 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 314 | 2 | 22 | 1 | 1 | 2026-04-30 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-03 | ✅ OK |
 | VegNews | 0 | 325 | 14 | 39 | 13 | 8 | 2026-05-05 | ✅ OK |
