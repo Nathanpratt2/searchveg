@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-06 22:20:01
-**Total Run Time:** 7m 44s
-**Longest Step:** RSS: Hot For Food (0m 43s)
+**Last Run:** 2026-05-07 05:00:16
+**Total Run Time:** 8m 1s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 33s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20205 | 160 new today |
+| **Total Database** | 20206 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 788 | Total recorded actions in database |
 | **WFPB / GF** | 2546 / 2694 | 12% / 13% |
-| **Easy / Budget** | 4877 / 2062 | 24% / 10% |
+| **Easy / Budget** | 4878 / 2062 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **6.48** | *2.57* |
-| 2 |[Moist Vegan Lemon Loaf Cake](https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}) | Full of Plants | **5.97** | *2.37* |
-| 3 |[Vegan Country Breakfast Skillet](https://www.veganricha.com/country-breakfast-skillet/) | Vegan Richa GF | **5.97** | *2.37* |
-| 4 |[Vegan Roasted Cabbage “Bacon” Pasta](https://www.rabbitandwolves.com/vegan-roasted-cabbage-bacon-pasta/) | Rabbit and Wolves | **5.80** | *2.30* |
-| 5 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.49** | *0.59* |
-| 6 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.48** | *0.59* |
-| 7 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.68** | *0.27* |
-| 8 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.56** | *0.22* |
+| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **5.70** | *2.26* |
+| 2 |[Moist Vegan Lemon Loaf Cake](https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}) | Full of Plants | **5.25** | *2.08* |
+| 3 |[Vegan Country Breakfast Skillet](https://www.veganricha.com/country-breakfast-skillet/) | Vegan Richa GF | **5.25** | *2.08* |
+| 4 |[Vegan Roasted Cabbage “Bacon” Pasta](https://www.rabbitandwolves.com/vegan-roasted-cabbage-bacon-pasta/) | Rabbit and Wolves | **5.10** | *2.02* |
+| 5 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.31** | *0.52* |
+| 6 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.31** | *0.52* |
+| 7 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.60** | *0.24* |
+| 8 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.49** | *0.20* |
 
 ---
 
@@ -45,7 +45,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 0 | 28 | 28 | 6 | 2 | 0 | 2026-05-06 | ✅ OK |
 | Dr. Vegan | 0 | 29 | 4 | 29 | 8 | 0 | 2026-05-05 | ✅ OK |
-| Plant Baes | 0 | 29 | 2 | 4 | 2 | 4 | 2026-04-05 | ✅ OK |
+| Plant Baes | 1 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ✅ OK |
 | Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
 | Jessica in the Kitchen | 1 | 40 | 1 | 5 | 1 | 2 | 2026-05-05 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
@@ -73,7 +73,7 @@
 | The Vegan 8 | 1 | 205 | 43 | 205 | 205 | 31 | 2026-04-26 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Elavegan | 0 | 208 | 5 | 38 | 2 | 200 | 2026-05-04 | ✅ OK |
-| Reddit | 2 | 209 | 1 | 23 | 1 | 2 | 2026-05-06 | ✅ OK (2) |
+| Reddit | 0 | 208 | 1 | 23 | 1 | 2 | 2026-05-06 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | The Burger Dude | 2 | 216 | 6 | 13 | 13 | 0 | 2026-05-02 | ✅ OK |
 | Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
@@ -97,7 +97,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
-| Eat Figs, Not Pigs | 7 | 247 | 1 | 29 | 2 | 0 | 2026-05-04 | ✅ OK |
+| Eat Figs, Not Pigs | 8 | 248 | 1 | 30 | 2 | 0 | 2026-05-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
@@ -109,9 +109,9 @@
 | Veggiekins | 0 | 255 | 35 | 255 | 0 | 252 | 2026-04-24 | ✅ OK |
 | My Darling Vegan | 4 | 257 | 1 | 31 | 4 | 12 | 2026-05-05 | ✅ OK |
 | From My Bowl | 0 | 261 | 3 | 39 | 3 | 5 | 2026-05-01 | ✅ OK |
-| A Virtual Vegan | 2 | 265 | 3 | 35 | 1 | 4 | 2026-05-06 | ✅ OK |
+| A Virtual Vegan | 1 | 265 | 3 | 35 | 1 | 4 | 2026-05-06 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 2 | 267 | 38 | 72 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 267 | 38 | 72 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Full of Plants | 0 | 268 | 0 | 39 | 0 | 12 | 2026-05-06 | ✅ OK |
