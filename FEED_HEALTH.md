@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-07 05:00:16
-**Total Run Time:** 8m 1s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 33s)
+**Last Run:** 2026-05-07 09:16:53
+**Total Run Time:** 7m 33s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20206 | 158 new today |
+| **Total Database** | 20206 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 788 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **5.70** | *2.26* |
-| 2 |[Moist Vegan Lemon Loaf Cake](https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}) | Full of Plants | **5.25** | *2.08* |
-| 3 |[Vegan Country Breakfast Skillet](https://www.veganricha.com/country-breakfast-skillet/) | Vegan Richa GF | **5.25** | *2.08* |
-| 4 |[Vegan Roasted Cabbage “Bacon” Pasta](https://www.rabbitandwolves.com/vegan-roasted-cabbage-bacon-pasta/) | Rabbit and Wolves | **5.10** | *2.02* |
-| 5 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.31** | *0.52* |
-| 6 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.31** | *0.52* |
-| 7 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.60** | *0.24* |
-| 8 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.49** | *0.20* |
+| 1 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **5.25** | *2.08* |
+| 2 |[Moist Vegan Lemon Loaf Cake](https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}) | Full of Plants | **4.83** | *1.92* |
+| 3 |[Vegan Country Breakfast Skillet](https://www.veganricha.com/country-breakfast-skillet/) | Vegan Richa GF | **4.83** | *1.92* |
+| 4 |[Vegan Roasted Cabbage “Bacon” Pasta](https://www.rabbitandwolves.com/vegan-roasted-cabbage-bacon-pasta/) | Rabbit and Wolves | **4.69** | *1.86* |
+| 5 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **1.20** | *0.48* |
+| 6 |[Creamy Mushroom Risotto without wine](https://www.thevegspace.co.uk/recipe-wild-mushroom-sherry-risotto/) | The Veg Space | **1.20** | *0.48* |
+| 7 |[Homemade Vegan European-Style Salted Butter](https://vegnews.com/recipes/simple-vegan-european-style-salted-butter) | VegNews | **0.55** | *0.22* |
+| 8 |[Tofu Rice Bowl](https://simpleveganblog.com/tofu-rice-bowl/) | Simple Vegan Blog | **0.45** | *0.18* |
 
 ---
 
@@ -45,7 +45,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 0 | 28 | 28 | 6 | 2 | 0 | 2026-05-06 | ✅ OK |
 | Dr. Vegan | 0 | 29 | 4 | 29 | 8 | 0 | 2026-05-05 | ✅ OK |
-| Plant Baes | 1 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ✅ OK |
+| Plant Baes | 0 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ✅ OK |
 | Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
 | Jessica in the Kitchen | 1 | 40 | 1 | 5 | 1 | 2 | 2026-05-05 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
@@ -97,7 +97,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
-| Eat Figs, Not Pigs | 8 | 248 | 1 | 30 | 2 | 0 | 2026-05-07 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 248 | 1 | 30 | 2 | 0 | 2026-05-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
@@ -120,7 +120,7 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | Healthy Little Vittles | 1 | 278 | 9 | 47 | 2 | 275 | 2026-04-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Connoisseurus Veg | 1 | 285 | 0 | 33 | 1 | 0 | 2026-05-04 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
