@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-05-08 17:59:58
-**Total Run Time:** 8m 55s
-**Longest Step:** RSS: Fragrant Vanilla Cake (0m 48s)
+**Last Run:** 2026-05-08 22:37:27
+**Total Run Time:** 8m 7s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20228 | 164 new today |
+| **Total Database** | 20232 | 165 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 791 | Total recorded actions in database |
-| **WFPB / GF** | 2546 / 2696 | 12% / 13% |
+| **Trending Events** | 834 | Total recorded actions in database |
+| **WFPB / GF** | 2547 / 2696 | 12% / 13% |
 | **Easy / Budget** | 4881 / 2061 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Mango-Tadgola (ice apple)- Coconut Summer Cooler](https://www.reddit.com/r/veganrecipes/comments/1t6eekl/mangotadgola_ice_apple_coconut_summer_cooler/) | Reddit | **3.74** | *1.49* |
-| 2 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **3.74** | *1.49* |
-| 3 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **2.79** | *1.11* |
-| 4 |[Vegan Greek-Style Fries](https://avirtualvegan.com/vegan-greek-style-fries/) | A Virtual Vegan | **2.74** | *1.09* |
-| 5 |[Moist Vegan Lemon Loaf Cake](https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}) | Full of Plants | **2.58** | *1.02* |
-| 6 |[Vegan Country Breakfast Skillet](https://www.veganricha.com/country-breakfast-skillet/) | Vegan Richa GF | **2.57** | *1.02* |
-| 7 |[Vegan Roasted Cabbage “Bacon” Pasta](https://www.rabbitandwolves.com/vegan-roasted-cabbage-bacon-pasta/) | Rabbit and Wolves | **2.50** | *0.99* |
-| 8 |[Creamy Mushroom Asparagus Orzo](https://thefirstmess.com/2022/03/23/creamy-mushroom-asparagus-orzo-vegan-recipe/) | The First Mess | **0.64** | *0.25* |
+| 1 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **5.51** | *2.19* |
+| 2 |[Skillet Gnocchi with Sun-Dried Tomato Garlic Ricotta](https://www.veganricha.com/skillet-gnocchi-ricotta/) | Vegan Richa GF | **5.50** | *2.18* |
+| 3 |[Vegan Shakshouka](https://www.onearabvegan.com/2015/02/vegan-shakshouka/) | One Arab Vegan | **3.71** | *1.47* |
+| 4 |[Almond Croissant Bars](https://www.noracooks.com/almond-croissant-bars/) | Nora Cooks | **3.68** | *1.46* |
+| 5 |[Mango-Tadgola (ice apple)- Coconut Summer Cooler](https://www.reddit.com/r/veganrecipes/comments/1t6eekl/mangotadgola_ice_apple_coconut_summer_cooler/) | Reddit | **3.43** | *1.36* |
+| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **3.42** | *1.36* |
+| 7 |[Sweet Potato Tofu Breakfast Tacos With Ranchero Sauce](https://vegnews.com/recipes/vegan-sweet-potato-tofu-breakfast-tacos) | VegNews | **2.56** | *1.01* |
+| 8 |[Vegan Greek-Style Fries](https://avirtualvegan.com/vegan-greek-style-fries/) | A Virtual Vegan | **2.50** | *0.99* |
 
 ---
 
@@ -47,7 +47,7 @@
 | Plant Baes | 0 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ✅ OK |
 | Dr. Vegan | 0 | 31 | 4 | 31 | 8 | 0 | 2026-05-07 | ✅ OK |
 | Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
-| Jessica in the Kitchen | 2 | 41 | 1 | 5 | 1 | 2 | 2026-05-08 | ✅ OK |
+| Jessica in the Kitchen | 1 | 41 | 1 | 5 | 1 | 2 | 2026-05-08 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 95 | 8 | 60 | 10 | 5 | 2026-04-15 | ✅ OK |
@@ -59,13 +59,13 @@
 | Love and Lemons (Vegan Recipes) | 2 | 156 | 3 | 29 | 10 | 0 | 2026-05-05 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
-| Dreena Burton | 0 | 170 | 170 | 12 | 18 | 41 | 2026-04-16 | ✅ OK |
-| Steamy Vegan | 2 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| Dreena Burton | 1 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
+| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
-| The Little Blog of Vegan | 2 | 190 | 0 | 36 | 0 | 1 | 2026-05-08 | ✅ OK |
+| The Little Blog of Vegan | 1 | 190 | 0 | 36 | 0 | 1 | 2026-05-08 | ✅ OK |
 | Simple Vegan Blog | 2 | 191 | 7 | 38 | 15 | 4 | 2026-05-08 | ✅ OK |
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Nora Cooks | 3 | 197 | 14 | 30 | 13 | 5 | 2026-05-07 | ✅ OK |
@@ -78,8 +78,8 @@
 | Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
-| Reddit | 4 | 221 | 1 | 24 | 1 | 2 | 2026-05-08 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
+| Reddit | 2 | 222 | 1 | 24 | 1 | 2 | 2026-05-08 | ✅ OK (2) |
 | Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
 | Sweet Simple Vegan | 1 | 223 | 4 | 43 | 18 | 2 | 2026-05-07 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-02 | ✅ OK |
@@ -101,13 +101,13 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 8 | 252 | 1 | 86 | 7 | 218 | 2026-05-06 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
+| It Doesn't Taste Like Chicken | 8 | 253 | 1 | 86 | 7 | 218 | 2026-05-08 | ✅ OK |
 | Make It Dairy Free | 2 | 253 | 4 | 40 | 2 | 3 | 2026-05-03 | ✅ OK |
 | Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-06 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
 | Veggiekins | 0 | 255 | 35 | 255 | 0 | 252 | 2026-04-24 | ✅ OK |
-| My Darling Vegan | 4 | 257 | 1 | 31 | 4 | 12 | 2026-05-05 | ✅ OK |
+| My Darling Vegan | 5 | 258 | 1 | 31 | 4 | 12 | 2026-05-08 | ✅ OK |
 | From My Bowl | 0 | 261 | 3 | 39 | 3 | 5 | 2026-05-01 | ✅ OK |
 | A Virtual Vegan | 1 | 265 | 3 | 35 | 1 | 4 | 2026-05-06 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
@@ -120,13 +120,13 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-08 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 315 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-08 | ✅ OK |
-| VegNews | 3 | 325 | 14 | 40 | 12 | 8 | 2026-05-08 | ✅ OK |
+| VegNews | 1 | 325 | 14 | 40 | 12 | 8 | 2026-05-08 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
