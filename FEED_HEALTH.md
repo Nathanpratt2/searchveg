@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-09 08:23:01
-**Total Run Time:** 8m 7s
-**Longest Step:** HTML: Pick Up Limes (0m 30s)
+**Last Run:** 2026-05-09 12:16:29
+**Total Run Time:** 8m 38s
+**Longest Step:** RSS: Fragrant Vanilla Cake (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20235 | 155 new today |
+| **Total Database** | 20235 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 860 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **8.73** | *3.46* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **8.72** | *3.46* |
-| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **6.33** | *2.51* |
-| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **5.24** | *2.08* |
-| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **5.23** | *2.08* |
-| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **5.23** | *2.08* |
-| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **5.23** | *2.08* |
-| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **4.57** | *1.81* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **8.10** | *3.21* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **8.09** | *3.21* |
+| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **5.87** | *2.33* |
+| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **4.86** | *1.93* |
+| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **4.86** | *1.93* |
+| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **4.86** | *1.93* |
+| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **4.86** | *1.93* |
+| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **4.24** | *1.68* |
 
 ---
 
@@ -60,7 +60,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -114,7 +114,7 @@
 | Monkey & Me Kitchen Adventures | 1 | 267 | 38 | 72 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| Full of Plants | 0 | 268 | 0 | 39 | 0 | 12 | 2026-05-06 | ✅ OK |
+| Full of Plants | 1 | 269 | 0 | 39 | 0 | 12 | 2026-05-09 | ✅ OK |
 | The Plant-Based RD | 0 | 269 | 4 | 17 | 1 | 0 | 2026-05-01 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
