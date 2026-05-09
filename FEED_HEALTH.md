@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-09 12:16:29
-**Total Run Time:** 8m 38s
+**Last Run:** 2026-05-09 17:35:55
+**Total Run Time:** 8m 34s
 **Longest Step:** RSS: Fragrant Vanilla Cake (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20235 | 157 new today |
+| **Total Database** | 20238 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 860 | Total recorded actions in database |
 | **WFPB / GF** | 2547 / 2697 | 12% / 13% |
-| **Easy / Budget** | 4882 / 2062 | 24% / 10% |
+| **Easy / Budget** | 4885 / 2062 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **8.10** | *3.21* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **8.09** | *3.21* |
-| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **5.87** | *2.33* |
-| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **4.86** | *1.93* |
-| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **4.86** | *1.93* |
-| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **4.86** | *1.93* |
-| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **4.86** | *1.93* |
-| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **4.24** | *1.68* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **7.31** | *2.90* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **7.30** | *2.90* |
+| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **5.30** | *2.10* |
+| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **4.39** | *1.74* |
+| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **4.38** | *1.74* |
+| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **4.38** | *1.74* |
+| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **4.38** | *1.74* |
+| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **3.82** | *1.52* |
 
 ---
 
@@ -60,7 +60,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -80,8 +80,8 @@
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
-| Reddit | 1 | 223 | 1 | 24 | 1 | 2 | 2026-05-08 | ✅ OK (1) |
 | Sweet Simple Vegan | 1 | 223 | 4 | 43 | 18 | 2 | 2026-05-07 | ✅ OK |
+| Reddit | 3 | 225 | 1 | 25 | 1 | 2 | 2026-05-09 | ✅ OK (3) |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-02 | ✅ OK |
 | The First Mess | 0 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
 | ZardyPlants | 0 | 227 | 227 | 40 | 227 | 4 | 2026-04-27 | ✅ OK |
@@ -122,11 +122,11 @@
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-08 | ✅ OK |
-| Lazy Cat Kitchen | 0 | 287 | 3 | 14 | 3 | 5 | 2026-05-02 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 316 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-08 | ✅ OK |
-| VegNews | 1 | 325 | 14 | 40 | 12 | 8 | 2026-05-08 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 325 | 2 | 10 | 5 | 1 | 2026-05-09 | ✅ OK |
+| VegNews | 5 | 325 | 14 | 42 | 12 | 8 | 2026-05-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
