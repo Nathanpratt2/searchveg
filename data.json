@@ -1,5 +1,51 @@
 [
   {
+    "blog_name": "Reddit",
+    "title": "Spanish vegan paella",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1t8n398/spanish_vegan_paella/",
+    "image": "https://preview.redd.it/xcj2tsumf60h1.jpeg?width=640&crop=smart&auto=webp&s=e86d745f69dd4470ad01cacca57699ef64e09893",
+    "date": "2026-05-09T21:06:48+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Dublin Coddle- Veganized!",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1t8f7gc/dublin_coddle_veganized/",
+    "image": "https://preview.redd.it/2ccz9p67v50h1.jpeg?width=640&crop=smart&auto=webp&s=f4e0800e3e62cd39470242a95f7d5904a4399fd2",
+    "date": "2026-05-09T19:16:52+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Monkey & Me Kitchen Adventures",
+    "title": "Fast and Easy Salsa Bean Skillet",
+    "link": "https://monkeyandmekitchenadventures.com/fast-and-easy-salsa-bean-skillet/",
+    "image": "https://monkeyandmekitchenadventures.com/wp-content/uploads/2026/05/Fast-and-Easy-Salsa-Bean-Skillet_01.jpg",
+    "date": "2026-05-09T18:47:39+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Me \ud83e\udd1d tofu",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1t8cdy9/me_tofu/",
+    "image": "https://external-preview.redd.it/eHFvYXhkNGNrNTBoMRcRwfepfnygId5Tt_7txoizIhsHmy4mYODlnQaZjlpa.png?width=640&crop=smart&auto=webp&s=7bbbd4da0affec52054f109a02c7d910f8e11f05",
+    "date": "2026-05-09T18:11:03+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Lazy Cat Kitchen",
     "title": "Eggless pistachio cookies",
     "link": "https://www.lazycatkitchen.com/eggless-pistachio-cookies/",
@@ -192,7 +238,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 7.3
+    "trending_score": 6.68
   },
   {
     "blog_name": "VegNews",
@@ -214,7 +260,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.38
+    "trending_score": 4.01
   },
   {
     "blog_name": "Jessica in the Kitchen",
@@ -236,7 +282,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.38
+    "trending_score": 4.01
   },
   {
     "blog_name": "The Little Blog of Vegan",
@@ -258,7 +304,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.38
+    "trending_score": 4.01
   },
   {
     "blog_name": "Reddit",
@@ -304,7 +350,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 7.31
+    "trending_score": 6.68
   },
   {
     "blog_name": "Reddit",
@@ -315,7 +361,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 5.3
+    "trending_score": 4.85
   },
   {
     "blog_name": "The Vegan 8",
@@ -374,7 +420,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.39
+    "trending_score": 4.01
   },
   {
     "blog_name": "Reddit",
@@ -637,7 +683,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.82
+    "trending_score": 3.5
   },
   {
     "blog_name": "Reddit",
@@ -927,6 +973,17 @@
     "special_tags": [
       "Easy"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Gretchen's Vegan Bakery",
+    "title": "Dragon Fruit Cake",
+    "link": "https://www.gretchensveganbakery.com/dragon-fruit-cake/",
+    "image": "https://www.gretchensveganbakery.com/wp-content/uploads/2022/07/dragon-fruit-cake-collage-resized.jpg",
+    "date": "2026-05-04T20:04:21+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -22782,8 +22839,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -34826,8 +34883,8 @@
     "is_disruptor": true,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -81623,8 +81680,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -131812,8 +131869,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -157530,8 +157587,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -160024,8 +160081,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173470,8 +173527,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -173619,8 +173676,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -176886,8 +176943,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -178790,8 +178847,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -180352,8 +180409,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -183048,8 +183105,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -183118,8 +183175,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -183849,8 +183906,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -185625,8 +185682,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -186756,8 +186813,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -188543,8 +188600,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -195268,8 +195325,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -199523,6 +199580,17 @@
     "trending_score": 0
   },
   {
+    "blog_name": "The Post-Punk Kitchen",
+    "title": "\u2190 Back To All Recipes",
+    "link": "https://www.theppk.com/recipes/",
+    "image": "https://www.theppk.com/wp-content/uploads/2025/06/8488402328_9b7a6feb42_z.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "It Doesn't Taste Like Chicken",
     "title": "Mediterranean",
     "link": "https://itdoesnttastelikechicken.com/cuisine/mediterranean/",
@@ -199851,17 +199919,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Post-Punk Kitchen",
-    "title": "\u2190 Back To All Recipes",
-    "link": "https://www.theppk.com/recipes/",
-    "image": "https://www.theppk.com/wp-content/uploads/2025/06/8488402328_9b7a6feb42_z.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -202543,8 +202600,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -202610,8 +202667,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -202637,8 +202694,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Low Waste",
+      "GF",
       "Easy"
     ],
     "is_trending": false,
@@ -202770,8 +202827,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211875,8 +211932,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -220930,8 +220987,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
       "Budget",
+      "WFPB",
       "Easy"
     ],
     "is_trending": false,
@@ -223384,8 +223441,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -224740,8 +224797,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "WFPB",
-      "Budget"
+      "Budget",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0

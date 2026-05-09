@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-09 17:35:55
-**Total Run Time:** 8m 34s
-**Longest Step:** RSS: Fragrant Vanilla Cake (0m 40s)
+**Last Run:** 2026-05-09 22:14:28
+**Total Run Time:** 8m 39s
+**Longest Step:** RSS: Plant Baes (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20238 | 164 new today |
+| **Total Database** | 20243 | 166 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 860 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **7.31** | *2.90* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **7.30** | *2.90* |
-| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **5.30** | *2.10* |
-| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **4.39** | *1.74* |
-| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **4.38** | *1.74* |
-| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **4.38** | *1.74* |
-| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **4.38** | *1.74* |
-| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **3.82** | *1.52* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **6.68** | *2.65* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **6.68** | *2.65* |
+| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **4.85** | *1.92* |
+| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **4.01** | *1.59* |
+| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **4.01** | *1.59* |
+| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **4.01** | *1.59* |
+| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **4.01** | *1.59* |
+| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **3.50** | *1.39* |
 
 ---
 
@@ -44,7 +44,7 @@
 | Rainbow Plant Life GF | 1 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 0 | 28 | 28 | 6 | 2 | 0 | 2026-05-06 | ✅ OK |
-| Plant Baes | 0 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ✅ OK |
+| Plant Baes | 0 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ❌ Blocked/ConnErr |
 | Dr. Vegan | 0 | 31 | 4 | 31 | 8 | 0 | 2026-05-07 | ✅ OK |
 | Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
 | Jessica in the Kitchen | 1 | 41 | 1 | 5 | 1 | 2 | 2026-05-08 | ✅ OK |
@@ -81,9 +81,9 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
 | Sweet Simple Vegan | 1 | 223 | 4 | 43 | 18 | 2 | 2026-05-07 | ✅ OK |
-| Reddit | 3 | 225 | 1 | 25 | 1 | 2 | 2026-05-09 | ✅ OK (3) |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-02 | ✅ OK |
 | The First Mess | 0 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
+| Reddit | 3 | 227 | 1 | 24 | 1 | 2 | 2026-05-09 | ✅ OK (3) |
 | ZardyPlants | 0 | 227 | 227 | 40 | 227 | 4 | 2026-04-27 | ✅ OK |
 | Rabbit and Wolves | 2 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -111,22 +111,22 @@
 | From My Bowl | 0 | 261 | 3 | 39 | 3 | 5 | 2026-05-01 | ✅ OK |
 | A Virtual Vegan | 1 | 265 | 3 | 35 | 1 | 4 | 2026-05-06 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 267 | 38 | 72 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 2 | 268 | 38 | 73 | 3 | 0 | 2026-05-09 | ✅ OK |
 | Full of Plants | 1 | 269 | 0 | 39 | 0 | 12 | 2026-05-09 | ✅ OK |
 | The Plant-Based RD | 0 | 269 | 4 | 17 | 1 | 0 | 2026-05-01 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-08 | ✅ OK |
-| Lazy Cat Kitchen | 1 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 316 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 325 | 2 | 10 | 5 | 1 | 2026-05-09 | ✅ OK |
-| VegNews | 5 | 325 | 14 | 42 | 12 | 8 | 2026-05-09 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 317 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-09 | ✅ OK |
+| VegNews | 1 | 325 | 14 | 42 | 12 | 8 | 2026-05-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
