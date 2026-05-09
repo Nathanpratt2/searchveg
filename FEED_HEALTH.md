@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-09 04:51:40
-**Total Run Time:** 8m 0s
-**Longest Step:** RSS: Fragrant Vanilla Cake (0m 38s)
+**Last Run:** 2026-05-09 08:23:01
+**Total Run Time:** 8m 7s
+**Longest Step:** HTML: Pick Up Limes (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20235 | 159 new today |
+| **Total Database** | 20235 | 155 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 860 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **9.34** | *3.71* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **9.33** | *3.70* |
-| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **6.77** | *2.69* |
-| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **5.61** | *2.23* |
-| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **5.60** | *2.22* |
-| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **5.60** | *2.22* |
-| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **5.60** | *2.22* |
-| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **4.89** | *1.94* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **8.73** | *3.46* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **8.72** | *3.46* |
+| 3 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **6.33** | *2.51* |
+| 4 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **5.24** | *2.08* |
+| 5 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **5.23** | *2.08* |
+| 6 |[Kale Wraps](https://www.reddit.com/r/veganrecipes/comments/1t77k1q/kale_wraps/) | Reddit | **5.23** | *2.08* |
+| 7 |[Crispy Tofu Caesar Salad](https://steamyvegan.com/crispy-tofu-caesar-salad/) | Steamy Vegan | **5.23** | *2.08* |
+| 8 |[Spicy Spinach Chili Palak Tofu](https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu) | VegNews | **4.57** | *1.81* |
 
 ---
 
@@ -60,7 +60,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 168 | 2 | 7 | 0 | 6 | 2026-03-15 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -70,17 +70,17 @@
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Nora Cooks | 3 | 197 | 14 | 30 | 13 | 5 | 2026-05-07 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Vegan 8 | 2 | 206 | 43 | 206 | 206 | 32 | 2026-05-07 | ✅ OK |
+| The Vegan 8 | 1 | 206 | 43 | 206 | 206 | 32 | 2026-05-07 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Elavegan | 0 | 208 | 5 | 38 | 2 | 200 | 2026-05-04 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
-| The Burger Dude | 3 | 217 | 6 | 13 | 13 | 0 | 2026-05-09 | ✅ OK |
+| The Burger Dude | 2 | 217 | 6 | 13 | 13 | 0 | 2026-05-09 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
-| Reddit | 2 | 223 | 1 | 24 | 1 | 2 | 2026-05-08 | ✅ OK (2) |
+| Reddit | 1 | 223 | 1 | 24 | 1 | 2 | 2026-05-08 | ✅ OK (1) |
 | Sweet Simple Vegan | 1 | 223 | 4 | 43 | 18 | 2 | 2026-05-07 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-02 | ✅ OK |
 | The First Mess | 0 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
