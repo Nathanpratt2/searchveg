@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-10 05:09:15
-**Total Run Time:** 9m 19s
-**Longest Step:** RSS: Steamy Vegan (1m 1s)
+**Last Run:** 2026-05-10 08:32:47
+**Total Run Time:** 7m 35s
+**Longest Step:** RSS: Fragrant Vanilla Cake (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20244 | 163 new today |
+| **Total Database** | 20246 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 863 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **5.85** | *2.32* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **5.84** | *2.32* |
-| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **5.74** | *2.28* |
-| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **5.74** | *2.28* |
-| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **5.74** | *2.28* |
-| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **4.24** | *1.68* |
-| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **3.51** | *1.39* |
-| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **3.51** | *1.39* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **5.48** | *2.17* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **5.48** | *2.17* |
+| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **5.38** | *2.14* |
+| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **5.38** | *2.13* |
+| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **5.38** | *2.13* |
+| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **3.98** | *1.58* |
+| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **3.29** | *1.31* |
+| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **3.29** | *1.30* |
 
 ---
 
@@ -44,8 +44,8 @@
 | Rainbow Plant Life GF | 1 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 0 | 28 | 28 | 6 | 2 | 0 | 2026-05-06 | ✅ OK |
-| Plant Baes | 0 | 30 | 2 | 4 | 2 | 4 | 2026-05-06 | ✅ OK |
 | Dr. Vegan | 0 | 31 | 4 | 31 | 8 | 0 | 2026-05-07 | ✅ OK |
+| Plant Baes | 1 | 31 | 2 | 4 | 2 | 4 | 2026-05-10 | ✅ OK |
 | Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
 | Jessica in the Kitchen | 1 | 41 | 1 | 5 | 1 | 2 | 2026-05-08 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
@@ -58,9 +58,9 @@
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 156 | 3 | 29 | 10 | 0 | 2026-05-05 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
-| Holistic Chef Academy | 2 | 169 | 2 | 7 | 0 | 6 | 2026-05-10 | ✅ OK |
+| Holistic Chef Academy | 1 | 169 | 2 | 7 | 0 | 6 | 2026-05-10 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ❌ Blocked/ConnErr |
+| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -83,9 +83,9 @@
 | Sweet Simple Vegan | 1 | 223 | 4 | 43 | 18 | 2 | 2026-05-07 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-02 | ✅ OK |
 | The First Mess | 0 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
-| Reddit | 0 | 227 | 1 | 24 | 1 | 2 | 2026-05-09 | ✅ OK |
 | ZardyPlants | 0 | 227 | 227 | 40 | 227 | 4 | 2026-04-27 | ✅ OK |
 | Rabbit and Wolves | 2 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
+| Reddit | 1 | 228 | 1 | 24 | 1 | 2 | 2026-05-10 | ✅ OK (1) |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
@@ -120,12 +120,12 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-08 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 317 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 325 | 2 | 10 | 5 | 1 | 2026-05-09 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-09 | ✅ OK |
 | VegNews | 1 | 325 | 14 | 42 | 12 | 8 | 2026-05-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
