@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-10 22:16:32
-**Total Run Time:** 7m 53s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-05-11 05:20:20
+**Total Run Time:** 8m 1s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20252 | 163 new today |
+| **Total Database** | 20253 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 863 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **4.21** | *1.67* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **4.20** | *1.67* |
-| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **4.13** | *1.64* |
-| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **4.13** | *1.64* |
-| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **4.13** | *1.64* |
-| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **3.05** | *1.21* |
-| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **2.53** | *1.00* |
-| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **2.52** | *1.00* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **3.67** | *1.46* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **3.67** | *1.46* |
+| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **3.61** | *1.43* |
+| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **3.60** | *1.43* |
+| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **3.60** | *1.43* |
+| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **2.66** | *1.06* |
+| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **2.20** | *0.87* |
+| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **2.20** | *0.87* |
 
 ---
 
@@ -87,7 +87,7 @@
 | Rabbit and Wolves | 2 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| Reddit | 2 | 232 | 1 | 24 | 1 | 2 | 2026-05-10 | ✅ OK (2) |
+| Reddit | 1 | 233 | 1 | 24 | 1 | 2 | 2026-05-10 | ✅ OK (1) |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
