@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-11 05:20:20
-**Total Run Time:** 8m 1s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-05-11 10:13:03
+**Total Run Time:** 7m 28s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20253 | 162 new today |
+| **Total Database** | 20253 | 161 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 863 | Total recorded actions in database |
 | **WFPB / GF** | 2546 / 2697 | 12% / 13% |
-| **Easy / Budget** | 4887 / 2062 | 24% / 10% |
+| **Easy / Budget** | 4888 / 2063 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **3.67** | *1.46* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **3.67** | *1.46* |
-| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **3.61** | *1.43* |
-| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **3.60** | *1.43* |
-| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **3.60** | *1.43* |
-| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **2.66** | *1.06* |
-| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **2.20** | *0.87* |
-| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **2.20** | *0.87* |
+| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **3.34** | *1.33* |
+| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **3.34** | *1.33* |
+| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **3.28** | *1.30* |
+| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **3.28** | *1.30* |
+| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **3.28** | *1.30* |
+| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **2.42** | *0.96* |
+| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **2.01** | *0.80* |
+| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **2.01** | *0.80* |
 
 ---
 
@@ -60,8 +60,8 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 169 | 2 | 7 | 0 | 6 | 2026-05-10 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
-| The Stingy Vegan | 1 | 180 | 1 | 180 | 180 | 0 | 2026-05-06 | ✅ OK |
+| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| The Stingy Vegan | 2 | 181 | 1 | 181 | 181 | 0 | 2026-05-11 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -87,7 +87,7 @@
 | Rabbit and Wolves | 2 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| Reddit | 1 | 233 | 1 | 24 | 1 | 2 | 2026-05-10 | ✅ OK (1) |
+| Reddit | 0 | 233 | 1 | 24 | 1 | 2 | 2026-05-10 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
