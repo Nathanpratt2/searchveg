@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-11 10:13:03
-**Total Run Time:** 7m 28s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-05-11 18:23:29
+**Total Run Time:** 7m 40s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20253 | 161 new today |
+| **Total Database** | 20257 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 863 | Total recorded actions in database |
+| **Trending Events** | 864 | Total recorded actions in database |
 | **WFPB / GF** | 2546 / 2697 | 12% / 13% |
-| **Easy / Budget** | 4888 / 2063 | 24% / 10% |
+| **Easy / Budget** | 4889 / 2063 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **3.34** | *1.33* |
-| 2 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **3.34** | *1.33* |
-| 3 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **3.28** | *1.30* |
-| 4 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **3.28** | *1.30* |
-| 5 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **3.28** | *1.30* |
-| 6 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **2.42** | *0.96* |
-| 7 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **2.01** | *0.80* |
-| 8 |[Magic Lemon Cobbler](https://www.connoisseurusveg.com/lemon-cobbler/) | Connoisseurus Veg | **2.01** | *0.80* |
+| 1 |[Sweet Pea and Mint Soup with Chickpea Crumble](https://plantbaes.com/sweet-pea-and-mint-soup-with-chickpea-crumble/) | Plant Baes | **3.58** | *1.42* |
+| 2 |[Crispy Breakfast Potatoes](https://drveganblog.com/crispy-breakfast-potatoes/) | Dr. Vegan | **2.86** | *1.13* |
+| 3 |[Vegan Cashew Cream Cheese](https://www.reddit.com/r/veganrecipes/comments/1t7brkb/vegan_cashew_cream_cheese/) | Reddit | **2.85** | *1.13* |
+| 4 |[Vegan creamy Tuscan pasta with sun-dried tomatoes](https://www.mydarlingvegan.com/vegan-creamy-tuscan-pasta/) | My Darling Vegan | **2.80** | *1.11* |
+| 5 |[Loaded Breakfast Nachos With Cashew Cheese Sauce and Tofu Scramble](https://vegnews.com/recipes/loaded-vegan-breakfast-nachos-with-cashew-cheese-sauce-and-tofu-scramble) | VegNews | **2.80** | *1.11* |
+| 6 |[Vegan Garlic Bread Dippers With Jalapeño Cheddar and Creamy Garlic Dipping Sauces](https://vegnews.com/recipes/vegan-garlic-bread-dippers-creamy-garlic-sauces) | VegNews | **2.80** | *1.11* |
+| 7 |[Soup...yum](https://www.reddit.com/r/veganrecipes/comments/1t6quqn/soupyum/) | Reddit | **2.07** | *0.82* |
+| 8 |[Kalamata and pepper pasta salad](https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/) | Reddit | **1.71** | *0.68* |
 
 ---
 
@@ -47,7 +47,7 @@
 | Dr. Vegan | 0 | 31 | 4 | 31 | 8 | 0 | 2026-05-07 | ✅ OK |
 | Plant Baes | 0 | 31 | 2 | 4 | 2 | 4 | 2026-05-10 | ✅ OK |
 | Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
-| Jessica in the Kitchen | 1 | 41 | 1 | 5 | 1 | 2 | 2026-05-08 | ✅ OK |
+| Jessica in the Kitchen | 2 | 42 | 1 | 5 | 1 | 2 | 2026-05-11 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 95 | 8 | 60 | 10 | 5 | 2026-04-15 | ✅ OK |
@@ -60,7 +60,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 169 | 2 | 7 | 0 | 6 | 2026-05-10 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 2 | 181 | 1 | 181 | 181 | 0 | 2026-05-11 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -68,7 +68,7 @@
 | The Little Blog of Vegan | 1 | 190 | 0 | 36 | 0 | 1 | 2026-05-08 | ✅ OK |
 | Simple Vegan Blog | 2 | 191 | 7 | 38 | 15 | 4 | 2026-05-08 | ✅ OK |
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
-| Nora Cooks | 3 | 197 | 14 | 30 | 13 | 5 | 2026-05-07 | ✅ OK |
+| Nora Cooks | 3 | 197 | 14 | 30 | 13 | 5 | 2026-05-11 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | The Vegan 8 | 1 | 206 | 43 | 206 | 206 | 32 | 2026-05-07 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
@@ -87,7 +87,7 @@
 | Rabbit and Wolves | 2 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| Reddit | 0 | 233 | 1 | 24 | 1 | 2 | 2026-05-10 | ✅ OK |
+| Reddit | 2 | 235 | 1 | 24 | 1 | 2 | 2026-05-11 | ✅ OK (2) |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
@@ -99,7 +99,7 @@
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
 | Eat Figs, Not Pigs | 7 | 248 | 1 | 30 | 2 | 0 | 2026-05-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Choosing Chia (Vegan Recipes) | 0 | 251 | 24 | 251 | 21 | 3 | 2026-04-01 | ✅ OK |
+| Choosing Chia (Vegan Recipes) | 1 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
 | Make It Dairy Free | 1 | 253 | 4 | 41 | 2 | 3 | 2026-05-10 | ✅ OK |
@@ -120,8 +120,8 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
-| Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-08 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-11 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 317 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
