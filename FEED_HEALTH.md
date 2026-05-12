@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-12 05:04:50
-**Total Run Time:** 7m 15s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-05-12 09:24:39
+**Total Run Time:** 7m 48s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20261 | 132 new today |
+| **Total Database** | 20265 | 165 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 872 | Total recorded actions in database |
-| **WFPB / GF** | 2546 / 2696 | 12% / 13% |
-| **Easy / Budget** | 4886 / 2061 | 24% / 10% |
+| **WFPB / GF** | 2546 / 2697 | 12% / 13% |
+| **Easy / Budget** | 4890 / 2063 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Fast and Easy Salsa Bean Skillet](https://monkeyandmekitchenadventures.com/fast-and-easy-salsa-bean-skillet/) | Monkey & Me Kitchen Adventures | **5.61** | *2.22* |
-| 2 |[Cookout Coleslaw](https://www.theppk.com/2026/05/no-mayo-coleslaw/) | The Post-Punk Kitchen | **5.61** | *2.22* |
-| 3 |[Silken Tofu Chocolate Mousse (Rich, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/silken-tofu-chocolate-mousse/) | It Doesn't Taste Like Chicken | **5.60** | *2.22* |
-| 4 |[Picnic Pasta Salad With Italian Vinaigrette](https://vegnews.com/recipes/vegan-picnic-pasta-salad) | VegNews | **5.60** | *2.22* |
-| 5 |[Homemade Samoas](https://www.reddit.com/r/veganrecipes/comments/1tacuh9/homemade_samoas/) | Reddit | **5.60** | *2.22* |
-| 6 |[Vegan Strawberry Balsamic Brioche French Toast](https://vegnews.com/recipes/vegan-balsamic-strawberry-french-toast) | VegNews | **5.60** | *2.22* |
-| 7 |[Vegan mozzarella pizza](https://www.reddit.com/r/veganrecipes/comments/1t9axnv/vegan_mozzarella_pizza/) | Reddit | **3.74** | *1.48* |
-| 8 |[Tofu Lunch Meat](https://www.noracooks.com/tofu-lunch-meat/) | Nora Cooks | **3.73** | *1.48* |
+| 1 |[Fast and Easy Salsa Bean Skillet](https://monkeyandmekitchenadventures.com/fast-and-easy-salsa-bean-skillet/) | Monkey & Me Kitchen Adventures | **5.16** | *2.05* |
+| 2 |[Cookout Coleslaw](https://www.theppk.com/2026/05/no-mayo-coleslaw/) | The Post-Punk Kitchen | **5.16** | *2.05* |
+| 3 |[Silken Tofu Chocolate Mousse (Rich, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/silken-tofu-chocolate-mousse/) | It Doesn't Taste Like Chicken | **5.16** | *2.05* |
+| 4 |[Picnic Pasta Salad With Italian Vinaigrette](https://vegnews.com/recipes/vegan-picnic-pasta-salad) | VegNews | **5.16** | *2.05* |
+| 5 |[Homemade Samoas](https://www.reddit.com/r/veganrecipes/comments/1tacuh9/homemade_samoas/) | Reddit | **5.15** | *2.04* |
+| 6 |[Vegan Strawberry Balsamic Brioche French Toast](https://vegnews.com/recipes/vegan-balsamic-strawberry-french-toast) | VegNews | **5.15** | *2.04* |
+| 7 |[Vegan mozzarella pizza](https://www.reddit.com/r/veganrecipes/comments/1t9axnv/vegan_mozzarella_pizza/) | Reddit | **3.44** | *1.36* |
+| 8 |[Tofu Lunch Meat](https://www.noracooks.com/tofu-lunch-meat/) | Nora Cooks | **3.43** | *1.36* |
 
 ---
 
@@ -60,49 +60,49 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 169 | 2 | 7 | 0 | 6 | 2026-05-10 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 172 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
-| The Stingy Vegan | 0 | 179 | 1 | 179 | 179 | 0 | 2026-05-06 | ✅ OK |
+| Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
+| The Stingy Vegan | 2 | 181 | 1 | 181 | 181 | 0 | 2026-05-11 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | The Little Blog of Vegan | 1 | 190 | 0 | 36 | 0 | 1 | 2026-05-08 | ✅ OK |
 | Simple Vegan Blog | 2 | 191 | 7 | 38 | 15 | 4 | 2026-05-08 | ✅ OK |
-| Flora & Vino | 0 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
+| Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Nora Cooks | 2 | 197 | 14 | 30 | 13 | 5 | 2026-05-11 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Vegan 8 | 0 | 206 | 43 | 206 | 206 | 32 | 2026-05-07 | ✅ OK |
+| The Vegan 8 | 1 | 206 | 43 | 206 | 206 | 32 | 2026-05-07 | ✅ OK |
 | Vegan Heaven | 4 | 207 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Elavegan | 0 | 208 | 5 | 38 | 2 | 200 | 2026-05-04 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
 | The Burger Dude | 2 | 217 | 6 | 13 | 13 | 0 | 2026-05-09 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 3 | 218 | 19 | 68 | 18 | 42 | 2026-04-14 | ✅ OK (3) |
+| Minimalist Baker (Vegan Recipes) | 3 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (3) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
-| Cadry's Kitchen | 0 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
+| Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
 | Sweet Simple Vegan | 1 | 223 | 4 | 43 | 18 | 2 | 2026-05-07 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-02 | ✅ OK |
 | The First Mess | 0 | 226 | 1 | 30 | 3 | 1 | 2026-04-29 | ✅ OK |
 | ZardyPlants | 0 | 227 | 227 | 40 | 227 | 4 | 2026-04-27 | ✅ OK |
-| Rabbit and Wolves | 0 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
+| Rabbit and Wolves | 2 | 228 | 0 | 33 | 1 | 0 | 2026-04-29 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Reddit | 2 | 237 | 1 | 24 | 1 | 2 | 2026-05-11 | ✅ OK (2) |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
+| Reddit | 3 | 238 | 1 | 24 | 1 | 2 | 2026-05-12 | ✅ OK (3) |
 | Pick Up Limes | 3 | 239 | 22 | 26 | 28 | 1 | 2026-03-01 | ✅ OK (3) |
 | HealthyGirl Kitchen | 1 | 240 | 30 | 53 | 0 | 62 | 2026-04-27 | ✅ OK |
-| Eat Figs, Not Pigs | 0 | 241 | 1 | 29 | 2 | 0 | 2026-05-07 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 248 | 1 | 29 | 2 | 0 | 2026-05-11 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
+| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
-| Make It Dairy Free | 0 | 253 | 4 | 41 | 2 | 3 | 2026-05-10 | ✅ OK |
+| Make It Dairy Free | 1 | 253 | 4 | 41 | 2 | 3 | 2026-05-10 | ✅ OK |
 | Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-06 | ✅ OK |
 | It Doesn't Taste Like Chicken | 7 | 254 | 1 | 86 | 7 | 218 | 2026-05-10 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
@@ -111,7 +111,7 @@
 | From My Bowl | 0 | 261 | 3 | 39 | 3 | 5 | 2026-05-01 | ✅ OK |
 | A Virtual Vegan | 1 | 265 | 3 | 35 | 1 | 4 | 2026-05-06 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
-| Strength and Sunshine | 0 | 266 | 8 | 266 | 2 | 259 | 2026-04-30 | ✅ OK |
+| Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 268 | 38 | 73 | 3 | 0 | 2026-05-09 | ✅ OK |
 | Full of Plants | 1 | 269 | 0 | 39 | 0 | 12 | 2026-05-09 | ✅ OK |
@@ -120,11 +120,11 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-11 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 293 | 36 | 36 | 2 | 39 | 2026-05-06 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 316 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 318 | 2 | 22 | 1 | 1 | 2026-05-06 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 325 | 2 | 10 | 5 | 1 | 2026-05-09 | ✅ OK |
 | VegNews | 1 | 328 | 13 | 43 | 12 | 8 | 2026-05-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
