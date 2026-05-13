@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-05-13 05:12:51
-**Total Run Time:** 7m 47s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-05-13 09:31:07
+**Total Run Time:** 7m 21s
+**Longest Step:** RSS: Cadry's Kitchen (0m 27s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20276 | 162 new today |
+| **Total Database** | 20277 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 901 | Total recorded actions in database |
+| **Trending Events** | 912 | Total recorded actions in database |
 | **WFPB / GF** | 2546 / 2697 | 12% / 13% |
 | **Easy / Budget** | 4891 / 2063 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cheesy Pizza Beans (Vegan)](https://www.eatfigsnotpigs.com/cheesy-pizza-beans-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheesy-pizza-beans-vegan) | Eat Figs, Not Pigs | **5.80** | *2.30* |
-| 2 |[Vegan White Chocolate Raspberry Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-white-chocolate-raspberry-cake.html) | The Little Blog of Vegan | **5.80** | *2.30* |
-| 3 |[Hasselback Potatoes With Fresh Herbs](https://jessicainthekitchen.com/hasselback-potatoes/) | Jessica in the Kitchen | **5.80** | *2.30* |
-| 4 |[Blackberry Lemon Creams](https://www.gretchensveganbakery.com/blackberry-lemon-creams/) | Gretchen's Vegan Bakery | **5.80** | *2.30* |
-| 5 |[Strawberry Lemonade](https://www.loveandlemons.com/strawberry-lemonade/) | Love and Lemons (Vegan Recipes) | **5.80** | *2.30* |
-| 6 |[Cold Soba Noodle Salad with Peanut Sauce](https://choosingchia.com/cold-soba-noodle-salad/) | Choosing Chia (Vegan Recipes) | **5.34** | *2.12* |
-| 7 |[Sweet and Spicy Rice Noodle Salad With Homemade Peanut Sauce](https://vegnews.com/recipes/sweet-and-spicy-noodle-salad) | VegNews | **5.34** | *2.12* |
-| 8 |[Easy Creamy Carrot and Tomato Soup Recipe](https://zardyplants.com/recipes/easy-creamy-carrot-and-tomato-soup-recipe/) | ZardyPlants | **4.56** | *1.81* |
+| 1 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **5.56** | *2.21* |
+| 2 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **5.56** | *2.21* |
+| 3 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **5.56** | *2.21* |
+| 4 |[Cheesy Pizza Beans (Vegan)](https://www.eatfigsnotpigs.com/cheesy-pizza-beans-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheesy-pizza-beans-vegan) | Eat Figs, Not Pigs | **5.34** | *2.12* |
+| 5 |[Vegan White Chocolate Raspberry Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-white-chocolate-raspberry-cake.html) | The Little Blog of Vegan | **5.34** | *2.12* |
+| 6 |[Hasselback Potatoes With Fresh Herbs](https://jessicainthekitchen.com/hasselback-potatoes/) | Jessica in the Kitchen | **5.34** | *2.12* |
+| 7 |[Blackberry Lemon Creams](https://www.gretchensveganbakery.com/blackberry-lemon-creams/) | Gretchen's Vegan Bakery | **5.34** | *2.12* |
+| 8 |[Strawberry Lemonade](https://www.loveandlemons.com/strawberry-lemonade/) | Love and Lemons (Vegan Recipes) | **5.34** | *2.12* |
 
 ---
 
@@ -65,8 +65,8 @@
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
-| Simple Vegan Blog | 2 | 191 | 7 | 38 | 15 | 4 | 2026-05-08 | ✅ OK |
 | The Little Blog of Vegan | 1 | 191 | 0 | 36 | 0 | 1 | 2026-05-12 | ✅ OK |
+| Simple Vegan Blog | 3 | 192 | 7 | 38 | 15 | 4 | 2026-05-13 | ✅ OK |
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Nora Cooks | 2 | 197 | 14 | 30 | 13 | 5 | 2026-05-11 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
@@ -104,8 +104,8 @@
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
 | Make It Dairy Free | 1 | 253 | 4 | 41 | 2 | 3 | 2026-05-10 | ✅ OK |
 | Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-06 | ✅ OK |
-| It Doesn't Taste Like Chicken | 7 | 254 | 1 | 86 | 7 | 218 | 2026-05-10 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
+| It Doesn't Taste Like Chicken | 7 | 255 | 1 | 86 | 7 | 218 | 2026-05-13 | ✅ OK |
 | Veggiekins | 0 | 255 | 35 | 255 | 0 | 252 | 2026-04-24 | ✅ OK |
 | My Darling Vegan | 4 | 258 | 1 | 31 | 4 | 12 | 2026-05-08 | ✅ OK |
 | From My Bowl | 0 | 261 | 3 | 39 | 3 | 5 | 2026-05-01 | ✅ OK |
@@ -120,13 +120,13 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-11 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 294 | 36 | 36 | 2 | 39 | 2026-05-12 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 294 | 36 | 36 | 2 | 39 | 2026-05-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 319 | 2 | 22 | 1 | 1 | 2026-05-12 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 326 | 2 | 10 | 5 | 1 | 2026-05-13 | ✅ OK |
-| VegNews | 1 | 331 | 13 | 43 | 12 | 8 | 2026-05-12 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 326 | 2 | 10 | 5 | 1 | 2026-05-13 | ✅ OK |
+| VegNews | 0 | 331 | 13 | 43 | 12 | 8 | 2026-05-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
