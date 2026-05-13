@@ -1,6 +1,96 @@
 [
   {
     "blog_name": "Reddit",
+    "title": "Lemon Raspberry Muffins",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1tc3qqo/lemon_raspberry_muffins/",
+    "image": "https://preview.redd.it/g5hgdx5bfx0h1.jpeg?width=640&crop=smart&auto=webp&s=89e5406308ed06d5cc3d2326d391d64cc50a9c3e",
+    "date": "2026-05-13T15:53:17+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Grape Leaf Brown Rice Pilaf \ud83c\udf3e A Deconstructed Dolmades Side Dish\ud83c\udf31",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1tc37r7/grape_leaf_brown_rice_pilaf_a_deconstructed/",
+    "image": "https://preview.redd.it/gt18wogdbx0h1.jpeg?width=640&crop=smart&auto=webp&s=5deb4e68c5a74ea26111fb52fd7833a89e564422",
+    "date": "2026-05-13T15:35:10+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Vegan Shortbread Millionaire Bars",
+    "link": "https://vegnews.com/recipes/vegan-shortbread-millionaire-bars",
+    "image": "https://vegnews.com/media/W1siZiIsIjIwODgyL1ZlZ05ld3MuVmVnYW5TaG9ydGJyZWFkTWlsbGlvbmFpcmVCYXJzLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.VeganShortbreadMillionaireBars.jpg?sha=91b5f6650635d393",
+    "date": "2026-05-13T14:40:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Vanilla Smoothie Bowl With Activated Charcoal",
+    "link": "https://vegnews.com/recipes/vegan-vanilla-smoothie-bowl-charcoal",
+    "image": "https://vegnews.com/media/W1siZiIsIjE5NjA3L1ZlZ05ld3MuQ29zbWljU21vb3RoaWVCb3dsLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.CosmicSmoothieBowl.jpg?sha=16a349fbbad2b5c5",
+    "date": "2026-05-13T14:38:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "PlantYou",
+    "title": "Spicy Pasta Salad",
+    "link": "https://plantyou.com/spicy-pasta-salad/",
+    "image": "https://plantyou.com/wp-content/uploads/2026/05/DSC08845-scaled.jpg",
+    "date": "2026-05-13T14:34:09+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "WFPB"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Fried Avocado Wedge Tacos",
+    "link": "https://vegnews.com/recipes/vegan-fried-avocado-wedge-tacos",
+    "image": "https://vegnews.com/media/W1siZiIsIjE4NzAyL1ZlZ05ld3MuQ3J1bmNoeUZyaWVkQXZvVGFjb3MuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.CrunchyFriedAvoTacos.jpg?sha=3ff293eb9bd1329d",
+    "date": "2026-05-13T14:30:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Creamy raw vegan tomato soup",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1tc1cbd/creamy_raw_vegan_tomato_soup/",
+    "image": "https://preview.redd.it/1ze0dcof0x0h1.jpeg?width=640&crop=smart&auto=webp&s=f536f571e2fd66105bfbe2cf95b75e908988354b",
+    "date": "2026-05-13T14:29:15+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Cashew Sour Cream",
+    "link": "https://holisticchefacademy.com/cashew-sour-cream/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2026/05/cashew-sour-cream-1200-1200.jpg",
+    "date": "2026-05-13T13:44:12+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
     "title": "Hear me out\u2026 TVP in overnight oats",
     "link": "https://www.reddit.com/r/veganrecipes/comments/1tbzerj/hear_me_out_tvp_in_overnight_oats/",
     "image": "https://preview.redd.it/eudftebpnw0h1.jpeg?width=640&crop=smart&auto=webp&s=fb8394a451be5db9852c1615b2435a890d2ac246",
@@ -51,6 +141,17 @@
     "link": "https://itdoesnttastelikechicken.com/vegan-olive-garden-breadsticks/",
     "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2026/04/Olive-Garden-Breadsticks-facebook.jpg",
     "date": "2026-05-13T09:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The First Mess",
+    "title": "Two Big Chocolate Chip Muffins",
+    "link": "https://thefirstmess.com/2026/05/13/two-big-chocolate-chip-muffins/",
+    "image": "https://thefirstmess.com/wp-content/uploads/2026/05/two-big-chocolate-chip-muffins-vegan-2.jpg",
+    "date": "2026-05-13T06:59:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -144,7 +245,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.93
+    "trending_score": 4.49
   },
   {
     "blog_name": "Gretchen's Vegan Bakery",
@@ -155,7 +256,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.93
+    "trending_score": 4.49
   },
   {
     "blog_name": "Jessica in the Kitchen",
@@ -166,7 +267,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.93
+    "trending_score": 4.49
   },
   {
     "blog_name": "A Couple Cooks (Vegan Recipes)",
@@ -188,7 +289,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.93
+    "trending_score": 4.49
   },
   {
     "blog_name": "Full of Plants",
@@ -236,7 +337,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.93
+    "trending_score": 4.49
   },
   {
     "blog_name": "VegNews",
@@ -538,6 +639,17 @@
     "link": "https://www.reddit.com/r/veganrecipes/comments/1t8cdy9/me_tofu/",
     "image": "https://external-preview.redd.it/eHFvYXhkNGNrNTBoMRcRwfepfnygId5Tt_7txoizIhsHmy4mYODlnQaZjlpa.png?width=640&crop=smart&auto=webp&s=7bbbd4da0affec52054f109a02c7d910f8e11f05",
     "date": "2026-05-09T18:11:03+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "A Couple Cooks (Vegan Recipes)",
+    "title": "Aperol Spritz",
+    "link": "https://www.acouplecooks.com/aperol-spritz/",
+    "image": "https://www.acouplecooks.com/wp-content/uploads/2020/05/Aperol-Spritz-020.jpg",
+    "date": "2026-05-09T17:53:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -883,8 +995,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -1241,17 +1353,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Moist Vegan Lemon Loaf Cake",
-    "link": "https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}",
-    "image": "https://fullofplants.com/wp-content/uploads/2026/05/moist-vegan-lemon-loaf-cake-16-720x900.jpg",
-    "date": "2026-05-06T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "Vegan Country Breakfast Skillet",
     "link": "https://www.veganricha.com/country-breakfast-skillet/",
@@ -1262,6 +1363,17 @@
       "Easy",
       "GF"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Moist Vegan Lemon Loaf Cake",
+    "link": "https://fullofplants.com/moist-vegan-lemon-loaf-cake/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/05/moist-vegan-lemon-loaf-cake-16-720x900.jpg",
+    "date": "2026-05-06T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -3448,10 +3560,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Vegan Worcestershire Sauce",
-    "link": "https://fullofplants.com/vegan-worcestershire-sauce/?adt_ei={$email}",
-    "image": "https://fullofplants.com/wp-content/uploads/2026/04/homemade-vegan-worcestershire-sauce-4-720x900.jpg",
+    "blog_name": "Connoisseurus Veg",
+    "title": "Vegan Peanut Butter Bread",
+    "link": "https://www.connoisseurusveg.com/vegan-peanut-butter-bread/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/02/peanut-butter-bread-09.jpg",
     "date": "2026-04-24T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -3459,10 +3571,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Vegan Peanut Butter Bread",
-    "link": "https://www.connoisseurusveg.com/vegan-peanut-butter-bread/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/02/peanut-butter-bread-09.jpg",
+    "blog_name": "Full of Plants",
+    "title": "Vegan Worcestershire Sauce",
+    "link": "https://fullofplants.com/vegan-worcestershire-sauce/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/04/homemade-vegan-worcestershire-sauce-4-720x900.jpg",
     "date": "2026-04-24T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -7747,10 +7859,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Healthy Little Vittles",
-    "title": "Vegan Deviled Mashed Potato \u201cEggs\u201d",
-    "link": "https://healthylittlevittles.com/vegan-deviled-mashed-potato-eggs/",
-    "image": "https://healthylittlevittles.com/wp-content/uploads/2026/03/Deviled-Mashed-Potato-22Eggs22.jpg",
+    "blog_name": "Vegan Richa GF",
+    "title": "Creamy Corn Chowder with Smoky Tofu Bacony Bits",
+    "link": "https://www.veganricha.com/vegan-corn-chowder/",
+    "image": "https://www.veganricha.com/wp-content/uploads/2026/02/corn-chowder-24-1.jpg",
     "date": "2026-04-01T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
@@ -7760,10 +7872,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Vegan Richa GF",
-    "title": "Creamy Corn Chowder with Smoky Tofu Bacony Bits",
-    "link": "https://www.veganricha.com/vegan-corn-chowder/",
-    "image": "https://www.veganricha.com/wp-content/uploads/2026/02/corn-chowder-24-1.jpg",
+    "blog_name": "Healthy Little Vittles",
+    "title": "Vegan Deviled Mashed Potato \u201cEggs\u201d",
+    "link": "https://healthylittlevittles.com/vegan-deviled-mashed-potato-eggs/",
+    "image": "https://healthylittlevittles.com/wp-content/uploads/2026/03/Deviled-Mashed-Potato-22Eggs22.jpg",
     "date": "2026-04-01T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
@@ -13365,9 +13477,9 @@
   },
   {
     "blog_name": "Steamy Vegan",
-    "title": "Home",
-    "link": "https://steamyvegan.com/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2025/10/508693289_10161108384272161_3952767868358635877_n.jpg",
+    "title": "Chickpea Blondies",
+    "link": "https://steamyvegan.com/chickpea-blondies/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2026/02/chickpea-blondies.png",
     "date": "2026-02-21T18:23:37+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -13376,9 +13488,9 @@
   },
   {
     "blog_name": "Steamy Vegan",
-    "title": "Chickpea Blondies",
-    "link": "https://steamyvegan.com/chickpea-blondies/",
-    "image": "https://steamyvegan.com/wp-content/uploads/2026/02/chickpea-blondies.png",
+    "title": "Home",
+    "link": "https://steamyvegan.com/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2025/10/508693289_10161108384272161_3952767868358635877_n.jpg",
     "date": "2026-02-21T18:23:37+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -14537,17 +14649,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "The Banana Diaries",
-    "title": "Small Batch Vegan Chocolate Mousse Cake \u2013 No Tofu, No Cashews!",
-    "link": "https://thebananadiaries.com/small-batch-chocolate-mousse-cake-vegan/",
-    "image": "https://thebananadiaries.com/wp-content/uploads/2023/10/small-batch-chocolate-mousse-cake-vegan_9691.jpg",
-    "date": "2026-02-13T12:00:00+00:00",
-    "is_disruptor": true,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Connoisseurus Veg",
     "title": "Easy Vegan Chocolate Truffles",
     "link": "https://www.connoisseurusveg.com/vegan-truffles/",
@@ -14557,6 +14658,17 @@
     "special_tags": [
       "Easy"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Banana Diaries",
+    "title": "Small Batch Vegan Chocolate Mousse Cake \u2013 No Tofu, No Cashews!",
+    "link": "https://thebananadiaries.com/small-batch-chocolate-mousse-cake-vegan/",
+    "image": "https://thebananadiaries.com/wp-content/uploads/2023/10/small-batch-chocolate-mousse-cake-vegan_9691.jpg",
+    "date": "2026-02-13T12:00:00+00:00",
+    "is_disruptor": true,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -14878,8 +14990,8 @@
     "date": "2026-02-11T12:05:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -15679,8 +15791,8 @@
     "date": "2026-02-06T12:54:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -16054,17 +16166,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Nashville Hot Tofu",
-    "link": "https://www.connoisseurusveg.com/nashville-hot-tofu/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/01/nashville-hot-tofu-sq.jpg",
-    "date": "2026-02-04T12:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "The BEST Strawberry Chia Pudding",
     "link": "https://www.veganricha.com/strawberry-chia-pudding/",
@@ -16075,6 +16176,17 @@
       "Easy",
       "GF"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Nashville Hot Tofu",
+    "link": "https://www.connoisseurusveg.com/nashville-hot-tofu/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/01/nashville-hot-tofu-sq.jpg",
+    "date": "2026-02-04T12:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -16456,8 +16568,8 @@
     "date": "2026-02-02T02:19:12+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17108,19 +17220,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Slow Cooker Baked Beans",
-    "link": "https://www.connoisseurusveg.com/slow-cooker-baked-beans/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/01/slow-cooke-baked-beans-sq-2.jpg",
-    "date": "2026-01-28T12:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "Budget"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "Spinach Mushroom Beans (1-pan, 30 minutes)",
     "link": "https://www.veganricha.com/spinach-mushroom-beans/",
@@ -17129,8 +17228,21 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Slow Cooker Baked Beans",
+    "link": "https://www.connoisseurusveg.com/slow-cooker-baked-beans/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/01/slow-cooke-baked-beans-sq-2.jpg",
+    "date": "2026-01-28T12:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17502,8 +17614,8 @@
     "date": "2026-01-26T02:26:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17728,8 +17840,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17815,8 +17927,8 @@
     "date": "2026-01-22T12:00:00+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -18767,8 +18879,8 @@
     "date": "2026-01-15T23:20:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -19051,17 +19163,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Vegan Nihari",
-    "link": "https://www.connoisseurusveg.com/vegan-nihari/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/12/vegan-nihari-sq.jpg",
-    "date": "2026-01-14T12:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "Harrissa Roasted Vegetables with Bean Puree and Baharat Walnut Crumble",
     "link": "https://www.veganricha.com/harrissa-bean-puree-with-walnut-crumble/",
@@ -19075,6 +19176,17 @@
     "trending_score": 0
   },
   {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Vegan Nihari",
+    "link": "https://www.connoisseurusveg.com/vegan-nihari/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/12/vegan-nihari-sq.jpg",
+    "date": "2026-01-14T12:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "It Doesn't Taste Like Chicken",
     "title": "Vegan Butter (Easy & Homemade!)",
     "link": "https://itdoesnttastelikechicken.com/vegan-butter/",
@@ -19083,8 +19195,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -23234,8 +23346,8 @@
     "date": "2025-12-14T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -23293,8 +23405,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -23557,8 +23669,8 @@
     "date": "2025-12-10T18:49:51+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25044,8 +25156,8 @@
     "date": "2025-11-26T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25386,8 +25498,8 @@
     "date": "2025-11-23T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25907,8 +26019,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -26447,8 +26559,8 @@
     "date": "2025-11-12T12:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -26462,8 +26574,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -27164,17 +27276,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Truffle Marinara Pasta",
-    "link": "https://www.connoisseurusveg.com/truffle-marinara-pasta/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/truffle-marinara-pasta-9.jpg",
-    "date": "2025-11-05T12:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "1-Pot Lemon White Bean Soup",
     "link": "https://www.veganricha.com/lemon-white-bean-soup/",
@@ -27189,6 +27290,17 @@
     "trending_score": 0
   },
   {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Truffle Marinara Pasta",
+    "link": "https://www.connoisseurusveg.com/truffle-marinara-pasta/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/truffle-marinara-pasta-9.jpg",
+    "date": "2025-11-05T12:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "It Doesn't Taste Like Chicken",
     "title": "One-Pan Roasted Tomato Rice Bake (Easy + Flavor-Packed!)",
     "link": "https://itdoesnttastelikechicken.com/tomato-rice-bake/",
@@ -27197,8 +27309,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -27708,17 +27820,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Mediterranean White Bean Stew",
-    "link": "https://www.connoisseurusveg.com/white-bean-stew/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/white-bean-stew-10.jpg",
-    "date": "2025-10-29T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "Chicken-Style Braised Tofu and Vegetables (1 pan!)",
     "link": "https://www.veganricha.com/braised-tofu-vegetables/",
@@ -27729,6 +27830,17 @@
       "Easy",
       "GF"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Mediterranean White Bean Stew",
+    "link": "https://www.connoisseurusveg.com/white-bean-stew/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/white-bean-stew-10.jpg",
+    "date": "2025-10-29T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -28351,19 +28463,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Healthy Little Vittles",
-    "title": "Pumpkin Pie Stuffed Dates",
-    "link": "https://healthylittlevittles.com/pumpkin-pie-stuffed-dates/",
-    "image": "https://healthylittlevittles.com/wp-content/uploads/2025/10/Pumpkin-Pie-Dates-4.jpg",
-    "date": "2025-10-22T11:00:00+00:00",
-    "is_disruptor": true,
-    "special_tags": [
-      "GF"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Vegan Richa GF",
     "title": "1-Pan Mushroom Potato Casserole",
     "link": "https://www.veganricha.com/mushroom-potato-casserole/",
@@ -28371,7 +28470,20 @@
     "date": "2025-10-22T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
+      "GF",
+      "Budget"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Healthy Little Vittles",
+    "title": "Pumpkin Pie Stuffed Dates",
+    "link": "https://healthylittlevittles.com/pumpkin-pie-stuffed-dates/",
+    "image": "https://healthylittlevittles.com/wp-content/uploads/2025/10/Pumpkin-Pie-Dates-4.jpg",
+    "date": "2025-10-22T11:00:00+00:00",
+    "is_disruptor": true,
+    "special_tags": [
       "GF"
     ],
     "is_trending": false,
@@ -28618,6 +28730,17 @@
     "trending_score": 0
   },
   {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Spicy Peanut Brussels Sprout Stir-Fry",
+    "link": "https://www.connoisseurusveg.com/brussels-sprout-stir-fry/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/brussels-sprout-stir-fry-sq.jpg",
+    "date": "2025-10-20T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Full of Plants",
     "title": "How to Make Tempeh in the Instant Pot",
     "link": "https://fullofplants.com/how-to-make-tempeh-instant-pot/",
@@ -28627,17 +28750,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Spicy Peanut Brussels Sprout Stir-Fry",
-    "link": "https://www.connoisseurusveg.com/brussels-sprout-stir-fry/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/brussels-sprout-stir-fry-sq.jpg",
-    "date": "2025-10-20T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -29146,8 +29258,8 @@
     "date": "2025-10-15T11:36:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -29652,8 +29764,8 @@
     "date": "2025-10-09T22:00:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -29829,7 +29941,7 @@
       "WFPB"
     ],
     "is_trending": true,
-    "trending_score": 5.13
+    "trending_score": 4.68
   },
   {
     "blog_name": "ZardyPlants",
@@ -30632,10 +30744,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Vegan Jackfruit Dumplings",
-    "link": "https://fullofplants.com/vegan-jackfruit-potstickers/",
-    "image": "https://fullofplants.com/wp-content/uploads/2025/09/vegan-jackfruit-dumplings-27.jpg",
+    "blog_name": "Connoisseurus Veg",
+    "title": "Tofu & Mushrooms with Savory Garlic Ginger Sauce",
+    "link": "https://www.connoisseurusveg.com/tofu-mushrooms/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/tofu-mushrooms-14.jpg",
     "date": "2025-09-29T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -30643,10 +30755,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Tofu & Mushrooms with Savory Garlic Ginger Sauce",
-    "link": "https://www.connoisseurusveg.com/tofu-mushrooms/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/09/tofu-mushrooms-14.jpg",
+    "blog_name": "Full of Plants",
+    "title": "Vegan Jackfruit Dumplings",
+    "link": "https://fullofplants.com/vegan-jackfruit-potstickers/",
+    "image": "https://fullofplants.com/wp-content/uploads/2025/09/vegan-jackfruit-dumplings-27.jpg",
     "date": "2025-09-29T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -32363,8 +32475,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -35054,6 +35166,17 @@
     "trending_score": 0
   },
   {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Zucchini Stir-Fry with Crispy Tofu",
+    "link": "https://www.connoisseurusveg.com/zucchini-stir-fry/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/07/zucchini-siir-fry-12.jpg",
+    "date": "2025-08-04T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Full of Plants",
     "title": "Pandan Coconut Bread (Vegan + GF)",
     "link": "https://fullofplants.com/pandan-coconut-bread-vegan-gf/",
@@ -35063,17 +35186,6 @@
     "special_tags": [
       "GF"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Zucchini Stir-Fry with Crispy Tofu",
-    "link": "https://www.connoisseurusveg.com/zucchini-stir-fry/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/07/zucchini-siir-fry-12.jpg",
-    "date": "2025-08-04T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -35327,8 +35439,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -39693,6 +39805,17 @@
     "trending_score": 0
   },
   {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Eggplant Rag\u00f9 with Creamy Polenta",
+    "link": "https://www.connoisseurusveg.com/eggplant-ragu/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/06/eggplant-ragu-13.jpg",
+    "date": "2025-06-11T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Full of Plants",
     "title": "Air Fryer Lemongrass Tofu",
     "link": "https://fullofplants.com/air-fryer-lemongrass-tofu/",
@@ -39702,17 +39825,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Eggplant Rag\u00f9 with Creamy Polenta",
-    "link": "https://www.connoisseurusveg.com/eggplant-ragu/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/06/eggplant-ragu-13.jpg",
-    "date": "2025-06-11T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -40425,10 +40537,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Vegan Banana Chocolate Chip Muffins",
-    "link": "https://fullofplants.com/vegan-banana-chocolate-chip-muffins/",
-    "image": "https://fullofplants.com/wp-content/uploads/2025/05/Vegan-Banana-Chocolate-Chip-Muffins-1.jpg",
+    "blog_name": "Connoisseurus Veg",
+    "title": "Scallion Oil Noodles",
+    "link": "https://www.connoisseurusveg.com/scallion-oil-noodles/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/05/scallion-oil-noodles-8.jpg",
     "date": "2025-06-02T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -40436,10 +40548,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Connoisseurus Veg",
-    "title": "Scallion Oil Noodles",
-    "link": "https://www.connoisseurusveg.com/scallion-oil-noodles/",
-    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2025/05/scallion-oil-noodles-8.jpg",
+    "blog_name": "Full of Plants",
+    "title": "Vegan Banana Chocolate Chip Muffins",
+    "link": "https://fullofplants.com/vegan-banana-chocolate-chip-muffins/",
+    "image": "https://fullofplants.com/wp-content/uploads/2025/05/Vegan-Banana-Chocolate-Chip-Muffins-1.jpg",
     "date": "2025-06-02T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -47839,8 +47951,8 @@
     "date": "2025-03-19T11:50:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -48706,8 +48818,8 @@
     "date": "2025-03-09T16:35:50+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -49448,8 +49560,8 @@
     "date": "2025-03-02T13:06:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -49715,8 +49827,8 @@
     "date": "2025-02-26T17:56:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -50722,8 +50834,8 @@
     "date": "2025-02-16T16:07:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -52400,8 +52512,8 @@
     "date": "2025-01-26T06:49:33+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -52693,8 +52805,8 @@
     "date": "2025-01-22T12:50:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -57534,8 +57646,8 @@
     "date": "2024-11-22T18:54:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -59019,8 +59131,8 @@
     "date": "2024-11-06T12:30:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -66329,8 +66441,8 @@
     "date": "2024-08-15T14:59:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -72287,7 +72399,7 @@
       "WFPB"
     ],
     "is_trending": true,
-    "trending_score": 5.13
+    "trending_score": 4.68
   },
   {
     "blog_name": "The Hidden Veggies",
@@ -73878,8 +73990,8 @@
     "date": "2024-06-02T11:06:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -75341,8 +75453,8 @@
     "date": "2024-05-29T11:59:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80543,8 +80655,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80679,8 +80791,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -82124,8 +82236,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -83186,8 +83298,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -103250,8 +103362,8 @@
     "date": "2023-08-29T08:50:02+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -106345,7 +106457,7 @@
       "GF"
     ],
     "is_trending": true,
-    "trending_score": 5.13
+    "trending_score": 4.68
   },
   {
     "blog_name": "The Edgy Veg",
@@ -111535,8 +111647,8 @@
     "date": "2023-05-30T08:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -120552,8 +120664,8 @@
     "date": "2023-02-14T03:20:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -124761,8 +124873,8 @@
     "date": "2022-12-25T21:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -129603,8 +129715,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -132313,8 +132425,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -136115,8 +136227,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -137665,8 +137777,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -145530,8 +145642,8 @@
     "date": "2022-04-07T02:06:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -148236,8 +148348,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -149079,8 +149191,8 @@
     "date": "2022-02-15T12:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -150138,8 +150250,8 @@
     "date": "2022-02-02T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -155064,8 +155176,8 @@
     "date": "2021-11-25T09:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -158030,8 +158142,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -160524,8 +160636,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -170299,8 +170411,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -171405,8 +171517,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172726,8 +172838,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173085,8 +173197,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173971,8 +174083,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -174119,8 +174231,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -175231,8 +175343,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -175609,8 +175721,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -177386,8 +177498,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -177637,8 +177749,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -179291,8 +179403,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -179461,8 +179573,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180672,8 +180784,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180853,8 +180965,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -183549,8 +183661,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -183619,8 +183731,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184350,8 +184462,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184917,8 +185029,8 @@
     "date": "2020-10-04T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185224,8 +185336,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186126,8 +186238,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186248,8 +186360,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186713,8 +186825,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187257,8 +187369,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188384,8 +188496,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188993,8 +189105,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189044,8 +189156,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189580,8 +189692,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191396,8 +191508,8 @@
     "date": "2020-05-23T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192417,8 +192529,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192559,8 +192671,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192601,8 +192713,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192689,8 +192801,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192777,8 +192889,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192932,8 +193044,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192946,8 +193058,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193132,8 +193244,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193332,8 +193444,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193450,8 +193562,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193762,8 +193874,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193898,8 +194010,8 @@
     "date": "2020-05-06T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194192,8 +194304,8 @@
     "date": "2020-05-05T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194306,8 +194418,8 @@
     "date": "2020-05-05T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194484,8 +194596,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194550,8 +194662,8 @@
     "date": "2020-05-05T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194761,8 +194873,8 @@
     "date": "2020-05-05T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194788,8 +194900,8 @@
     "date": "2020-05-05T00:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195633,8 +195745,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195769,8 +195881,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196307,8 +196419,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -199088,8 +199200,8 @@
     "date": "2020-01-25T12:36:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -200023,6 +200135,83 @@
     "trending_score": 0
   },
   {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Tanglewood Retreat",
+    "link": "https://holisticchefacademy.com/services/tanglewood-retreat/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2025/06/tanglewood-retreat-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Wellness Brand Sponsorship",
+    "link": "https://holisticchefacademy.com/services/wellness-brand-sponsorship/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Performance Chef Consulting & Menu Development",
+    "link": "https://holisticchefacademy.com/services/performance-chef-menu-development/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Our Services",
+    "link": "https://holisticchefacademy.com/services/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Subscribe For Free Recipes",
+    "link": "https://holisticchefacademy.com/subscribe/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Wellness Chef Consulting & Culinary Partnership Program",
+    "link": "https://holisticchefacademy.com/services/wellness-chef-consulting/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Holistic Chef Academy",
+    "title": "Tanglewood Farm & Food Studio",
+    "link": "https://holisticchefacademy.com/services/tanglewood-farm-food-studio/",
+    "image": "https://holisticchefacademy.com/wp-content/uploads/2026/03/tanglewood-farm-logo-1200-1200.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "It Doesn't Taste Like Chicken",
     "title": "Mediterranean",
     "link": "https://itdoesnttastelikechicken.com/cuisine/mediterranean/",
@@ -200532,83 +200721,6 @@
     "title": "Go to page 1",
     "link": "https://www.noracooks.com/blog/",
     "image": "https://www.noracooks.com/wp-content/uploads/2017/02/IMG_4900-1-scaled.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Tanglewood Retreat",
-    "link": "https://holisticchefacademy.com/services/tanglewood-retreat/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2025/06/tanglewood-retreat-1200-1200.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Wellness Brand Sponsorship",
-    "link": "https://holisticchefacademy.com/services/wellness-brand-sponsorship/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Performance Chef Consulting & Menu Development",
-    "link": "https://holisticchefacademy.com/services/performance-chef-menu-development/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Our Services",
-    "link": "https://holisticchefacademy.com/services/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Subscribe For Free Recipes",
-    "link": "https://holisticchefacademy.com/subscribe/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Wellness Chef Consulting & Culinary Partnership Program",
-    "link": "https://holisticchefacademy.com/services/wellness-chef-consulting/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2024/04/hca-logo-1200-1200.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Holistic Chef Academy",
-    "title": "Tanglewood Farm & Food Studio",
-    "link": "https://holisticchefacademy.com/services/tanglewood-farm-food-studio/",
-    "image": "https://holisticchefacademy.com/wp-content/uploads/2026/03/tanglewood-farm-logo-1200-1200.jpg",
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -203057,8 +203169,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -203110,8 +203222,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -203178,8 +203290,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -203270,8 +203382,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -203310,8 +203422,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -203350,8 +203462,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -207673,8 +207785,8 @@
     "date": "2019-11-24T14:49:31+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -209148,8 +209260,8 @@
     "date": "2019-10-21T22:24:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -212375,8 +212487,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -213360,8 +213472,8 @@
     "date": "2019-05-30T11:52:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -221431,8 +221543,8 @@
     "special_tags": [
       "Easy",
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -223884,8 +223996,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -225240,8 +225352,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -229040,8 +229152,8 @@
     "date": "2017-03-01T08:01:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -229930,8 +230042,8 @@
     "date": "2016-12-28T19:32:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -235418,8 +235530,8 @@
     "date": "2015-09-02T05:23:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "GF"
+      "GF",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
