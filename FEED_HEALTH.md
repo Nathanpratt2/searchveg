@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-13 09:31:07
-**Total Run Time:** 7m 21s
-**Longest Step:** RSS: Cadry's Kitchen (0m 27s)
+**Last Run:** 2026-05-13 13:42:32
+**Total Run Time:** 7m 29s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20277 | 154 new today |
+| **Total Database** | 20281 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 912 | Total recorded actions in database |
-| **WFPB / GF** | 2546 / 2697 | 12% / 13% |
-| **Easy / Budget** | 4891 / 2063 | 24% / 10% |
+| **WFPB / GF** | 2546 / 2698 | 12% / 13% |
+| **Easy / Budget** | 4892 / 2063 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **5.56** | *2.21* |
-| 2 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **5.56** | *2.21* |
-| 3 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **5.56** | *2.21* |
-| 4 |[Cheesy Pizza Beans (Vegan)](https://www.eatfigsnotpigs.com/cheesy-pizza-beans-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheesy-pizza-beans-vegan) | Eat Figs, Not Pigs | **5.34** | *2.12* |
-| 5 |[Vegan White Chocolate Raspberry Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-white-chocolate-raspberry-cake.html) | The Little Blog of Vegan | **5.34** | *2.12* |
-| 6 |[Hasselback Potatoes With Fresh Herbs](https://jessicainthekitchen.com/hasselback-potatoes/) | Jessica in the Kitchen | **5.34** | *2.12* |
-| 7 |[Blackberry Lemon Creams](https://www.gretchensveganbakery.com/blackberry-lemon-creams/) | Gretchen's Vegan Bakery | **5.34** | *2.12* |
-| 8 |[Strawberry Lemonade](https://www.loveandlemons.com/strawberry-lemonade/) | Love and Lemons (Vegan Recipes) | **5.34** | *2.12* |
+| 1 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **5.13** | *2.04* |
+| 2 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **5.13** | *2.04* |
+| 3 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **5.13** | *2.04* |
+| 4 |[Cheesy Pizza Beans (Vegan)](https://www.eatfigsnotpigs.com/cheesy-pizza-beans-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheesy-pizza-beans-vegan) | Eat Figs, Not Pigs | **4.93** | *1.96* |
+| 5 |[Vegan White Chocolate Raspberry Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-white-chocolate-raspberry-cake.html) | The Little Blog of Vegan | **4.93** | *1.96* |
+| 6 |[Hasselback Potatoes With Fresh Herbs](https://jessicainthekitchen.com/hasselback-potatoes/) | Jessica in the Kitchen | **4.93** | *1.96* |
+| 7 |[Blackberry Lemon Creams](https://www.gretchensveganbakery.com/blackberry-lemon-creams/) | Gretchen's Vegan Bakery | **4.93** | *1.96* |
+| 8 |[Strawberry Lemonade](https://www.loveandlemons.com/strawberry-lemonade/) | Love and Lemons (Vegan Recipes) | **4.93** | *1.96* |
 
 ---
 
@@ -39,14 +39,14 @@
 | Mary's Test Kitchen | 3 | 12 | 0 | 1 | 1 | 0 | 2026-04-24 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 0 | 15 | 0 | 0 | 0 | 0 | 2026-05-04 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 1 | 2026-05-12 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 7 | 0 | 1 | 2026-05-12 | ✅ OK |
 | The Banana Diaries | 0 | 23 | 0 | 4 | 2 | 0 | 2026-05-08 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 0 | 28 | 28 | 6 | 2 | 0 | 2026-05-06 | ✅ OK |
 | Dr. Vegan | 0 | 31 | 4 | 31 | 8 | 0 | 2026-05-07 | ✅ OK |
 | Plant Baes | 0 | 31 | 2 | 4 | 2 | 4 | 2026-05-10 | ✅ OK |
-| Vegan Richa GF | 0 | 36 | 1 | 10 | 7 | 36 | 2026-05-06 | ✅ OK |
+| Vegan Richa GF | 1 | 37 | 1 | 10 | 7 | 37 | 2026-05-13 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Jessica in the Kitchen | 1 | 43 | 1 | 5 | 1 | 2 | 2026-05-12 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -58,7 +58,7 @@
 | Sarah's Vegan Kitchen | 4 | 141 | 0 | 11 | 2 | 1 | 2026-04-18 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 157 | 3 | 29 | 10 | 0 | 2026-05-12 | ✅ OK |
-| Holistic Chef Academy | 1 | 169 | 2 | 7 | 0 | 6 | 2026-05-10 | ✅ OK |
+| Holistic Chef Academy | 2 | 170 | 2 | 7 | 0 | 6 | 2026-05-13 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
 | Steamy Vegan | 1 | 173 | 9 | 29 | 10 | 2 | 2026-05-08 | ✅ OK |
 | The Stingy Vegan | 2 | 181 | 1 | 181 | 181 | 0 | 2026-05-11 | ✅ OK |
@@ -92,7 +92,7 @@
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
 | Pick Up Limes | 3 | 239 | 22 | 26 | 28 | 1 | 2026-03-01 | ✅ OK (3) |
 | HealthyGirl Kitchen | 1 | 240 | 30 | 53 | 0 | 62 | 2026-04-27 | ✅ OK |
-| Reddit | 2 | 240 | 1 | 25 | 1 | 2 | 2026-05-12 | ✅ OK (2) |
+| Reddit | 2 | 240 | 1 | 25 | 1 | 2 | 2026-05-13 | ✅ OK (2) |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
@@ -103,9 +103,9 @@
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
 | Make It Dairy Free | 1 | 253 | 4 | 41 | 2 | 3 | 2026-05-10 | ✅ OK |
-| Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-06 | ✅ OK |
+| Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-13 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
-| It Doesn't Taste Like Chicken | 7 | 255 | 1 | 86 | 7 | 218 | 2026-05-13 | ✅ OK |
+| It Doesn't Taste Like Chicken | 6 | 255 | 1 | 86 | 7 | 218 | 2026-05-13 | ✅ OK |
 | Veggiekins | 0 | 255 | 35 | 255 | 0 | 252 | 2026-04-24 | ✅ OK |
 | My Darling Vegan | 4 | 258 | 1 | 31 | 4 | 12 | 2026-05-08 | ✅ OK |
 | From My Bowl | 0 | 261 | 3 | 39 | 3 | 5 | 2026-05-01 | ✅ OK |
@@ -120,8 +120,8 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
-| Connoisseurus Veg | 1 | 286 | 0 | 33 | 1 | 0 | 2026-05-11 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Connoisseurus Veg | 2 | 287 | 0 | 33 | 1 | 0 | 2026-05-13 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 294 | 36 | 36 | 2 | 39 | 2026-05-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 319 | 2 | 22 | 1 | 1 | 2026-05-12 | ✅ OK |
