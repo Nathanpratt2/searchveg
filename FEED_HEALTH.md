@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-14 05:12:24
-**Total Run Time:** 8m 51s
-**Longest Step:** RSS: Steamy Vegan (1m 1s)
+**Last Run:** 2026-05-14 09:21:28
+**Total Run Time:** 8m 0s
+**Longest Step:** HTML: Pick Up Limes (0m 26s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20303 | 162 new today |
+| **Total Database** | 20303 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 922 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cowboy Caviar (Black Eyed Pea Salad)](https://makeitdairyfree.com/cowboy-caviar-black-eyed-pea-salad/) | Make It Dairy Free | **4.99** | *1.98* |
-| 2 |[Recipe Smothered Vegan Black-Eyed Peas Smothered Vegan Black-Eyed Peas](https://vegnews.com/recipes/smothered-black-eyed-peas) | VegNews | **4.96** | *1.97* |
-| 3 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **3.81** | *1.51* |
-| 4 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **3.81** | *1.51* |
-| 5 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **3.81** | *1.51* |
-| 6 |[Cheesy Pizza Beans (Vegan)](https://www.eatfigsnotpigs.com/cheesy-pizza-beans-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheesy-pizza-beans-vegan) | Eat Figs, Not Pigs | **3.66** | *1.45* |
-| 7 |[Vegan White Chocolate Raspberry Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-white-chocolate-raspberry-cake.html) | The Little Blog of Vegan | **3.66** | *1.45* |
-| 8 |[Hasselback Potatoes With Fresh Herbs](https://jessicainthekitchen.com/hasselback-potatoes/) | Jessica in the Kitchen | **3.66** | *1.45* |
+| 1 |[Cowboy Caviar (Black Eyed Pea Salad)](https://makeitdairyfree.com/cowboy-caviar-black-eyed-pea-salad/) | Make It Dairy Free | **4.61** | *1.83* |
+| 2 |[Recipe Smothered Vegan Black-Eyed Peas Smothered Vegan Black-Eyed Peas](https://vegnews.com/recipes/smothered-black-eyed-peas) | VegNews | **4.58** | *1.82* |
+| 3 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **3.52** | *1.40* |
+| 4 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **3.51** | *1.39* |
+| 5 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **3.51** | *1.39* |
+| 6 |[Cheesy Pizza Beans (Vegan)](https://www.eatfigsnotpigs.com/cheesy-pizza-beans-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheesy-pizza-beans-vegan) | Eat Figs, Not Pigs | **3.38** | *1.34* |
+| 7 |[Vegan White Chocolate Raspberry Cake](https://www.thelittleblogofvegan.com/2026/05/vegan-white-chocolate-raspberry-cake.html) | The Little Blog of Vegan | **3.38** | *1.34* |
+| 8 |[Hasselback Potatoes With Fresh Herbs](https://jessicainthekitchen.com/hasselback-potatoes/) | Jessica in the Kitchen | **3.38** | *1.34* |
 
 ---
 
@@ -45,7 +45,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
 | PlantYou | 0 | 29 | 29 | 6 | 2 | 0 | 2026-05-13 | ✅ OK |
 | Dr. Vegan | 0 | 31 | 4 | 31 | 8 | 0 | 2026-05-07 | ✅ OK |
-| Plant Baes | 2 | 33 | 2 | 4 | 2 | 4 | 2026-05-14 | ✅ OK |
+| Plant Baes | 0 | 33 | 2 | 4 | 2 | 4 | 2026-05-14 | ✅ OK |
 | Vegan Richa GF | 0 | 37 | 1 | 10 | 7 | 37 | 2026-05-13 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Jessica in the Kitchen | 1 | 43 | 1 | 5 | 1 | 2 | 2026-05-12 | ✅ OK |
@@ -59,8 +59,8 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 157 | 3 | 29 | 10 | 0 | 2026-05-12 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 173 | 9 | 29 | 10 | 2 | 2026-05-13 | ❌ Blocked/ConnErr |
-| Holistic Chef Academy | 3 | 174 | 2 | 7 | 0 | 7 | 2026-05-14 | ✅ OK |
+| Holistic Chef Academy | 2 | 174 | 2 | 7 | 0 | 7 | 2026-05-14 | ✅ OK |
+| Steamy Vegan | 1 | 174 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
 | The Stingy Vegan | 2 | 181 | 1 | 181 | 181 | 0 | 2026-05-11 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 183 | 0 | 22 | 1 | 30 | 2026-05-05 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -96,7 +96,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 9 | 243 | 40 | 27 | 33 | 1 | 2026-04-23 | ✅ OK |
-| Reddit | 3 | 245 | 1 | 25 | 1 | 2 | 2026-05-13 | ✅ OK (3) |
+| Reddit | 1 | 245 | 1 | 25 | 1 | 2 | 2026-05-13 | ✅ OK (1) |
 | Eat Figs, Not Pigs | 6 | 248 | 1 | 29 | 2 | 0 | 2026-05-11 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
@@ -120,7 +120,7 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 279 | 9 | 47 | 2 | 276 | 2026-05-07 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 287 | 0 | 33 | 1 | 0 | 2026-05-13 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 294 | 36 | 36 | 2 | 39 | 2026-05-12 | ✅ OK |
