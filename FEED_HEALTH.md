@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-15 05:16:35
-**Total Run Time:** 7m 48s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-05-15 09:35:22
+**Total Run Time:** 7m 39s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20323 | 158 new today |
+| **Total Database** | 20323 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 946 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan No-Bake Cookies](https://runningonrealfood.com/vegan-no-bake-cookies/) | Running on Real Food | **5.41** | *2.15* |
-| 2 |[Chickpea Cookie Dough (Vegan, Gluten-Free)](https://elavegan.com/edible-vegan-cookie-dough/) | Elavegan | **5.03** | *2.00* |
-| 3 |[Quick & Easy Vegan Cookie Dough (Edible)](https://itdoesnttastelikechicken.com/quick-easy-vegan-cookie-dough-edible/) | It Doesn't Taste Like Chicken | **5.03** | *2.00* |
-| 4 |[Cowboy Caviar (Black Eyed Pea Salad)](https://makeitdairyfree.com/cowboy-caviar-black-eyed-pea-salad/) | Make It Dairy Free | **3.14** | *1.25* |
-| 5 |[Recipe Smothered Vegan Black-Eyed Peas Smothered Vegan Black-Eyed Peas](https://vegnews.com/recipes/smothered-black-eyed-peas) | VegNews | **3.12** | *1.24* |
-| 6 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **2.40** | *0.95* |
-| 7 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **2.40** | *0.95* |
-| 8 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **2.39** | *0.95* |
+| 1 |[Vegan No-Bake Cookies](https://runningonrealfood.com/vegan-no-bake-cookies/) | Running on Real Food | **4.98** | *1.98* |
+| 2 |[Chickpea Cookie Dough (Vegan, Gluten-Free)](https://elavegan.com/edible-vegan-cookie-dough/) | Elavegan | **4.63** | *1.84* |
+| 3 |[Quick & Easy Vegan Cookie Dough (Edible)](https://itdoesnttastelikechicken.com/quick-easy-vegan-cookie-dough-edible/) | It Doesn't Taste Like Chicken | **4.63** | *1.84* |
+| 4 |[Cowboy Caviar (Black Eyed Pea Salad)](https://makeitdairyfree.com/cowboy-caviar-black-eyed-pea-salad/) | Make It Dairy Free | **2.89** | *1.15* |
+| 5 |[Recipe Smothered Vegan Black-Eyed Peas Smothered Vegan Black-Eyed Peas](https://vegnews.com/recipes/smothered-black-eyed-peas) | VegNews | **2.87** | *1.14* |
+| 6 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **2.20** | *0.88* |
+| 7 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **2.20** | *0.87* |
+| 8 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **2.20** | *0.87* |
 
 ---
 
@@ -59,8 +59,8 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 157 | 3 | 29 | 10 | 0 | 2026-05-12 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 173 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
-| Holistic Chef Academy | 3 | 175 | 2 | 7 | 0 | 7 | 2026-05-15 | ✅ OK |
+| Steamy Vegan | 1 | 174 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
+| Holistic Chef Academy | 2 | 175 | 2 | 7 | 0 | 7 | 2026-05-15 | ✅ OK |
 | The Stingy Vegan | 2 | 181 | 1 | 181 | 181 | 0 | 2026-05-11 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 184 | 0 | 23 | 1 | 30 | 2026-05-14 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -98,7 +98,7 @@
 | Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-14 | ✅ OK |
 | Eat Figs, Not Pigs | 6 | 248 | 1 | 29 | 2 | 0 | 2026-05-14 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Reddit | 2 | 250 | 1 | 25 | 1 | 2 | 2026-05-15 | ✅ OK (2) |
+| Reddit | 1 | 250 | 1 | 25 | 1 | 2 | 2026-05-15 | ✅ OK (1) |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
@@ -125,7 +125,7 @@
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 294 | 36 | 36 | 2 | 39 | 2026-05-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 320 | 2 | 22 | 1 | 1 | 2026-05-13 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 329 | 2 | 11 | 5 | 1 | 2026-05-15 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 329 | 2 | 11 | 5 | 1 | 2026-05-15 | ✅ OK |
 | VegNews | 0 | 337 | 13 | 43 | 12 | 8 | 2026-05-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
