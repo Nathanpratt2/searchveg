@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-15 22:36:20
-**Total Run Time:** 7m 30s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-05-16 04:55:32
+**Total Run Time:** 7m 17s
+**Longest Step:** HTML: Pick Up Limes (0m 25s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20336 | 158 new today |
+| **Total Database** | 20337 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 956 | Total recorded actions in database |
+| **Trending Events** | 965 | Total recorded actions in database |
 | **WFPB / GF** | 2548 / 2700 | 12% / 13% |
-| **Easy / Budget** | 4900 / 2065 | 24% / 10% |
+| **Easy / Budget** | 4901 / 2065 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan No-Bake Cookies](https://runningonrealfood.com/vegan-no-bake-cookies/) | Running on Real Food | **3.88** | *1.54* |
-| 2 |[Chickpea Cookie Dough (Vegan, Gluten-Free)](https://elavegan.com/edible-vegan-cookie-dough/) | Elavegan | **3.61** | *1.43* |
-| 3 |[Quick & Easy Vegan Cookie Dough (Edible)](https://itdoesnttastelikechicken.com/quick-easy-vegan-cookie-dough-edible/) | It Doesn't Taste Like Chicken | **3.61** | *1.43* |
-| 4 |[Cowboy Caviar (Black Eyed Pea Salad)](https://makeitdairyfree.com/cowboy-caviar-black-eyed-pea-salad/) | Make It Dairy Free | **2.25** | *0.89* |
-| 5 |[Recipe Smothered Vegan Black-Eyed Peas Smothered Vegan Black-Eyed Peas](https://vegnews.com/recipes/smothered-black-eyed-peas) | VegNews | **2.23** | *0.89* |
-| 6 |[Vegan Gluten-Free Lemon Bars](https://www.snixykitchen.com/vegan-gluten-free-lemon-bars/) | Snixy Kitchen (Vegan Recipes) | **1.72** | *0.68* |
-| 7 |[Healthy Vegan Lemon Bars](https://sweetsimplevegan.com/creamy-lemon-rosemary-bars/) | Sweet Simple Vegan | **1.72** | *0.68* |
-| 8 |[Healthy Lemon Bars](https://namelymarly.com/healthy-lemon-bars/) | Namely Marly | **1.72** | *0.68* |
+| 1 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **5.66** | *2.25* |
+| 2 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **5.66** | *2.25* |
+| 3 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **5.66** | *2.25* |
+| 4 |[Peach Blueberry Salad (With Balsamic Dressing)](https://www.reddit.com/r/veganrecipes/comments/1td3k2d/peach_blueberry_salad_with_balsamic_dressing/) | Reddit | **5.66** | *2.25* |
+| 5 |[Silken Tofu Chocolate Mousse - surprisingly thick and decadent!](https://www.reddit.com/r/veganrecipes/comments/1tczs9y/silken_tofu_chocolate_mousse_surprisingly_thick/) | Reddit | **5.66** | *2.25* |
+| 6 |[Brownie Baked Oats](https://plantbaes.com/brownie-baked-oats/) | Plant Baes | **5.66** | *2.25* |
+| 7 |[Healthy Ranch Dressing (Dairy-Free)](https://plantbaes.com/healthy-ranch-dressing/) | Plant Baes | **5.66** | *2.25* |
+| 8 |[High-Protein Vegan Chocolate Cheesecake](https://steamyvegan.com/high-protein-vegan-chocolate-cheesecake/) | Steamy Vegan | **5.66** | *2.24* |
 
 ---
 
@@ -59,8 +59,8 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 158 | 3 | 29 | 10 | 0 | 2026-05-15 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 1 | 174 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
-| Holistic Chef Academy | 2 | 175 | 2 | 7 | 0 | 7 | 2026-05-15 | ✅ OK |
+| Steamy Vegan | 0 | 173 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
+| Holistic Chef Academy | 3 | 176 | 2 | 7 | 0 | 7 | 2026-05-16 | ✅ OK |
 | The Stingy Vegan | 2 | 182 | 1 | 182 | 182 | 0 | 2026-05-15 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 184 | 0 | 23 | 1 | 30 | 2026-05-14 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -75,8 +75,8 @@
 | Elavegan | 0 | 208 | 5 | 38 | 2 | 200 | 2026-05-04 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 0 | 216 | 5 | 36 | 10 | 0 | 2026-04-30 | ✅ OK |
-| The Burger Dude | 2 | 217 | 6 | 13 | 13 | 0 | 2026-05-09 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
+| The Burger Dude | 3 | 218 | 6 | 14 | 13 | 0 | 2026-05-16 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 2 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (2) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Cadry's Kitchen | 7 | 223 | 11 | 79 | 21 | 0 | 2026-05-04 | ✅ OK |
@@ -98,7 +98,7 @@
 | Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-14 | ✅ OK |
 | Eat Figs, Not Pigs | 7 | 249 | 1 | 29 | 2 | 0 | 2026-05-15 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Reddit | 3 | 251 | 1 | 25 | 1 | 2 | 2026-05-15 | ✅ OK (3) |
+| Reddit | 2 | 251 | 1 | 25 | 1 | 2 | 2026-05-15 | ✅ OK (2) |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
@@ -120,7 +120,7 @@
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
 | Healthy Little Vittles | 1 | 280 | 9 | 47 | 2 | 277 | 2026-05-14 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 282 | 282 | 24 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 288 | 0 | 33 | 1 | 0 | 2026-05-15 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 288 | 3 | 14 | 3 | 5 | 2026-05-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 294 | 36 | 36 | 2 | 39 | 2026-05-12 | ✅ OK |
