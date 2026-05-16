@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-16 08:29:28
-**Total Run Time:** 7m 35s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-05-16 12:20:10
+**Total Run Time:** 7m 30s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 46s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20337 | 158 new today |
+| **Total Database** | 20339 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 965 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **5.28** | *2.10* |
-| 2 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **5.28** | *2.10* |
-| 3 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **5.28** | *2.10* |
-| 4 |[Peach Blueberry Salad (With Balsamic Dressing)](https://www.reddit.com/r/veganrecipes/comments/1td3k2d/peach_blueberry_salad_with_balsamic_dressing/) | Reddit | **5.28** | *2.10* |
-| 5 |[Silken Tofu Chocolate Mousse - surprisingly thick and decadent!](https://www.reddit.com/r/veganrecipes/comments/1tczs9y/silken_tofu_chocolate_mousse_surprisingly_thick/) | Reddit | **5.28** | *2.10* |
-| 6 |[Brownie Baked Oats](https://plantbaes.com/brownie-baked-oats/) | Plant Baes | **5.28** | *2.10* |
-| 7 |[Healthy Ranch Dressing (Dairy-Free)](https://plantbaes.com/healthy-ranch-dressing/) | Plant Baes | **5.28** | *2.10* |
-| 8 |[High-Protein Vegan Chocolate Cheesecake](https://steamyvegan.com/high-protein-vegan-chocolate-cheesecake/) | Steamy Vegan | **5.28** | *2.10* |
+| 1 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **4.91** | *1.95* |
+| 2 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **4.91** | *1.95* |
+| 3 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **4.91** | *1.95* |
+| 4 |[Peach Blueberry Salad (With Balsamic Dressing)](https://www.reddit.com/r/veganrecipes/comments/1td3k2d/peach_blueberry_salad_with_balsamic_dressing/) | Reddit | **4.91** | *1.95* |
+| 5 |[Silken Tofu Chocolate Mousse - surprisingly thick and decadent!](https://www.reddit.com/r/veganrecipes/comments/1tczs9y/silken_tofu_chocolate_mousse_surprisingly_thick/) | Reddit | **4.91** | *1.95* |
+| 6 |[Brownie Baked Oats](https://plantbaes.com/brownie-baked-oats/) | Plant Baes | **4.90** | *1.95* |
+| 7 |[Healthy Ranch Dressing (Dairy-Free)](https://plantbaes.com/healthy-ranch-dressing/) | Plant Baes | **4.90** | *1.95* |
+| 8 |[High-Protein Vegan Chocolate Cheesecake](https://steamyvegan.com/high-protein-vegan-chocolate-cheesecake/) | Steamy Vegan | **4.90** | *1.95* |
 
 ---
 
@@ -59,7 +59,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 158 | 3 | 29 | 10 | 0 | 2026-05-15 | ✅ OK |
 | Dreena Burton | 0 | 171 | 171 | 12 | 18 | 41 | 2026-05-08 | ✅ OK |
-| Steamy Vegan | 0 | 173 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
+| Steamy Vegan | 1 | 174 | 9 | 29 | 10 | 2 | 2026-05-13 | ✅ OK |
 | Holistic Chef Academy | 2 | 176 | 2 | 7 | 0 | 7 | 2026-05-16 | ✅ OK |
 | The Stingy Vegan | 2 | 182 | 1 | 182 | 182 | 0 | 2026-05-15 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 184 | 0 | 23 | 1 | 30 | 2026-05-14 | ✅ OK |
@@ -96,7 +96,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-14 | ✅ OK |
-| Eat Figs, Not Pigs | 7 | 249 | 1 | 29 | 2 | 0 | 2026-05-15 | ✅ OK |
+| Eat Figs, Not Pigs | 7 | 249 | 1 | 29 | 2 | 0 | 2026-05-16 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Reddit | 3 | 251 | 1 | 25 | 1 | 2 | 2026-05-15 | ✅ OK (3) |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
@@ -114,8 +114,8 @@
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 269 | 38 | 73 | 3 | 0 | 2026-05-13 | ✅ OK |
-| Full of Plants | 1 | 270 | 0 | 40 | 0 | 12 | 2026-05-12 | ✅ OK |
 | The Plant-Based RD | 0 | 270 | 4 | 17 | 1 | 0 | 2026-05-13 | ✅ OK |
+| Full of Plants | 2 | 271 | 0 | 40 | 0 | 12 | 2026-05-16 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 277 | 16 | 66 | 277 | 1 | 2026-05-04 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 278 | 278 | 7 | 0 | 9 | 2026-05-05 | ✅ OK |
