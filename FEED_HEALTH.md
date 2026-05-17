@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-17 08:44:01
-**Total Run Time:** 7m 32s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-05-17 12:17:28
+**Total Run Time:** 7m 51s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20353 | 158 new today |
+| **Total Database** | 20354 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 967 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **3.45** | *1.37* |
-| 2 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **3.36** | *1.33* |
-| 3 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **3.31** | *1.31* |
-| 4 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **3.31** | *1.31* |
-| 5 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **3.31** | *1.31* |
-| 6 |[Peach Blueberry Salad (With Balsamic Dressing)](https://www.reddit.com/r/veganrecipes/comments/1td3k2d/peach_blueberry_salad_with_balsamic_dressing/) | Reddit | **3.31** | *1.31* |
-| 7 |[Silken Tofu Chocolate Mousse - surprisingly thick and decadent!](https://www.reddit.com/r/veganrecipes/comments/1tczs9y/silken_tofu_chocolate_mousse_surprisingly_thick/) | Reddit | **3.31** | *1.31* |
-| 8 |[Brownie Baked Oats](https://plantbaes.com/brownie-baked-oats/) | Plant Baes | **3.31** | *1.31* |
+| 1 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **3.22** | *1.28* |
+| 2 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **3.13** | *1.24* |
+| 3 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **3.09** | *1.23* |
+| 4 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **3.09** | *1.23* |
+| 5 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **3.09** | *1.23* |
+| 6 |[Peach Blueberry Salad (With Balsamic Dressing)](https://www.reddit.com/r/veganrecipes/comments/1td3k2d/peach_blueberry_salad_with_balsamic_dressing/) | Reddit | **3.09** | *1.23* |
+| 7 |[Silken Tofu Chocolate Mousse - surprisingly thick and decadent!](https://www.reddit.com/r/veganrecipes/comments/1tczs9y/silken_tofu_chocolate_mousse_surprisingly_thick/) | Reddit | **3.09** | *1.23* |
+| 8 |[Brownie Baked Oats](https://plantbaes.com/brownie-baked-oats/) | Plant Baes | **3.09** | *1.23* |
 
 ---
 
@@ -102,9 +102,9 @@
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 252 | 0 | 252 | 2 | 0 | 2026-05-05 | ✅ OK |
 | Vegan Richa | 10 | 253 | 10 | 60 | 41 | 73 | 2026-05-13 | ✅ OK |
-| Make It Dairy Free | 1 | 254 | 4 | 41 | 2 | 3 | 2026-05-17 | ✅ OK |
+| Make It Dairy Free | 0 | 254 | 4 | 41 | 2 | 3 | 2026-05-17 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
-| It Doesn't Taste Like Chicken | 6 | 255 | 1 | 86 | 7 | 218 | 2026-05-13 | ✅ OK |
+| It Doesn't Taste Like Chicken | 7 | 256 | 1 | 86 | 7 | 218 | 2026-05-17 | ✅ OK |
 | Veggiekins | 0 | 256 | 35 | 256 | 0 | 253 | 2026-05-16 | ✅ OK |
 | Reddit | 3 | 257 | 1 | 26 | 1 | 2 | 2026-05-16 | ✅ OK (3) |
 | My Darling Vegan | 3 | 259 | 1 | 31 | 4 | 12 | 2026-05-16 | ✅ OK |
