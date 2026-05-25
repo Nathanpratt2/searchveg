@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-25 14:27:41
-**Total Run Time:** 7m 33s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-05-25 18:14:26
+**Total Run Time:** 7m 26s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20451 | 147 new today |
+| **Total Database** | 20452 | 150 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
-| **WFPB / GF** | 2553 / 2704 | 12% / 13% |
-| **Easy / Budget** | 4927 / 2067 | 24% / 10% |
+| **WFPB / GF** | 2554 / 2704 | 12% / 13% |
+| **Easy / Budget** | 4926 / 2065 | 24% / 10% |
 
 ---
 
@@ -20,9 +20,9 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.40** | *0.16* |
-| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.17** | *0.07* |
-| 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.08** | *0.03* |
+| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.37** | *0.15* |
+| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.16** | *0.06* |
+| 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.07** | *0.03* |
 | 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.07** | *0.03* |
 | 5 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **0.07** | *0.03* |
 | 6 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **0.07** | *0.03* |
@@ -43,7 +43,7 @@
 | The Banana Diaries | 0 | 24 | 0 | 5 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 25 | 5 | 1 | 4 | 24 | 2026-05-02 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 26 | 0 | 2 | 0 | 1 | 2026-04-23 | ✅ OK |
-| PlantYou | 0 | 30 | 30 | 6 | 2 | 0 | 2026-05-22 | ✅ OK |
+| PlantYou | 1 | 31 | 31 | 6 | 2 | 0 | 2026-05-25 | ✅ OK |
 | Dr. Vegan | 0 | 33 | 4 | 33 | 8 | 0 | 2026-05-21 | ✅ OK |
 | Plant Baes | 0 | 35 | 3 | 4 | 2 | 4 | 2026-05-22 | ✅ OK |
 | Vegan Richa GF | 0 | 38 | 1 | 10 | 7 | 38 | 2026-05-21 | ✅ OK |
@@ -125,8 +125,8 @@
 | Lazy Cat Kitchen | 0 | 290 | 3 | 14 | 3 | 5 | 2026-05-23 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 296 | 36 | 37 | 2 | 39 | 2026-05-22 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 325 | 2 | 22 | 1 | 1 | 2026-05-20 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 333 | 2 | 11 | 5 | 1 | 2026-05-25 | ✅ OK |
-| VegNews | 0 | 350 | 13 | 51 | 10 | 8 | 2026-05-24 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 333 | 2 | 11 | 5 | 1 | 2026-05-25 | ✅ OK |
+| VegNews | 3 | 350 | 13 | 50 | 8 | 8 | 2026-05-25 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
