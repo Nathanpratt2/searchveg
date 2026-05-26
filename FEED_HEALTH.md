@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-26 05:42:55
-**Total Run Time:** 7m 53s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-05-26 10:39:44
+**Total Run Time:** 7m 19s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20455 | 157 new today |
+| **Total Database** | 20455 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
@@ -20,10 +20,10 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.30** | *0.12* |
-| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.13** | *0.05* |
-| 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.06** | *0.02* |
-| 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.06** | *0.02* |
+| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.27** | *0.11* |
+| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.12** | *0.05* |
+| 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.05** | *0.02* |
+| 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.05** | *0.02* |
 | 5 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **0.05** | *0.02* |
 | 6 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **0.05** | *0.02* |
 | 7 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **0.05** | *0.02* |
@@ -65,7 +65,7 @@
 | Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-05-25 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
-| Simple Vegan Blog | 5 | 194 | 7 | 38 | 15 | 4 | 2026-05-21 | ✅ OK |
+| Simple Vegan Blog | 5 | 193 | 7 | 38 | 15 | 4 | 2026-05-21 | ✅ OK |
 | The Little Blog of Vegan | 0 | 194 | 0 | 37 | 0 | 1 | 2026-05-21 | ✅ OK |
 | Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
 | Nora Cooks | 1 | 198 | 14 | 30 | 13 | 5 | 2026-05-18 | ✅ OK |
@@ -76,7 +76,7 @@
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Vegan in the Freezer | 0 | 217 | 5 | 36 | 10 | 0 | 2026-05-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 3 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (3) |
+| Minimalist Baker (Vegan Recipes) | 4 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Burger Dude | 4 | 222 | 6 | 14 | 13 | 0 | 2026-05-22 | ✅ OK |
 | Cadry's Kitchen | 5 | 225 | 11 | 80 | 21 | 0 | 2026-05-23 | ✅ OK |
