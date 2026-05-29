@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-29 19:13:58
-**Total Run Time:** 7m 57s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 31s)
+**Last Run:** 2026-05-29 22:56:52
+**Total Run Time:** 8m 15s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20500 | 167 new today |
+| **Total Database** | 20500 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.06** | *0.02* |
+| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.05** | *0.02* |
 | 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.02** | *0.01* |
 | 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.01** | *0.00* |
 | 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.01** | *0.00* |
@@ -95,7 +95,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-27 | ✅ OK |
-| HealthyGirl Kitchen | 2 | 243 | 30 | 55 | 0 | 62 | 2026-05-29 | ✅ OK |
+| HealthyGirl Kitchen | 1 | 243 | 30 | 55 | 0 | 62 | 2026-05-29 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Eat Figs, Not Pigs | 5 | 251 | 1 | 30 | 2 | 0 | 2026-05-28 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 291 | 0 | 34 | 1 | 0 | 2026-05-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 297 | 36 | 37 | 2 | 39 | 2026-05-26 | ✅ OK |
 | Reddit | 2 | 300 | 1 | 33 | 1 | 4 | 2026-05-29 | ✅ OK (2) |
-| Gretchen's Vegan Bakery | 3 | 328 | 2 | 22 | 1 | 1 | 2026-05-28 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 328 | 2 | 22 | 1 | 1 | 2026-05-28 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 334 | 2 | 11 | 5 | 1 | 2026-05-27 | ✅ OK |
-| VegNews | 3 | 350 | 13 | 49 | 8 | 8 | 2026-05-29 | ✅ OK |
+| VegNews | 0 | 350 | 13 | 49 | 8 | 8 | 2026-05-29 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
