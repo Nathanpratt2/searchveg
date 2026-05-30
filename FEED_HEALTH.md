@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-30 08:51:35
-**Total Run Time:** 8m 23s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
+**Last Run:** 2026-05-30 12:53:20
+**Total Run Time:** 8m 22s
+**Longest Step:** RSS: Hot For Food (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20503 | 164 new today |
+| **Total Database** | 20506 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
-| **WFPB / GF** | 2559 / 2708 | 12% / 13% |
-| **Easy / Budget** | 4935 / 2068 | 24% / 10% |
+| **WFPB / GF** | 2560 / 2709 | 12% / 13% |
+| **Easy / Budget** | 4934 / 2068 | 24% / 10% |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 14 | 0 | 3 | 1 | 0 | 2026-05-15 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 16 | 0 | 0 | 0 | 0 | 2026-05-04 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 15 | 0 | 0 | 0 | 0 | 2026-05-04 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 2 | 0 | 0 | 2026-05-27 | ✅ OK |
 | The Banana Diaries | 0 | 24 | 0 | 5 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -46,7 +46,7 @@
 | PlantYou | 1 | 32 | 32 | 6 | 2 | 0 | 2026-05-29 | ✅ OK |
 | Dr. Vegan | 0 | 33 | 4 | 33 | 8 | 0 | 2026-05-21 | ✅ OK |
 | Plant Baes | 0 | 36 | 3 | 4 | 2 | 4 | 2026-05-27 | ✅ OK |
-| Vegan Richa GF | 0 | 38 | 1 | 10 | 7 | 38 | 2026-05-21 | ✅ OK |
+| Vegan Richa GF | 1 | 39 | 1 | 10 | 7 | 39 | 2026-05-30 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Jessica in the Kitchen | 2 | 48 | 1 | 6 | 1 | 2 | 2026-05-26 | ✅ OK |
 | My Goodness Kitchen | 1 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
@@ -67,7 +67,7 @@
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 5 | 192 | 7 | 38 | 15 | 4 | 2026-05-21 | ✅ OK |
 | The Little Blog of Vegan | 0 | 196 | 0 | 38 | 0 | 1 | 2026-05-29 | ✅ OK |
-| Flora & Vino | 1 | 197 | 197 | 11 | 0 | 9 | 2026-04-25 | ✅ OK |
+| Flora & Vino | 2 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
 | Nora Cooks | 1 | 198 | 14 | 30 | 13 | 5 | 2026-05-18 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 3 | 206 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
@@ -98,10 +98,10 @@
 | HealthyGirl Kitchen | 1 | 243 | 30 | 55 | 0 | 62 | 2026-05-29 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Eat Figs, Not Pigs | 5 | 251 | 1 | 30 | 2 | 0 | 2026-05-28 | ✅ OK |
+| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 252 | 24 | 252 | 21 | 3 | 2026-05-11 | ✅ OK |
-| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
-| Vegan Richa | 9 | 253 | 10 | 60 | 41 | 73 | 2026-05-21 | ✅ OK |
+| Vegan Richa | 9 | 253 | 10 | 59 | 41 | 73 | 2026-05-30 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
 | Make It Dairy Free | 0 | 255 | 4 | 42 | 2 | 3 | 2026-05-24 | ✅ OK |
 | Veggiekins | 0 | 256 | 35 | 256 | 0 | 253 | 2026-05-16 | ✅ OK |
@@ -123,8 +123,8 @@
 | Lazy Cat Kitchen | 0 | 290 | 3 | 14 | 3 | 5 | 2026-05-23 | ✅ OK |
 | Connoisseurus Veg | 1 | 291 | 0 | 34 | 1 | 0 | 2026-05-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 298 | 36 | 37 | 2 | 39 | 2026-05-30 | ✅ OK |
-| Reddit | 4 | 302 | 1 | 33 | 1 | 4 | 2026-05-30 | ✅ OK (4) |
-| Gretchen's Vegan Bakery | 2 | 328 | 2 | 22 | 1 | 1 | 2026-05-28 | ✅ OK |
+| Reddit | 3 | 303 | 1 | 33 | 1 | 4 | 2026-05-30 | ✅ OK (3) |
+| Gretchen's Vegan Bakery | 3 | 329 | 2 | 22 | 1 | 1 | 2026-05-29 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 334 | 2 | 11 | 5 | 1 | 2026-05-27 | ✅ OK |
 | VegNews | 0 | 350 | 13 | 49 | 8 | 8 | 2026-05-29 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
