@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-29 22:56:52
-**Total Run Time:** 8m 15s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-05-30 05:16:51
+**Total Run Time:** 10m 9s
+**Longest Step:** RSS: Dr. Vegan (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20500 | 162 new today |
+| **Total Database** | 20501 | 163 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
@@ -122,7 +122,7 @@
 | Ann Arbor Vegan Kitchen | 6 | 283 | 283 | 25 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 290 | 3 | 14 | 3 | 5 | 2026-05-23 | ✅ OK |
 | Connoisseurus Veg | 1 | 291 | 0 | 34 | 1 | 0 | 2026-05-27 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 297 | 36 | 37 | 2 | 39 | 2026-05-26 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 298 | 36 | 37 | 2 | 39 | 2026-05-30 | ✅ OK |
 | Reddit | 2 | 300 | 1 | 33 | 1 | 4 | 2026-05-29 | ✅ OK (2) |
 | Gretchen's Vegan Bakery | 2 | 328 | 2 | 22 | 1 | 1 | 2026-05-28 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 334 | 2 | 11 | 5 | 1 | 2026-05-27 | ✅ OK |
