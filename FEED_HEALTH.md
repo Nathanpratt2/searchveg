@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-05-30 05:16:51
-**Total Run Time:** 10m 9s
-**Longest Step:** RSS: Dr. Vegan (0m 39s)
+**Last Run:** 2026-05-30 08:51:35
+**Total Run Time:** 8m 23s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20501 | 163 new today |
+| **Total Database** | 20503 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.05** | *0.02* |
+| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.04** | *0.02* |
 | 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.02** | *0.01* |
 | 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.01** | *0.00* |
 | 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.01** | *0.00* |
@@ -122,8 +122,8 @@
 | Ann Arbor Vegan Kitchen | 6 | 283 | 283 | 25 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 290 | 3 | 14 | 3 | 5 | 2026-05-23 | ✅ OK |
 | Connoisseurus Veg | 1 | 291 | 0 | 34 | 1 | 0 | 2026-05-27 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 298 | 36 | 37 | 2 | 39 | 2026-05-30 | ✅ OK |
-| Reddit | 2 | 300 | 1 | 33 | 1 | 4 | 2026-05-29 | ✅ OK (2) |
+| The Conscious Plant Kitchen | 0 | 298 | 36 | 37 | 2 | 39 | 2026-05-30 | ✅ OK |
+| Reddit | 4 | 302 | 1 | 33 | 1 | 4 | 2026-05-30 | ✅ OK (4) |
 | Gretchen's Vegan Bakery | 2 | 328 | 2 | 22 | 1 | 1 | 2026-05-28 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 334 | 2 | 11 | 5 | 1 | 2026-05-27 | ✅ OK |
 | VegNews | 0 | 350 | 13 | 49 | 8 | 8 | 2026-05-29 | ✅ OK |
