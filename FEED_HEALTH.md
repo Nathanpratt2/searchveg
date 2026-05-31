@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-05-30 22:37:47
-**Total Run Time:** 7m 59s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-05-31 05:58:12
+**Total Run Time:** 7m 19s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 29s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20510 | 154 new today |
+| **Total Database** | 20512 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
 | **WFPB / GF** | 2560 / 2709 | 12% / 13% |
-| **Easy / Budget** | 4934 / 2068 | 24% / 10% |
+| **Easy / Budget** | 4936 / 2068 | 24% / 10% |
 
 ---
 
@@ -59,10 +59,10 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 161 | 3 | 30 | 10 | 0 | 2026-05-28 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Steamy Vegan | 0 | 176 | 9 | 29 | 10 | 2 | 2026-05-30 | ✅ OK |
 | Holistic Chef Academy | 1 | 177 | 2 | 7 | 0 | 7 | 2026-05-18 | ✅ OK |
 | The Stingy Vegan | 2 | 183 | 1 | 183 | 183 | 0 | 2026-05-22 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-05-28 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 5 | 192 | 7 | 38 | 15 | 4 | 2026-05-21 | ✅ OK |
@@ -119,11 +119,11 @@
 | Plant-Based on a Budget | 1 | 278 | 16 | 66 | 278 | 1 | 2026-05-25 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 280 | 280 | 7 | 0 | 9 | 2026-05-26 | ✅ OK |
 | Healthy Little Vittles | 3 | 281 | 9 | 47 | 2 | 278 | 2026-05-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 283 | 283 | 25 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 283 | 283 | 25 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 290 | 3 | 14 | 3 | 5 | 2026-05-23 | ✅ OK |
 | Connoisseurus Veg | 1 | 291 | 0 | 34 | 1 | 0 | 2026-05-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 298 | 36 | 37 | 2 | 39 | 2026-05-30 | ✅ OK |
-| Reddit | 2 | 304 | 1 | 33 | 1 | 4 | 2026-05-30 | ✅ OK (2) |
+| Reddit | 3 | 306 | 1 | 34 | 1 | 4 | 2026-05-31 | ✅ OK (3) |
 | Gretchen's Vegan Bakery | 3 | 329 | 2 | 22 | 1 | 1 | 2026-05-29 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 335 | 2 | 12 | 5 | 1 | 2026-05-30 | ✅ OK |
 | VegNews | 0 | 350 | 13 | 48 | 8 | 8 | 2026-05-30 | ✅ OK |
