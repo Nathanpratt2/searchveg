@@ -1624,9 +1624,14 @@ try:
             "Content-Profile": "public"
         }
         
-        # Removed the 7-day restriction to look at the entire Supabase history. Just temp as we test the algo. Once there is more traffic lets cut this off at 7 days
+       # We hit the 1,000 row API limit! Now we filter to the last 14 days and get the newest first.
+        fourteen_days_ago = (now_utc - timedelta(days=14)).isoformat()
+        
         query_params = {
-            "select": "link,action,created_at"
+            "select": "link,action,created_at",
+            "created_at": f"gte.{fourteen_days_ago}",
+            "order": "created_at.desc",
+            "limit": "3000"
         }
         
         res = requests.get(f"{supabase_url}/rest/v1/recipe_interactions", headers=headers, params=query_params, timeout=10)
