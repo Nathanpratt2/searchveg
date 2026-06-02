@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-06-01 23:21:32
-**Total Run Time:** 8m 30s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-06-02 06:18:25
+**Total Run Time:** 9m 17s
+**Longest Step:** RSS: Dreena Burton (1m 5s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20530 | 161 new today |
+| **Total Database** | 20533 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 1000 | Total recorded actions in database |
-| **WFPB / GF** | 2560 / 2709 | 12% / 13% |
+| **WFPB / GF** | 2561 / 2709 | 12% / 13% |
 | **Easy / Budget** | 4942 / 2068 | 24% / 10% |
 
 ---
@@ -20,8 +20,8 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.01** | *0.01* |
-| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.01** | *0.00* |
+| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.01** | *0.00* |
+| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.00** | *0.00* |
 | 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.00** | *0.00* |
 | 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.00** | *0.00* |
 | 5 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **0.00** | *0.00* |
@@ -60,7 +60,7 @@
 | Love and Lemons (Vegan Recipes) | 0 | 162 | 3 | 30 | 10 | 0 | 2026-05-31 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Steamy Vegan | 0 | 176 | 9 | 29 | 10 | 2 | 2026-05-30 | ✅ OK |
-| Holistic Chef Academy | 1 | 179 | 2 | 8 | 0 | 7 | 2026-06-01 | ✅ OK |
+| Holistic Chef Academy | 1 | 179 | 2 | 8 | 0 | 7 | 2026-06-02 | ✅ OK |
 | The Stingy Vegan | 2 | 183 | 1 | 183 | 183 | 0 | 2026-05-22 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-05-28 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -123,7 +123,7 @@
 | Lazy Cat Kitchen | 0 | 291 | 3 | 14 | 3 | 5 | 2026-05-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 292 | 0 | 34 | 1 | 0 | 2026-06-01 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 298 | 36 | 37 | 2 | 39 | 2026-05-30 | ✅ OK |
-| Reddit | 1 | 310 | 1 | 35 | 1 | 4 | 2026-06-01 | ✅ OK (1) |
+| Reddit | 2 | 312 | 2 | 35 | 1 | 4 | 2026-06-02 | ✅ OK (2) |
 | Gretchen's Vegan Bakery | 3 | 329 | 2 | 22 | 1 | 1 | 2026-05-29 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 335 | 2 | 12 | 5 | 1 | 2026-05-30 | ✅ OK |
 | VegNews | 0 | 350 | 13 | 49 | 7 | 8 | 2026-05-31 | ✅ OK |
