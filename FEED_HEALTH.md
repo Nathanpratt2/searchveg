@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-06-02 20:02:56
-**Total Run Time:** 7m 30s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-06-02 23:18:35
+**Total Run Time:** 7m 43s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 2s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20540 | 149 new today |
+| **Total Database** | 20540 | 145 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 1000 | Total recorded actions in database |
+| **Trending Events** | 191 | Total recorded actions in database |
 | **WFPB / GF** | 2562 / 2708 | 12% / 13% |
 | **Easy / Budget** | 4940 / 2066 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Creamy Vegan Picnic Potato Salad](https://vegnews.com/recipes/vegan-picnic-potato-salad) | VegNews | **0.01** | *0.00* |
-| 2 |[How to Make Viral Salt Bread Recipe (Easy and Vegan)](https://thekoreanvegan.com/viral-salt-bread-recipe-vegan/) | The Korean Vegan | **0.00** | *0.00* |
-| 3 |[Baked Sweet Potato Flautas With Cashew Queso](https://vegnews.com/recipes/vegan-sweet-potato-flautas-cashew-queso) | VegNews | **0.00** | *0.00* |
-| 4 |[Strawberry Cheesecake Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1tf5tel/strawberry_cheesecake_bars_vegan/) | Reddit | **0.00** | *0.00* |
-| 5 |[Matcha Brownies](https://www.reddit.com/r/veganrecipes/comments/1td8wth/matcha_brownies/) | Reddit | **0.00** | *0.00* |
-| 6 |[Mango Sticky Rice Oatmeal](https://sweetsimplevegan.com/mango-sticky-rice-oatmeal/) | Sweet Simple Vegan | **0.00** | *0.00* |
-| 7 |[Vegan Queso Swim “Chicken” and Rice Bake](https://www.rabbitandwolves.com/vegan-queso-swim-chicken-and-rice-bake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-queso-swim-chicken-and-rice-bake) | Rabbit and Wolves | **0.00** | *0.00* |
-| 8 |[Peach Blueberry Salad (With Balsamic Dressing)](https://www.reddit.com/r/veganrecipes/comments/1td3k2d/peach_blueberry_salad_with_balsamic_dressing/) | Reddit | **0.00** | *0.00* |
+| 1 |[Cajun Tofu Lime Tahini Salad](https://thevegan8.com/cajun-tofu-lime-tahini-salad/) | The Vegan 8 | **5.83** | *2.32* |
+| 2 |[Vegan Breakfast Crunchwrap](https://jessicainthekitchen.com/breakfast-crunchwrap/) | Jessica in the Kitchen | **5.83** | *2.32* |
+| 3 |[Vegan Asparagus Tart](https://fullofplants.com/vegan-asparagus-tart/) | Full of Plants | **5.46** | *2.17* |
+| 4 |[Crunchy Ramen Noodle Salad](https://runningonrealfood.com/ramen-noodle-salad/) | Running on Real Food | **4.91** | *1.95* |
+| 5 |[Homemade Probiotic Drinks: 5 Easy Fermented Beverages for Gut Health](https://holisticchefacademy.com/homemade-probiotic-drinks/) | Holistic Chef Academy | **3.24** | *1.29* |
+| 6 |[Dump and Bake Taco Rice Casserole](https://steamyvegan.com/taco-rice-casserole/) | Steamy Vegan | **2.82** | *1.12* |
+| 7 |[Fresh Lemony White Bean Dip](https://vegnews.com/recipes/vegan-lemony-white-bean-dip) | VegNews | **2.65** | *1.05* |
+| 8 |[Vegan Tofu-Based Ground Beef](https://www.reddit.com/r/veganrecipes/comments/1ts6vsc/vegan_tofubased_ground_beef/) | Reddit | **2.65** | *1.05* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 14 | 0 | 3 | 1 | 0 | 2026-05-15 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 16 | 0 | 0 | 0 | 0 | 2026-05-04 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 15 | 0 | 0 | 0 | 0 | 2026-05-04 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-02 | ✅ OK |
 | The Banana Diaries | 0 | 25 | 0 | 6 | 2 | 0 | 2026-06-02 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -98,7 +98,7 @@
 | HealthyGirl Kitchen | 1 | 243 | 30 | 55 | 0 | 62 | 2026-05-29 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
-| Eat Figs, Not Pigs | 6 | 252 | 1 | 31 | 2 | 0 | 2026-06-02 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 252 | 1 | 31 | 2 | 0 | 2026-06-02 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 10 | 59 | 41 | 73 | 2026-05-30 | ✅ OK |
@@ -118,11 +118,11 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Plant-Based on a Budget | 1 | 279 | 16 | 67 | 279 | 1 | 2026-06-01 | ✅ OK |
 | Healthy Little Vittles | 3 | 281 | 9 | 47 | 2 | 278 | 2026-05-28 | ✅ OK |
-| The Whole Food Plant Based Cooking Show | 1 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK (1) |
+| The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 283 | 283 | 25 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 291 | 3 | 14 | 3 | 5 | 2026-05-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 292 | 0 | 34 | 1 | 0 | 2026-06-01 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 299 | 36 | 37 | 2 | 39 | 2026-06-02 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 299 | 36 | 37 | 2 | 39 | 2026-06-02 | ✅ OK |
 | Reddit | 1 | 313 | 2 | 35 | 1 | 4 | 2026-06-02 | ✅ OK (1) |
 | Gretchen's Vegan Bakery | 0 | 327 | 2 | 22 | 1 | 1 | 2026-05-27 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 335 | 2 | 12 | 5 | 1 | 2026-05-30 | ✅ OK |
