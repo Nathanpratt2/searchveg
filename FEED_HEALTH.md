@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-04 06:24:21
-**Total Run Time:** 9m 41s
-**Longest Step:** RSS: Steamy Vegan (1m 1s)
+**Last Run:** 2026-06-04 10:22:36
+**Total Run Time:** 7m 58s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20561 | 160 new today |
+| **Total Database** | 20562 | 167 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 198 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[One Bowl MOIST Vegan Chocolate Loaf Cake](https://thebananadiaries.com/vegan-chocolate-loaf-cake/) | The Banana Diaries | **7.21** | *2.86* |
-| 2 |[Crispy Vegan Greek Meatballs with Fresh Herbs](https://frommybowl.com/vegan-greek-meatballs-fresh-herbs/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-greek-meatballs-fresh-herbs) | From My Bowl | **5.92** | *2.35* |
-| 3 |[Crispy Vegan Tofu Tacos](https://www.reddit.com/r/veganrecipes/comments/1tvlb4n/crispy_vegan_tofu_tacos/) | Reddit | **5.34** | *2.12* |
-| 4 |[Tofu Sofritas](https://www.reddit.com/r/veganrecipes/comments/1tvqdmn/tofu_sofritas/) | Reddit | **5.34** | *2.12* |
-| 5 |[Shredded Tofu Salad](https://plantyou.com/shredded-tofu-salad/) | PlantYou | **5.34** | *2.12* |
-| 6 |[Best for summer Mediterranean Orzo Salad](https://www.reddit.com/r/veganrecipes/comments/1tw2grh/best_for_summer_mediterranean_orzo_salad/) | Reddit | **5.34** | *2.12* |
-| 7 |[Easy Vegan Queso Dip](https://thehiddenveggies.com/easy-vegan-queso-dip/) | The Hidden Veggies | **5.34** | *2.12* |
-| 8 |[Easy Vegan Cheese Sauce](https://thehiddenveggies.com/easy-vegan-cheese-sauce/) | The Hidden Veggies | **5.34** | *2.12* |
+| 1 |[One Bowl MOIST Vegan Chocolate Loaf Cake](https://thebananadiaries.com/vegan-chocolate-loaf-cake/) | The Banana Diaries | **6.68** | *2.65* |
+| 2 |[Crispy Vegan Greek Meatballs with Fresh Herbs](https://frommybowl.com/vegan-greek-meatballs-fresh-herbs/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-greek-meatballs-fresh-herbs) | From My Bowl | **5.49** | *2.18* |
+| 3 |[Crispy Vegan Tofu Tacos](https://www.reddit.com/r/veganrecipes/comments/1tvlb4n/crispy_vegan_tofu_tacos/) | Reddit | **4.95** | *1.96* |
+| 4 |[Tofu Sofritas](https://www.reddit.com/r/veganrecipes/comments/1tvqdmn/tofu_sofritas/) | Reddit | **4.94** | *1.96* |
+| 5 |[Shredded Tofu Salad](https://plantyou.com/shredded-tofu-salad/) | PlantYou | **4.94** | *1.96* |
+| 6 |[Best for summer Mediterranean Orzo Salad](https://www.reddit.com/r/veganrecipes/comments/1tw2grh/best_for_summer_mediterranean_orzo_salad/) | Reddit | **4.94** | *1.96* |
+| 7 |[Easy Vegan Queso Dip](https://thehiddenveggies.com/easy-vegan-queso-dip/) | The Hidden Veggies | **4.94** | *1.96* |
+| 8 |[Easy Vegan Cheese Sauce](https://thehiddenveggies.com/easy-vegan-cheese-sauce/) | The Hidden Veggies | **4.94** | *1.96* |
 
 ---
 
@@ -45,7 +45,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 27 | 0 | 2 | 0 | 1 | 2026-05-26 | ✅ OK |
 | PlantYou | 1 | 33 | 33 | 6 | 2 | 0 | 2026-06-03 | ✅ OK |
 | Dr. Vegan | 2 | 35 | 4 | 35 | 8 | 0 | 2026-06-04 | ✅ OK |
-| Plant Baes | 0 | 37 | 3 | 4 | 2 | 4 | 2026-06-01 | ✅ OK |
+| Plant Baes | 1 | 38 | 3 | 4 | 2 | 4 | 2026-06-04 | ✅ OK |
 | Vegan Richa GF | 0 | 40 | 2 | 10 | 7 | 40 | 2026-06-03 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Jessica in the Kitchen | 3 | 51 | 1 | 6 | 1 | 2 | 2026-06-02 | ✅ OK |
@@ -57,9 +57,9 @@
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 5 | 142 | 0 | 11 | 2 | 1 | 2026-05-28 | ✅ OK |
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 1 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Steamy Vegan | 0 | 176 | 9 | 29 | 10 | 2 | 2026-05-30 | ❌ Blocked/ConnErr |
+| Steamy Vegan | 0 | 176 | 9 | 29 | 10 | 2 | 2026-05-30 | ✅ OK |
 | Holistic Chef Academy | 1 | 180 | 2 | 8 | 0 | 7 | 2026-06-02 | ✅ OK |
 | The Stingy Vegan | 2 | 183 | 1 | 183 | 183 | 0 | 2026-05-22 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-06-03 | ✅ OK |
@@ -97,8 +97,8 @@
 | Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-27 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 243 | 30 | 55 | 0 | 62 | 2026-05-29 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
 | Eat Figs, Not Pigs | 5 | 252 | 1 | 31 | 2 | 0 | 2026-06-03 | ✅ OK |
+| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-03 | ✅ OK |
@@ -119,7 +119,7 @@
 | Plant-Based on a Budget | 1 | 279 | 16 | 67 | 279 | 1 | 2026-06-01 | ✅ OK |
 | Healthy Little Vittles | 3 | 281 | 9 | 47 | 2 | 278 | 2026-05-28 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 291 | 3 | 14 | 3 | 5 | 2026-05-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 292 | 0 | 34 | 1 | 0 | 2026-06-01 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 299 | 36 | 37 | 2 | 39 | 2026-06-02 | ✅ OK |
