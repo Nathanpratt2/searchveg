@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-05 06:02:18
-**Total Run Time:** 8m 24s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-06-05 10:37:58
+**Total Run Time:** 8m 7s
+**Longest Step:** RSS: Hot For Food (1m 6s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20568 | 164 new today |
+| **Total Database** | 20569 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 230 | Total recorded actions in database |
 | **WFPB / GF** | 2566 / 2711 | 12% / 13% |
-| **Easy / Budget** | 4948 / 2071 | 24% / 10% |
+| **Easy / Budget** | 4950 / 2071 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Healthy Strawberry Popsicles (Vegan + Paleo)](https://theloopywhisk.com/2017/06/23/healthy-strawberry-popsicles/) | The Loopy Whisk (Vegan Recipes) | **5.32** | *2.11* |
-| 2 |[Vegan Chocolate Peanut Butter Cookie Dough Popsicles](https://veganyackattack.com/2020/08/25/chocolate-peanut-butter-cookie-dough-pops/) | Vegan Yack Attack | **5.31** | *2.11* |
-| 3 |[Strawberry Watermelon Popsicles](https://choosingchia.com/strawberry-watermelon-popsicles/) | Choosing Chia (Vegan Recipes) | **5.31** | *2.11* |
-| 4 |[3-Ingredient Vegan Mango Lassi Popsicles: Refreshing Summer Treats!](https://justinecooksvegan.com/3-ingredient-vegan-mango-lassi-popsicles-refreshing-summer-treats/) | Justine Cooks Vegan | **5.31** | *2.11* |
-| 5 |[Strawberry Beet Chia Seed Jam Coconut Milk Popsicles](https://healthylittlevittles.com/strawberry-beet-chia-seed-jam-coconut-milk-popsicles/) | Healthy Little Vittles | **5.31** | *2.11* |
-| 6 |[Banana Popsicles](https://pickyeaterblog.com/banana-popsicles/) | Veggies Don't Bite | **5.31** | *2.11* |
-| 7 |[Triple Berry Dairy-Free Popsicles](https://vegnews.com/recipes/very-berry-vegan-popsicles) | VegNews | **5.31** | *2.11* |
-| 8 |[Three-Ingredient Healthy Strawberry Banana Popsicles](https://vegnews.com/recipes/vegan-strawberry-banana-popsicles) | VegNews | **5.30** | *2.10* |
+| 1 |[Healthy Strawberry Popsicles (Vegan + Paleo)](https://theloopywhisk.com/2017/06/23/healthy-strawberry-popsicles/) | The Loopy Whisk (Vegan Recipes) | **4.87** | *1.93* |
+| 2 |[Vegan Chocolate Peanut Butter Cookie Dough Popsicles](https://veganyackattack.com/2020/08/25/chocolate-peanut-butter-cookie-dough-pops/) | Vegan Yack Attack | **4.86** | *1.93* |
+| 3 |[Strawberry Watermelon Popsicles](https://choosingchia.com/strawberry-watermelon-popsicles/) | Choosing Chia (Vegan Recipes) | **4.86** | *1.93* |
+| 4 |[3-Ingredient Vegan Mango Lassi Popsicles: Refreshing Summer Treats!](https://justinecooksvegan.com/3-ingredient-vegan-mango-lassi-popsicles-refreshing-summer-treats/) | Justine Cooks Vegan | **4.86** | *1.93* |
+| 5 |[Strawberry Beet Chia Seed Jam Coconut Milk Popsicles](https://healthylittlevittles.com/strawberry-beet-chia-seed-jam-coconut-milk-popsicles/) | Healthy Little Vittles | **4.86** | *1.93* |
+| 6 |[Banana Popsicles](https://pickyeaterblog.com/banana-popsicles/) | Veggies Don't Bite | **4.86** | *1.93* |
+| 7 |[Triple Berry Dairy-Free Popsicles](https://vegnews.com/recipes/very-berry-vegan-popsicles) | VegNews | **4.86** | *1.93* |
+| 8 |[Three-Ingredient Healthy Strawberry Banana Popsicles](https://vegnews.com/recipes/vegan-strawberry-banana-popsicles) | VegNews | **4.85** | *1.92* |
 
 ---
 
@@ -86,7 +86,7 @@
 | The First Mess | 0 | 230 | 1 | 30 | 3 | 1 | 2026-06-03 | ✅ OK |
 | ZardyPlants | 2 | 230 | 230 | 42 | 230 | 4 | 2026-05-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| Rabbit and Wolves | 2 | 231 | 0 | 33 | 1 | 0 | 2026-06-04 | ✅ OK |
+| Rabbit and Wolves | 1 | 231 | 0 | 33 | 1 | 0 | 2026-06-04 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 1 | 237 | 0 | 34 | 1 | 6 | 2026-02-15 | ✅ OK |
@@ -107,8 +107,8 @@
 | Veggiekins | 0 | 256 | 35 | 256 | 0 | 253 | 2026-05-16 | ✅ OK |
 | My Darling Vegan | 2 | 261 | 1 | 31 | 4 | 12 | 2026-06-01 | ✅ OK |
 | It Doesn't Taste Like Chicken | 5 | 262 | 1 | 88 | 7 | 218 | 2026-06-03 | ✅ OK |
-| From My Bowl | 0 | 265 | 3 | 40 | 3 | 5 | 2026-06-02 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
+| From My Bowl | 1 | 266 | 3 | 41 | 3 | 5 | 2026-06-05 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | A Virtual Vegan | 4 | 268 | 3 | 36 | 1 | 4 | 2026-05-25 | ✅ OK |
@@ -119,11 +119,11 @@
 | Plant-Based on a Budget | 1 | 279 | 16 | 67 | 279 | 1 | 2026-06-01 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 282 | 9 | 47 | 2 | 279 | 2026-06-04 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 291 | 3 | 14 | 3 | 5 | 2026-05-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 292 | 0 | 34 | 1 | 0 | 2026-06-01 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 299 | 36 | 37 | 2 | 39 | 2026-06-02 | ✅ OK |
-| Reddit | 2 | 319 | 2 | 35 | 1 | 4 | 2026-06-03 | ✅ OK (2) |
+| Reddit | 3 | 320 | 2 | 36 | 1 | 4 | 2026-06-05 | ✅ OK (3) |
 | Gretchen's Vegan Bakery | 3 | 330 | 2 | 22 | 1 | 1 | 2026-06-03 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 337 | 2 | 12 | 5 | 1 | 2026-06-03 | ✅ OK |
 | VegNews | 0 | 350 | 13 | 48 | 7 | 8 | 2026-06-04 | ✅ OK |
