@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-05 14:14:59
-**Total Run Time:** 9m 14s
-**Longest Step:** RSS: Steamy Vegan (1m 6s)
+**Last Run:** 2026-06-05 18:28:31
+**Total Run Time:** 8m 10s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20573 | 171 new today |
+| **Total Database** | 20576 | 172 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 230 | Total recorded actions in database |
+| **Trending Events** | 207 | Total recorded actions in database |
 | **WFPB / GF** | 2566 / 2711 | 12% / 13% |
-| **Easy / Budget** | 4952 / 2071 | 24% / 10% |
+| **Easy / Budget** | 4953 / 2071 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Healthy Strawberry Popsicles (Vegan + Paleo)](https://theloopywhisk.com/2017/06/23/healthy-strawberry-popsicles/) | The Loopy Whisk (Vegan Recipes) | **4.54** | *1.80* |
-| 2 |[Vegan Chocolate Peanut Butter Cookie Dough Popsicles](https://veganyackattack.com/2020/08/25/chocolate-peanut-butter-cookie-dough-pops/) | Vegan Yack Attack | **4.54** | *1.80* |
-| 3 |[Strawberry Watermelon Popsicles](https://choosingchia.com/strawberry-watermelon-popsicles/) | Choosing Chia (Vegan Recipes) | **4.53** | *1.80* |
-| 4 |[3-Ingredient Vegan Mango Lassi Popsicles: Refreshing Summer Treats!](https://justinecooksvegan.com/3-ingredient-vegan-mango-lassi-popsicles-refreshing-summer-treats/) | Justine Cooks Vegan | **4.53** | *1.80* |
-| 5 |[Strawberry Beet Chia Seed Jam Coconut Milk Popsicles](https://healthylittlevittles.com/strawberry-beet-chia-seed-jam-coconut-milk-popsicles/) | Healthy Little Vittles | **4.53** | *1.80* |
-| 6 |[Banana Popsicles](https://pickyeaterblog.com/banana-popsicles/) | Veggies Don't Bite | **4.53** | *1.80* |
-| 7 |[Triple Berry Dairy-Free Popsicles](https://vegnews.com/recipes/very-berry-vegan-popsicles) | VegNews | **4.53** | *1.80* |
-| 8 |[Three-Ingredient Healthy Strawberry Banana Popsicles](https://vegnews.com/recipes/vegan-strawberry-banana-popsicles) | VegNews | **4.52** | *1.80* |
+| 1 |[Healthy Strawberry Popsicles (Vegan + Paleo)](https://theloopywhisk.com/2017/06/23/healthy-strawberry-popsicles/) | The Loopy Whisk (Vegan Recipes) | **4.18** | *1.66* |
+| 2 |[Vegan Chocolate Peanut Butter Cookie Dough Popsicles](https://veganyackattack.com/2020/08/25/chocolate-peanut-butter-cookie-dough-pops/) | Vegan Yack Attack | **4.18** | *1.66* |
+| 3 |[Strawberry Watermelon Popsicles](https://choosingchia.com/strawberry-watermelon-popsicles/) | Choosing Chia (Vegan Recipes) | **4.18** | *1.66* |
+| 4 |[3-Ingredient Vegan Mango Lassi Popsicles: Refreshing Summer Treats!](https://justinecooksvegan.com/3-ingredient-vegan-mango-lassi-popsicles-refreshing-summer-treats/) | Justine Cooks Vegan | **4.18** | *1.66* |
+| 5 |[Strawberry Beet Chia Seed Jam Coconut Milk Popsicles](https://healthylittlevittles.com/strawberry-beet-chia-seed-jam-coconut-milk-popsicles/) | Healthy Little Vittles | **4.18** | *1.66* |
+| 6 |[Banana Popsicles](https://pickyeaterblog.com/banana-popsicles/) | Veggies Don't Bite | **4.18** | *1.66* |
+| 7 |[Triple Berry Dairy-Free Popsicles](https://vegnews.com/recipes/very-berry-vegan-popsicles) | VegNews | **4.18** | *1.66* |
+| 8 |[Three-Ingredient Healthy Strawberry Banana Popsicles](https://vegnews.com/recipes/vegan-strawberry-banana-popsicles) | VegNews | **4.17** | *1.66* |
 
 ---
 
@@ -42,7 +42,7 @@
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-02 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 27 | 0 | 2 | 0 | 1 | 2026-05-26 | ✅ OK |
-| The Banana Diaries | 1 | 27 | 0 | 8 | 2 | 0 | 2026-06-05 | ✅ OK |
+| The Banana Diaries | 0 | 27 | 0 | 8 | 2 | 0 | 2026-06-05 | ✅ OK |
 | PlantYou | 1 | 33 | 33 | 6 | 2 | 0 | 2026-06-03 | ✅ OK |
 | Dr. Vegan | 3 | 36 | 4 | 36 | 8 | 0 | 2026-06-05 | ✅ OK |
 | Plant Baes | 0 | 38 | 3 | 4 | 2 | 4 | 2026-06-04 | ✅ OK |
@@ -59,7 +59,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Steamy Vegan | 0 | 176 | 9 | 29 | 10 | 2 | 2026-05-30 | ❌ Blocked/ConnErr |
+| Steamy Vegan | 1 | 177 | 9 | 29 | 10 | 2 | 2026-06-03 | ✅ OK |
 | Holistic Chef Academy | 1 | 180 | 2 | 8 | 0 | 7 | 2026-06-02 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-06-03 | ✅ OK |
@@ -67,7 +67,7 @@
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 4 | 192 | 7 | 38 | 15 | 4 | 2026-06-05 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
-| The Little Blog of Vegan | 1 | 198 | 0 | 38 | 0 | 1 | 2026-06-05 | ✅ OK |
+| The Little Blog of Vegan | 0 | 198 | 0 | 38 | 0 | 1 | 2026-06-05 | ✅ OK |
 | Nora Cooks | 1 | 199 | 14 | 30 | 13 | 5 | 2026-06-04 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 3 | 206 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
@@ -97,9 +97,9 @@
 | Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-27 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 243 | 30 | 55 | 0 | 62 | 2026-05-29 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Eat Figs, Not Pigs | 5 | 252 | 1 | 31 | 2 | 0 | 2026-06-03 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
+| Eat Figs, Not Pigs | 6 | 253 | 1 | 31 | 2 | 0 | 2026-06-05 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-03 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
@@ -121,12 +121,12 @@
 | Healthy Little Vittles | 2 | 282 | 9 | 47 | 2 | 279 | 2026-06-04 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 291 | 3 | 14 | 3 | 5 | 2026-05-31 | ✅ OK |
-| Connoisseurus Veg | 2 | 293 | 0 | 34 | 1 | 0 | 2026-06-05 | ✅ OK |
+| Connoisseurus Veg | 1 | 293 | 0 | 34 | 1 | 0 | 2026-06-05 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 299 | 36 | 37 | 2 | 39 | 2026-06-02 | ✅ OK |
-| Reddit | 4 | 321 | 2 | 36 | 1 | 4 | 2026-06-05 | ✅ OK (4) |
-| Gretchen's Vegan Bakery | 4 | 331 | 2 | 22 | 1 | 1 | 2026-06-03 | ✅ OK |
+| Reddit | 6 | 324 | 2 | 37 | 1 | 4 | 2026-06-05 | ✅ OK (6) |
+| Gretchen's Vegan Bakery | 3 | 331 | 2 | 22 | 1 | 1 | 2026-06-03 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 337 | 2 | 12 | 5 | 1 | 2026-06-03 | ✅ OK |
-| VegNews | 0 | 350 | 13 | 48 | 7 | 8 | 2026-06-04 | ✅ OK |
+| VegNews | 1 | 350 | 13 | 48 | 7 | 8 | 2026-06-05 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
