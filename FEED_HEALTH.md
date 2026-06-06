@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-06 05:18:17
-**Total Run Time:** 7m 50s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-06-06 09:14:46
+**Total Run Time:** 8m 13s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 47s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20581 | 168 new today |
+| **Total Database** | 20581 | 167 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 239 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cashew Caesar Salad Dressing (Vegan)](https://plantbaes.com/cashew-caesar-salad-dressing-vegan/) | Plant Baes | **5.14** | *2.04* |
-| 2 |[Cinnamon Roll Baked Oatmeal](https://healthylittlevittles.com/cinnamon-roll-baked-oatmeal/) | Healthy Little Vittles | **5.14** | *2.04* |
-| 3 |[Tofu Pasta](https://simpleveganblog.com/tofu-pasta/) | Simple Vegan Blog | **5.14** | *2.04* |
-| 4 |[Vegan Salted Caramel Chocolate Cake](https://www.noracooks.com/salted-caramel-chocolate-cake/) | Nora Cooks | **5.14** | *2.04* |
-| 5 |[Dreamy Vegan Oreo Cream Chocolate Pudding Pie](https://vegnews.com/recipes/chocolate-almond-butter-pudding-pie) | VegNews | **5.14** | *2.04* |
-| 6 |[Vegan Strawberry Matcha Latte Cake](https://www.rabbitandwolves.com/vegan-strawberry-matcha-latte-cake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-strawberry-matcha-latte-cake) | Rabbit and Wolves | **5.14** | *2.04* |
-| 7 |[Vegan Strawberry Banana Bread](https://www.thelittleblogofvegan.com/2026/06/vegan-strawberry-banana-bread.html) | The Little Blog of Vegan | **5.14** | *2.04* |
-| 8 |[3 ingredient Fresh Fruit Popsicles - Fruity Ice Pops - Fruit Lollies](https://www.reddit.com/r/veganrecipes/comments/1txqqvx/3_ingredient_fresh_fruit_popsicles_fruity_ice/) | Reddit | **5.14** | *2.04* |
+| 1 |[Cashew Caesar Salad Dressing (Vegan)](https://plantbaes.com/cashew-caesar-salad-dressing-vegan/) | Plant Baes | **4.76** | *1.89* |
+| 2 |[Cinnamon Roll Baked Oatmeal](https://healthylittlevittles.com/cinnamon-roll-baked-oatmeal/) | Healthy Little Vittles | **4.76** | *1.89* |
+| 3 |[Tofu Pasta](https://simpleveganblog.com/tofu-pasta/) | Simple Vegan Blog | **4.76** | *1.89* |
+| 4 |[Vegan Salted Caramel Chocolate Cake](https://www.noracooks.com/salted-caramel-chocolate-cake/) | Nora Cooks | **4.76** | *1.89* |
+| 5 |[Dreamy Vegan Oreo Cream Chocolate Pudding Pie](https://vegnews.com/recipes/chocolate-almond-butter-pudding-pie) | VegNews | **4.76** | *1.89* |
+| 6 |[Vegan Strawberry Matcha Latte Cake](https://www.rabbitandwolves.com/vegan-strawberry-matcha-latte-cake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-strawberry-matcha-latte-cake) | Rabbit and Wolves | **4.76** | *1.89* |
+| 7 |[Vegan Strawberry Banana Bread](https://www.thelittleblogofvegan.com/2026/06/vegan-strawberry-banana-bread.html) | The Little Blog of Vegan | **4.76** | *1.89* |
+| 8 |[3 ingredient Fresh Fruit Popsicles - Fruity Ice Pops - Fruit Lollies](https://www.reddit.com/r/veganrecipes/comments/1txqqvx/3_ingredient_fresh_fruit_popsicles_fruity_ice/) | Reddit | **4.76** | *1.89* |
 
 ---
 
@@ -99,7 +99,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Eat Figs, Not Pigs | 6 | 253 | 1 | 32 | 2 | 0 | 2026-06-06 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 253 | 1 | 32 | 2 | 0 | 2026-06-06 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-03 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
