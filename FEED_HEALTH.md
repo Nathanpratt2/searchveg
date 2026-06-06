@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-05 22:47:41
-**Total Run Time:** 8m 16s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-06-06 05:18:17
+**Total Run Time:** 7m 50s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20580 | 172 new today |
+| **Total Database** | 20581 | 168 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 239 | Total recorded actions in database |
 | **WFPB / GF** | 2567 / 2711 | 12% / 13% |
-| **Easy / Budget** | 4953 / 2071 | 24% / 10% |
+| **Easy / Budget** | 4954 / 2071 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cashew Caesar Salad Dressing (Vegan)](https://plantbaes.com/cashew-caesar-salad-dressing-vegan/) | Plant Baes | **5.82** | *2.31* |
-| 2 |[Cinnamon Roll Baked Oatmeal](https://healthylittlevittles.com/cinnamon-roll-baked-oatmeal/) | Healthy Little Vittles | **5.82** | *2.31* |
-| 3 |[Tofu Pasta](https://simpleveganblog.com/tofu-pasta/) | Simple Vegan Blog | **5.82** | *2.31* |
-| 4 |[Vegan Salted Caramel Chocolate Cake](https://www.noracooks.com/salted-caramel-chocolate-cake/) | Nora Cooks | **5.82** | *2.31* |
-| 5 |[Dreamy Vegan Oreo Cream Chocolate Pudding Pie](https://vegnews.com/recipes/chocolate-almond-butter-pudding-pie) | VegNews | **5.82** | *2.31* |
-| 6 |[Vegan Strawberry Matcha Latte Cake](https://www.rabbitandwolves.com/vegan-strawberry-matcha-latte-cake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-strawberry-matcha-latte-cake) | Rabbit and Wolves | **5.82** | *2.31* |
-| 7 |[Vegan Strawberry Banana Bread](https://www.thelittleblogofvegan.com/2026/06/vegan-strawberry-banana-bread.html) | The Little Blog of Vegan | **5.82** | *2.31* |
-| 8 |[3 ingredient Fresh Fruit Popsicles - Fruity Ice Pops - Fruit Lollies](https://www.reddit.com/r/veganrecipes/comments/1txqqvx/3_ingredient_fresh_fruit_popsicles_fruity_ice/) | Reddit | **5.82** | *2.31* |
+| 1 |[Cashew Caesar Salad Dressing (Vegan)](https://plantbaes.com/cashew-caesar-salad-dressing-vegan/) | Plant Baes | **5.14** | *2.04* |
+| 2 |[Cinnamon Roll Baked Oatmeal](https://healthylittlevittles.com/cinnamon-roll-baked-oatmeal/) | Healthy Little Vittles | **5.14** | *2.04* |
+| 3 |[Tofu Pasta](https://simpleveganblog.com/tofu-pasta/) | Simple Vegan Blog | **5.14** | *2.04* |
+| 4 |[Vegan Salted Caramel Chocolate Cake](https://www.noracooks.com/salted-caramel-chocolate-cake/) | Nora Cooks | **5.14** | *2.04* |
+| 5 |[Dreamy Vegan Oreo Cream Chocolate Pudding Pie](https://vegnews.com/recipes/chocolate-almond-butter-pudding-pie) | VegNews | **5.14** | *2.04* |
+| 6 |[Vegan Strawberry Matcha Latte Cake](https://www.rabbitandwolves.com/vegan-strawberry-matcha-latte-cake/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-strawberry-matcha-latte-cake) | Rabbit and Wolves | **5.14** | *2.04* |
+| 7 |[Vegan Strawberry Banana Bread](https://www.thelittleblogofvegan.com/2026/06/vegan-strawberry-banana-bread.html) | The Little Blog of Vegan | **5.14** | *2.04* |
+| 8 |[3 ingredient Fresh Fruit Popsicles - Fruity Ice Pops - Fruit Lollies](https://www.reddit.com/r/veganrecipes/comments/1txqqvx/3_ingredient_fresh_fruit_popsicles_fruity_ice/) | Reddit | **5.14** | *2.04* |
 
 ---
 
@@ -43,7 +43,7 @@
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 27 | 0 | 2 | 0 | 1 | 2026-05-26 | ✅ OK |
 | The Banana Diaries | 0 | 27 | 0 | 8 | 2 | 0 | 2026-06-05 | ✅ OK |
-| PlantYou | 2 | 34 | 34 | 6 | 2 | 0 | 2026-06-05 | ✅ OK |
+| PlantYou | 1 | 34 | 34 | 6 | 2 | 0 | 2026-06-05 | ✅ OK |
 | Dr. Vegan | 3 | 36 | 4 | 36 | 8 | 0 | 2026-06-05 | ✅ OK |
 | Plant Baes | 0 | 38 | 3 | 4 | 2 | 4 | 2026-06-04 | ✅ OK |
 | Vegan Richa GF | 0 | 40 | 2 | 10 | 7 | 40 | 2026-06-03 | ✅ OK |
@@ -59,7 +59,7 @@
 | Earth to Veg | 2 | 157 | 6 | 26 | 16 | 0 | 2026-05-03 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Steamy Vegan | 1 | 177 | 9 | 29 | 10 | 2 | 2026-06-03 | ✅ OK |
+| Steamy Vegan | 0 | 176 | 9 | 29 | 10 | 2 | 2026-05-30 | ✅ OK |
 | Holistic Chef Academy | 1 | 180 | 2 | 8 | 0 | 7 | 2026-06-02 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-06-03 | ✅ OK |
@@ -74,8 +74,8 @@
 | The Vegan 8 | 1 | 208 | 43 | 208 | 208 | 32 | 2026-05-27 | ✅ OK |
 | Elavegan | 0 | 210 | 5 | 38 | 2 | 202 | 2026-05-29 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Vegan in the Freezer | 0 | 217 | 5 | 36 | 10 | 0 | 2026-05-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
+| Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-05 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 4 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Burger Dude | 5 | 223 | 6 | 14 | 13 | 0 | 2026-06-04 | ✅ OK |
@@ -99,7 +99,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Eat Figs, Not Pigs | 6 | 253 | 1 | 31 | 2 | 0 | 2026-06-05 | ✅ OK |
+| Eat Figs, Not Pigs | 6 | 253 | 1 | 32 | 2 | 0 | 2026-06-06 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-03 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
@@ -122,8 +122,8 @@
 | Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 291 | 3 | 14 | 3 | 5 | 2026-05-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 293 | 0 | 34 | 1 | 0 | 2026-06-05 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 300 | 36 | 37 | 2 | 39 | 2026-06-05 | ✅ OK |
-| Reddit | 5 | 326 | 2 | 37 | 1 | 4 | 2026-06-05 | ✅ OK (5) |
+| The Conscious Plant Kitchen | 0 | 300 | 36 | 37 | 2 | 39 | 2026-06-05 | ✅ OK |
+| Reddit | 3 | 326 | 2 | 37 | 1 | 4 | 2026-06-05 | ✅ OK (3) |
 | Gretchen's Vegan Bakery | 3 | 331 | 2 | 22 | 1 | 1 | 2026-06-03 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 337 | 2 | 12 | 5 | 1 | 2026-06-03 | ✅ OK |
 | VegNews | 0 | 350 | 13 | 48 | 7 | 8 | 2026-06-05 | ✅ OK |
