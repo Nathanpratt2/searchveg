@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-07 13:05:12
-**Total Run Time:** 7m 25s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
+**Last Run:** 2026-06-07 17:54:06
+**Total Run Time:** 8m 12s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20592 | 158 new today |
+| **Total Database** | 20597 | 167 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 262 | Total recorded actions in database |
 | **WFPB / GF** | 2567 / 2711 | 12% / 13% |
-| **Easy / Budget** | 4953 / 2071 | 24% / 10% |
+| **Easy / Budget** | 4953 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Seitan Vegan Sausage](https://www.reddit.com/r/veganrecipes/comments/1tyju8h/seitan_vegan_sausage/) | Reddit | **7.65** | *3.04* |
-| 2 |[3 ingredient Fresh Fruit Popsicles - Fruity Ice Pops - Fruit Lollies](https://www.reddit.com/r/veganrecipes/comments/1txqqvx/3_ingredient_fresh_fruit_popsicles_fruity_ice/) | Reddit | **5.44** | *2.16* |
-| 3 |[Vegan Strawberry Balsamic Brioche French Toast](https://vegnews.com/recipes/vegan-balsamic-strawberry-french-toast) | VegNews | **4.65** | *1.85* |
-| 4 |[Tofu Fried Rice](https://simpleveganblog.com/tofu-fried-rice/) | Simple Vegan Blog | **4.64** | *1.84* |
-| 5 |[Creamy Tuscan-Inspired White Bean Skillet](https://www.eatfigsnotpigs.com/creamy-tuscan-inspired-white-bean-skillet/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-tuscan-inspired-white-bean-skillet) | Eat Figs, Not Pigs | **4.59** | *1.82* |
-| 6 |[Springtime Strawberry Streusel Cake](https://vegnews.com/recipes/vegan-strawberry-streusel-cake) | VegNews | **4.59** | *1.82* |
-| 7 |[Cashew Caesar Salad Dressing (Vegan)](https://plantbaes.com/cashew-caesar-salad-dressing-vegan/) | Plant Baes | **2.79** | *1.11* |
-| 8 |[Cinnamon Roll Baked Oatmeal](https://healthylittlevittles.com/cinnamon-roll-baked-oatmeal/) | Healthy Little Vittles | **2.79** | *1.11* |
+| 1 |[Seitan Vegan Sausage](https://www.reddit.com/r/veganrecipes/comments/1tyju8h/seitan_vegan_sausage/) | Reddit | **6.98** | *2.77* |
+| 2 |[3 ingredient Fresh Fruit Popsicles - Fruity Ice Pops - Fruit Lollies](https://www.reddit.com/r/veganrecipes/comments/1txqqvx/3_ingredient_fresh_fruit_popsicles_fruity_ice/) | Reddit | **4.96** | *1.97* |
+| 3 |[Vegan Strawberry Balsamic Brioche French Toast](https://vegnews.com/recipes/vegan-balsamic-strawberry-french-toast) | VegNews | **4.24** | *1.68* |
+| 4 |[Tofu Fried Rice](https://simpleveganblog.com/tofu-fried-rice/) | Simple Vegan Blog | **4.23** | *1.68* |
+| 5 |[Creamy Tuscan-Inspired White Bean Skillet](https://www.eatfigsnotpigs.com/creamy-tuscan-inspired-white-bean-skillet/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-tuscan-inspired-white-bean-skillet) | Eat Figs, Not Pigs | **4.19** | *1.66* |
+| 6 |[Springtime Strawberry Streusel Cake](https://vegnews.com/recipes/vegan-strawberry-streusel-cake) | VegNews | **4.19** | *1.66* |
+| 7 |[Cashew Caesar Salad Dressing (Vegan)](https://plantbaes.com/cashew-caesar-salad-dressing-vegan/) | Plant Baes | **2.54** | *1.01* |
+| 8 |[Cinnamon Roll Baked Oatmeal](https://healthylittlevittles.com/cinnamon-roll-baked-oatmeal/) | Healthy Little Vittles | **2.54** | *1.01* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
-| Mary's Test Kitchen | 3 | 14 | 0 | 3 | 1 | 0 | 2026-05-15 | ✅ OK |
+| Mary's Test Kitchen | 4 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 16 | 0 | 0 | 0 | 0 | 2026-05-04 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-02 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -99,12 +99,12 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Eat Figs, Not Pigs | 5 | 253 | 1 | 32 | 2 | 0 | 2026-06-06 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-03 | ✅ OK |
+| Eat Figs, Not Pigs | 6 | 254 | 1 | 32 | 2 | 0 | 2026-06-07 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
-| Make It Dairy Free | 0 | 256 | 4 | 42 | 2 | 3 | 2026-05-31 | ✅ OK |
 | Veggiekins | 0 | 256 | 35 | 256 | 0 | 253 | 2026-05-16 | ✅ OK |
+| Make It Dairy Free | 1 | 257 | 4 | 42 | 2 | 3 | 2026-06-07 | ✅ OK |
 | My Darling Vegan | 2 | 261 | 1 | 31 | 4 | 12 | 2026-06-01 | ✅ OK |
 | It Doesn't Taste Like Chicken | 5 | 263 | 1 | 89 | 7 | 218 | 2026-06-07 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
@@ -114,8 +114,8 @@
 | A Virtual Vegan | 4 | 268 | 3 | 36 | 1 | 4 | 2026-05-25 | ✅ OK |
 | The Plant-Based RD | 0 | 271 | 4 | 17 | 1 | 0 | 2026-05-22 | ✅ OK |
 | Full of Plants | 0 | 274 | 0 | 41 | 0 | 12 | 2026-06-02 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 275 | 38 | 74 | 3 | 0 | 2026-06-03 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 2 | 276 | 38 | 74 | 3 | 0 | 2026-06-07 | ✅ OK |
 | Plant-Based on a Budget | 1 | 279 | 16 | 67 | 279 | 1 | 2026-06-01 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 282 | 9 | 47 | 2 | 279 | 2026-06-04 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 293 | 0 | 34 | 1 | 0 | 2026-06-05 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 300 | 36 | 37 | 2 | 39 | 2026-06-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 331 | 2 | 22 | 1 | 1 | 2026-06-03 | ✅ OK |
-| Reddit | 1 | 331 | 2 | 36 | 1 | 4 | 2026-06-06 | ✅ OK (1) |
+| Reddit | 2 | 332 | 2 | 36 | 1 | 4 | 2026-06-07 | ✅ OK (2) |
 | The Post-Punk Kitchen | 1 | 337 | 2 | 12 | 5 | 1 | 2026-06-03 | ✅ OK |
-| VegNews | 0 | 350 | 13 | 47 | 7 | 8 | 2026-06-06 | ✅ OK |
+| VegNews | 4 | 350 | 13 | 47 | 6 | 8 | 2026-06-07 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
