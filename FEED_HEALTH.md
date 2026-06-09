@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-09 10:14:49
-**Total Run Time:** 7m 21s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-06-09 14:06:38
+**Total Run Time:** 8m 35s
+**Longest Step:** RSS: Steamy Vegan (1m 8s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20612 | 162 new today |
+| **Total Database** | 20613 | 163 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 262 | Total recorded actions in database |
 | **WFPB / GF** | 2566 / 2713 | 12% / 13% |
-| **Easy / Budget** | 4959 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4960 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Quick and Easy Roasted Tofu Caprese](https://vegnews.com/recipes/quick-easy-vegan-tofu-caprese) | VegNews | **8.95** | *3.55* |
-| 2 |[Strawberry Shortcake Ice Cream (Vegan) 🍓](https://www.reddit.com/r/veganrecipes/comments/1tzps7t/strawberry_shortcake_ice_cream_vegan/) | Reddit | **5.08** | *2.02* |
-| 3 |[Chef Bai's High-Protein Vegan Cottage Cheese](https://vegnews.com/recipes/high-protein-vegan-cottage-cheese) | VegNews | **4.95** | *1.96* |
-| 4 |[Strawberry Shortcake Cookies](https://www.gretchensveganbakery.com/strawberry-shortcake-cookies/) | Gretchen's Vegan Bakery | **3.58** | *1.42* |
-| 5 |[Seitan Vegan Sausage](https://www.reddit.com/r/veganrecipes/comments/1tyju8h/seitan_vegan_sausage/) | Reddit | **3.21** | *1.27* |
-| 6 |[Vegan Strawberry Banana Bread](https://www.thelittleblogofvegan.com/2026/06/vegan-strawberry-banana-bread.html) | The Little Blog of Vegan | **3.15** | *1.25* |
-| 7 |[Vegan Salted Caramel Chocolate Cake](https://www.noracooks.com/salted-caramel-chocolate-cake/) | Nora Cooks | **3.15** | *1.25* |
-| 8 |[Ridiculously Simple Vegan Baked Beans and Franks](https://vegnews.com/recipes/vegan-baked-beans-and-franks) | VegNews | **2.97** | *1.18* |
+| 1 |[Quick and Easy Roasted Tofu Caprese](https://vegnews.com/recipes/quick-easy-vegan-tofu-caprese) | VegNews | **8.31** | *3.30* |
+| 2 |[Strawberry Shortcake Ice Cream (Vegan) 🍓](https://www.reddit.com/r/veganrecipes/comments/1tzps7t/strawberry_shortcake_ice_cream_vegan/) | Reddit | **4.72** | *1.87* |
+| 3 |[Chef Bai's High-Protein Vegan Cottage Cheese](https://vegnews.com/recipes/high-protein-vegan-cottage-cheese) | VegNews | **4.60** | *1.82* |
+| 4 |[Strawberry Shortcake Cookies](https://www.gretchensveganbakery.com/strawberry-shortcake-cookies/) | Gretchen's Vegan Bakery | **3.32** | *1.32* |
+| 5 |[Seitan Vegan Sausage](https://www.reddit.com/r/veganrecipes/comments/1tyju8h/seitan_vegan_sausage/) | Reddit | **2.98** | *1.18* |
+| 6 |[Vegan Strawberry Banana Bread](https://www.thelittleblogofvegan.com/2026/06/vegan-strawberry-banana-bread.html) | The Little Blog of Vegan | **2.92** | *1.16* |
+| 7 |[Vegan Salted Caramel Chocolate Cake](https://www.noracooks.com/salted-caramel-chocolate-cake/) | Nora Cooks | **2.92** | *1.16* |
+| 8 |[Ridiculously Simple Vegan Baked Beans and Franks](https://vegnews.com/recipes/vegan-baked-beans-and-franks) | VegNews | **2.76** | *1.09* |
 
 ---
 
@@ -44,7 +44,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 27 | 0 | 2 | 0 | 1 | 2026-05-26 | ✅ OK |
 | The Banana Diaries | 0 | 28 | 0 | 9 | 2 | 0 | 2026-06-08 | ✅ OK |
 | PlantYou | 1 | 34 | 34 | 6 | 2 | 0 | 2026-06-05 | ✅ OK |
-| Dr. Vegan | 3 | 36 | 4 | 36 | 8 | 0 | 2026-06-05 | ✅ OK |
+| Dr. Vegan | 4 | 37 | 4 | 37 | 8 | 0 | 2026-06-09 | ✅ OK |
 | Plant Baes | 0 | 38 | 3 | 4 | 2 | 4 | 2026-06-04 | ✅ OK |
 | Vegan Richa GF | 0 | 40 | 2 | 10 | 7 | 40 | 2026-06-03 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
@@ -59,7 +59,7 @@
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Steamy Vegan | 0 | 177 | 9 | 29 | 10 | 2 | 2026-06-06 | ✅ OK |
+| Steamy Vegan | 0 | 177 | 9 | 29 | 10 | 2 | 2026-06-06 | ❌ Blocked/ConnErr |
 | Holistic Chef Academy | 0 | 180 | 2 | 8 | 0 | 7 | 2026-06-09 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-06-03 | ✅ OK |
