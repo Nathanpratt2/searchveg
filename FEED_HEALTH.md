@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-06-10 23:14:07
-**Total Run Time:** 7m 51s
-**Longest Step:** RSS: Healthy Little Vittles (0m 30s)
+**Last Run:** 2026-06-11 06:20:08
+**Total Run Time:** 7m 50s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20645 | 156 new today |
+| **Total Database** | 20645 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 235 | Total recorded actions in database |
+| **Trending Events** | 221 | Total recorded actions in database |
 | **WFPB / GF** | 2570 / 2715 | 12% / 13% |
 | **Easy / Budget** | 4963 / 2070 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **6.58** | *2.61* |
-| 2 |[Quick and Easy Roasted Tofu Caprese](https://vegnews.com/recipes/quick-easy-vegan-tofu-caprese) | VegNews | **4.39** | *1.74* |
-| 3 |[Vegan Cheesy Pasta Bake](https://jessicainthekitchen.com/vegan-cheese-pasta-bake/) | Jessica in the Kitchen | **3.95** | *1.57* |
-| 4 |[Spiced-Up Vegan Cajun Pasta Salad](https://vegnews.com/recipes/spiced-up-vegan-pasta-salad) | VegNews | **3.95** | *1.57* |
-| 5 |[Four-Ingredient Chocolate Chip Banana Ice Cream](https://vegnews.com/recipes/vegan-chocolate-chip-oat-milk-banana-ice-cream) | VegNews | **3.95** | *1.57* |
-| 6 |[Cucumber and Mango Salad](https://justinesnacks.com/cucumber-and-mango-salad/) | Justine Snacks (Vegan Recipes) | **3.95** | *1.57* |
-| 7 |[Tofu Chicken](https://simpleveganblog.com/tofu-chicken/) | Simple Vegan Blog | **3.95** | *1.57* |
-| 8 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **3.95** | *1.57* |
+| 1 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **5.74** | *2.28* |
+| 2 |[Quick and Easy Roasted Tofu Caprese](https://vegnews.com/recipes/quick-easy-vegan-tofu-caprese) | VegNews | **3.83** | *1.52* |
+| 3 |[Vegan Cheesy Pasta Bake](https://jessicainthekitchen.com/vegan-cheese-pasta-bake/) | Jessica in the Kitchen | **3.44** | *1.37* |
+| 4 |[Spiced-Up Vegan Cajun Pasta Salad](https://vegnews.com/recipes/spiced-up-vegan-pasta-salad) | VegNews | **3.44** | *1.37* |
+| 5 |[Four-Ingredient Chocolate Chip Banana Ice Cream](https://vegnews.com/recipes/vegan-chocolate-chip-oat-milk-banana-ice-cream) | VegNews | **3.44** | *1.37* |
+| 6 |[Cucumber and Mango Salad](https://justinesnacks.com/cucumber-and-mango-salad/) | Justine Snacks (Vegan Recipes) | **3.44** | *1.37* |
+| 7 |[Tofu Chicken](https://simpleveganblog.com/tofu-chicken/) | Simple Vegan Blog | **3.44** | *1.37* |
+| 8 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **3.44** | *1.37* |
 
 ---
 
@@ -43,13 +43,13 @@
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | The Banana Diaries | 0 | 28 | 0 | 9 | 2 | 0 | 2026-06-08 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
-| PlantYou | 2 | 36 | 36 | 7 | 2 | 0 | 2026-06-10 | ✅ OK |
+| PlantYou | 1 | 36 | 36 | 7 | 2 | 0 | 2026-06-10 | ✅ OK |
 | Dr. Vegan | 3 | 37 | 4 | 37 | 8 | 0 | 2026-06-09 | ✅ OK |
-| Plant Baes | 1 | 39 | 3 | 4 | 2 | 4 | 2026-06-10 | ✅ OK |
+| Plant Baes | 0 | 39 | 3 | 4 | 2 | 4 | 2026-06-10 | ✅ OK |
 | Vegan Richa GF | 0 | 41 | 2 | 10 | 7 | 41 | 2026-06-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Jessica in the Kitchen | 3 | 53 | 1 | 6 | 1 | 2 | 2026-06-09 | ✅ OK |
-| My Goodness Kitchen | 2 | 55 | 7 | 6 | 3 | 3 | 2025-11-16 | ✅ OK |
+| My Goodness Kitchen | 3 | 56 | 7 | 6 | 3 | 3 | 2026-06-11 | ✅ OK |
 | The Korean Vegan | 2 | 97 | 8 | 60 | 10 | 5 | 2026-06-09 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-03 | ✅ OK |
@@ -62,8 +62,8 @@
 | Steamy Vegan | 1 | 179 | 9 | 29 | 10 | 2 | 2026-06-10 | ✅ OK |
 | Holistic Chef Academy | 0 | 180 | 2 | 8 | 0 | 7 | 2026-06-09 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 185 | 0 | 23 | 1 | 30 | 2026-06-03 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-10 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 193 | 7 | 38 | 15 | 4 | 2026-06-09 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
@@ -79,7 +79,7 @@
 | Minimalist Baker (Vegan Recipes) | 4 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Burger Dude | 5 | 223 | 6 | 14 | 13 | 0 | 2026-06-04 | ✅ OK |
-| Cadry's Kitchen | 5 | 225 | 11 | 80 | 21 | 0 | 2026-05-23 | ✅ OK |
+| Cadry's Kitchen | 6 | 225 | 11 | 80 | 21 | 0 | 2026-05-23 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
 | Sweet Simple Vegan | 0 | 227 | 4 | 44 | 18 | 2 | 2026-06-09 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -119,13 +119,13 @@
 | Plant-Based on a Budget | 1 | 280 | 16 | 68 | 280 | 1 | 2026-06-08 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 283 | 9 | 47 | 2 | 280 | 2026-06-10 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 292 | 3 | 14 | 3 | 5 | 2026-06-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 293 | 0 | 34 | 1 | 0 | 2026-06-05 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 301 | 37 | 37 | 2 | 39 | 2026-06-10 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 332 | 2 | 22 | 1 | 1 | 2026-06-10 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 337 | 2 | 12 | 5 | 1 | 2026-06-03 | ✅ OK |
-| Reddit | 2 | 347 | 2 | 39 | 1 | 4 | 2026-06-10 | ✅ OK (2) |
+| Reddit | 0 | 347 | 2 | 39 | 1 | 4 | 2026-06-10 | ✅ OK |
 | VegNews | 1 | 350 | 12 | 48 | 4 | 8 | 2026-06-10 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
