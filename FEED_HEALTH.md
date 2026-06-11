@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-11 19:27:25
-**Total Run Time:** 9m 38s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-06-11 23:13:34
+**Total Run Time:** 8m 56s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 8s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20650 | 148 new today |
+| **Total Database** | 20654 | 161 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 251 | Total recorded actions in database |
 | **WFPB / GF** | 2571 / 2715 | 12% / 13% |
-| **Easy / Budget** | 4965 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4967 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **9.62** | *3.82* |
-| 2 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **6.50** | *2.58* |
-| 3 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **5.61** | *2.22* |
-| 4 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **5.61** | *2.22* |
-| 5 |[Thai Green Curry](https://www.gazoakleychef.com/recipes/thai-green-curry/) | Gaz Oakley | **5.60** | *2.22* |
-| 6 |[Roasted Radishes with Pistachio Butter Bean Humous](https://www.gazoakleychef.com/recipes/roasted-radishes-with-pistachio-butter-bean-humous/) | Gaz Oakley | **5.60** | *2.22* |
-| 7 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **4.46** | *1.77* |
-| 8 |[Vegan Sheet Pan Dinner (with Whipped Tofu)](https://plantyou.com/vegan-sheet-pan-dinner-with-whipped-tofu/) | PlantYou | **3.82** | *1.52* |
+| 1 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **8.95** | *3.55* |
+| 2 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **6.05** | *2.40* |
+| 3 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **5.21** | *2.07* |
+| 4 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **5.21** | *2.07* |
+| 5 |[Thai Green Curry](https://www.gazoakleychef.com/recipes/thai-green-curry/) | Gaz Oakley | **5.21** | *2.07* |
+| 6 |[Roasted Radishes with Pistachio Butter Bean Humous](https://www.gazoakleychef.com/recipes/roasted-radishes-with-pistachio-butter-bean-humous/) | Gaz Oakley | **5.21** | *2.07* |
+| 7 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **4.15** | *1.65* |
+| 8 |[Vegan Sheet Pan Dinner (with Whipped Tofu)](https://plantyou.com/vegan-sheet-pan-dinner-with-whipped-tofu/) | PlantYou | **3.56** | *1.41* |
 
 ---
 
@@ -36,14 +36,14 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 2 | 0 | 0 | 2026-06-11 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
 | The Banana Diaries | 0 | 29 | 0 | 9 | 2 | 0 | 2026-06-11 | ✅ OK |
-| PlantYou | 2 | 37 | 37 | 7 | 2 | 0 | 2026-06-11 | ✅ OK |
+| PlantYou | 1 | 37 | 37 | 7 | 2 | 0 | 2026-06-11 | ✅ OK |
 | Dr. Vegan | 3 | 38 | 4 | 38 | 8 | 0 | 2026-06-11 | ✅ OK |
 | Plant Baes | 0 | 39 | 3 | 4 | 2 | 4 | 2026-06-10 | ✅ OK |
 | Vegan Richa GF | 0 | 41 | 2 | 10 | 7 | 41 | 2026-06-10 | ✅ OK |
@@ -55,21 +55,21 @@
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-03 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 5 | 143 | 0 | 12 | 2 | 1 | 2026-06-11 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Sarah's Vegan Kitchen | 4 | 143 | 0 | 12 | 2 | 1 | 2026-06-11 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Steamy Vegan | 1 | 179 | 9 | 29 | 10 | 2 | 2026-06-10 | ✅ OK |
-| Holistic Chef Academy | 0 | 180 | 2 | 8 | 0 | 7 | 2026-06-09 | ❌ Blocked/ConnErr |
+| Holistic Chef Academy | 0 | 180 | 2 | 8 | 0 | 7 | 2026-06-09 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-10 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 193 | 7 | 38 | 15 | 4 | 2026-06-09 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
 | The Little Blog of Vegan | 0 | 198 | 0 | 38 | 0 | 1 | 2026-06-05 | ✅ OK |
-| Nora Cooks | 1 | 200 | 14 | 30 | 13 | 5 | 2026-06-08 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
+| Nora Cooks | 2 | 201 | 14 | 31 | 13 | 5 | 2026-06-11 | ✅ OK |
 | Vegan Heaven | 3 | 206 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 208 | 43 | 208 | 208 | 32 | 2026-05-27 | ✅ OK |
 | Elavegan | 0 | 211 | 5 | 38 | 2 | 203 | 2026-06-10 | ✅ OK |
@@ -94,10 +94,10 @@
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
-| Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-05-27 | ✅ OK |
+| Cookie and Kate (Vegan Recipes) | 8 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 244 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
+| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-10 | ✅ OK |
@@ -124,8 +124,8 @@
 | Connoisseurus Veg | 1 | 293 | 0 | 34 | 1 | 0 | 2026-06-05 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 301 | 37 | 37 | 2 | 39 | 2026-06-10 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 332 | 2 | 22 | 1 | 1 | 2026-06-10 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 337 | 2 | 12 | 5 | 1 | 2026-06-03 | ✅ OK |
-| Reddit | 1 | 349 | 2 | 39 | 1 | 4 | 2026-06-11 | ✅ OK (1) |
+| The Post-Punk Kitchen | 2 | 338 | 2 | 12 | 5 | 1 | 2026-06-11 | ✅ OK |
+| Reddit | 2 | 350 | 2 | 39 | 1 | 4 | 2026-06-11 | ✅ OK (2) |
 | VegNews | 0 | 350 | 12 | 48 | 4 | 8 | 2026-06-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
