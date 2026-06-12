@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-12 06:16:53
-**Total Run Time:** 8m 57s
-**Longest Step:** RSS: Holistic Chef Academy (1m 0s)
+**Last Run:** 2026-06-12 10:55:39
+**Total Run Time:** 8m 55s
+**Longest Step:** RSS: Hot For Food (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20654 | 141 new today |
+| **Total Database** | 20654 | 143 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 245 | Total recorded actions in database |
 | **WFPB / GF** | 2571 / 2714 | 12% / 13% |
-| **Easy / Budget** | 4960 / 2068 | 24% / 10% |
+| **Easy / Budget** | 4962 / 2068 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **7.81** | *3.10* |
-| 2 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **5.28** | *2.09* |
-| 3 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **4.55** | *1.81* |
-| 4 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **4.55** | *1.81* |
-| 5 |[Thai Green Curry](https://www.gazoakleychef.com/recipes/thai-green-curry/) | Gaz Oakley | **4.55** | *1.81* |
-| 6 |[Roasted Radishes with Pistachio Butter Bean Humous](https://www.gazoakleychef.com/recipes/roasted-radishes-with-pistachio-butter-bean-humous/) | Gaz Oakley | **4.55** | *1.81* |
-| 7 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **3.62** | *1.44* |
-| 8 |[Vegan Sheet Pan Dinner (with Whipped Tofu)](https://plantyou.com/vegan-sheet-pan-dinner-with-whipped-tofu/) | PlantYou | **3.10** | *1.23* |
+| 1 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **7.14** | *2.84* |
+| 2 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **4.83** | *1.92* |
+| 3 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **4.16** | *1.65* |
+| 4 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **4.16** | *1.65* |
+| 5 |[Thai Green Curry](https://www.gazoakleychef.com/recipes/thai-green-curry/) | Gaz Oakley | **4.16** | *1.65* |
+| 6 |[Roasted Radishes with Pistachio Butter Bean Humous](https://www.gazoakleychef.com/recipes/roasted-radishes-with-pistachio-butter-bean-humous/) | Gaz Oakley | **4.16** | *1.65* |
+| 7 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **3.31** | *1.31* |
+| 8 |[Vegan Sheet Pan Dinner (with Whipped Tofu)](https://plantyou.com/vegan-sheet-pan-dinner-with-whipped-tofu/) | PlantYou | **2.84** | *1.13* |
 
 ---
 
@@ -43,8 +43,8 @@
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
 | The Banana Diaries | 0 | 29 | 0 | 9 | 2 | 0 | 2026-06-11 | ✅ OK |
-| Dr. Vegan | 0 | 35 | 4 | 35 | 8 | 0 | 2026-06-11 | ✅ OK |
 | PlantYou | 1 | 37 | 37 | 7 | 2 | 0 | 2026-06-11 | ✅ OK |
+| Dr. Vegan | 3 | 38 | 4 | 38 | 8 | 0 | 2026-06-11 | ✅ OK |
 | Plant Baes | 0 | 39 | 3 | 4 | 2 | 4 | 2026-06-10 | ✅ OK |
 | Vegan Richa GF | 0 | 41 | 2 | 10 | 7 | 41 | 2026-06-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 301 | 37 | 37 | 2 | 39 | 2026-06-10 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 332 | 2 | 22 | 1 | 1 | 2026-06-10 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 338 | 2 | 12 | 5 | 1 | 2026-06-11 | ✅ OK |
-| Reddit | 3 | 350 | 2 | 38 | 1 | 4 | 2026-06-12 | ✅ OK (3) |
+| Reddit | 2 | 350 | 2 | 37 | 1 | 4 | 2026-06-12 | ✅ OK (2) |
 | VegNews | 0 | 350 | 12 | 48 | 4 | 8 | 2026-06-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
