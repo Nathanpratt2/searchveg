@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-13 09:50:51
-**Total Run Time:** 9m 12s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 9s)
+**Last Run:** 2026-06-13 13:09:34
+**Total Run Time:** 8m 7s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20660 | 155 new today |
+| **Total Database** | 20660 | 145 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 246 | Total recorded actions in database |
 | **WFPB / GF** | 2572 / 2715 | 12% / 13% |
-| **Easy / Budget** | 4962 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4961 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **8.50** | *3.37* |
-| 2 |[Easy Guacamole Recipe](https://sweetpotatosoul.com/easy-guacamole-recipe/) | Sweet Potato Soul | **5.13** | *2.04* |
-| 3 |[Summery Berry Hand Pies](https://vegnews.com/recipes/vegan-berry-hand-pies) | VegNews | **5.13** | *2.04* |
-| 4 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **4.60** | *1.82* |
-| 5 |[Mini Quinoa Pancakes (3 Ingredients, 14g Protein, 9g Fiber)](https://www.theconsciousplantkitchen.com/mini-quinoa-pancakes/) | The Conscious Plant Kitchen | **3.40** | *1.35* |
-| 6 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **3.10** | *1.23* |
-| 7 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **2.68** | *1.06* |
-| 8 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **2.68** | *1.06* |
+| 1 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **7.98** | *3.17* |
+| 2 |[Easy Guacamole Recipe](https://sweetpotatosoul.com/easy-guacamole-recipe/) | Sweet Potato Soul | **4.82** | *1.91* |
+| 3 |[Summery Berry Hand Pies](https://vegnews.com/recipes/vegan-berry-hand-pies) | VegNews | **4.82** | *1.91* |
+| 4 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **4.31** | *1.71* |
+| 5 |[Mini Quinoa Pancakes (3 Ingredients, 14g Protein, 9g Fiber)](https://www.theconsciousplantkitchen.com/mini-quinoa-pancakes/) | The Conscious Plant Kitchen | **3.19** | *1.27* |
+| 6 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **2.91** | *1.16* |
+| 7 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **2.51** | *1.00* |
+| 8 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **2.51** | *1.00* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
+| Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-13 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
@@ -59,11 +59,11 @@
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Steamy Vegan | 1 | 179 | 9 | 29 | 10 | 2 | 2026-06-10 | ✅ OK |
-| Holistic Chef Academy | 1 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-10 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 193 | 7 | 38 | 15 | 4 | 2026-06-09 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
