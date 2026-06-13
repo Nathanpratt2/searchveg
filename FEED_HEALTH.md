@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-06-12 23:02:27
-**Total Run Time:** 7m 41s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
+**Last Run:** 2026-06-13 05:59:44
+**Total Run Time:** 7m 46s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20659 | 159 new today |
+| **Total Database** | 20659 | 150 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 245 | Total recorded actions in database |
+| **Trending Events** | 246 | Total recorded actions in database |
 | **WFPB / GF** | 2571 / 2715 | 12% / 13% |
 | **Easy / Budget** | 4962 / 2070 | 24% / 10% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **5.66** | *2.25* |
-| 2 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **3.82** | *1.52* |
-| 3 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **3.30** | *1.31* |
-| 4 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **3.30** | *1.31* |
-| 5 |[Thai Green Curry](https://www.gazoakleychef.com/recipes/thai-green-curry/) | Gaz Oakley | **3.30** | *1.31* |
-| 6 |[Roasted Radishes with Pistachio Butter Bean Humous](https://www.gazoakleychef.com/recipes/roasted-radishes-with-pistachio-butter-bean-humous/) | Gaz Oakley | **3.29** | *1.31* |
-| 7 |[Pan Fried Baby Potatoes](https://drveganblog.com/pan-fried-baby-potatoes/) | Dr. Vegan | **2.62** | *1.04* |
-| 8 |[Vegan Sheet Pan Dinner (with Whipped Tofu)](https://plantyou.com/vegan-sheet-pan-dinner-with-whipped-tofu/) | PlantYou | **2.25** | *0.89* |
+| 1 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **9.16** | *3.63* |
+| 2 |[Easy Guacamole Recipe](https://sweetpotatosoul.com/easy-guacamole-recipe/) | Sweet Potato Soul | **5.53** | *2.19* |
+| 3 |[Summery Berry Hand Pies](https://vegnews.com/recipes/vegan-berry-hand-pies) | VegNews | **5.53** | *2.19* |
+| 4 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **4.95** | *1.96* |
+| 5 |[Mini Quinoa Pancakes (3 Ingredients, 14g Protein, 9g Fiber)](https://www.theconsciousplantkitchen.com/mini-quinoa-pancakes/) | The Conscious Plant Kitchen | **3.66** | *1.45* |
+| 6 |[One Pan Enchilada Rice and Tofu](https://www.eatfigsnotpigs.com/one-pan-enchilada-rice-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-enchilada-rice-and-tofu) | Eat Figs, Not Pigs | **3.34** | *1.33* |
+| 7 |[Nettle Tincture](https://www.gazoakleychef.com/recipes/nettle-tincture/) | Gaz Oakley | **2.88** | *1.14* |
+| 8 |[Kimchi Fried Rice](https://www.gazoakleychef.com/recipes/kimchi-fried-rice/) | Gaz Oakley | **2.88** | *1.14* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-11 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-13 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
 | The Banana Diaries | 0 | 29 | 0 | 9 | 2 | 0 | 2026-06-11 | ✅ OK |
@@ -78,7 +78,7 @@
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-05 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 4 | 219 | 19 | 69 | 18 | 42 | 2026-05-12 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
-| The Burger Dude | 6 | 224 | 6 | 14 | 13 | 0 | 2026-06-12 | ✅ OK |
+| The Burger Dude | 5 | 224 | 6 | 14 | 13 | 0 | 2026-06-12 | ✅ OK |
 | Cadry's Kitchen | 6 | 225 | 11 | 80 | 21 | 0 | 2026-05-23 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
 | Sweet Simple Vegan | 0 | 227 | 4 | 44 | 18 | 2 | 2026-06-09 | ✅ OK |
@@ -119,13 +119,13 @@
 | Plant-Based on a Budget | 1 | 280 | 16 | 68 | 280 | 1 | 2026-06-08 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 283 | 9 | 47 | 2 | 280 | 2026-06-10 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 292 | 3 | 14 | 3 | 5 | 2026-06-06 | ✅ OK |
 | Connoisseurus Veg | 1 | 294 | 0 | 34 | 1 | 0 | 2026-06-12 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 302 | 37 | 37 | 2 | 39 | 2026-06-12 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 302 | 37 | 37 | 2 | 39 | 2026-06-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 332 | 2 | 22 | 1 | 1 | 2026-06-10 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 338 | 2 | 12 | 5 | 1 | 2026-06-11 | ✅ OK |
-| Reddit | 1 | 350 | 2 | 36 | 1 | 4 | 2026-06-12 | ✅ OK (1) |
+| Reddit | 0 | 350 | 2 | 36 | 1 | 4 | 2026-06-12 | ✅ OK |
 | VegNews | 0 | 350 | 12 | 47 | 4 | 8 | 2026-06-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
