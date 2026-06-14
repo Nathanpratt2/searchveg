@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-14 18:02:32
-**Total Run Time:** 7m 12s
+**Last Run:** 2026-06-14 22:46:26
+**Total Run Time:** 7m 52s
 **Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20667 | 161 new today |
+| **Total Database** | 20667 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 262 | Total recorded actions in database |
+| **Trending Events** | 263 | Total recorded actions in database |
 | **WFPB / GF** | 2571 / 2715 | 12% / 13% |
-| **Easy / Budget** | 4963 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4964 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[German Chocolate Cake](https://www.gretchensveganbakery.com/german-chocolate-cake/) | Gretchen's Vegan Bakery | **5.86** | *2.32* |
-| 2 |[Fresh Herb and Fennel Chickpea Frittata](https://vegnews.com/recipes/vegan-herb-fennel-chickpea-frittata) | VegNews | **5.40** | *2.14* |
-| 3 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **4.57** | *1.82* |
-| 4 |[Jamaican Beet and Vegan Feta Panzanella Salad](https://vegnews.com/recipes/vegan-jamaican-beet-and-feta-panzanella-salad) | VegNews | **4.50** | *1.79* |
-| 5 |[Grilled Peaches with Balsamic Glaze](https://www.reddit.com/r/veganrecipes/comments/1u4t3t9/grilled_peaches_with_balsamic_glaze/) | Reddit | **4.50** | *1.79* |
-| 6 |[Quinoa salad with lemon dressing](https://www.lazycatkitchen.com/quinoa-salad-lemon-dressing/) | Lazy Cat Kitchen | **4.50** | *1.79* |
-| 7 |[Viral Crispy Pasta Salad (High-Protein)](https://plantbaes.com/viral-crispy-pasta-salad-high-protein/) | Plant Baes | **4.50** | *1.79* |
-| 8 |[Easy Guacamole Recipe](https://sweetpotatosoul.com/easy-guacamole-recipe/) | Sweet Potato Soul | **2.76** | *1.10* |
+| 1 |[No Bake CREAMY Vegan German Chocolate Cheesecake](https://thebananadiaries.com/no-bake-vegan-german-chocolate-cheesecake/) | The Banana Diaries | **5.87** | *2.33* |
+| 2 |[German Chocolate Cake](https://www.gretchensveganbakery.com/german-chocolate-cake/) | Gretchen's Vegan Bakery | **5.35** | *2.12* |
+| 3 |[Fresh Herb and Fennel Chickpea Frittata](https://vegnews.com/recipes/vegan-herb-fennel-chickpea-frittata) | VegNews | **4.93** | *1.96* |
+| 4 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **4.18** | *1.66* |
+| 5 |[Jamaican Beet and Vegan Feta Panzanella Salad](https://vegnews.com/recipes/vegan-jamaican-beet-and-feta-panzanella-salad) | VegNews | **4.11** | *1.63* |
+| 6 |[Grilled Peaches with Balsamic Glaze](https://www.reddit.com/r/veganrecipes/comments/1u4t3t9/grilled_peaches_with_balsamic_glaze/) | Reddit | **4.11** | *1.63* |
+| 7 |[Quinoa salad with lemon dressing](https://www.lazycatkitchen.com/quinoa-salad-lemon-dressing/) | Lazy Cat Kitchen | **4.11** | *1.63* |
+| 8 |[Viral Crispy Pasta Salad (High-Protein)](https://plantbaes.com/viral-crispy-pasta-salad-high-protein/) | Plant Baes | **4.11** | *1.63* |
 
 ---
 
@@ -102,7 +102,7 @@
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-10 | ✅ OK |
 | Eat Figs, Not Pigs | 2 | 254 | 1 | 32 | 2 | 0 | 2026-06-14 | ✅ OK |
-| Plant Power Couple | 2 | 255 | 0 | 255 | 2 | 0 | 2026-06-14 | ✅ OK |
+| Plant Power Couple | 1 | 255 | 0 | 255 | 2 | 0 | 2026-06-14 | ✅ OK |
 | Veggiekins | 0 | 257 | 35 | 257 | 0 | 254 | 2026-06-07 | ✅ OK |
 | Make It Dairy Free | 1 | 258 | 4 | 42 | 2 | 3 | 2026-06-14 | ✅ OK |
 | My Darling Vegan | 2 | 261 | 1 | 31 | 4 | 12 | 2026-06-01 | ✅ OK |
@@ -125,8 +125,8 @@
 | The Conscious Plant Kitchen | 0 | 302 | 37 | 37 | 2 | 39 | 2026-06-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 333 | 2 | 22 | 1 | 1 | 2026-06-14 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 338 | 2 | 12 | 5 | 1 | 2026-06-11 | ✅ OK |
-| Reddit | 2 | 350 | 2 | 36 | 1 | 4 | 2026-06-14 | ✅ OK (2) |
-| VegNews | 2 | 350 | 11 | 46 | 4 | 8 | 2026-06-14 | ✅ OK |
+| Reddit | 3 | 350 | 2 | 37 | 1 | 4 | 2026-06-14 | ✅ OK (3) |
+| VegNews | 1 | 350 | 11 | 46 | 4 | 8 | 2026-06-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
