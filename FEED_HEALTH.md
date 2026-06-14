@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-14 06:19:01
-**Total Run Time:** 7m 39s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-06-14 10:09:18
+**Total Run Time:** 7m 42s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20664 | 155 new today |
+| **Total Database** | 20665 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 234 | Total recorded actions in database |
 | **WFPB / GF** | 2572 / 2715 | 12% / 13% |
-| **Easy / Budget** | 4962 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4963 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **5.73** | *2.27* |
-| 2 |[Jamaican Beet and Vegan Feta Panzanella Salad](https://vegnews.com/recipes/vegan-jamaican-beet-and-feta-panzanella-salad) | VegNews | **5.64** | *2.24* |
-| 3 |[Grilled Peaches with Balsamic Glaze](https://www.reddit.com/r/veganrecipes/comments/1u4t3t9/grilled_peaches_with_balsamic_glaze/) | Reddit | **5.64** | *2.24* |
-| 4 |[Quinoa salad with lemon dressing](https://www.lazycatkitchen.com/quinoa-salad-lemon-dressing/) | Lazy Cat Kitchen | **5.64** | *2.24* |
-| 5 |[Viral Crispy Pasta Salad (High-Protein)](https://plantbaes.com/viral-crispy-pasta-salad-high-protein/) | Plant Baes | **5.64** | *2.24* |
-| 6 |[Easy Guacamole Recipe](https://sweetpotatosoul.com/easy-guacamole-recipe/) | Sweet Potato Soul | **3.46** | *1.37* |
-| 7 |[Summery Berry Hand Pies](https://vegnews.com/recipes/vegan-berry-hand-pies) | VegNews | **3.46** | *1.37* |
-| 8 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **3.10** | *1.23* |
+| 1 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **5.32** | *2.11* |
+| 2 |[Jamaican Beet and Vegan Feta Panzanella Salad](https://vegnews.com/recipes/vegan-jamaican-beet-and-feta-panzanella-salad) | VegNews | **5.24** | *2.08* |
+| 3 |[Grilled Peaches with Balsamic Glaze](https://www.reddit.com/r/veganrecipes/comments/1u4t3t9/grilled_peaches_with_balsamic_glaze/) | Reddit | **5.24** | *2.08* |
+| 4 |[Quinoa salad with lemon dressing](https://www.lazycatkitchen.com/quinoa-salad-lemon-dressing/) | Lazy Cat Kitchen | **5.24** | *2.08* |
+| 5 |[Viral Crispy Pasta Salad (High-Protein)](https://plantbaes.com/viral-crispy-pasta-salad-high-protein/) | Plant Baes | **5.24** | *2.08* |
+| 6 |[Easy Guacamole Recipe](https://sweetpotatosoul.com/easy-guacamole-recipe/) | Sweet Potato Soul | **3.22** | *1.28* |
+| 7 |[Summery Berry Hand Pies](https://vegnews.com/recipes/vegan-berry-hand-pies) | VegNews | **3.22** | *1.28* |
+| 8 |[Greek Lemon Rice](https://steamyvegan.com/greek-lemon-rice/) | Steamy Vegan | **2.88** | *1.14* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-13 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 143 | 0 | 12 | 2 | 1 | 2026-06-11 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Steamy Vegan | 1 | 180 | 9 | 29 | 10 | 2 | 2026-06-13 | ✅ OK |
@@ -101,12 +101,12 @@
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-10 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 254 | 1 | 32 | 2 | 0 | 2026-06-14 | ✅ OK |
+| Eat Figs, Not Pigs | 2 | 254 | 1 | 32 | 2 | 0 | 2026-06-14 | ✅ OK |
 | Plant Power Couple | 1 | 254 | 0 | 254 | 2 | 0 | 2026-04-12 | ✅ OK |
 | Make It Dairy Free | 0 | 257 | 4 | 42 | 2 | 3 | 2026-06-07 | ✅ OK |
 | Veggiekins | 0 | 257 | 35 | 257 | 0 | 254 | 2026-06-07 | ✅ OK |
 | My Darling Vegan | 2 | 261 | 1 | 31 | 4 | 12 | 2026-06-01 | ✅ OK |
-| It Doesn't Taste Like Chicken | 6 | 263 | 1 | 89 | 7 | 218 | 2026-06-07 | ✅ OK |
+| It Doesn't Taste Like Chicken | 7 | 264 | 1 | 90 | 7 | 218 | 2026-06-14 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | From My Bowl | 0 | 266 | 3 | 41 | 3 | 5 | 2026-06-05 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 302 | 37 | 37 | 2 | 39 | 2026-06-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 332 | 2 | 22 | 1 | 1 | 2026-06-10 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 338 | 2 | 12 | 5 | 1 | 2026-06-11 | ✅ OK |
-| Reddit | 1 | 350 | 2 | 36 | 1 | 4 | 2026-06-13 | ✅ OK (1) |
+| Reddit | 2 | 350 | 2 | 36 | 1 | 4 | 2026-06-14 | ✅ OK (2) |
 | VegNews | 0 | 350 | 12 | 47 | 4 | 8 | 2026-06-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
