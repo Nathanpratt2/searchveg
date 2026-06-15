@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-14 22:46:26
-**Total Run Time:** 7m 52s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-06-15 06:51:15
+**Total Run Time:** 7m 43s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20667 | 160 new today |
+| **Total Database** | 20669 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 263 | Total recorded actions in database |
+| **Trending Events** | 247 | Total recorded actions in database |
 | **WFPB / GF** | 2571 / 2715 | 12% / 13% |
-| **Easy / Budget** | 4964 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4965 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[No Bake CREAMY Vegan German Chocolate Cheesecake](https://thebananadiaries.com/no-bake-vegan-german-chocolate-cheesecake/) | The Banana Diaries | **5.87** | *2.33* |
-| 2 |[German Chocolate Cake](https://www.gretchensveganbakery.com/german-chocolate-cake/) | Gretchen's Vegan Bakery | **5.35** | *2.12* |
-| 3 |[Fresh Herb and Fennel Chickpea Frittata](https://vegnews.com/recipes/vegan-herb-fennel-chickpea-frittata) | VegNews | **4.93** | *1.96* |
-| 4 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **4.18** | *1.66* |
-| 5 |[Jamaican Beet and Vegan Feta Panzanella Salad](https://vegnews.com/recipes/vegan-jamaican-beet-and-feta-panzanella-salad) | VegNews | **4.11** | *1.63* |
-| 6 |[Grilled Peaches with Balsamic Glaze](https://www.reddit.com/r/veganrecipes/comments/1u4t3t9/grilled_peaches_with_balsamic_glaze/) | Reddit | **4.11** | *1.63* |
-| 7 |[Quinoa salad with lemon dressing](https://www.lazycatkitchen.com/quinoa-salad-lemon-dressing/) | Lazy Cat Kitchen | **4.11** | *1.63* |
-| 8 |[Viral Crispy Pasta Salad (High-Protein)](https://plantbaes.com/viral-crispy-pasta-salad-high-protein/) | Plant Baes | **4.11** | *1.63* |
+| 1 |[No Bake CREAMY Vegan German Chocolate Cheesecake](https://thebananadiaries.com/no-bake-vegan-german-chocolate-cheesecake/) | The Banana Diaries | **5.03** | *1.99* |
+| 2 |[German Chocolate Cake](https://www.gretchensveganbakery.com/german-chocolate-cake/) | Gretchen's Vegan Bakery | **4.58** | *1.82* |
+| 3 |[Fresh Herb and Fennel Chickpea Frittata](https://vegnews.com/recipes/vegan-herb-fennel-chickpea-frittata) | VegNews | **4.22** | *1.68* |
+| 4 |[Vegan Cheese & Crackers](https://theeburgerdude.com/vegan-cheese-and-crackers/) | The Burger Dude | **3.57** | *1.42* |
+| 5 |[Jamaican Beet and Vegan Feta Panzanella Salad](https://vegnews.com/recipes/vegan-jamaican-beet-and-feta-panzanella-salad) | VegNews | **3.52** | *1.40* |
+| 6 |[Grilled Peaches with Balsamic Glaze](https://www.reddit.com/r/veganrecipes/comments/1u4t3t9/grilled_peaches_with_balsamic_glaze/) | Reddit | **3.52** | *1.40* |
+| 7 |[Quinoa salad with lemon dressing](https://www.lazycatkitchen.com/quinoa-salad-lemon-dressing/) | Lazy Cat Kitchen | **3.52** | *1.40* |
+| 8 |[Viral Crispy Pasta Salad (High-Protein)](https://plantbaes.com/viral-crispy-pasta-salad-high-protein/) | Plant Baes | **3.52** | *1.40* |
 
 ---
 
@@ -63,7 +63,7 @@
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-10 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-14 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 193 | 7 | 38 | 15 | 4 | 2026-06-09 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
@@ -102,7 +102,7 @@
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-10 | ✅ OK |
 | Eat Figs, Not Pigs | 2 | 254 | 1 | 32 | 2 | 0 | 2026-06-14 | ✅ OK |
-| Plant Power Couple | 1 | 255 | 0 | 255 | 2 | 0 | 2026-06-14 | ✅ OK |
+| Plant Power Couple | 2 | 256 | 0 | 256 | 2 | 0 | 2026-06-15 | ✅ OK |
 | Veggiekins | 0 | 257 | 35 | 257 | 0 | 254 | 2026-06-07 | ✅ OK |
 | Make It Dairy Free | 1 | 258 | 4 | 42 | 2 | 3 | 2026-06-14 | ✅ OK |
 | My Darling Vegan | 2 | 261 | 1 | 31 | 4 | 12 | 2026-06-01 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 294 | 0 | 34 | 1 | 0 | 2026-06-12 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 302 | 37 | 37 | 2 | 39 | 2026-06-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 333 | 2 | 22 | 1 | 1 | 2026-06-14 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 338 | 2 | 12 | 5 | 1 | 2026-06-11 | ✅ OK |
-| Reddit | 3 | 350 | 2 | 37 | 1 | 4 | 2026-06-14 | ✅ OK (3) |
-| VegNews | 1 | 350 | 11 | 46 | 4 | 8 | 2026-06-14 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 339 | 2 | 12 | 5 | 1 | 2026-06-15 | ✅ OK |
+| Reddit | 2 | 350 | 2 | 37 | 1 | 4 | 2026-06-14 | ✅ OK (2) |
+| VegNews | 0 | 350 | 11 | 46 | 4 | 8 | 2026-06-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
