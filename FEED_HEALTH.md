@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-16 16:16:28
-**Total Run Time:** 8m 11s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 33s)
+**Last Run:** 2026-06-16 20:02:01
+**Total Run Time:** 8m 12s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20677 | 157 new today |
+| **Total Database** | 20678 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 256 | Total recorded actions in database |
+| **Trending Events** | 245 | Total recorded actions in database |
 | **WFPB / GF** | 2571 / 2716 | 12% / 13% |
-| **Easy / Budget** | 4966 / 2070 | 24% / 10% |
+| **Easy / Budget** | 4967 / 2070 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **7.13** | *2.83* |
-| 2 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **7.12** | *2.82* |
-| 3 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **7.11** | *2.82* |
-| 4 |[Bang Bang Tofu Skewers](https://www.eatfigsnotpigs.com/bang-bang-tofu-skewers/?utm_source=rss&utm_medium=rss&utm_campaign=bang-bang-tofu-skewers) | Eat Figs, Not Pigs | **7.11** | *2.82* |
-| 5 |[Tricolore Pizza (Pesto Pizza with Liquid Mozzarella)](https://www.theppk.com/2026/06/pesto-pizza-with-liquid-mozzarella/) | The Post-Punk Kitchen | **7.11** | *2.82* |
-| 6 |[Perfect Vegan Pancakes🥞fluffy & scrumptious](https://www.reddit.com/r/veganrecipes/comments/1u5e20p/perfect_vegan_pancakesfluffy_scrumptious/) | Reddit | **4.27** | *1.69* |
-| 7 |[Vegan Meatballs (Easy, Protein-Packed & Perfectly Meaty)](https://itdoesnttastelikechicken.com/easy-vegan-meatballs-tvp-2/) | It Doesn't Taste Like Chicken | **4.27** | *1.69* |
-| 8 |[Weekend Raw Salad](https://www.reddit.com/r/veganrecipes/comments/1u5iqmh/weekend_raw_salad/) | Reddit | **4.27** | *1.69* |
+| 1 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **6.63** | *2.63* |
+| 2 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **6.62** | *2.63* |
+| 3 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **6.62** | *2.63* |
+| 4 |[Bang Bang Tofu Skewers](https://www.eatfigsnotpigs.com/bang-bang-tofu-skewers/?utm_source=rss&utm_medium=rss&utm_campaign=bang-bang-tofu-skewers) | Eat Figs, Not Pigs | **6.62** | *2.63* |
+| 5 |[Tricolore Pizza (Pesto Pizza with Liquid Mozzarella)](https://www.theppk.com/2026/06/pesto-pizza-with-liquid-mozzarella/) | The Post-Punk Kitchen | **6.61** | *2.63* |
+| 6 |[Perfect Vegan Pancakes🥞fluffy & scrumptious](https://www.reddit.com/r/veganrecipes/comments/1u5e20p/perfect_vegan_pancakesfluffy_scrumptious/) | Reddit | **3.97** | *1.58* |
+| 7 |[Vegan Meatballs (Easy, Protein-Packed & Perfectly Meaty)](https://itdoesnttastelikechicken.com/easy-vegan-meatballs-tvp-2/) | It Doesn't Taste Like Chicken | **3.97** | *1.58* |
+| 8 |[Weekend Raw Salad](https://www.reddit.com/r/veganrecipes/comments/1u5iqmh/weekend_raw_salad/) | Reddit | **3.97** | *1.58* |
 
 ---
 
@@ -48,7 +48,7 @@
 | Plant Baes | 0 | 40 | 3 | 4 | 2 | 4 | 2026-06-13 | ✅ OK |
 | Vegan Richa GF | 0 | 41 | 2 | 10 | 7 | 41 | 2026-06-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
-| Jessica in the Kitchen | 3 | 54 | 1 | 6 | 1 | 3 | 2026-06-15 | ✅ OK |
+| Jessica in the Kitchen | 2 | 54 | 1 | 6 | 1 | 3 | 2026-06-15 | ✅ OK |
 | My Goodness Kitchen | 3 | 56 | 7 | 6 | 3 | 3 | 2026-06-11 | ✅ OK |
 | The Korean Vegan | 2 | 97 | 8 | 60 | 10 | 5 | 2026-06-09 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -59,11 +59,11 @@
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 163 | 3 | 30 | 10 | 0 | 2026-06-03 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Steamy Vegan | 1 | 180 | 9 | 29 | 10 | 2 | 2026-06-13 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | The Stingy Vegan | 2 | 184 | 1 | 184 | 184 | 0 | 2026-06-04 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-14 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 194 | 7 | 38 | 15 | 4 | 2026-06-15 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
@@ -76,7 +76,7 @@
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-05 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 5 | 220 | 19 | 69 | 18 | 42 | 2026-06-16 | ✅ OK (5) |
+| Minimalist Baker (Vegan Recipes) | 4 | 220 | 19 | 69 | 18 | 42 | 2026-06-16 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Burger Dude | 5 | 224 | 6 | 14 | 13 | 0 | 2026-06-12 | ✅ OK |
 | Cadry's Kitchen | 6 | 225 | 11 | 80 | 21 | 0 | 2026-05-23 | ✅ OK |
@@ -114,7 +114,7 @@
 | A Virtual Vegan | 4 | 269 | 3 | 36 | 1 | 4 | 2026-06-09 | ✅ OK |
 | The Plant-Based RD | 0 | 272 | 4 | 17 | 1 | 0 | 2026-06-10 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Full of Plants | 2 | 277 | 0 | 41 | 0 | 12 | 2026-06-16 | ✅ OK |
+| Full of Plants | 1 | 277 | 0 | 41 | 0 | 12 | 2026-06-16 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 278 | 38 | 74 | 3 | 0 | 2026-06-14 | ✅ OK |
 | Plant-Based on a Budget | 2 | 281 | 16 | 68 | 281 | 1 | 2026-06-15 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
@@ -122,11 +122,11 @@
 | Ann Arbor Vegan Kitchen | 6 | 284 | 284 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Lazy Cat Kitchen | 0 | 293 | 3 | 14 | 3 | 5 | 2026-06-13 | ✅ OK |
 | Connoisseurus Veg | 1 | 294 | 0 | 34 | 1 | 0 | 2026-06-12 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 302 | 37 | 37 | 2 | 39 | 2026-06-12 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 303 | 37 | 37 | 2 | 39 | 2026-06-16 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 334 | 2 | 22 | 1 | 1 | 2026-06-15 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 340 | 2 | 12 | 5 | 1 | 2026-06-15 | ✅ OK |
-| Reddit | 4 | 350 | 2 | 38 | 1 | 4 | 2026-06-16 | ✅ OK (4) |
-| VegNews | 2 | 350 | 10 | 46 | 3 | 8 | 2026-06-16 | ✅ OK |
+| Reddit | 3 | 350 | 2 | 38 | 1 | 4 | 2026-06-16 | ✅ OK (3) |
+| VegNews | 0 | 350 | 10 | 46 | 3 | 8 | 2026-06-16 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
