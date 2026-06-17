@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-17 18:47:28
-**Total Run Time:** 7m 49s
-**Longest Step:** RSS: Hot For Food (0m 28s)
+**Last Run:** 2026-06-17 23:05:00
+**Total Run Time:** 9m 6s
+**Longest Step:** RSS: Holistic Chef Academy (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20692 | 159 new today |
+| **Total Database** | 20695 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 234 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **7.20** | *2.86* |
-| 2 |[The best tofu dinner for warm summer days 🥬☀️](https://www.reddit.com/r/veganrecipes/comments/1u7exsv/the_best_tofu_dinner_for_warm_summer_days/) | Reddit | **4.32** | *1.71* |
-| 3 |[Smashed Cucumber Salad with Tofu](https://sweetsimplevegan.com/smashed-cucumber-salad-with-tofu/) | Sweet Simple Vegan | **4.32** | *1.71* |
-| 4 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **4.28** | *1.70* |
-| 5 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **4.27** | *1.69* |
-| 6 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **4.27** | *1.69* |
-| 7 |[Bang Bang Tofu Skewers](https://www.eatfigsnotpigs.com/bang-bang-tofu-skewers/?utm_source=rss&utm_medium=rss&utm_campaign=bang-bang-tofu-skewers) | Eat Figs, Not Pigs | **4.27** | *1.69* |
-| 8 |[Tricolore Pizza (Pesto Pizza with Liquid Mozzarella)](https://www.theppk.com/2026/06/pesto-pizza-with-liquid-mozzarella/) | The Post-Punk Kitchen | **4.27** | *1.69* |
+| 1 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **6.63** | *2.63* |
+| 2 |[The best tofu dinner for warm summer days 🥬☀️](https://www.reddit.com/r/veganrecipes/comments/1u7exsv/the_best_tofu_dinner_for_warm_summer_days/) | Reddit | **3.97** | *1.58* |
+| 3 |[Smashed Cucumber Salad with Tofu](https://sweetsimplevegan.com/smashed-cucumber-salad-with-tofu/) | Sweet Simple Vegan | **3.97** | *1.58* |
+| 4 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **3.94** | *1.56* |
+| 5 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **3.93** | *1.56* |
+| 6 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **3.93** | *1.56* |
+| 7 |[Bang Bang Tofu Skewers](https://www.eatfigsnotpigs.com/bang-bang-tofu-skewers/?utm_source=rss&utm_medium=rss&utm_campaign=bang-bang-tofu-skewers) | Eat Figs, Not Pigs | **3.93** | *1.56* |
+| 8 |[Tricolore Pizza (Pesto Pizza with Liquid Mozzarella)](https://www.theppk.com/2026/06/pesto-pizza-with-liquid-mozzarella/) | The Post-Punk Kitchen | **3.93** | *1.56* |
 
 ---
 
@@ -36,16 +36,16 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 2 | 0 | 0 | 2026-06-16 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
 | The Banana Diaries | 0 | 30 | 0 | 9 | 2 | 0 | 2026-06-15 | ✅ OK |
 | Dr. Vegan | 3 | 38 | 4 | 38 | 8 | 0 | 2026-06-11 | ✅ OK |
 | PlantYou | 2 | 39 | 39 | 7 | 2 | 0 | 2026-06-17 | ✅ OK |
-| Plant Baes | 0 | 40 | 3 | 4 | 2 | 4 | 2026-06-13 | ✅ OK |
+| Plant Baes | 1 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Vegan Richa GF | 0 | 42 | 2 | 10 | 7 | 42 | 2026-06-17 | ✅ OK |
 | Jessica in the Kitchen | 2 | 55 | 1 | 6 | 1 | 3 | 2026-06-17 | ✅ OK |
@@ -56,11 +56,11 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 143 | 0 | 12 | 2 | 1 | 2026-06-11 | ✅ OK |
-| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 164 | 3 | 30 | 10 | 0 | 2026-06-16 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Steamy Vegan | 1 | 180 | 9 | 29 | 10 | 2 | 2026-06-13 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-14 | ✅ OK |
@@ -79,7 +79,7 @@
 | Minimalist Baker (Vegan Recipes) | 4 | 220 | 19 | 69 | 18 | 42 | 2026-06-16 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Burger Dude | 5 | 224 | 6 | 14 | 13 | 0 | 2026-06-12 | ✅ OK |
-| Cadry's Kitchen | 6 | 225 | 11 | 80 | 21 | 0 | 2026-05-23 | ✅ OK |
+| Cadry's Kitchen | 7 | 226 | 11 | 81 | 21 | 0 | 2026-06-17 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
 | Sweet Simple Vegan | 0 | 228 | 4 | 44 | 18 | 2 | 2026-06-16 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -97,7 +97,7 @@
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 245 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
+| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-17 | ✅ OK |
@@ -115,7 +115,7 @@
 | The Plant-Based RD | 0 | 272 | 4 | 17 | 1 | 0 | 2026-06-10 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 1 | 277 | 0 | 41 | 0 | 12 | 2026-06-16 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 278 | 38 | 74 | 3 | 0 | 2026-06-14 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 2 | 279 | 38 | 74 | 3 | 0 | 2026-06-17 | ✅ OK |
 | Plant-Based on a Budget | 2 | 281 | 16 | 68 | 281 | 1 | 2026-06-15 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 283 | 9 | 47 | 2 | 280 | 2026-06-10 | ✅ OK |
@@ -125,8 +125,8 @@
 | The Conscious Plant Kitchen | 0 | 303 | 37 | 37 | 2 | 39 | 2026-06-16 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 334 | 2 | 22 | 1 | 1 | 2026-06-15 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 340 | 2 | 12 | 5 | 1 | 2026-06-15 | ✅ OK |
-| Reddit | 3 | 350 | 2 | 39 | 1 | 4 | 2026-06-17 | ✅ OK (3) |
-| VegNews | 2 | 350 | 10 | 45 | 3 | 8 | 2026-06-17 | ✅ OK |
+| Reddit | 2 | 350 | 2 | 39 | 1 | 4 | 2026-06-17 | ✅ OK (2) |
+| VegNews | 0 | 350 | 10 | 45 | 3 | 8 | 2026-06-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
