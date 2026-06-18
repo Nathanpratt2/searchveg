@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-18 06:25:18
-**Total Run Time:** 9m 19s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-06-18 10:58:57
+**Total Run Time:** 7m 20s
+**Longest Step:** HTML: The Cheap Lazy Vegan (0m 26s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20697 | 154 new today |
+| **Total Database** | 20697 | 142 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 236 | Total recorded actions in database |
 | **WFPB / GF** | 2575 / 2717 | 12% / 13% |
-| **Easy / Budget** | 4973 / 2074 | 24% / 10% |
+| **Easy / Budget** | 4972 / 2074 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **9.48** | *3.76* |
-| 2 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **5.75** | *2.28* |
-| 3 |[veggie turkey](https://www.reddit.com/r/veganrecipes/comments/1u8hrt2/veggie_turkey/) | Reddit | **3.79** | *1.51* |
-| 4 |[The best tofu dinner for warm summer days 🥬☀️](https://www.reddit.com/r/veganrecipes/comments/1u7exsv/the_best_tofu_dinner_for_warm_summer_days/) | Reddit | **3.45** | *1.37* |
-| 5 |[Smashed Cucumber Salad with Tofu](https://sweetsimplevegan.com/smashed-cucumber-salad-with-tofu/) | Sweet Simple Vegan | **3.45** | *1.37* |
-| 6 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **3.42** | *1.36* |
-| 7 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **3.41** | *1.35* |
-| 8 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **3.41** | *1.35* |
+| 1 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **8.69** | *3.45* |
+| 2 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **5.27** | *2.09* |
+| 3 |[veggie turkey](https://www.reddit.com/r/veganrecipes/comments/1u8hrt2/veggie_turkey/) | Reddit | **3.47** | *1.38* |
+| 4 |[The best tofu dinner for warm summer days 🥬☀️](https://www.reddit.com/r/veganrecipes/comments/1u7exsv/the_best_tofu_dinner_for_warm_summer_days/) | Reddit | **3.16** | *1.25* |
+| 5 |[Smashed Cucumber Salad with Tofu](https://sweetsimplevegan.com/smashed-cucumber-salad-with-tofu/) | Sweet Simple Vegan | **3.16** | *1.25* |
+| 6 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **3.13** | *1.24* |
+| 7 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **3.13** | *1.24* |
+| 8 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **3.13** | *1.24* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
@@ -50,7 +50,7 @@
 | Vegan Richa GF | 0 | 42 | 2 | 10 | 7 | 42 | 2026-06-17 | ✅ OK |
 | Jessica in the Kitchen | 2 | 55 | 1 | 6 | 1 | 3 | 2026-06-17 | ✅ OK |
 | My Goodness Kitchen | 3 | 56 | 7 | 6 | 3 | 3 | 2026-06-11 | ✅ OK |
-| The Korean Vegan | 3 | 98 | 8 | 61 | 10 | 5 | 2026-06-18 | ✅ OK |
+| The Korean Vegan | 2 | 98 | 8 | 61 | 10 | 5 | 2026-06-18 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -59,17 +59,17 @@
 | Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 0 | 164 | 3 | 30 | 10 | 0 | 2026-06-16 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Steamy Vegan | 1 | 180 | 9 | 29 | 10 | 2 | 2026-06-13 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-14 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 194 | 7 | 38 | 15 | 4 | 2026-06-15 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
 | The Little Blog of Vegan | 0 | 199 | 0 | 38 | 0 | 1 | 2026-06-12 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| Nora Cooks | 2 | 202 | 14 | 31 | 13 | 5 | 2026-06-17 | ✅ OK |
+| Nora Cooks | 1 | 202 | 14 | 31 | 13 | 5 | 2026-06-17 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 209 | 43 | 209 | 209 | 32 | 2026-06-11 | ✅ OK |
 | Elavegan | 0 | 211 | 5 | 38 | 2 | 203 | 2026-06-10 | ✅ OK |
@@ -97,7 +97,7 @@
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 245 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
+| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-17 | ✅ OK |
