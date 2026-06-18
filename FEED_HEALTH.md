@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-17 23:05:00
-**Total Run Time:** 9m 6s
-**Longest Step:** RSS: Holistic Chef Academy (1m 0s)
+**Last Run:** 2026-06-18 06:25:18
+**Total Run Time:** 9m 19s
+**Longest Step:** RSS: Hot For Food (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20695 | 156 new today |
+| **Total Database** | 20697 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 234 | Total recorded actions in database |
+| **Trending Events** | 236 | Total recorded actions in database |
 | **WFPB / GF** | 2575 / 2717 | 12% / 13% |
-| **Easy / Budget** | 4972 / 2074 | 24% / 10% |
+| **Easy / Budget** | 4973 / 2074 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **6.63** | *2.63* |
-| 2 |[The best tofu dinner for warm summer days 🥬☀️](https://www.reddit.com/r/veganrecipes/comments/1u7exsv/the_best_tofu_dinner_for_warm_summer_days/) | Reddit | **3.97** | *1.58* |
-| 3 |[Smashed Cucumber Salad with Tofu](https://sweetsimplevegan.com/smashed-cucumber-salad-with-tofu/) | Sweet Simple Vegan | **3.97** | *1.58* |
-| 4 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **3.94** | *1.56* |
-| 5 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **3.93** | *1.56* |
-| 6 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **3.93** | *1.56* |
-| 7 |[Bang Bang Tofu Skewers](https://www.eatfigsnotpigs.com/bang-bang-tofu-skewers/?utm_source=rss&utm_medium=rss&utm_campaign=bang-bang-tofu-skewers) | Eat Figs, Not Pigs | **3.93** | *1.56* |
-| 8 |[Tricolore Pizza (Pesto Pizza with Liquid Mozzarella)](https://www.theppk.com/2026/06/pesto-pizza-with-liquid-mozzarella/) | The Post-Punk Kitchen | **3.93** | *1.56* |
+| 1 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **9.48** | *3.76* |
+| 2 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **5.75** | *2.28* |
+| 3 |[veggie turkey](https://www.reddit.com/r/veganrecipes/comments/1u8hrt2/veggie_turkey/) | Reddit | **3.79** | *1.51* |
+| 4 |[The best tofu dinner for warm summer days 🥬☀️](https://www.reddit.com/r/veganrecipes/comments/1u7exsv/the_best_tofu_dinner_for_warm_summer_days/) | Reddit | **3.45** | *1.37* |
+| 5 |[Smashed Cucumber Salad with Tofu](https://sweetsimplevegan.com/smashed-cucumber-salad-with-tofu/) | Sweet Simple Vegan | **3.45** | *1.37* |
+| 6 |[55 Vegan Father’s Day Recipes](https://www.plantpowercouple.com/recipes/vegan-fathers-day/) | Plant Power Couple | **3.42** | *1.36* |
+| 7 |[Supreme Vegan Nacho Fries With Tofu Bacon Crumbles](https://vegnews.com/recipes/vegan-loaded-fries-supreme) | VegNews | **3.41** | *1.35* |
+| 8 |[Strawberry Shortcake 3 ways](https://www.gretchensveganbakery.com/strawberry-shortcake-3-ways/) | Gretchen's Vegan Bakery | **3.41** | *1.35* |
 
 ---
 
@@ -45,12 +45,12 @@
 | The Banana Diaries | 0 | 30 | 0 | 9 | 2 | 0 | 2026-06-15 | ✅ OK |
 | Dr. Vegan | 3 | 38 | 4 | 38 | 8 | 0 | 2026-06-11 | ✅ OK |
 | PlantYou | 2 | 39 | 39 | 7 | 2 | 0 | 2026-06-17 | ✅ OK |
-| Plant Baes | 1 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
+| Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Vegan Richa GF | 0 | 42 | 2 | 10 | 7 | 42 | 2026-06-17 | ✅ OK |
 | Jessica in the Kitchen | 2 | 55 | 1 | 6 | 1 | 3 | 2026-06-17 | ✅ OK |
 | My Goodness Kitchen | 3 | 56 | 7 | 6 | 3 | 3 | 2026-06-11 | ✅ OK |
-| The Korean Vegan | 2 | 97 | 8 | 60 | 10 | 5 | 2026-06-09 | ✅ OK |
+| The Korean Vegan | 3 | 98 | 8 | 61 | 10 | 5 | 2026-06-18 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -69,7 +69,7 @@
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
 | The Little Blog of Vegan | 0 | 199 | 0 | 38 | 0 | 1 | 2026-06-12 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| Nora Cooks | 1 | 201 | 14 | 31 | 13 | 5 | 2026-06-11 | ✅ OK |
+| Nora Cooks | 2 | 202 | 14 | 31 | 13 | 5 | 2026-06-17 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 209 | 43 | 209 | 209 | 32 | 2026-06-11 | ✅ OK |
 | Elavegan | 0 | 211 | 5 | 38 | 2 | 203 | 2026-06-10 | ✅ OK |
@@ -79,7 +79,7 @@
 | Minimalist Baker (Vegan Recipes) | 4 | 220 | 19 | 69 | 18 | 42 | 2026-06-16 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Burger Dude | 5 | 224 | 6 | 14 | 13 | 0 | 2026-06-12 | ✅ OK |
-| Cadry's Kitchen | 7 | 226 | 11 | 81 | 21 | 0 | 2026-06-17 | ✅ OK |
+| Cadry's Kitchen | 6 | 226 | 11 | 81 | 21 | 0 | 2026-06-17 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
 | Sweet Simple Vegan | 0 | 228 | 4 | 44 | 18 | 2 | 2026-06-16 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
@@ -115,7 +115,7 @@
 | The Plant-Based RD | 0 | 272 | 4 | 17 | 1 | 0 | 2026-06-10 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 1 | 277 | 0 | 41 | 0 | 12 | 2026-06-16 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 2 | 279 | 38 | 74 | 3 | 0 | 2026-06-17 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 279 | 38 | 74 | 3 | 0 | 2026-06-17 | ✅ OK |
 | Plant-Based on a Budget | 2 | 281 | 16 | 68 | 281 | 1 | 2026-06-15 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 283 | 9 | 47 | 2 | 280 | 2026-06-10 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 303 | 37 | 37 | 2 | 39 | 2026-06-16 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 334 | 2 | 22 | 1 | 1 | 2026-06-15 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 340 | 2 | 12 | 5 | 1 | 2026-06-15 | ✅ OK |
-| Reddit | 2 | 350 | 2 | 39 | 1 | 4 | 2026-06-17 | ✅ OK (2) |
+| Reddit | 1 | 350 | 2 | 39 | 1 | 4 | 2026-06-17 | ✅ OK (1) |
 | VegNews | 0 | 350 | 10 | 45 | 3 | 8 | 2026-06-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
