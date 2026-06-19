@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-18 23:24:42
-**Total Run Time:** 9m 2s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (1m 26s)
+**Last Run:** 2026-06-19 06:45:38
+**Total Run Time:** 9m 21s
+**Longest Step:** RSS: Hot For Food (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20713 | 171 new today |
+| **Total Database** | 20714 | 165 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 236 | Total recorded actions in database |
+| **Trending Events** | 213 | Total recorded actions in database |
 | **WFPB / GF** | 2574 / 2719 | 12% / 13% |
-| **Easy / Budget** | 4975 / 2074 | 24% / 10% |
+| **Easy / Budget** | 4976 / 2074 | 24% / 10% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **9.52** | *3.78* |
-| 2 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **8.93** | *3.54* |
-| 3 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **6.84** | *2.71* |
-| 4 |[Vegan Raspberry Thumbprint Cookies](https://vegnews.com/recipes/vegan-raspberry-thumbprint-cookies) | VegNews | **5.71** | *2.27* |
-| 5 |[Homemade Pizza Dough 🍕 It's all about the crust - crisp, chewy, & delicious](https://www.reddit.com/r/veganrecipes/comments/1u9avwo/homemade_pizza_dough_its_all_about_the_crust/) | Reddit | **5.71** | *2.27* |
-| 6 |[Nectarine and fennel salad](https://www.lazycatkitchen.com/nectarine-fennel-salad/) | Lazy Cat Kitchen | **4.82** | *1.91* |
-| 7 |[5-Minute Vegan Sour Cream Recipe](https://www.plantpowercouple.com/recipes/vegan-sour-cream/) | Plant Power Couple | **4.15** | *1.65* |
-| 8 |[veggie turkey](https://www.reddit.com/r/veganrecipes/comments/1u8hrt2/veggie_turkey/) | Reddit | **2.73** | *1.09* |
+| 1 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **8.27** | *3.28* |
+| 2 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **7.75** | *3.08* |
+| 3 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **5.93** | *2.36* |
+| 4 |[3 Ingredient Strawberry Ice Cream](https://thevegan8.com/3-ingredient-strawberry-ice-cream/) | The Vegan 8 | **5.45** | *2.16* |
+| 5 |[50 Vegan Cookout Recipes](https://sweetpotatosoul.com/vegan-cookout-essentials/) | Sweet Potato Soul | **5.45** | *2.16* |
+| 6 |[Jalapeño Limeade](https://www.theppk.com/2026/06/jalapeno-limeade/) | The Post-Punk Kitchen | **5.45** | *2.16* |
+| 7 |[Vegan Raspberry Thumbprint Cookies](https://vegnews.com/recipes/vegan-raspberry-thumbprint-cookies) | VegNews | **4.96** | *1.97* |
+| 8 |[Homemade Pizza Dough 🍕 It's all about the crust - crisp, chewy, & delicious](https://www.reddit.com/r/veganrecipes/comments/1u9avwo/homemade_pizza_dough_its_all_about_the_crust/) | Reddit | **4.96** | *1.97* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Fragrant Vanilla Cake | 9 | 25 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
@@ -49,21 +49,21 @@
 | Justine Cooks Vegan | 0 | 42 | 0 | 3 | 0 | 0 | 2026-01-01 | ✅ OK |
 | Vegan Richa GF | 0 | 42 | 2 | 10 | 7 | 42 | 2026-06-17 | ✅ OK |
 | Jessica in the Kitchen | 2 | 55 | 1 | 6 | 1 | 3 | 2026-06-17 | ✅ OK |
-| My Goodness Kitchen | 3 | 56 | 7 | 6 | 3 | 3 | 2026-06-11 | ✅ OK |
+| My Goodness Kitchen | 4 | 57 | 7 | 6 | 3 | 3 | 2026-06-19 | ✅ OK |
 | The Korean Vegan | 2 | 98 | 8 | 61 | 10 | 5 | 2026-06-18 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 143 | 0 | 12 | 2 | 1 | 2026-06-11 | ✅ OK |
-| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 165 | 3 | 30 | 10 | 0 | 2026-06-18 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Steamy Vegan | 1 | 180 | 9 | 29 | 10 | 2 | 2026-06-13 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 186 | 0 | 23 | 1 | 30 | 2026-06-14 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-06-18 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 194 | 7 | 38 | 15 | 4 | 2026-06-15 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
@@ -71,7 +71,7 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Nora Cooks | 1 | 203 | 14 | 31 | 13 | 5 | 2026-06-18 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Vegan 8 | 2 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Elavegan | 0 | 212 | 5 | 38 | 2 | 204 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
@@ -89,7 +89,7 @@
 | ZardyPlants | 2 | 233 | 233 | 44 | 233 | 4 | 2026-06-17 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Sweet Potato Soul | 1 | 238 | 0 | 34 | 1 | 6 | 2026-06-18 | ✅ OK |
+| Sweet Potato Soul | 0 | 238 | 0 | 34 | 1 | 6 | 2026-06-18 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
@@ -97,7 +97,7 @@
 | Pick Up Limes | 1 | 244 | 22 | 27 | 28 | 1 | 2026-05-25 | ✅ OK (1) |
 | HealthyGirl Kitchen | 1 | 245 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
+| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 9 | 253 | 11 | 59 | 41 | 73 | 2026-06-17 | ✅ OK |
@@ -105,14 +105,14 @@
 | Plant Power Couple | 1 | 257 | 0 | 257 | 2 | 0 | 2026-06-16 | ✅ OK |
 | Veggiekins | 0 | 257 | 35 | 257 | 0 | 254 | 2026-06-07 | ✅ OK |
 | Make It Dairy Free | 1 | 258 | 4 | 42 | 2 | 3 | 2026-06-14 | ✅ OK |
-| My Darling Vegan | 3 | 262 | 1 | 31 | 4 | 12 | 2026-06-18 | ✅ OK |
+| My Darling Vegan | 2 | 262 | 1 | 31 | 4 | 12 | 2026-06-18 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 265 | 1 | 91 | 7 | 218 | 2026-06-17 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | From My Bowl | 0 | 266 | 3 | 41 | 3 | 5 | 2026-06-05 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | A Virtual Vegan | 4 | 269 | 3 | 36 | 1 | 4 | 2026-06-09 | ✅ OK |
-| The Plant-Based RD | 1 | 273 | 4 | 17 | 1 | 0 | 2026-06-18 | ✅ OK |
+| The Plant-Based RD | 0 | 273 | 4 | 17 | 1 | 0 | 2026-06-18 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 1 | 277 | 0 | 41 | 0 | 12 | 2026-06-16 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 279 | 38 | 74 | 3 | 0 | 2026-06-17 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 295 | 0 | 34 | 1 | 0 | 2026-06-17 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 303 | 37 | 37 | 2 | 39 | 2026-06-16 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 335 | 2 | 22 | 1 | 1 | 2026-06-17 | ✅ OK |
-| The Post-Punk Kitchen | 3 | 341 | 2 | 12 | 5 | 1 | 2026-06-18 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 341 | 2 | 12 | 5 | 1 | 2026-06-18 | ✅ OK |
 | Reddit | 0 | 350 | 2 | 39 | 1 | 4 | 2026-06-18 | ✅ OK |
 | VegNews | 0 | 350 | 9 | 45 | 2 | 8 | 2026-06-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
