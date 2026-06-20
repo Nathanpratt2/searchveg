@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-20 09:56:42
-**Total Run Time:** 8m 45s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 9s)
+**Last Run:** 2026-06-20 13:10:32
+**Total Run Time:** 7m 41s
+**Longest Step:** HTML: The Cheap Lazy Vegan (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20721 | 160 new today |
+| **Total Database** | 20721 | 169 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 191 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Fresh Vietnamese Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1ua8lmq/fresh_vietnamese_spring_rolls/) | Reddit | **8.13** | *3.23* |
-| 2 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **4.90** | *1.94* |
-| 3 |[Vegan California Breakfast Burritos ☀️ loaded with tofu scramble, hash browns, cheese, avocado, tomato & salsa. Good morning!](https://www.reddit.com/r/veganrecipes/comments/1ua7v99/vegan_california_breakfast_burritos_loaded_with/) | Reddit | **4.88** | *1.94* |
-| 4 |[Easy Garlicky Three Bean Dip](https://vegnews.com/recipes/vegan-easy-garlic-herbed-three-bean-dip) | VegNews | **4.88** | *1.94* |
-| 5 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **4.59** | *1.82* |
-| 6 |[Marinated Grilled King Oyster Mushroom Skewers](https://vegnews.com/recipes/vegan-grilled-king-oyster-mushrooms) | VegNews | **4.25** | *1.69* |
-| 7 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **3.52** | *1.40* |
-| 8 |[3 Ingredient Strawberry Ice Cream](https://thevegan8.com/3-ingredient-strawberry-ice-cream/) | The Vegan 8 | **3.23** | *1.28* |
+| 1 |[Fresh Vietnamese Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1ua8lmq/fresh_vietnamese_spring_rolls/) | Reddit | **7.64** | *3.03* |
+| 2 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **4.60** | *1.83* |
+| 3 |[Vegan California Breakfast Burritos ☀️ loaded with tofu scramble, hash browns, cheese, avocado, tomato & salsa. Good morning!](https://www.reddit.com/r/veganrecipes/comments/1ua7v99/vegan_california_breakfast_burritos_loaded_with/) | Reddit | **4.58** | *1.82* |
+| 4 |[Easy Garlicky Three Bean Dip](https://vegnews.com/recipes/vegan-easy-garlic-herbed-three-bean-dip) | VegNews | **4.58** | *1.82* |
+| 5 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **4.32** | *1.71* |
+| 6 |[Marinated Grilled King Oyster Mushroom Skewers](https://vegnews.com/recipes/vegan-grilled-king-oyster-mushrooms) | VegNews | **4.00** | *1.59* |
+| 7 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **3.30** | *1.31* |
+| 8 |[3 Ingredient Strawberry Ice Cream](https://thevegan8.com/3-ingredient-strawberry-ice-cream/) | The Vegan 8 | **3.04** | *1.20* |
 
 ---
 
@@ -38,8 +38,8 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Mary's Test Kitchen | 3 | 15 | 0 | 3 | 1 | 0 | 2026-06-07 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
+| Fragrant Vanilla Cake | 9 | 25 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
 | The Banana Diaries | 0 | 31 | 0 | 9 | 2 | 0 | 2026-06-18 | ✅ OK |
