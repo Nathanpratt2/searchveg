@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-06-20 13:10:32
-**Total Run Time:** 7m 41s
-**Longest Step:** HTML: The Cheap Lazy Vegan (0m 38s)
+**Last Run:** 2026-06-20 18:00:35
+**Total Run Time:** 7m 46s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20721 | 169 new today |
+| **Total Database** | 20722 | 178 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 191 | Total recorded actions in database |
-| **WFPB / GF** | 2574 / 2720 | 12% / 13% |
+| **Trending Events** | 198 | Total recorded actions in database |
+| **WFPB / GF** | 2573 / 2720 | 12% / 13% |
 | **Easy / Budget** | 4980 / 2075 | 24% / 10% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Fresh Vietnamese Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1ua8lmq/fresh_vietnamese_spring_rolls/) | Reddit | **7.64** | *3.03* |
-| 2 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **4.60** | *1.83* |
-| 3 |[Vegan California Breakfast Burritos ☀️ loaded with tofu scramble, hash browns, cheese, avocado, tomato & salsa. Good morning!](https://www.reddit.com/r/veganrecipes/comments/1ua7v99/vegan_california_breakfast_burritos_loaded_with/) | Reddit | **4.58** | *1.82* |
-| 4 |[Easy Garlicky Three Bean Dip](https://vegnews.com/recipes/vegan-easy-garlic-herbed-three-bean-dip) | VegNews | **4.58** | *1.82* |
-| 5 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **4.32** | *1.71* |
-| 6 |[Marinated Grilled King Oyster Mushroom Skewers](https://vegnews.com/recipes/vegan-grilled-king-oyster-mushrooms) | VegNews | **4.00** | *1.59* |
-| 7 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **3.30** | *1.31* |
-| 8 |[3 Ingredient Strawberry Ice Cream](https://thevegan8.com/3-ingredient-strawberry-ice-cream/) | The Vegan 8 | **3.04** | *1.20* |
+| 1 |[Fresh Vietnamese Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1ua8lmq/fresh_vietnamese_spring_rolls/) | Reddit | **6.96** | *2.76* |
+| 2 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **4.19** | *1.66* |
+| 3 |[Vegan California Breakfast Burritos ☀️ loaded with tofu scramble, hash browns, cheese, avocado, tomato & salsa. Good morning!](https://www.reddit.com/r/veganrecipes/comments/1ua7v99/vegan_california_breakfast_burritos_loaded_with/) | Reddit | **4.18** | *1.66* |
+| 4 |[Easy Garlicky Three Bean Dip](https://vegnews.com/recipes/vegan-easy-garlic-herbed-three-bean-dip) | VegNews | **4.18** | *1.66* |
+| 5 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **3.93** | *1.56* |
+| 6 |[Marinated Grilled King Oyster Mushroom Skewers](https://vegnews.com/recipes/vegan-grilled-king-oyster-mushrooms) | VegNews | **3.64** | *1.45* |
+| 7 |[Crispy air fryer tofu nuggets (popcorn tofu)](https://cadryskitchen.com/air-fryer-tofu-nuggets/) | Cadry's Kitchen | **3.01** | *1.19* |
+| 8 |[3 Ingredient Strawberry Ice Cream](https://thevegan8.com/3-ingredient-strawberry-ice-cream/) | The Vegan 8 | **2.77** | *1.10* |
 
 ---
 
@@ -59,8 +59,8 @@
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 165 | 3 | 30 | 10 | 0 | 2026-06-18 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Steamy Vegan | 1 | 180 | 9 | 29 | 10 | 2 | 2026-06-13 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
+| Steamy Vegan | 2 | 181 | 9 | 29 | 10 | 2 | 2026-06-20 | ✅ OK |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-06-18 | ✅ OK |
@@ -101,7 +101,7 @@
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | The Foodie Takes Flight | 0 | 253 | 0 | 253 | 2 | 0 | 2026-05-22 | ✅ OK |
 | Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-06-19 | ✅ OK |
-| Eat Figs, Not Pigs | 2 | 255 | 1 | 32 | 2 | 0 | 2026-06-17 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 256 | 1 | 32 | 2 | 0 | 2026-06-20 | ✅ OK |
 | Plant Power Couple | 1 | 257 | 0 | 257 | 2 | 0 | 2026-06-16 | ✅ OK |
 | Veggiekins | 0 | 257 | 35 | 257 | 0 | 254 | 2026-06-07 | ✅ OK |
 | Make It Dairy Free | 1 | 258 | 4 | 42 | 2 | 3 | 2026-06-14 | ✅ OK |
@@ -120,13 +120,13 @@
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 284 | 9 | 47 | 2 | 281 | 2026-06-18 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
-| Lazy Cat Kitchen | 0 | 293 | 3 | 14 | 3 | 5 | 2026-06-13 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 294 | 3 | 14 | 3 | 5 | 2026-06-20 | ✅ OK |
 | Connoisseurus Veg | 1 | 295 | 0 | 34 | 1 | 0 | 2026-06-17 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 304 | 37 | 37 | 2 | 39 | 2026-06-19 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 335 | 2 | 22 | 1 | 1 | 2026-06-17 | ✅ OK |
 | The Post-Punk Kitchen | 3 | 342 | 2 | 12 | 5 | 1 | 2026-06-19 | ✅ OK |
-| Reddit | 2 | 350 | 2 | 41 | 1 | 4 | 2026-06-19 | ✅ OK (2) |
-| VegNews | 0 | 350 | 8 | 46 | 2 | 8 | 2026-06-19 | ✅ OK |
+| Reddit | 4 | 350 | 2 | 41 | 1 | 4 | 2026-06-20 | ✅ OK (4) |
+| VegNews | 4 | 350 | 7 | 46 | 2 | 8 | 2026-06-20 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
