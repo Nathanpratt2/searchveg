@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-22 23:07:57
-**Total Run Time:** 7m 59s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
+**Last Run:** 2026-06-23 05:44:56
+**Total Run Time:** 8m 35s
+**Longest Step:** RSS: The Post-Punk Kitchen (1m 9s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20740 | 172 new today |
+| **Total Database** | 20742 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 184 | Total recorded actions in database |
+| **Trending Events** | 187 | Total recorded actions in database |
 | **WFPB / GF** | 2574 / 2723 | 12% / 13% |
-| **Easy / Budget** | 4990 / 2074 | 24% / 10% |
+| **Easy / Budget** | 4991 / 2074 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Brookies! (Brownie + Chocolate Chip Cookie Bar)](https://www.reddit.com/r/veganrecipes/comments/1ub3rzn/vegan_brookies_brownie_chocolate_chip_cookie_bar/) | Reddit | **6.72** | *2.67* |
-| 2 |[Gluten-Free Vegan Pizza Wraps](https://vegnews.com/recipes/gluten-free-pizza-wraps) | VegNews | **6.72** | *2.67* |
-| 3 |[Easy Vegan Key Lime Pie Bars With a Graham Cracker Crust](https://vegnews.com/recipes/vegan-key-lime-pie-bars) | VegNews | **4.03** | *1.60* |
-| 4 |[Fresh Vietnamese Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1ua8lmq/fresh_vietnamese_spring_rolls/) | Reddit | **2.50** | *0.99* |
-| 5 |[Small Batch ‘Brown Butter’ Double Chocolate Chip Cookies – NO eggs, no dairy!](https://thebananadiaries.com/small-batch-brown-butter-double-chocolate-chip-cookies-no-eggs-no-dairy/) | The Banana Diaries | **1.51** | *0.60* |
-| 6 |[Vegan California Breakfast Burritos ☀️ loaded with tofu scramble, hash browns, cheese, avocado, tomato & salsa. Good morning!](https://www.reddit.com/r/veganrecipes/comments/1ua7v99/vegan_california_breakfast_burritos_loaded_with/) | Reddit | **1.50** | *0.60* |
-| 7 |[Easy Garlicky Three Bean Dip](https://vegnews.com/recipes/vegan-easy-garlic-herbed-three-bean-dip) | VegNews | **1.50** | *0.60* |
-| 8 |[40+ Vegan Father’s Day Recipes](https://www.noracooks.com/vegan-fathers-day-recipes/) | Nora Cooks | **1.41** | *0.56* |
+| 1 |[Red Curry Grilled Tempeh](https://www.connoisseurusveg.com/grilled-tempeh/) | Connoisseurus Veg | **9.53** | *3.78* |
+| 2 |[Creamy Vegan Corn Skillet Recipe](https://www.plantpowercouple.com/recipes/corn-skillet/) | Plant Power Couple | **9.53** | *3.78* |
+| 3 |[Vegan Brookies! (Brownie + Chocolate Chip Cookie Bar)](https://www.reddit.com/r/veganrecipes/comments/1ub3rzn/vegan_brookies_brownie_chocolate_chip_cookie_bar/) | Reddit | **5.92** | *2.35* |
+| 4 |[Gluten-Free Vegan Pizza Wraps](https://vegnews.com/recipes/gluten-free-pizza-wraps) | VegNews | **5.92** | *2.35* |
+| 5 |[High Protein Chia Pudding (Made With Tofu)](https://veggiekinsblog.com/2026/06/21/high-protein-chia-pudding-made-with-tofu/) | Veggiekins | **5.73** | *2.27* |
+| 6 |[Grape Muffins (Egg-Free)](https://plantbasedonabudget.com/grape-muffins-egg-free/) | Plant-Based on a Budget | **3.81** | *1.51* |
+| 7 |[Easy Vegan Key Lime Pie Bars With a Graham Cracker Crust](https://vegnews.com/recipes/vegan-key-lime-pie-bars) | VegNews | **3.55** | *1.41* |
+| 8 |[Fresh Vietnamese Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1ua8lmq/fresh_vietnamese_spring_rolls/) | Reddit | **2.20** | *0.87* |
 
 ---
 
@@ -41,7 +41,7 @@
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Fragrant Vanilla Cake | 9 | 25 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
-| Justine Snacks (Vegan Recipes) | 0 | 29 | 0 | 2 | 0 | 1 | 2026-06-09 | ✅ OK |
+| Justine Snacks (Vegan Recipes) | 1 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
 | The Banana Diaries | 0 | 31 | 0 | 9 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Dr. Vegan | 3 | 38 | 4 | 38 | 8 | 0 | 2026-06-11 | ✅ OK |
 | PlantYou | 2 | 39 | 39 | 7 | 2 | 0 | 2026-06-17 | ✅ OK |
@@ -81,7 +81,7 @@
 | The Burger Dude | 6 | 225 | 6 | 14 | 13 | 0 | 2026-06-19 | ✅ OK |
 | Cadry's Kitchen | 6 | 226 | 11 | 81 | 21 | 0 | 2026-06-17 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
-| Sweet Simple Vegan | 1 | 229 | 4 | 44 | 18 | 2 | 2026-06-22 | ✅ OK |
+| Sweet Simple Vegan | 0 | 229 | 4 | 44 | 18 | 2 | 2026-06-22 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Rabbit and Wolves | 1 | 231 | 0 | 33 | 1 | 0 | 2026-06-04 | ✅ OK |
@@ -94,15 +94,15 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
-| Pick Up Limes | 1 | 244 | 22 | 27 | 28 | 1 | 2026-05-25 | ✅ OK (1) |
 | HealthyGirl Kitchen | 1 | 245 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
+| Pick Up Limes | 2 | 245 | 22 | 28 | 28 | 1 | 2026-06-23 | ✅ OK (2) |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-06-19 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Eat Figs, Not Pigs | 4 | 258 | 1 | 32 | 2 | 0 | 2026-06-22 | ✅ OK |
-| Plant Power Couple | 2 | 258 | 0 | 258 | 2 | 0 | 2026-06-22 | ✅ OK |
+| Plant Power Couple | 1 | 258 | 0 | 258 | 2 | 0 | 2026-06-22 | ✅ OK |
 | Veggiekins | 0 | 258 | 35 | 258 | 0 | 255 | 2026-06-22 | ✅ OK |
 | Make It Dairy Free | 1 | 259 | 4 | 42 | 2 | 3 | 2026-06-21 | ✅ OK |
 | My Darling Vegan | 2 | 262 | 1 | 31 | 4 | 12 | 2026-06-18 | ✅ OK |
@@ -119,13 +119,13 @@
 | Plant-Based on a Budget | 1 | 281 | 16 | 68 | 281 | 1 | 2026-06-22 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 281 | 281 | 7 | 0 | 9 | 2026-06-02 | ✅ OK |
 | Healthy Little Vittles | 2 | 284 | 9 | 47 | 2 | 281 | 2026-06-18 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 294 | 3 | 14 | 3 | 5 | 2026-06-20 | ✅ OK |
 | Connoisseurus Veg | 0 | 295 | 0 | 34 | 1 | 0 | 2026-06-22 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 304 | 37 | 37 | 2 | 39 | 2026-06-19 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 337 | 3 | 22 | 1 | 1 | 2026-06-17 | ✅ OK |
-| The Post-Punk Kitchen | 3 | 342 | 2 | 12 | 5 | 1 | 2026-06-19 | ✅ OK |
-| Reddit | 1 | 350 | 2 | 43 | 1 | 4 | 2026-06-22 | ✅ OK (1) |
+| The Post-Punk Kitchen | 0 | 341 | 2 | 12 | 5 | 1 | 2026-06-19 | ❌ Blocked/ConnErr |
+| Reddit | 2 | 350 | 2 | 43 | 1 | 4 | 2026-06-23 | ✅ OK (2) |
 | VegNews | 0 | 350 | 7 | 47 | 1 | 10 | 2026-06-22 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
