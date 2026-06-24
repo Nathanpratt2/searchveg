@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-24 13:42:27
-**Total Run Time:** 8m 45s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 28s)
+**Last Run:** 2026-06-24 18:24:06
+**Total Run Time:** 7m 56s
+**Longest Step:** RSS: Hot For Food (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20758 | 154 new today |
+| **Total Database** | 20761 | 172 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 190 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Red Curry Grilled Tempeh](https://www.connoisseurusveg.com/grilled-tempeh/) | Connoisseurus Veg | **5.15** | *2.04* |
-| 2 |[Creamy Vegan Corn Skillet Recipe](https://www.plantpowercouple.com/recipes/corn-skillet/) | Plant Power Couple | **5.15** | *2.04* |
-| 3 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **3.72** | *1.48* |
-| 4 |[Vegan Brookies! (Brownie + Chocolate Chip Cookie Bar)](https://www.reddit.com/r/veganrecipes/comments/1ub3rzn/vegan_brookies_brownie_chocolate_chip_cookie_bar/) | Reddit | **3.20** | *1.27* |
-| 5 |[Gluten-Free Vegan Pizza Wraps](https://vegnews.com/recipes/gluten-free-pizza-wraps) | VegNews | **3.20** | *1.27* |
-| 6 |[High Protein Chia Pudding (Made With Tofu)](https://veggiekinsblog.com/2026/06/21/high-protein-chia-pudding-made-with-tofu/) | Veggiekins | **3.10** | *1.23* |
-| 7 |[Grape Muffins (Egg-Free)](https://plantbasedonabudget.com/grape-muffins-egg-free/) | Plant-Based on a Budget | **2.06** | *0.82* |
-| 8 |[Easy Vegan Key Lime Pie Bars With a Graham Cracker Crust](https://vegnews.com/recipes/vegan-key-lime-pie-bars) | VegNews | **1.92** | *0.76* |
+| 1 |[Red Curry Grilled Tempeh](https://www.connoisseurusveg.com/grilled-tempeh/) | Connoisseurus Veg | **4.71** | *1.87* |
+| 2 |[Creamy Vegan Corn Skillet Recipe](https://www.plantpowercouple.com/recipes/corn-skillet/) | Plant Power Couple | **4.71** | *1.87* |
+| 3 |[Black Pepper Tofu Quinoa Salad](https://fullofplants.com/black-pepper-tofu-quinoa-salad/) | Full of Plants | **3.40** | *1.35* |
+| 4 |[Vegan Brookies! (Brownie + Chocolate Chip Cookie Bar)](https://www.reddit.com/r/veganrecipes/comments/1ub3rzn/vegan_brookies_brownie_chocolate_chip_cookie_bar/) | Reddit | **2.92** | *1.16* |
+| 5 |[Gluten-Free Vegan Pizza Wraps](https://vegnews.com/recipes/gluten-free-pizza-wraps) | VegNews | **2.92** | *1.16* |
+| 6 |[High Protein Chia Pudding (Made With Tofu)](https://veggiekinsblog.com/2026/06/21/high-protein-chia-pudding-made-with-tofu/) | Veggiekins | **2.83** | *1.12* |
+| 7 |[Grape Muffins (Egg-Free)](https://plantbasedonabudget.com/grape-muffins-egg-free/) | Plant-Based on a Budget | **1.88** | *0.75* |
+| 8 |[Easy Vegan Key Lime Pie Bars With a Graham Cracker Crust](https://vegnews.com/recipes/vegan-key-lime-pie-bars) | VegNews | **1.75** | *0.70* |
 
 ---
 
@@ -37,9 +37,9 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
+| Fragrant Vanilla Cake | 9 | 25 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
 | The Banana Diaries | 0 | 31 | 0 | 9 | 2 | 0 | 2026-06-18 | ✅ OK |
@@ -60,7 +60,7 @@
 | Love and Lemons (Vegan Recipes) | 1 | 166 | 3 | 30 | 10 | 0 | 2026-06-23 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
-| Steamy Vegan | 1 | 181 | 9 | 29 | 10 | 2 | 2026-06-20 | ✅ OK |
+| Steamy Vegan | 2 | 182 | 9 | 29 | 10 | 2 | 2026-06-24 | ✅ OK |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-06-18 | ✅ OK |
@@ -103,8 +103,8 @@
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 1 | 258 | 0 | 258 | 2 | 0 | 2026-06-22 | ✅ OK |
 | Veggiekins | 0 | 258 | 35 | 258 | 0 | 255 | 2026-06-22 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 259 | 1 | 32 | 2 | 0 | 2026-06-23 | ✅ OK |
 | Make It Dairy Free | 1 | 259 | 4 | 42 | 2 | 3 | 2026-06-21 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 260 | 1 | 32 | 2 | 0 | 2026-06-24 | ✅ OK |
 | My Darling Vegan | 2 | 263 | 1 | 31 | 4 | 12 | 2026-06-23 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | From My Bowl | 0 | 266 | 3 | 41 | 3 | 5 | 2026-06-05 | ✅ OK |
@@ -123,10 +123,10 @@
 | Lazy Cat Kitchen | 0 | 294 | 3 | 14 | 3 | 5 | 2026-06-20 | ✅ OK |
 | Connoisseurus Veg | 0 | 295 | 0 | 34 | 1 | 0 | 2026-06-22 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 305 | 38 | 37 | 2 | 40 | 2026-06-23 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 337 | 3 | 22 | 1 | 1 | 2026-06-17 | ✅ OK |
-| The Post-Punk Kitchen | 3 | 343 | 2 | 12 | 5 | 1 | 2026-06-23 | ✅ OK |
-| Reddit | 0 | 350 | 2 | 42 | 1 | 5 | 2026-06-24 | ✅ OK |
-| VegNews | 0 | 350 | 6 | 47 | 1 | 10 | 2026-06-23 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 338 | 3 | 22 | 1 | 1 | 2026-06-19 | ✅ OK |
+| The Post-Punk Kitchen | 4 | 344 | 2 | 13 | 5 | 1 | 2026-06-24 | ✅ OK |
+| Reddit | 2 | 350 | 2 | 42 | 1 | 5 | 2026-06-24 | ✅ OK (2) |
+| VegNews | 3 | 350 | 6 | 46 | 1 | 10 | 2026-06-24 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
