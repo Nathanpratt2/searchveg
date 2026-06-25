@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-25 05:42:54
+**Last Run:** 2026-06-25 09:56:31
 **Total Run Time:** 6m 13s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 30s)
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20765 | 156 new today |
+| **Total Database** | 20765 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 197 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **9.48** | *3.76* |
-| 2 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **5.67** | *2.25* |
-| 3 |[Giant Vegan Cheeze-Itz (Taco Bell Copycat)](https://www.theppk.com/2026/06/giant-vegan-cheez-it/) | The Post-Punk Kitchen | **5.67** | *2.25* |
-| 4 |[Vegan Mexican Street Corn Bowls (Elote)](https://www.mydarlingvegan.com/vegan-mexican-street-corn-bowls/) | My Darling Vegan | **5.67** | *2.25* |
-| 5 |[Sparkling Strawberry Lemon Elderflower Mocktail](https://vegnews.com/recipes/vegan-strawberry-lemon-elderflower-mocktail) | VegNews | **5.67** | *2.25* |
-| 6 |[Raw Vegan Spaghetti!](https://www.reddit.com/r/veganrecipes/comments/1ueg1ec/raw_vegan_spaghetti/) | Reddit | **3.81** | *1.51* |
-| 7 |[Red Curry Grilled Tempeh](https://www.connoisseurusveg.com/grilled-tempeh/) | Connoisseurus Veg | **3.79** | *1.50* |
-| 8 |[Creamy Vegan Corn Skillet Recipe](https://www.plantpowercouple.com/recipes/corn-skillet/) | Plant Power Couple | **3.78** | *1.50* |
+| 1 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **8.74** | *3.47* |
+| 2 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **5.23** | *2.08* |
+| 3 |[Giant Vegan Cheeze-Itz (Taco Bell Copycat)](https://www.theppk.com/2026/06/giant-vegan-cheez-it/) | The Post-Punk Kitchen | **5.23** | *2.08* |
+| 4 |[Vegan Mexican Street Corn Bowls (Elote)](https://www.mydarlingvegan.com/vegan-mexican-street-corn-bowls/) | My Darling Vegan | **5.23** | *2.08* |
+| 5 |[Sparkling Strawberry Lemon Elderflower Mocktail](https://vegnews.com/recipes/vegan-strawberry-lemon-elderflower-mocktail) | VegNews | **5.23** | *2.08* |
+| 6 |[Raw Vegan Spaghetti!](https://www.reddit.com/r/veganrecipes/comments/1ueg1ec/raw_vegan_spaghetti/) | Reddit | **3.51** | *1.39* |
+| 7 |[Red Curry Grilled Tempeh](https://www.connoisseurusveg.com/grilled-tempeh/) | Connoisseurus Veg | **3.49** | *1.38* |
+| 8 |[Creamy Vegan Corn Skillet Recipe](https://www.plantpowercouple.com/recipes/corn-skillet/) | Plant Power Couple | **3.49** | *1.38* |
 
 ---
 
@@ -47,7 +47,7 @@
 | PlantYou | 2 | 39 | 39 | 7 | 2 | 0 | 2026-06-17 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Justine Cooks Vegan | 0 | 43 | 0 | 3 | 0 | 0 | 2026-06-24 | ✅ OK |
-| Vegan Richa GF | 1 | 44 | 2 | 11 | 7 | 44 | 2026-06-25 | ✅ OK |
+| Vegan Richa GF | 0 | 44 | 2 | 11 | 7 | 44 | 2026-06-25 | ✅ OK |
 | Jessica in the Kitchen | 3 | 57 | 1 | 6 | 1 | 3 | 2026-06-22 | ✅ OK |
 | My Goodness Kitchen | 3 | 59 | 7 | 6 | 3 | 3 | 2026-06-24 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
@@ -55,7 +55,7 @@
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 166 | 3 | 30 | 10 | 0 | 2026-06-23 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
