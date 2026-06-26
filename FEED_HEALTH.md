@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-26 10:04:02
-**Total Run Time:** 7m 2s
-**Longest Step:** RSS: Hot For Food (0m 26s)
+**Last Run:** 2026-06-26 13:34:40
+**Total Run Time:** 7m 20s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20775 | 162 new today |
+| **Total Database** | 20778 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 210 | Total recorded actions in database |
 | **WFPB / GF** | 2577 / 2729 | 12% / 13% |
-| **Easy / Budget** | 4994 / 2075 | 24% / 9% |
+| **Easy / Budget** | 4993 / 2075 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **7.75** | *3.07* |
-| 2 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **5.49** | *2.18* |
-| 3 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **4.96** | *1.97* |
-| 4 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **3.29** | *1.30* |
-| 5 |[Giant Vegan Cheeze-Itz (Taco Bell Copycat)](https://www.theppk.com/2026/06/giant-vegan-cheez-it/) | The Post-Punk Kitchen | **3.29** | *1.30* |
-| 6 |[Vegan Mexican Street Corn Bowls (Elote)](https://www.mydarlingvegan.com/vegan-mexican-street-corn-bowls/) | My Darling Vegan | **3.29** | *1.30* |
-| 7 |[Sparkling Strawberry Lemon Elderflower Mocktail](https://vegnews.com/recipes/vegan-strawberry-lemon-elderflower-mocktail) | VegNews | **3.29** | *1.30* |
-| 8 |[Raw Vegan Spaghetti!](https://www.reddit.com/r/veganrecipes/comments/1ueg1ec/raw_vegan_spaghetti/) | Reddit | **2.21** | *0.88* |
+| 1 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **7.24** | *2.87* |
+| 2 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **5.13** | *2.04* |
+| 3 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **4.63** | *1.84* |
+| 4 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **3.07** | *1.22* |
+| 5 |[Giant Vegan Cheeze-Itz (Taco Bell Copycat)](https://www.theppk.com/2026/06/giant-vegan-cheez-it/) | The Post-Punk Kitchen | **3.07** | *1.22* |
+| 6 |[Vegan Mexican Street Corn Bowls (Elote)](https://www.mydarlingvegan.com/vegan-mexican-street-corn-bowls/) | My Darling Vegan | **3.07** | *1.22* |
+| 7 |[Sparkling Strawberry Lemon Elderflower Mocktail](https://vegnews.com/recipes/vegan-strawberry-lemon-elderflower-mocktail) | VegNews | **3.07** | *1.22* |
+| 8 |[Raw Vegan Spaghetti!](https://www.reddit.com/r/veganrecipes/comments/1ueg1ec/raw_vegan_spaghetti/) | Reddit | **2.06** | *0.82* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 2 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Fragrant Vanilla Cake | 9 | 25 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
@@ -56,19 +56,19 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 166 | 3 | 30 | 10 | 0 | 2026-06-23 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Steamy Vegan | 1 | 182 | 9 | 29 | 10 | 2 | 2026-06-24 | ✅ OK |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-06-18 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 194 | 7 | 38 | 15 | 4 | 2026-06-15 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Little Blog of Vegan | 0 | 201 | 0 | 38 | 0 | 1 | 2026-06-23 | ✅ OK |
+| The Little Blog of Vegan | 1 | 202 | 0 | 38 | 0 | 1 | 2026-06-26 | ✅ OK |
 | Nora Cooks | 2 | 204 | 14 | 31 | 13 | 5 | 2026-06-25 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
@@ -107,7 +107,7 @@
 | Eat Figs, Not Pigs | 5 | 261 | 1 | 32 | 2 | 0 | 2026-06-25 | ✅ OK |
 | My Darling Vegan | 2 | 263 | 1 | 31 | 4 | 12 | 2026-06-23 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
-| From My Bowl | 0 | 266 | 3 | 41 | 3 | 5 | 2026-06-05 | ✅ OK |
+| From My Bowl | 1 | 267 | 3 | 42 | 3 | 5 | 2026-06-26 | ✅ OK |
 | It Doesn't Taste Like Chicken | 6 | 267 | 1 | 91 | 7 | 218 | 2026-06-24 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -118,14 +118,14 @@
 | Monkey & Me Kitchen Adventures | 1 | 281 | 38 | 74 | 3 | 0 | 2026-06-25 | ✅ OK |
 | Plant-Based on a Budget | 1 | 281 | 16 | 68 | 281 | 1 | 2026-06-22 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 282 | 282 | 7 | 0 | 9 | 2026-06-23 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 285 | 10 | 47 | 2 | 282 | 2026-06-25 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 294 | 3 | 14 | 3 | 5 | 2026-06-20 | ✅ OK |
 | Connoisseurus Veg | 0 | 295 | 0 | 34 | 1 | 0 | 2026-06-22 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 306 | 38 | 37 | 2 | 40 | 2026-06-26 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 340 | 3 | 22 | 1 | 1 | 2026-06-24 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 306 | 38 | 37 | 2 | 40 | 2026-06-26 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 341 | 3 | 22 | 1 | 1 | 2026-06-26 | ✅ OK |
 | The Post-Punk Kitchen | 3 | 344 | 2 | 13 | 5 | 1 | 2026-06-24 | ✅ OK |
-| Reddit | 1 | 350 | 2 | 41 | 1 | 5 | 2026-06-26 | ✅ OK (1) |
+| Reddit | 0 | 350 | 2 | 41 | 1 | 5 | 2026-06-26 | ✅ OK |
 | VegNews | 0 | 350 | 6 | 46 | 1 | 11 | 2026-06-25 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
