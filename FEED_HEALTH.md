@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-06-27 09:17:49
-**Total Run Time:** 7m 29s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-06-27 12:58:19
+**Total Run Time:** 7m 42s
+**Longest Step:** RSS: Hot For Food (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20781 | 160 new today |
+| **Total Database** | 20782 | 155 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 216 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pecan Crusted Tofu](https://sweetsimplevegan.com/pecan-crusted-tofu/) | Sweet Simple Vegan | **5.25** | *2.08* |
-| 2 |[Potato Cheese Sauce](https://theeburgerdude.com/potato-cheese-sauce/) | The Burger Dude | **5.25** | *2.08* |
-| 3 |[Vegan Lemon Ice-Cream Bars](https://www.thelittleblogofvegan.com/2026/06/vegan-lemon-ice-cream-bars.html) | The Little Blog of Vegan | **5.25** | *2.08* |
-| 4 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **4.95** | *1.97* |
-| 5 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **3.51** | *1.39* |
-| 6 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **3.17** | *1.26* |
-| 7 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **2.10** | *0.83* |
-| 8 |[Giant Vegan Cheeze-Itz (Taco Bell Copycat)](https://www.theppk.com/2026/06/giant-vegan-cheez-it/) | The Post-Punk Kitchen | **2.10** | *0.83* |
+| 1 |[Pecan Crusted Tofu](https://sweetsimplevegan.com/pecan-crusted-tofu/) | Sweet Simple Vegan | **4.89** | *1.94* |
+| 2 |[Potato Cheese Sauce](https://theeburgerdude.com/potato-cheese-sauce/) | The Burger Dude | **4.89** | *1.94* |
+| 3 |[Vegan Lemon Ice-Cream Bars](https://www.thelittleblogofvegan.com/2026/06/vegan-lemon-ice-cream-bars.html) | The Little Blog of Vegan | **4.89** | *1.94* |
+| 4 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **4.61** | *1.83* |
+| 5 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **3.27** | *1.30* |
+| 6 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **2.95** | *1.17* |
+| 7 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **1.96** | *0.78* |
+| 8 |[Giant Vegan Cheeze-Itz (Taco Bell Copycat)](https://www.theppk.com/2026/06/giant-vegan-cheez-it/) | The Post-Punk Kitchen | **1.96** | *0.78* |
 
 ---
 
@@ -118,12 +118,12 @@
 | Monkey & Me Kitchen Adventures | 1 | 281 | 38 | 74 | 3 | 0 | 2026-06-25 | ✅ OK |
 | Plant-Based on a Budget | 1 | 281 | 16 | 68 | 281 | 1 | 2026-06-22 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 282 | 282 | 7 | 0 | 9 | 2026-06-23 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Healthy Little Vittles | 2 | 285 | 10 | 47 | 2 | 282 | 2026-06-25 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 294 | 3 | 14 | 3 | 5 | 2026-06-20 | ✅ OK |
 | Connoisseurus Veg | 0 | 295 | 0 | 34 | 1 | 0 | 2026-06-22 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 306 | 38 | 37 | 2 | 40 | 2026-06-26 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 341 | 3 | 22 | 1 | 1 | 2026-06-26 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 342 | 3 | 22 | 1 | 1 | 2026-06-26 | ✅ OK |
 | The Post-Punk Kitchen | 3 | 345 | 2 | 13 | 5 | 1 | 2026-06-26 | ✅ OK |
 | Reddit | 0 | 350 | 2 | 42 | 1 | 5 | 2026-06-26 | ✅ OK |
 | VegNews | 0 | 350 | 6 | 45 | 1 | 11 | 2026-06-26 | ✅ OK |
