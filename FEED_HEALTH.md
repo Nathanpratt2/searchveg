@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-06-28 13:00:04
-**Total Run Time:** 7m 29s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-06-28 17:50:26
+**Total Run Time:** 7m 28s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 29s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20788 | 150 new today |
+| **Total Database** | 20791 | 149 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 214 | Total recorded actions in database |
-| **WFPB / GF** | 2578 / 2729 | 12% / 13% |
+| **Trending Events** | 181 | Total recorded actions in database |
+| **WFPB / GF** | 2577 / 2729 | 12% / 13% |
 | **Easy / Budget** | 4995 / 2076 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Buttermilk Oat Cupcakes With Strawberry Buttercream Frosting](https://vegnews.com/recipes/vegan-cupcakes-strawberry-buttercream-frosting) | VegNews | **4.90** | *1.95* |
-| 2 |[Pecan Crusted Tofu](https://sweetsimplevegan.com/pecan-crusted-tofu/) | Sweet Simple Vegan | **3.08** | *1.22* |
-| 3 |[Potato Cheese Sauce](https://theeburgerdude.com/potato-cheese-sauce/) | The Burger Dude | **3.08** | *1.22* |
-| 4 |[Vegan Lemon Ice-Cream Bars](https://www.thelittleblogofvegan.com/2026/06/vegan-lemon-ice-cream-bars.html) | The Little Blog of Vegan | **3.08** | *1.22* |
-| 5 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **2.91** | *1.15* |
-| 6 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **2.06** | *0.82* |
-| 7 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **1.86** | *0.74* |
-| 8 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **1.23** | *0.49* |
+| 1 |[Vegan Buttermilk Oat Cupcakes With Strawberry Buttercream Frosting](https://vegnews.com/recipes/vegan-cupcakes-strawberry-buttercream-frosting) | VegNews | **4.47** | *1.77* |
+| 2 |[Pecan Crusted Tofu](https://sweetsimplevegan.com/pecan-crusted-tofu/) | Sweet Simple Vegan | **2.81** | *1.11* |
+| 3 |[Potato Cheese Sauce](https://theeburgerdude.com/potato-cheese-sauce/) | The Burger Dude | **2.81** | *1.11* |
+| 4 |[Vegan Lemon Ice-Cream Bars](https://www.thelittleblogofvegan.com/2026/06/vegan-lemon-ice-cream-bars.html) | The Little Blog of Vegan | **2.81** | *1.11* |
+| 5 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **2.65** | *1.05* |
+| 6 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **1.88** | *0.74* |
+| 7 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **1.69** | *0.67* |
+| 8 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **1.12** | *0.45* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 2 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
@@ -44,7 +44,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
 | The Banana Diaries | 0 | 31 | 0 | 9 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Dr. Vegan | 3 | 38 | 4 | 38 | 8 | 0 | 2026-06-11 | ✅ OK |
-| PlantYou | 2 | 39 | 39 | 7 | 2 | 0 | 2026-06-17 | ✅ OK |
+| PlantYou | 3 | 40 | 40 | 7 | 2 | 0 | 2026-06-28 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Justine Cooks Vegan | 0 | 43 | 0 | 3 | 0 | 0 | 2026-06-24 | ✅ OK |
 | Vegan Richa GF | 0 | 44 | 2 | 11 | 7 | 44 | 2026-06-25 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 166 | 3 | 30 | 10 | 0 | 2026-06-23 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
@@ -104,7 +104,7 @@
 | Plant Power Couple | 1 | 258 | 0 | 258 | 2 | 0 | 2026-06-22 | ✅ OK |
 | Veggiekins | 0 | 258 | 35 | 258 | 0 | 255 | 2026-06-22 | ✅ OK |
 | Make It Dairy Free | 1 | 260 | 4 | 42 | 2 | 3 | 2026-06-28 | ✅ OK |
-| Eat Figs, Not Pigs | 5 | 261 | 1 | 32 | 2 | 0 | 2026-06-25 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 261 | 1 | 32 | 2 | 0 | 2026-06-28 | ✅ OK |
 | My Darling Vegan | 2 | 263 | 1 | 31 | 4 | 12 | 2026-06-23 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | From My Bowl | 0 | 267 | 3 | 42 | 3 | 5 | 2026-06-26 | ✅ OK |
@@ -115,18 +115,18 @@
 | The Plant-Based RD | 0 | 274 | 4 | 17 | 1 | 0 | 2026-06-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 2 | 279 | 0 | 41 | 0 | 12 | 2026-06-25 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 281 | 38 | 74 | 3 | 0 | 2026-06-25 | ✅ OK |
 | Plant-Based on a Budget | 1 | 281 | 16 | 68 | 281 | 1 | 2026-06-22 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 2 | 282 | 38 | 75 | 3 | 0 | 2026-06-28 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 282 | 282 | 7 | 0 | 9 | 2026-06-23 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Healthy Little Vittles | 2 | 285 | 10 | 47 | 2 | 282 | 2026-06-25 | ✅ OK |
 | Connoisseurus Veg | 0 | 295 | 0 | 34 | 1 | 0 | 2026-06-22 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 295 | 3 | 14 | 3 | 5 | 2026-06-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 306 | 38 | 37 | 2 | 40 | 2026-06-26 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 344 | 3 | 22 | 1 | 1 | 2026-06-26 | ✅ OK |
 | The Post-Punk Kitchen | 3 | 345 | 2 | 13 | 5 | 1 | 2026-06-26 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 1 | 5 | 2026-06-28 | ✅ OK (1) |
-| VegNews | 0 | 350 | 6 | 45 | 0 | 11 | 2026-06-27 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 41 | 1 | 5 | 2026-06-28 | ✅ OK (2) |
+| VegNews | 4 | 350 | 4 | 45 | 0 | 11 | 2026-06-28 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
