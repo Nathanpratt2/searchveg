@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-06-28 09:46:48
-**Total Run Time:** 7m 15s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 32s)
+**Last Run:** 2026-06-28 13:00:04
+**Total Run Time:** 7m 29s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20788 | 161 new today |
+| **Total Database** | 20788 | 150 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 213 | Total recorded actions in database |
+| **Trending Events** | 214 | Total recorded actions in database |
 | **WFPB / GF** | 2578 / 2729 | 12% / 13% |
-| **Easy / Budget** | 4997 / 2076 | 24% / 9% |
+| **Easy / Budget** | 4995 / 2076 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Buttermilk Oat Cupcakes With Strawberry Buttercream Frosting](https://vegnews.com/recipes/vegan-cupcakes-strawberry-buttercream-frosting) | VegNews | **5.22** | *2.07* |
-| 2 |[Pecan Crusted Tofu](https://sweetsimplevegan.com/pecan-crusted-tofu/) | Sweet Simple Vegan | **3.28** | *1.30* |
-| 3 |[Potato Cheese Sauce](https://theeburgerdude.com/potato-cheese-sauce/) | The Burger Dude | **3.28** | *1.30* |
-| 4 |[Vegan Lemon Ice-Cream Bars](https://www.thelittleblogofvegan.com/2026/06/vegan-lemon-ice-cream-bars.html) | The Little Blog of Vegan | **3.28** | *1.30* |
-| 5 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **3.09** | *1.23* |
-| 6 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **2.19** | *0.87* |
-| 7 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **1.98** | *0.78* |
-| 8 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **1.31** | *0.52* |
+| 1 |[Vegan Buttermilk Oat Cupcakes With Strawberry Buttercream Frosting](https://vegnews.com/recipes/vegan-cupcakes-strawberry-buttercream-frosting) | VegNews | **4.90** | *1.95* |
+| 2 |[Pecan Crusted Tofu](https://sweetsimplevegan.com/pecan-crusted-tofu/) | Sweet Simple Vegan | **3.08** | *1.22* |
+| 3 |[Potato Cheese Sauce](https://theeburgerdude.com/potato-cheese-sauce/) | The Burger Dude | **3.08** | *1.22* |
+| 4 |[Vegan Lemon Ice-Cream Bars](https://www.thelittleblogofvegan.com/2026/06/vegan-lemon-ice-cream-bars.html) | The Little Blog of Vegan | **3.08** | *1.22* |
+| 5 |[Silken Tofu Chocolate Mousse (No Tofu Flavor!)](https://fullofplants.com/silken-tofu-chocolate-mousse/?adt_ei={$email}) | Full of Plants | **2.91** | *1.15* |
+| 6 |[Blackened Tofu](https://sarahsvegankitchen.com/recipes/blackened-tofu/) | Sarah's Vegan Kitchen | **2.06** | *0.82* |
+| 7 |[Vegan Chocolate Muffins](https://schoolnightvegan.com/home/vegan-chocolate-muffins/) | School Night Vegan | **1.86** | *0.74* |
+| 8 |[Soft Cultured Cashew Cheese Wheel (air fryer or dehydrator incubation)](https://www.marystestkitchen.com/soft-cultured-cashew-cheese-wheel-air-fryer-or-dehydrator-incubation/) | Mary's Test Kitchen | **1.23** | *0.49* |
 
 ---
 
@@ -59,11 +59,11 @@
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 166 | 3 | 30 | 10 | 0 | 2026-06-23 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Steamy Vegan | 1 | 183 | 9 | 29 | 10 | 2 | 2026-06-27 | ✅ OK |
 | The Stingy Vegan | 3 | 185 | 1 | 185 | 185 | 0 | 2026-06-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-06-18 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 3 | 194 | 7 | 38 | 15 | 4 | 2026-06-15 | ✅ OK |
 | Flora & Vino | 1 | 198 | 198 | 11 | 0 | 9 | 2026-05-30 | ✅ OK |
@@ -108,7 +108,7 @@
 | My Darling Vegan | 2 | 263 | 1 | 31 | 4 | 12 | 2026-06-23 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | From My Bowl | 0 | 267 | 3 | 42 | 3 | 5 | 2026-06-26 | ✅ OK |
-| It Doesn't Taste Like Chicken | 6 | 267 | 1 | 91 | 7 | 218 | 2026-06-28 | ✅ OK |
+| It Doesn't Taste Like Chicken | 5 | 267 | 1 | 91 | 7 | 218 | 2026-06-28 | ✅ OK |
 | Strength and Sunshine | 1 | 267 | 8 | 267 | 2 | 260 | 2026-04-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | A Virtual Vegan | 5 | 269 | 3 | 36 | 1 | 4 | 2026-06-09 | ✅ OK |
@@ -123,7 +123,7 @@
 | Connoisseurus Veg | 0 | 295 | 0 | 34 | 1 | 0 | 2026-06-22 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 295 | 3 | 14 | 3 | 5 | 2026-06-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 306 | 38 | 37 | 2 | 40 | 2026-06-26 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 343 | 3 | 22 | 1 | 1 | 2026-06-26 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 344 | 3 | 22 | 1 | 1 | 2026-06-26 | ✅ OK |
 | The Post-Punk Kitchen | 3 | 345 | 2 | 13 | 5 | 1 | 2026-06-26 | ✅ OK |
 | Reddit | 1 | 350 | 1 | 42 | 1 | 5 | 2026-06-28 | ✅ OK (1) |
 | VegNews | 0 | 350 | 6 | 45 | 0 | 11 | 2026-06-27 | ✅ OK |
