@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-01 06:06:42
-**Total Run Time:** 7m 22s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
+**Last Run:** 2026-07-01 10:36:22
+**Total Run Time:** 8m 35s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20818 | 152 new today |
+| **Total Database** | 20819 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 203 | Total recorded actions in database |
 | **WFPB / GF** | 2581 / 2735 | 12% / 13% |
-| **Easy / Budget** | 5007 / 2081 | 24% / 9% |
+| **Easy / Budget** | 5008 / 2081 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[No-Bake Brownie Cookies (6g Protein, 5g Fiber)](https://www.theconsciousplantkitchen.com/no-bake-brownie-cookies/) | The Conscious Plant Kitchen | **5.94** | *2.36* |
-| 2 |[Vegan BLT](https://simpleveganblog.com/vegan-blt/) | Simple Vegan Blog | **5.93** | *2.35* |
-| 3 |[Lemon Caper Pasta Recipe (with Garlic Butter Sauce)](https://zardyplants.com/recipes/lemon-caper-pasta-recipe-with-garlic-butter-sauce/) | ZardyPlants | **5.64** | *2.24* |
-| 4 |[Peach Dump Cake (Gluten-Free, Vegan)](https://strengthandsunshine.com/peach-dump-cake/) | Strength and Sunshine | **5.64** | *2.24* |
-| 5 |[Plant-Based Strawberry Tiramisu](https://plantbasedcookingshow.com/2026/06/30/plant-based-strawberry-tiramisu/) | The Whole Food Plant Based Cooking Show | **5.64** | *2.24* |
-| 6 |[Cheezy Ziti Al Forno](https://www.theppk.com/2026/06/cheezy-ziti-al-forno/) | The Post-Punk Kitchen | **5.64** | *2.24* |
-| 7 |[Pińa Colada Electrolyte Mocktail](https://justinecooksvegan.com/pina-colada-electrolyte-mocktail/) | Justine Cooks Vegan | **3.78** | *1.50* |
-| 8 |[Sesame Ginger Noodles](https://www.plantpowercouple.com/recipes/sesame-noodles/) | Plant Power Couple | **3.78** | *1.50* |
+| 1 |[No-Bake Brownie Cookies (6g Protein, 5g Fiber)](https://www.theconsciousplantkitchen.com/no-bake-brownie-cookies/) | The Conscious Plant Kitchen | **5.44** | *2.16* |
+| 2 |[Vegan BLT](https://simpleveganblog.com/vegan-blt/) | Simple Vegan Blog | **5.44** | *2.16* |
+| 3 |[Lemon Caper Pasta Recipe (with Garlic Butter Sauce)](https://zardyplants.com/recipes/lemon-caper-pasta-recipe-with-garlic-butter-sauce/) | ZardyPlants | **5.18** | *2.05* |
+| 4 |[Peach Dump Cake (Gluten-Free, Vegan)](https://strengthandsunshine.com/peach-dump-cake/) | Strength and Sunshine | **5.18** | *2.05* |
+| 5 |[Plant-Based Strawberry Tiramisu](https://plantbasedcookingshow.com/2026/06/30/plant-based-strawberry-tiramisu/) | The Whole Food Plant Based Cooking Show | **5.18** | *2.05* |
+| 6 |[Cheezy Ziti Al Forno](https://www.theppk.com/2026/06/cheezy-ziti-al-forno/) | The Post-Punk Kitchen | **5.17** | *2.05* |
+| 7 |[Pińa Colada Electrolyte Mocktail](https://justinecooksvegan.com/pina-colada-electrolyte-mocktail/) | Justine Cooks Vegan | **3.47** | *1.38* |
+| 8 |[Sesame Ginger Noodles](https://www.plantpowercouple.com/recipes/sesame-noodles/) | Plant Power Couple | **3.47** | *1.38* |
 
 ---
 
@@ -36,8 +36,8 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
+| Rainbow Nourishments | 1 | 12 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 1 | 0 | 0 | 2026-06-16 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -85,7 +85,7 @@
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Sweet Simple Vegan | 0 | 231 | 4 | 44 | 18 | 2 | 2026-06-29 | ✅ OK |
 | Rabbit and Wolves | 1 | 232 | 0 | 33 | 1 | 0 | 2026-06-30 | ✅ OK |
-| The First Mess | 0 | 232 | 1 | 30 | 3 | 1 | 2026-06-17 | ✅ OK |
+| The First Mess | 1 | 233 | 1 | 31 | 3 | 1 | 2026-07-01 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 0 | 238 | 0 | 34 | 1 | 6 | 2026-06-18 | ✅ OK |
@@ -122,10 +122,10 @@
 | Healthy Little Vittles | 2 | 285 | 10 | 47 | 2 | 282 | 2026-06-25 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 295 | 3 | 14 | 3 | 5 | 2026-06-27 | ✅ OK |
 | Connoisseurus Veg | 0 | 296 | 0 | 34 | 1 | 0 | 2026-06-29 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 308 | 39 | 38 | 2 | 41 | 2026-07-01 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 308 | 39 | 38 | 2 | 41 | 2026-07-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 345 | 3 | 22 | 1 | 1 | 2026-06-27 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 346 | 2 | 13 | 5 | 1 | 2026-06-30 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 43 | 1 | 5 | 2026-06-30 | ✅ OK (1) |
+| Reddit | 3 | 350 | 1 | 43 | 1 | 5 | 2026-07-01 | ✅ OK (3) |
 | VegNews | 0 | 350 | 3 | 46 | 0 | 12 | 2026-06-30 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
