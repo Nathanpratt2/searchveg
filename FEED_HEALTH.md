@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-02 09:48:48
-**Total Run Time:** 7m 24s
-**Longest Step:** RSS: Hot For Food (0m 26s)
+**Last Run:** 2026-07-02 13:24:07
+**Total Run Time:** 9m 5s
+**Longest Step:** RSS: Holistic Chef Academy (1m 1s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20823 | 155 new today |
+| **Total Database** | 20825 | 137 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 201 | Total recorded actions in database |
-| **WFPB / GF** | 2582 / 2737 | 12% / 13% |
-| **Easy / Budget** | 5009 / 2081 | 24% / 9% |
+| **Trending Events** | 198 | Total recorded actions in database |
+| **WFPB / GF** | 2581 / 2737 | 12% / 13% |
+| **Easy / Budget** | 5005 / 2081 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Watermelon Dessert “Pizza”](https://www.reddit.com/r/veganrecipes/comments/1uknax1/watermelon_dessert_pizza/) | Reddit | **8.80** | *3.49* |
-| 2 |[BBQ Tofu Wraps](https://www.reddit.com/r/veganrecipes/comments/1ukr29y/bbq_tofu_wraps/) | Reddit | **8.80** | *3.49* |
-| 3 |[Easy Vegan Blueberry Nectarine Fruit Crisp (Gluten-Free!)](https://vegnews.com/recipes/easy-vegan-blueberry-nectarine-fruit-crisp) | VegNews | **5.28** | *2.09* |
-| 4 |[Vegan Copycat Wendy’s Chocolate Frosty](https://vegnews.com/recipes/vegan-copycat-wendys-chocolate-frosty) | VegNews | **4.66** | *1.85* |
-| 5 |[No-Bake Brownie Cookies (6g Protein, 5g Fiber)](https://www.theconsciousplantkitchen.com/no-bake-brownie-cookies/) | The Conscious Plant Kitchen | **3.48** | *1.38* |
-| 6 |[Vegan BLT](https://simpleveganblog.com/vegan-blt/) | Simple Vegan Blog | **3.48** | *1.38* |
-| 7 |[Lemon Caper Pasta Recipe (with Garlic Butter Sauce)](https://zardyplants.com/recipes/lemon-caper-pasta-recipe-with-garlic-butter-sauce/) | ZardyPlants | **3.31** | *1.31* |
-| 8 |[Peach Dump Cake (Gluten-Free, Vegan)](https://strengthandsunshine.com/peach-dump-cake/) | Strength and Sunshine | **3.31** | *1.31* |
+| 1 |[Watermelon Dessert “Pizza”](https://www.reddit.com/r/veganrecipes/comments/1uknax1/watermelon_dessert_pizza/) | Reddit | **8.21** | *3.26* |
+| 2 |[BBQ Tofu Wraps](https://www.reddit.com/r/veganrecipes/comments/1ukr29y/bbq_tofu_wraps/) | Reddit | **8.21** | *3.26* |
+| 3 |[Easy Vegan Blueberry Nectarine Fruit Crisp (Gluten-Free!)](https://vegnews.com/recipes/easy-vegan-blueberry-nectarine-fruit-crisp) | VegNews | **4.93** | *1.95* |
+| 4 |[Vegan Copycat Wendy’s Chocolate Frosty](https://vegnews.com/recipes/vegan-copycat-wendys-chocolate-frosty) | VegNews | **4.34** | *1.72* |
+| 5 |[No-Bake Brownie Cookies (6g Protein, 5g Fiber)](https://www.theconsciousplantkitchen.com/no-bake-brownie-cookies/) | The Conscious Plant Kitchen | **3.25** | *1.29* |
+| 6 |[Vegan BLT](https://simpleveganblog.com/vegan-blt/) | Simple Vegan Blog | **3.25** | *1.29* |
+| 7 |[Lemon Caper Pasta Recipe (with Garlic Butter Sauce)](https://zardyplants.com/recipes/lemon-caper-pasta-recipe-with-garlic-butter-sauce/) | ZardyPlants | **3.09** | *1.23* |
+| 8 |[Peach Dump Cake (Gluten-Free, Vegan)](https://strengthandsunshine.com/peach-dump-cake/) | Strength and Sunshine | **3.09** | *1.23* |
 
 ---
 
@@ -45,7 +45,7 @@
 | The Banana Diaries | 0 | 32 | 0 | 9 | 2 | 0 | 2026-06-30 | ✅ OK |
 | Dr. Vegan | 4 | 39 | 4 | 39 | 8 | 0 | 2026-07-01 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
-| PlantYou | 2 | 41 | 41 | 7 | 2 | 0 | 2026-07-01 | ✅ OK |
+| PlantYou | 2 | 41 | 41 | 7 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Vegan Richa GF | 0 | 44 | 2 | 11 | 7 | 44 | 2026-06-25 | ✅ OK |
 | My Goodness Kitchen | 3 | 58 | 7 | 6 | 3 | 3 | 2026-06-24 | ✅ OK |
@@ -55,15 +55,15 @@
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
+| Sarah's Vegan Kitchen | 0 | 142 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 173 | 173 | 12 | 18 | 42 | 2026-05-27 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
 | Steamy Vegan | 1 | 183 | 9 | 29 | 10 | 2 | 2026-06-27 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-06-29 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-06-29 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
@@ -96,10 +96,10 @@
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 245 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
 | Pick Up Limes | 1 | 245 | 22 | 28 | 28 | 1 | 2026-06-23 | ✅ OK (1) |
+| Vegan Richa | 0 | 245 | 10 | 57 | 41 | 73 | 2026-06-19 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 1 | 252 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
+| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-06-25 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Make It Dairy Free | 1 | 260 | 4 | 42 | 2 | 3 | 2026-06-28 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
@@ -109,7 +109,7 @@
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | From My Bowl | 0 | 268 | 3 | 43 | 3 | 5 | 2026-06-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 6 | 268 | 1 | 91 | 7 | 218 | 2026-07-02 | ✅ OK |
+| It Doesn't Taste Like Chicken | 5 | 268 | 1 | 91 | 7 | 218 | 2026-07-02 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | A Virtual Vegan | 5 | 269 | 3 | 36 | 1 | 4 | 2026-06-09 | ✅ OK |
 | The Plant-Based RD | 0 | 274 | 4 | 17 | 1 | 0 | 2026-06-26 | ✅ OK |
@@ -118,12 +118,12 @@
 | Monkey & Me Kitchen Adventures | 1 | 283 | 38 | 75 | 3 | 0 | 2026-07-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 283 | 16 | 68 | 283 | 1 | 2026-06-29 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 295 | 3 | 14 | 3 | 5 | 2026-06-27 | ✅ OK |
 | Connoisseurus Veg | 0 | 296 | 0 | 34 | 1 | 0 | 2026-06-29 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 308 | 39 | 38 | 2 | 41 | 2026-07-01 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 345 | 3 | 22 | 1 | 1 | 2026-06-27 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 346 | 3 | 22 | 1 | 1 | 2026-07-02 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 346 | 2 | 13 | 5 | 1 | 2026-06-30 | ✅ OK |
 | Reddit | 2 | 350 | 1 | 42 | 1 | 5 | 2026-07-01 | ✅ OK (2) |
 | VegNews | 0 | 350 | 3 | 46 | 0 | 13 | 2026-07-01 | ✅ OK |
