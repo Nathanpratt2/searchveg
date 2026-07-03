@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-03 09:47:44
-**Total Run Time:** 7m 10s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-07-03 13:26:13
+**Total Run Time:** 7m 14s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20828 | 157 new today |
+| **Total Database** | 20830 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 195 | Total recorded actions in database |
+| **Trending Events** | 200 | Total recorded actions in database |
 | **WFPB / GF** | 2582 / 2737 | 12% / 13% |
-| **Easy / Budget** | 5009 / 2081 | 24% / 9% |
+| **Easy / Budget** | 5010 / 2081 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Macerated Strawberries](https://jessicainthekitchen.com/macerated-strawberries/) | Jessica in the Kitchen | **8.81** | *3.50* |
-| 2 |[Watermelon Dessert “Pizza”](https://www.reddit.com/r/veganrecipes/comments/1uknax1/watermelon_dessert_pizza/) | Reddit | **5.54** | *2.20* |
-| 3 |[BBQ Tofu Wraps](https://www.reddit.com/r/veganrecipes/comments/1ukr29y/bbq_tofu_wraps/) | Reddit | **5.54** | *2.20* |
-| 4 |[Grilled Onigiri With Japanese-Style BBQ Glaze](https://vegnews.com/recipes/vegan-grilled-onigiri-with-japanese-style-bbq-glaze) | VegNews | **5.29** | *2.10* |
-| 5 |[Summer Nectarine and Chickpea Salad With Basil Vinaigrette](https://vegnews.com/recipes/vegan-summer-nectarine-and-chickpea-salad) | VegNews | **5.29** | *2.10* |
-| 6 |[Churro Ice-Cream (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1ulmnku/churro_icecream_vegan/) | Reddit | **5.29** | *2.10* |
-| 7 |[Easy Vegan Blueberry Nectarine Fruit Crisp (Gluten-Free!)](https://vegnews.com/recipes/easy-vegan-blueberry-nectarine-fruit-crisp) | VegNews | **3.33** | *1.32* |
-| 8 |[Vegan Copycat Wendy’s Chocolate Frosty](https://vegnews.com/recipes/vegan-copycat-wendys-chocolate-frosty) | VegNews | **2.93** | *1.16* |
+| 1 |[Macerated Strawberries](https://jessicainthekitchen.com/macerated-strawberries/) | Jessica in the Kitchen | **8.22** | *3.26* |
+| 2 |[Watermelon Dessert “Pizza”](https://www.reddit.com/r/veganrecipes/comments/1uknax1/watermelon_dessert_pizza/) | Reddit | **5.17** | *2.05* |
+| 3 |[BBQ Tofu Wraps](https://www.reddit.com/r/veganrecipes/comments/1ukr29y/bbq_tofu_wraps/) | Reddit | **5.17** | *2.05* |
+| 4 |[Grilled Onigiri With Japanese-Style BBQ Glaze](https://vegnews.com/recipes/vegan-grilled-onigiri-with-japanese-style-bbq-glaze) | VegNews | **4.93** | *1.96* |
+| 5 |[Summer Nectarine and Chickpea Salad With Basil Vinaigrette](https://vegnews.com/recipes/vegan-summer-nectarine-and-chickpea-salad) | VegNews | **4.93** | *1.96* |
+| 6 |[Churro Ice-Cream (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1ulmnku/churro_icecream_vegan/) | Reddit | **4.93** | *1.96* |
+| 7 |[Easy Vegan Blueberry Nectarine Fruit Crisp (Gluten-Free!)](https://vegnews.com/recipes/easy-vegan-blueberry-nectarine-fruit-crisp) | VegNews | **3.10** | *1.23* |
+| 8 |[Vegan Copycat Wendy’s Chocolate Frosty](https://vegnews.com/recipes/vegan-copycat-wendys-chocolate-frosty) | VegNews | **2.74** | *1.09* |
 
 ---
 
@@ -68,7 +68,7 @@
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-06-29 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Little Blog of Vegan | 1 | 203 | 0 | 38 | 0 | 1 | 2026-06-30 | ✅ OK |
+| The Little Blog of Vegan | 2 | 204 | 0 | 39 | 0 | 1 | 2026-07-03 | ✅ OK |
 | Nora Cooks | 2 | 205 | 14 | 31 | 13 | 5 | 2026-06-29 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
@@ -121,7 +121,7 @@
 | Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 295 | 3 | 14 | 3 | 5 | 2026-06-27 | ✅ OK |
-| Connoisseurus Veg | 0 | 296 | 0 | 34 | 1 | 0 | 2026-06-29 | ✅ OK |
+| Connoisseurus Veg | 1 | 297 | 0 | 34 | 1 | 0 | 2026-07-03 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 308 | 39 | 38 | 2 | 41 | 2026-07-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 346 | 3 | 22 | 1 | 1 | 2026-07-02 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 346 | 2 | 13 | 5 | 1 | 2026-06-30 | ✅ OK |
