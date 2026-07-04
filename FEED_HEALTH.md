@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-04 09:11:28
-**Total Run Time:** 7m 27s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-07-04 12:49:29
+**Total Run Time:** 8m 16s
+**Longest Step:** RSS: The Post-Punk Kitchen (0m 56s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20838 | 158 new today |
+| **Total Database** | 20838 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 209 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[40 Easy Vegan 4th of July Recipes](https://www.noracooks.com/vegan-fourth-of-july-recipes/) | Nora Cooks | **7.56** | *3.00* |
-| 2 |[Macerated Strawberries](https://jessicainthekitchen.com/macerated-strawberries/) | Jessica in the Kitchen | **5.62** | *2.23* |
-| 3 |[Our favorite way to make tofu in the summer 🌿🔥](https://www.reddit.com/r/veganrecipes/comments/1uly4bt/our_favorite_way_to_make_tofu_in_the_summer/) | Reddit | **4.53** | *1.80* |
-| 4 |[Watermelon Poke bowl](https://www.mydarlingvegan.com/watermelon-poke-bowl/) | My Darling Vegan | **4.53** | *1.80* |
-| 5 |[Woah is me, being vegan is so hard](https://www.reddit.com/r/veganrecipes/comments/1um3a4x/woah_is_me_being_vegan_is_so_hard/) | Reddit | **4.53** | *1.80* |
-| 6 |[Vegan Strawberry Pretzel Salad](https://www.connoisseurusveg.com/vegan-strawberry-pretzel-salad/) | Connoisseurus Veg | **4.53** | *1.80* |
-| 7 |[No-Bake Vegan Cherry Cheesecake](https://www.thelittleblogofvegan.com/2026/07/no-bake-vegan-cherry-cheesecake.html) | The Little Blog of Vegan | **4.53** | *1.80* |
-| 8 |[Easy Four-Ingredient Mango Basil Sorbet](https://vegnews.com/recipes/dairy-free-mango-basil-sorbet) | VegNews | **4.53** | *1.80* |
+| 1 |[40 Easy Vegan 4th of July Recipes](https://www.noracooks.com/vegan-fourth-of-july-recipes/) | Nora Cooks | **7.05** | *2.80* |
+| 2 |[Macerated Strawberries](https://jessicainthekitchen.com/macerated-strawberries/) | Jessica in the Kitchen | **5.24** | *2.08* |
+| 3 |[Our favorite way to make tofu in the summer 🌿🔥](https://www.reddit.com/r/veganrecipes/comments/1uly4bt/our_favorite_way_to_make_tofu_in_the_summer/) | Reddit | **4.23** | *1.68* |
+| 4 |[Watermelon Poke bowl](https://www.mydarlingvegan.com/watermelon-poke-bowl/) | My Darling Vegan | **4.23** | *1.68* |
+| 5 |[Woah is me, being vegan is so hard](https://www.reddit.com/r/veganrecipes/comments/1um3a4x/woah_is_me_being_vegan_is_so_hard/) | Reddit | **4.23** | *1.68* |
+| 6 |[Vegan Strawberry Pretzel Salad](https://www.connoisseurusveg.com/vegan-strawberry-pretzel-salad/) | Connoisseurus Veg | **4.23** | *1.68* |
+| 7 |[No-Bake Vegan Cherry Cheesecake](https://www.thelittleblogofvegan.com/2026/07/no-bake-vegan-cherry-cheesecake.html) | The Little Blog of Vegan | **4.23** | *1.68* |
+| 8 |[Easy Four-Ingredient Mango Basil Sorbet](https://vegnews.com/recipes/dairy-free-mango-basil-sorbet) | VegNews | **4.23** | *1.68* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 2 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
+| Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 17 | 0 | 3 | 0 | 0 | 2026-07-03 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
@@ -124,8 +124,8 @@
 | Connoisseurus Veg | 0 | 297 | 0 | 34 | 1 | 0 | 2026-07-03 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 346 | 3 | 22 | 1 | 1 | 2026-07-02 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
-| Reddit | 0 | 350 | 1 | 41 | 1 | 5 | 2026-07-03 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 346 | 2 | 13 | 5 | 1 | 2026-07-03 | ❌ Blocked/ConnErr |
+| Reddit | 1 | 350 | 1 | 41 | 1 | 5 | 2026-07-04 | ✅ OK (1) |
 | VegNews | 0 | 350 | 3 | 46 | 0 | 13 | 2026-07-03 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
