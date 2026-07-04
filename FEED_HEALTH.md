@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-04 05:11:43
-**Total Run Time:** 7m 11s
-**Longest Step:** RSS: Hot For Food (0m 27s)
+**Last Run:** 2026-07-04 09:11:28
+**Total Run Time:** 7m 27s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20837 | 148 new today |
+| **Total Database** | 20838 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 209 | Total recorded actions in database |
 | **WFPB / GF** | 2584 / 2737 | 12% / 13% |
-| **Easy / Budget** | 5012 / 2081 | 24% / 9% |
+| **Easy / Budget** | 5013 / 2081 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[40 Easy Vegan 4th of July Recipes](https://www.noracooks.com/vegan-fourth-of-july-recipes/) | Nora Cooks | **8.16** | *3.24* |
-| 2 |[Macerated Strawberries](https://jessicainthekitchen.com/macerated-strawberries/) | Jessica in the Kitchen | **6.07** | *2.41* |
-| 3 |[Our favorite way to make tofu in the summer 🌿🔥](https://www.reddit.com/r/veganrecipes/comments/1uly4bt/our_favorite_way_to_make_tofu_in_the_summer/) | Reddit | **4.90** | *1.94* |
-| 4 |[Watermelon Poke bowl](https://www.mydarlingvegan.com/watermelon-poke-bowl/) | My Darling Vegan | **4.90** | *1.94* |
-| 5 |[Woah is me, being vegan is so hard](https://www.reddit.com/r/veganrecipes/comments/1um3a4x/woah_is_me_being_vegan_is_so_hard/) | Reddit | **4.90** | *1.94* |
-| 6 |[Vegan Strawberry Pretzel Salad](https://www.connoisseurusveg.com/vegan-strawberry-pretzel-salad/) | Connoisseurus Veg | **4.90** | *1.94* |
-| 7 |[No-Bake Vegan Cherry Cheesecake](https://www.thelittleblogofvegan.com/2026/07/no-bake-vegan-cherry-cheesecake.html) | The Little Blog of Vegan | **4.90** | *1.94* |
-| 8 |[Easy Four-Ingredient Mango Basil Sorbet](https://vegnews.com/recipes/dairy-free-mango-basil-sorbet) | VegNews | **4.90** | *1.94* |
+| 1 |[40 Easy Vegan 4th of July Recipes](https://www.noracooks.com/vegan-fourth-of-july-recipes/) | Nora Cooks | **7.56** | *3.00* |
+| 2 |[Macerated Strawberries](https://jessicainthekitchen.com/macerated-strawberries/) | Jessica in the Kitchen | **5.62** | *2.23* |
+| 3 |[Our favorite way to make tofu in the summer 🌿🔥](https://www.reddit.com/r/veganrecipes/comments/1uly4bt/our_favorite_way_to_make_tofu_in_the_summer/) | Reddit | **4.53** | *1.80* |
+| 4 |[Watermelon Poke bowl](https://www.mydarlingvegan.com/watermelon-poke-bowl/) | My Darling Vegan | **4.53** | *1.80* |
+| 5 |[Woah is me, being vegan is so hard](https://www.reddit.com/r/veganrecipes/comments/1um3a4x/woah_is_me_being_vegan_is_so_hard/) | Reddit | **4.53** | *1.80* |
+| 6 |[Vegan Strawberry Pretzel Salad](https://www.connoisseurusveg.com/vegan-strawberry-pretzel-salad/) | Connoisseurus Veg | **4.53** | *1.80* |
+| 7 |[No-Bake Vegan Cherry Cheesecake](https://www.thelittleblogofvegan.com/2026/07/no-bake-vegan-cherry-cheesecake.html) | The Little Blog of Vegan | **4.53** | *1.80* |
+| 8 |[Easy Four-Ingredient Mango Basil Sorbet](https://vegnews.com/recipes/dairy-free-mango-basil-sorbet) | VegNews | **4.53** | *1.80* |
 
 ---
 
@@ -36,9 +36,9 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 0 | 11 | 0 | 2 | 1 | 0 | 2026-03-22 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
+| Rainbow Nourishments | 2 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 17 | 0 | 3 | 0 | 0 | 2026-07-03 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -118,11 +118,11 @@
 | Monkey & Me Kitchen Adventures | 1 | 283 | 38 | 75 | 3 | 0 | 2026-07-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 283 | 16 | 68 | 283 | 1 | 2026-06-29 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 295 | 3 | 14 | 3 | 5 | 2026-06-27 | ✅ OK |
 | Connoisseurus Veg | 0 | 297 | 0 | 34 | 1 | 0 | 2026-07-03 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 346 | 3 | 22 | 1 | 1 | 2026-07-02 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Reddit | 0 | 350 | 1 | 41 | 1 | 5 | 2026-07-03 | ✅ OK |
