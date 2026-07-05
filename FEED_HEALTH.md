@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-05 05:40:48
-**Total Run Time:** 7m 46s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
+**Last Run:** 2026-07-05 09:33:49
+**Total Run Time:** 7m 31s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20840 | 160 new today |
+| **Total Database** | 20841 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 214 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pesto Tofu Sandwich](https://theeburgerdude.com/pesto-tofu-sandwich/) | The Burger Dude | **9.19** | *3.65* |
-| 2 |[Vegan Chocolate Cheesecake (no-bake)](https://www.rainbownourishments.com/vegan-chocolate-cheesecake/) | Rainbow Nourishments | **9.19** | *3.65* |
-| 3 |[Chloe Coscarelli's Seasonal Berry Cobbler With Vanilla Bean Whip](https://vegnews.com/recipes/seasonal-berry-cobbler) | VegNews | **9.19** | *3.65* |
-| 4 |[Vegan Pumpkin Pie Ice Cream (Dairy-Free)](https://dreenaburton.com/vegan-pumpkin-pie-ice-cream/) | Dreena Burton | **8.89** | *3.53* |
-| 5 |[Chewy S’mores Cookies](https://www.theppk.com/2026/07/vegan-smores-cookies/) | The Post-Punk Kitchen | **5.34** | *2.12* |
-| 6 |[Strawberry Icebox Cake](https://www.reddit.com/r/veganrecipes/comments/1ummkqj/strawberry_icebox_cake/) | Reddit | **5.34** | *2.12* |
-| 7 |[Vegan Pesto](https://theeburgerdude.com/vegan-pesto/) | The Burger Dude | **5.34** | *2.12* |
-| 8 |[Mango granita](https://www.lazycatkitchen.com/mango-granita/) | Lazy Cat Kitchen | **5.33** | *2.12* |
+| 1 |[Pesto Tofu Sandwich](https://theeburgerdude.com/pesto-tofu-sandwich/) | The Burger Dude | **8.53** | *3.38* |
+| 2 |[Vegan Chocolate Cheesecake (no-bake)](https://www.rainbownourishments.com/vegan-chocolate-cheesecake/) | Rainbow Nourishments | **8.53** | *3.38* |
+| 3 |[Chloe Coscarelli's Seasonal Berry Cobbler With Vanilla Bean Whip](https://vegnews.com/recipes/seasonal-berry-cobbler) | VegNews | **8.52** | *3.38* |
+| 4 |[Vegan Pumpkin Pie Ice Cream (Dairy-Free)](https://dreenaburton.com/vegan-pumpkin-pie-ice-cream/) | Dreena Burton | **8.25** | *3.28* |
+| 5 |[Chewy S’mores Cookies](https://www.theppk.com/2026/07/vegan-smores-cookies/) | The Post-Punk Kitchen | **4.95** | *1.97* |
+| 6 |[Strawberry Icebox Cake](https://www.reddit.com/r/veganrecipes/comments/1ummkqj/strawberry_icebox_cake/) | Reddit | **4.95** | *1.97* |
+| 7 |[Vegan Pesto](https://theeburgerdude.com/vegan-pesto/) | The Burger Dude | **4.95** | *1.97* |
+| 8 |[Mango granita](https://www.lazycatkitchen.com/mango-granita/) | Lazy Cat Kitchen | **4.95** | *1.96* |
 
 ---
 
@@ -109,23 +109,23 @@
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | From My Bowl | 0 | 268 | 3 | 43 | 3 | 5 | 2026-06-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 5 | 268 | 1 | 91 | 7 | 218 | 2026-07-02 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | A Virtual Vegan | 5 | 269 | 3 | 36 | 1 | 4 | 2026-06-09 | ✅ OK |
+| It Doesn't Taste Like Chicken | 6 | 269 | 1 | 91 | 7 | 218 | 2026-07-05 | ✅ OK |
 | The Plant-Based RD | 0 | 274 | 4 | 17 | 1 | 0 | 2026-06-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 2 | 280 | 0 | 41 | 0 | 12 | 2026-07-02 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 1 | 283 | 38 | 75 | 3 | 0 | 2026-07-01 | ✅ OK |
 | Plant-Based on a Budget | 2 | 283 | 16 | 68 | 283 | 1 | 2026-06-29 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 296 | 3 | 14 | 3 | 5 | 2026-07-04 | ✅ OK |
 | Connoisseurus Veg | 0 | 297 | 0 | 34 | 1 | 0 | 2026-07-03 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 347 | 3 | 23 | 1 | 1 | 2026-07-04 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 41 | 1 | 5 | 2026-07-05 | ✅ OK (2) |
+| Reddit | 1 | 350 | 1 | 41 | 1 | 5 | 2026-07-05 | ✅ OK (1) |
 | VegNews | 1 | 350 | 2 | 46 | 0 | 13 | 2026-07-04 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
