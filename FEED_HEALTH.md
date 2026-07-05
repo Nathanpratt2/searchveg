@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-07-05 12:54:06
-**Total Run Time:** 7m 21s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-07-05 17:42:44
+**Total Run Time:** 7m 37s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20843 | 148 new today |
+| **Total Database** | 20846 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 214 | Total recorded actions in database |
-| **WFPB / GF** | 2583 / 2738 | 12% / 13% |
+| **WFPB / GF** | 2582 / 2738 | 12% / 13% |
 | **Easy / Budget** | 5012 / 2081 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pesto Tofu Sandwich](https://theeburgerdude.com/pesto-tofu-sandwich/) | The Burger Dude | **8.00** | *3.17* |
-| 2 |[Vegan Chocolate Cheesecake (no-bake)](https://www.rainbownourishments.com/vegan-chocolate-cheesecake/) | Rainbow Nourishments | **8.00** | *3.17* |
-| 3 |[Chloe Coscarelli's Seasonal Berry Cobbler With Vanilla Bean Whip](https://vegnews.com/recipes/seasonal-berry-cobbler) | VegNews | **7.99** | *3.17* |
-| 4 |[Vegan Pumpkin Pie Ice Cream (Dairy-Free)](https://dreenaburton.com/vegan-pumpkin-pie-ice-cream/) | Dreena Burton | **7.74** | *3.07* |
-| 5 |[Chewy S’mores Cookies](https://www.theppk.com/2026/07/vegan-smores-cookies/) | The Post-Punk Kitchen | **4.64** | *1.84* |
-| 6 |[Strawberry Icebox Cake](https://www.reddit.com/r/veganrecipes/comments/1ummkqj/strawberry_icebox_cake/) | Reddit | **4.64** | *1.84* |
-| 7 |[Vegan Pesto](https://theeburgerdude.com/vegan-pesto/) | The Burger Dude | **4.64** | *1.84* |
-| 8 |[Mango granita](https://www.lazycatkitchen.com/mango-granita/) | Lazy Cat Kitchen | **4.64** | *1.84* |
+| 1 |[Pesto Tofu Sandwich](https://theeburgerdude.com/pesto-tofu-sandwich/) | The Burger Dude | **7.29** | *2.89* |
+| 2 |[Vegan Chocolate Cheesecake (no-bake)](https://www.rainbownourishments.com/vegan-chocolate-cheesecake/) | Rainbow Nourishments | **7.29** | *2.89* |
+| 3 |[Chloe Coscarelli's Seasonal Berry Cobbler With Vanilla Bean Whip](https://vegnews.com/recipes/seasonal-berry-cobbler) | VegNews | **7.29** | *2.89* |
+| 4 |[Vegan Pumpkin Pie Ice Cream (Dairy-Free)](https://dreenaburton.com/vegan-pumpkin-pie-ice-cream/) | Dreena Burton | **7.05** | *2.80* |
+| 5 |[Chewy S’mores Cookies](https://www.theppk.com/2026/07/vegan-smores-cookies/) | The Post-Punk Kitchen | **4.23** | *1.68* |
+| 6 |[Strawberry Icebox Cake](https://www.reddit.com/r/veganrecipes/comments/1ummkqj/strawberry_icebox_cake/) | Reddit | **4.23** | *1.68* |
+| 7 |[Vegan Pesto](https://theeburgerdude.com/vegan-pesto/) | The Burger Dude | **4.23** | *1.68* |
+| 8 |[Mango granita](https://www.lazycatkitchen.com/mango-granita/) | Lazy Cat Kitchen | **4.23** | *1.68* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 17 | 0 | 3 | 0 | 0 | 2026-07-03 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 3 | 0 | 0 | 2026-07-03 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
@@ -68,11 +68,11 @@
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-06-29 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Little Blog of Vegan | 1 | 204 | 0 | 39 | 0 | 1 | 2026-07-03 | ✅ OK |
+| The Little Blog of Vegan | 2 | 205 | 0 | 39 | 0 | 1 | 2026-07-05 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 206 | 14 | 32 | 13 | 5 | 2026-07-03 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
-| Elavegan | 1 | 215 | 5 | 38 | 2 | 207 | 2026-07-05 | ✅ OK |
+| Elavegan | 0 | 215 | 5 | 38 | 2 | 207 | 2026-07-05 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
@@ -101,10 +101,10 @@
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-06-25 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
-| Make It Dairy Free | 1 | 260 | 4 | 42 | 2 | 3 | 2026-06-28 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 262 | 1 | 32 | 2 | 0 | 2026-07-05 | ✅ OK |
+| Make It Dairy Free | 2 | 261 | 4 | 42 | 2 | 3 | 2026-07-05 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 262 | 1 | 32 | 2 | 0 | 2026-07-05 | ✅ OK |
 | My Darling Vegan | 2 | 264 | 1 | 31 | 4 | 12 | 2026-07-03 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -126,7 +126,7 @@
 | Gretchen's Vegan Bakery | 1 | 347 | 3 | 23 | 1 | 1 | 2026-07-04 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Reddit | 0 | 350 | 1 | 41 | 1 | 5 | 2026-07-05 | ✅ OK |
-| VegNews | 1 | 350 | 2 | 46 | 0 | 13 | 2026-07-04 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 46 | 0 | 13 | 2026-07-05 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
