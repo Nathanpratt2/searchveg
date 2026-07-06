@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-06 14:18:54
-**Total Run Time:** 7m 38s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 28s)
+**Last Run:** 2026-07-06 18:32:43
+**Total Run Time:** 8m 17s
+**Longest Step:** RSS: Fragrant Vanilla Cake (0m 54s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20853 | 151 new today |
+| **Total Database** | 20854 | 149 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 227 | Total recorded actions in database |
 | **WFPB / GF** | 2582 / 2738 | 12% / 13% |
-| **Easy / Budget** | 5015 / 2082 | 24% / 9% |
+| **Easy / Budget** | 5012 / 2082 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **11.24** | *4.46* |
-| 2 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **11.24** | *4.46* |
-| 3 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **6.42** | *2.55* |
-| 4 |[Cinnamon Sugar Pumpkin Cream Cheese Rollups](https://healthylittlevittles.com/cinnamon-sugar-pumpkin-cream-cheese-rollups/) | Healthy Little Vittles | **6.42** | *2.55* |
-| 5 |[Tofu Cream Cheese (9 Flavors)](https://thehiddenveggies.com/vegan-cream-cheese/) | The Hidden Veggies | **6.42** | *2.55* |
-| 6 |[Vegan Lemon Cake With Lemon Cream Cheese Frosting](https://addictedtodates.com/best-vegan-lemon-cake/) | Addicted to Dates | **6.42** | *2.55* |
-| 7 |[Perfect Cream Cheese & Strawberry Pink Mochi Recipe](https://thekoreanvegan.com/cream-cheese-strawberry-stuffed-pink-mochi/) | The Korean Vegan | **6.42** | *2.55* |
-| 8 |[easy veggie vegan cream cheese](https://www.hotforfoodblog.com/recipes/2025/03/27/easy-veggie-vegan-cream-cheese/) | Hot For Food | **6.42** | *2.55* |
+| 1 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **10.36** | *4.11* |
+| 2 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **10.36** | *4.11* |
+| 3 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **5.92** | *2.35* |
+| 4 |[Cinnamon Sugar Pumpkin Cream Cheese Rollups](https://healthylittlevittles.com/cinnamon-sugar-pumpkin-cream-cheese-rollups/) | Healthy Little Vittles | **5.92** | *2.35* |
+| 5 |[Tofu Cream Cheese (9 Flavors)](https://thehiddenveggies.com/vegan-cream-cheese/) | The Hidden Veggies | **5.92** | *2.35* |
+| 6 |[Vegan Lemon Cake With Lemon Cream Cheese Frosting](https://addictedtodates.com/best-vegan-lemon-cake/) | Addicted to Dates | **5.92** | *2.35* |
+| 7 |[Perfect Cream Cheese & Strawberry Pink Mochi Recipe](https://thekoreanvegan.com/cream-cheese-strawberry-stuffed-pink-mochi/) | The Korean Vegan | **5.92** | *2.35* |
+| 8 |[easy veggie vegan cream cheese](https://www.hotforfoodblog.com/recipes/2025/03/27/easy-veggie-vegan-cream-cheese/) | Hot For Food | **5.92** | *2.35* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 3 | 0 | 0 | 2026-07-03 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
+| A Couple Cooks (Vegan Recipes) | 20 | 17 | 0 | 4 | 0 | 0 | 2026-07-06 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
@@ -49,7 +49,7 @@
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Vegan Richa GF | 0 | 44 | 2 | 11 | 7 | 44 | 2026-06-25 | ✅ OK |
 | My Goodness Kitchen | 2 | 58 | 7 | 6 | 3 | 3 | 2026-06-24 | ✅ OK |
-| Jessica in the Kitchen | 2 | 61 | 1 | 6 | 1 | 3 | 2026-07-06 | ✅ OK |
+| Jessica in the Kitchen | 1 | 61 | 1 | 6 | 1 | 3 | 2026-07-06 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
@@ -59,18 +59,18 @@
 | Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Steamy Vegan | 2 | 184 | 9 | 29 | 10 | 2 | 2026-07-03 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-07-02 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-06-29 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| Nora Cooks | 2 | 206 | 14 | 32 | 13 | 5 | 2026-07-03 | ✅ OK |
 | The Little Blog of Vegan | 1 | 206 | 0 | 39 | 0 | 1 | 2026-07-05 | ✅ OK |
+| Nora Cooks | 3 | 207 | 14 | 32 | 13 | 5 | 2026-07-06 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Elavegan | 0 | 215 | 5 | 38 | 2 | 207 | 2026-07-05 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
@@ -88,7 +88,7 @@
 | The First Mess | 0 | 233 | 1 | 31 | 3 | 1 | 2026-07-01 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Sweet Potato Soul | 0 | 238 | 0 | 34 | 1 | 6 | 2026-06-18 | ✅ OK |
+| Sweet Potato Soul | 1 | 239 | 0 | 35 | 1 | 6 | 2026-07-06 | ✅ OK |
 | ZardyPlants | 0 | 239 | 239 | 48 | 239 | 4 | 2026-07-03 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
@@ -118,15 +118,15 @@
 | Monkey & Me Kitchen Adventures | 0 | 283 | 38 | 75 | 3 | 0 | 2026-07-05 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Plant-Based on a Budget | 2 | 284 | 16 | 69 | 284 | 1 | 2026-07-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 296 | 3 | 14 | 3 | 5 | 2026-07-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 298 | 0 | 34 | 1 | 0 | 2026-07-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 348 | 3 | 23 | 1 | 1 | 2026-07-06 | ✅ OK |
-| Reddit | 0 | 350 | 1 | 41 | 1 | 5 | 2026-07-05 | ✅ OK |
-| VegNews | 1 | 350 | 1 | 46 | 0 | 13 | 2026-07-05 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 348 | 3 | 23 | 1 | 1 | 2026-07-06 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 40 | 1 | 5 | 2026-07-06 | ✅ OK (2) |
+| VegNews | 4 | 350 | 1 | 44 | 0 | 13 | 2026-07-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
