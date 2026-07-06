@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-05 22:38:56
-**Total Run Time:** 9m 35s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-07-06 05:56:07
+**Total Run Time:** 6m 9s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20847 | 118 new today |
+| **Total Database** | 20849 | 137 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 214 | Total recorded actions in database |
-| **WFPB / GF** | 2581 / 2737 | 12% / 13% |
-| **Easy / Budget** | 5006 / 2078 | 24% / 9% |
+| **Trending Events** | 243 | Total recorded actions in database |
+| **WFPB / GF** | 2582 / 2737 | 12% / 13% |
+| **Easy / Budget** | 5010 / 2078 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pesto Tofu Sandwich](https://theeburgerdude.com/pesto-tofu-sandwich/) | The Burger Dude | **6.63** | *2.63* |
-| 2 |[Vegan Chocolate Cheesecake (no-bake)](https://www.rainbownourishments.com/vegan-chocolate-cheesecake/) | Rainbow Nourishments | **6.63** | *2.63* |
-| 3 |[Chloe Coscarelli's Seasonal Berry Cobbler With Vanilla Bean Whip](https://vegnews.com/recipes/seasonal-berry-cobbler) | VegNews | **6.63** | *2.63* |
-| 4 |[Vegan Pumpkin Pie Ice Cream (Dairy-Free)](https://dreenaburton.com/vegan-pumpkin-pie-ice-cream/) | Dreena Burton | **6.41** | *2.55* |
-| 5 |[Chewy S’mores Cookies](https://www.theppk.com/2026/07/vegan-smores-cookies/) | The Post-Punk Kitchen | **3.85** | *1.53* |
-| 6 |[Strawberry Icebox Cake](https://www.reddit.com/r/veganrecipes/comments/1ummkqj/strawberry_icebox_cake/) | Reddit | **3.85** | *1.53* |
-| 7 |[Vegan Pesto](https://theeburgerdude.com/vegan-pesto/) | The Burger Dude | **3.85** | *1.53* |
-| 8 |[Mango granita](https://www.lazycatkitchen.com/mango-granita/) | Lazy Cat Kitchen | **3.85** | *1.53* |
+| 1 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **13.21** | *5.24* |
+| 2 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **13.21** | *5.24* |
+| 3 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **7.55** | *3.00* |
+| 4 |[Cinnamon Sugar Pumpkin Cream Cheese Rollups](https://healthylittlevittles.com/cinnamon-sugar-pumpkin-cream-cheese-rollups/) | Healthy Little Vittles | **7.55** | *3.00* |
+| 5 |[Tofu Cream Cheese (9 Flavors)](https://thehiddenveggies.com/vegan-cream-cheese/) | The Hidden Veggies | **7.55** | *2.99* |
+| 6 |[Vegan Lemon Cake With Lemon Cream Cheese Frosting](https://addictedtodates.com/best-vegan-lemon-cake/) | Addicted to Dates | **7.55** | *2.99* |
+| 7 |[Perfect Cream Cheese & Strawberry Pink Mochi Recipe](https://thekoreanvegan.com/cream-cheese-strawberry-stuffed-pink-mochi/) | The Korean Vegan | **7.55** | *2.99* |
+| 8 |[easy veggie vegan cream cheese](https://www.hotforfoodblog.com/recipes/2025/03/27/easy-veggie-vegan-cream-cheese/) | Hot For Food | **7.55** | *2.99* |
 
 ---
 
@@ -35,8 +35,8 @@
 
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ❌ Blocked/ConnErr |
-| Rainbow Nourishments | 0 | 12 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
+| The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
+| Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 3 | 0 | 0 | 2026-07-03 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
@@ -55,22 +55,22 @@
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 0 | 142 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | The Stingy Vegan | 0 | 183 | 1 | 183 | 183 | 0 | 2026-06-29 | ✅ OK |
 | Steamy Vegan | 2 | 184 | 9 | 29 | 10 | 2 | 2026-07-03 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-07-02 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-06-29 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
-| The Little Blog of Vegan | 1 | 205 | 0 | 39 | 0 | 1 | 2026-07-05 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 206 | 14 | 32 | 13 | 5 | 2026-07-03 | ✅ OK |
+| The Little Blog of Vegan | 2 | 206 | 0 | 39 | 0 | 1 | 2026-07-05 | ✅ OK |
 | The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Elavegan | 0 | 215 | 5 | 38 | 2 | 207 | 2026-07-05 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
@@ -96,10 +96,10 @@
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 245 | 30 | 55 | 0 | 62 | 2026-06-09 | ✅ OK |
 | Pick Up Limes | 1 | 245 | 22 | 28 | 28 | 1 | 2026-06-23 | ✅ OK (1) |
-| Vegan Richa | 0 | 245 | 10 | 57 | 41 | 73 | 2026-06-19 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ❌ Blocked/ConnErr |
+| Hot For Food | 0 | 251 | 9 | 36 | 12 | 1 | 2026-04-30 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
+| Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-06-25 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
@@ -115,10 +115,10 @@
 | The Plant-Based RD | 0 | 274 | 4 | 17 | 1 | 0 | 2026-06-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 2 | 280 | 0 | 41 | 0 | 12 | 2026-07-02 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 283 | 38 | 75 | 3 | 0 | 2026-07-05 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 283 | 38 | 75 | 3 | 0 | 2026-07-05 | ✅ OK |
 | Plant-Based on a Budget | 2 | 283 | 16 | 68 | 283 | 1 | 2026-06-29 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 285 | 285 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 296 | 3 | 14 | 3 | 5 | 2026-07-04 | ✅ OK |
 | Connoisseurus Veg | 0 | 297 | 0 | 34 | 1 | 0 | 2026-07-03 | ✅ OK |
