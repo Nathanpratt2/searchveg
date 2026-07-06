@@ -1647,6 +1647,13 @@ try:
                 
                 if not link or not created_at_str: continue
                 
+                # NEW: Skip anything that isn't a valid recipe URL (like search terms such as "cream cheese")
+                if not link.startswith("http"): continue
+                
+                # NEW: Skip non-recipe interaction events entirely so they don't even enter the dictionary
+                if action in ["search_appear", "search_query", "filter_click", "mood_click", "feeling_lucky"]:
+                    continue
+                
                # Calculate Age in Days
                 try:
                     created_at = parser.parse(created_at_str)
@@ -1673,8 +1680,6 @@ try:
                     base_points = 6
                 elif action == "click":
                     base_points = 4
-                elif action in["search_appear", "search_query", "filter_click", "mood_click", "feeling_lucky"]:
-                    base_points = 0 # Ignore search_appear and custom report tracking
                 else:
                     base_points = 1
                     
