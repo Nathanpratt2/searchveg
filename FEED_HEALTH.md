@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-07-07 10:12:04
-**Total Run Time:** 7m 34s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-07-07 13:39:55
+**Total Run Time:** 8m 13s
+**Longest Step:** RSS: Hot For Food (0m 44s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -9,9 +9,9 @@
 | **Total Database** | 20856 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 228 | Total recorded actions in database |
+| **Trending Events** | 217 | Total recorded actions in database |
 | **WFPB / GF** | 2582 / 2738 | 12% / 13% |
-| **Easy / Budget** | 5015 / 2082 | 24% / 9% |
+| **Easy / Budget** | 5016 / 2082 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **7.83** | *3.11* |
-| 2 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **7.66** | *3.04* |
-| 3 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **7.66** | *3.04* |
-| 4 |[High-Protein Lentil Stuffed Pitas (Arayes-inspired!)](https://healthygirlkitchen.com/high-protein-lentil-stuffed-pitas-arayes-inspired/?utm_source=rss&utm_medium=rss&utm_campaign=high-protein-lentil-stuffed-pitas-arayes-inspired) | HealthyGirl Kitchen | **4.87** | *1.93* |
-| 5 |[Non Alcoholic Aperol Spritz](https://www.acouplecooks.com/non-alcoholic-aperol-spritz/) | A Couple Cooks (Vegan Recipes) | **4.87** | *1.93* |
-| 6 |[Veggie Wrap Recipe](https://jessicainthekitchen.com/veggie-wrap-recipe/) | Jessica in the Kitchen | **4.77** | *1.89* |
-| 7 |[Peach Cheese Danish](https://www.gretchensveganbakery.com/peach-cheese-danish/) | Gretchen's Vegan Bakery | **4.77** | *1.89* |
-| 8 |[Sweet Potato Salad With Tempeh and Maple-Mustard Dressing](https://vegnews.com/recipes/sweet-potato-salad-tempeh-dressing) | VegNews | **4.77** | *1.89* |
+| 1 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **7.33** | *2.91* |
+| 2 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **7.17** | *2.85* |
+| 3 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **7.17** | *2.84* |
+| 4 |[High-Protein Lentil Stuffed Pitas (Arayes-inspired!)](https://healthygirlkitchen.com/high-protein-lentil-stuffed-pitas-arayes-inspired/?utm_source=rss&utm_medium=rss&utm_campaign=high-protein-lentil-stuffed-pitas-arayes-inspired) | HealthyGirl Kitchen | **4.56** | *1.81* |
+| 5 |[Non Alcoholic Aperol Spritz](https://www.acouplecooks.com/non-alcoholic-aperol-spritz/) | A Couple Cooks (Vegan Recipes) | **4.56** | *1.81* |
+| 6 |[Veggie Wrap Recipe](https://jessicainthekitchen.com/veggie-wrap-recipe/) | Jessica in the Kitchen | **4.46** | *1.77* |
+| 7 |[Peach Cheese Danish](https://www.gretchensveganbakery.com/peach-cheese-danish/) | Gretchen's Vegan Bakery | **4.46** | *1.77* |
+| 8 |[Sweet Potato Salad With Tempeh and Maple-Mustard Dressing](https://vegnews.com/recipes/sweet-potato-salad-tempeh-dressing) | VegNews | **4.46** | *1.77* |
 
 ---
 
@@ -36,9 +36,9 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 0 | 12 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
+| Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 17 | 0 | 4 | 0 | 0 | 2026-07-06 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 30 | 0 | 2 | 0 | 1 | 2026-06-23 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 348 | 3 | 23 | 1 | 1 | 2026-07-06 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 40 | 1 | 5 | 2026-07-07 | ✅ OK (1) |
+| Reddit | 1 | 350 | 1 | 41 | 1 | 5 | 2026-07-07 | ✅ OK (1) |
 | VegNews | 1 | 350 | 1 | 44 | 0 | 13 | 2026-07-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
