@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-07-06 22:51:18
-**Total Run Time:** 7m 11s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-07-07 05:37:30
+**Total Run Time:** 7m 8s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20856 | 158 new today |
+| **Total Database** | 20856 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 231 | Total recorded actions in database |
+| **Trending Events** | 228 | Total recorded actions in database |
 | **WFPB / GF** | 2582 / 2738 | 12% / 13% |
 | **Easy / Budget** | 5014 / 2082 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **9.54** | *3.78* |
-| 2 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **9.53** | *3.78* |
-| 3 |[Veggie Wrap Recipe](https://jessicainthekitchen.com/veggie-wrap-recipe/) | Jessica in the Kitchen | **5.93** | *2.35* |
-| 4 |[Peach Cheese Danish](https://www.gretchensveganbakery.com/peach-cheese-danish/) | Gretchen's Vegan Bakery | **5.93** | *2.35* |
-| 5 |[Sweet Potato Salad With Tempeh and Maple-Mustard Dressing](https://vegnews.com/recipes/sweet-potato-salad-tempeh-dressing) | VegNews | **5.93** | *2.35* |
-| 6 |[Seitan chicken satay (airfried)](https://www.reddit.com/r/veganrecipes/comments/1up1te9/seitan_chicken_satay_airfried/) | Reddit | **5.93** | *2.35* |
-| 7 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **5.45** | *2.16* |
-| 8 |[Cinnamon Sugar Pumpkin Cream Cheese Rollups](https://healthylittlevittles.com/cinnamon-sugar-pumpkin-cream-cheese-rollups/) | Healthy Little Vittles | **5.45** | *2.16* |
+| 1 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **8.55** | *3.39* |
+| 2 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **8.37** | *3.32* |
+| 3 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **8.37** | *3.32* |
+| 4 |[High-Protein Lentil Stuffed Pitas (Arayes-inspired!)](https://healthygirlkitchen.com/high-protein-lentil-stuffed-pitas-arayes-inspired/?utm_source=rss&utm_medium=rss&utm_campaign=high-protein-lentil-stuffed-pitas-arayes-inspired) | HealthyGirl Kitchen | **5.32** | *2.11* |
+| 5 |[Non Alcoholic Aperol Spritz](https://www.acouplecooks.com/non-alcoholic-aperol-spritz/) | A Couple Cooks (Vegan Recipes) | **5.32** | *2.11* |
+| 6 |[Veggie Wrap Recipe](https://jessicainthekitchen.com/veggie-wrap-recipe/) | Jessica in the Kitchen | **5.20** | *2.07* |
+| 7 |[Peach Cheese Danish](https://www.gretchensveganbakery.com/peach-cheese-danish/) | Gretchen's Vegan Bakery | **5.20** | *2.07* |
+| 8 |[Sweet Potato Salad With Tempeh and Maple-Mustard Dressing](https://vegnews.com/recipes/sweet-potato-salad-tempeh-dressing) | VegNews | **5.20** | *2.07* |
 
 ---
 
@@ -95,10 +95,10 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
 | Pick Up Limes | 1 | 245 | 22 | 28 | 28 | 1 | 2026-06-23 | ✅ OK (1) |
-| HealthyGirl Kitchen | 2 | 246 | 30 | 55 | 0 | 62 | 2026-07-06 | ✅ OK |
+| HealthyGirl Kitchen | 1 | 246 | 30 | 55 | 0 | 62 | 2026-07-06 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 2 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
+| Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-06-25 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 309 | 40 | 39 | 2 | 41 | 2026-07-04 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 348 | 3 | 23 | 1 | 1 | 2026-07-06 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 39 | 1 | 5 | 2026-07-06 | ✅ OK (1) |
+| Reddit | 1 | 350 | 1 | 39 | 1 | 5 | 2026-07-07 | ✅ OK (1) |
 | VegNews | 1 | 350 | 1 | 44 | 0 | 13 | 2026-07-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
