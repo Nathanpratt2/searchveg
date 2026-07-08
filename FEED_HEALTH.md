@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-08 04:49:33
-**Total Run Time:** 7m 34s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
+**Last Run:** 2026-07-08 09:11:36
+**Total Run Time:** 7m 21s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 27s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20867 | 148 new today |
+| **Total Database** | 20869 | 148 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 221 | Total recorded actions in database |
 | **WFPB / GF** | 2585 / 2738 | 12% / 13% |
-| **Easy / Budget** | 5019 / 2084 | 24% / 9% |
+| **Easy / Budget** | 5020 / 2084 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[High-Protein Vegan Strawberry Cheesecake](https://steamyvegan.com/high-protein-vegan-strawberry-cheesecake/) | Steamy Vegan | **9.55** | *3.79* |
-| 2 |[Easy Sautéed Cabbage with Garlic (Healthy Recipe)](https://zardyplants.com/recipes/easy-sauteed-cabbage-with-garlic-healthy-recipe/) | ZardyPlants | **5.73** | *2.27* |
-| 3 |[Easy Braised Tofu Recipe (Ready in 30 Minutes)](https://zardyplants.com/recipes/easy-braised-tofu-recipe-ready-in-30-minutes/) | ZardyPlants | **5.73** | *2.27* |
-| 4 |[8 Summer Mocktails To Make on Repeat](https://www.acouplecooks.com/summer-mocktails/) | A Couple Cooks (Vegan Recipes) | **5.73** | *2.27* |
-| 5 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **5.47** | *2.17* |
-| 6 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **5.35** | *2.12* |
-| 7 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **5.35** | *2.12* |
-| 8 |[Butternut Squash Soup Recipe](https://nadiashealthykitchen.com/butternut-squash-soup-recipe/) | Nadia's Healthy Kitchen (Vegan Recipes) | **5.22** | *2.07* |
+| 1 |[High-Protein Vegan Strawberry Cheesecake](https://steamyvegan.com/high-protein-vegan-strawberry-cheesecake/) | Steamy Vegan | **8.78** | *3.49* |
+| 2 |[Easy Sautéed Cabbage with Garlic (Healthy Recipe)](https://zardyplants.com/recipes/easy-sauteed-cabbage-with-garlic-healthy-recipe/) | ZardyPlants | **5.27** | *2.09* |
+| 3 |[Easy Braised Tofu Recipe (Ready in 30 Minutes)](https://zardyplants.com/recipes/easy-braised-tofu-recipe-ready-in-30-minutes/) | ZardyPlants | **5.27** | *2.09* |
+| 4 |[8 Summer Mocktails To Make on Repeat](https://www.acouplecooks.com/summer-mocktails/) | A Couple Cooks (Vegan Recipes) | **5.27** | *2.09* |
+| 5 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **5.03** | *2.00* |
+| 6 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **4.92** | *1.95* |
+| 7 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **4.92** | *1.95* |
+| 8 |[Butternut Squash Soup Recipe](https://nadiashealthykitchen.com/butternut-squash-soup-recipe/) | Nadia's Healthy Kitchen (Vegan Recipes) | **4.80** | *1.90* |
 
 ---
 
@@ -80,12 +80,12 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
 | Cadry's Kitchen | 5 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
-| The Burger Dude | 5 | 228 | 6 | 13 | 13 | 0 | 2026-07-08 | ✅ OK |
+| The Burger Dude | 4 | 228 | 6 | 13 | 13 | 0 | 2026-07-08 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Sweet Simple Vegan | 0 | 231 | 4 | 44 | 18 | 2 | 2026-06-29 | ✅ OK |
 | Rabbit and Wolves | 1 | 232 | 0 | 33 | 1 | 0 | 2026-06-30 | ✅ OK |
-| The First Mess | 0 | 233 | 1 | 31 | 3 | 1 | 2026-07-01 | ✅ OK |
+| The First Mess | 1 | 234 | 1 | 31 | 3 | 1 | 2026-07-08 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 0 | 239 | 0 | 35 | 1 | 6 | 2026-07-06 | ✅ OK |
@@ -94,7 +94,7 @@
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 1 | 2026-06-11 | ✅ OK |
-| Pick Up Limes | 1 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK (1) |
+| Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | HealthyGirl Kitchen | 1 | 246 | 30 | 55 | 0 | 62 | 2026-07-06 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
@@ -111,7 +111,7 @@
 | From My Bowl | 0 | 268 | 3 | 43 | 3 | 5 | 2026-06-30 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | A Virtual Vegan | 5 | 269 | 3 | 36 | 1 | 4 | 2026-06-09 | ✅ OK |
-| It Doesn't Taste Like Chicken | 5 | 269 | 1 | 91 | 7 | 218 | 2026-07-05 | ✅ OK |
+| It Doesn't Taste Like Chicken | 5 | 270 | 1 | 92 | 7 | 218 | 2026-07-08 | ✅ OK |
 | The Plant-Based RD | 0 | 274 | 4 | 17 | 1 | 0 | 2026-06-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 2 | 280 | 0 | 41 | 0 | 12 | 2026-07-02 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 310 | 41 | 39 | 2 | 41 | 2026-07-07 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-06 | ✅ OK |
-| Reddit | 0 | 350 | 1 | 41 | 1 | 5 | 2026-07-07 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 41 | 1 | 5 | 2026-07-08 | ✅ OK (1) |
 | VegNews | 1 | 350 | 1 | 45 | 0 | 13 | 2026-07-07 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
