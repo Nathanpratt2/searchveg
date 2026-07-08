@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-08 13:05:47
-**Total Run Time:** 7m 11s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 51s)
+**Last Run:** 2026-07-08 18:04:19
+**Total Run Time:** 7m 23s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20871 | 151 new today |
+| **Total Database** | 20873 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 229 | Total recorded actions in database |
 | **WFPB / GF** | 2586 / 2739 | 12% / 13% |
-| **Easy / Budget** | 5020 / 2084 | 24% / 9% |
+| **Easy / Budget** | 5022 / 2084 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[High-Protein Vegan Strawberry Cheesecake](https://steamyvegan.com/high-protein-vegan-strawberry-cheesecake/) | Steamy Vegan | **8.15** | *3.23* |
-| 2 |[Easy Sautéed Cabbage with Garlic (Healthy Recipe)](https://zardyplants.com/recipes/easy-sauteed-cabbage-with-garlic-healthy-recipe/) | ZardyPlants | **4.89** | *1.94* |
-| 3 |[Easy Braised Tofu Recipe (Ready in 30 Minutes)](https://zardyplants.com/recipes/easy-braised-tofu-recipe-ready-in-30-minutes/) | ZardyPlants | **4.89** | *1.94* |
-| 4 |[8 Summer Mocktails To Make on Repeat](https://www.acouplecooks.com/summer-mocktails/) | A Couple Cooks (Vegan Recipes) | **4.89** | *1.94* |
-| 5 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **4.67** | *1.85* |
-| 6 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **4.57** | *1.81* |
-| 7 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **4.57** | *1.81* |
-| 8 |[Butternut Squash Soup Recipe](https://nadiashealthykitchen.com/butternut-squash-soup-recipe/) | Nadia's Healthy Kitchen (Vegan Recipes) | **4.45** | *1.77* |
+| 1 |[High-Protein Vegan Strawberry Cheesecake](https://steamyvegan.com/high-protein-vegan-strawberry-cheesecake/) | Steamy Vegan | **7.40** | *2.94* |
+| 2 |[Easy Sautéed Cabbage with Garlic (Healthy Recipe)](https://zardyplants.com/recipes/easy-sauteed-cabbage-with-garlic-healthy-recipe/) | ZardyPlants | **4.44** | *1.76* |
+| 3 |[Easy Braised Tofu Recipe (Ready in 30 Minutes)](https://zardyplants.com/recipes/easy-braised-tofu-recipe-ready-in-30-minutes/) | ZardyPlants | **4.44** | *1.76* |
+| 4 |[8 Summer Mocktails To Make on Repeat](https://www.acouplecooks.com/summer-mocktails/) | A Couple Cooks (Vegan Recipes) | **4.44** | *1.76* |
+| 5 |[Vegan Cream Cheese Danish](https://veganinthefreezer.com/puff-pastry-strudel/) | Vegan in the Freezer | **4.24** | *1.68* |
+| 6 |[Vegan Strawberry Cream Cheese](https://thehiddenveggies.com/vegan-strawberry-cream-cheese/) | The Hidden Veggies | **4.15** | *1.65* |
+| 7 |[Vegan Boursin (Garlic Herb Cream Cheese)](https://addictedtodates.com/vegan-boursin/) | Addicted to Dates | **4.15** | *1.65* |
+| 8 |[Butternut Squash Soup Recipe](https://nadiashealthykitchen.com/butternut-squash-soup-recipe/) | Nadia's Healthy Kitchen (Vegan Recipes) | **4.04** | *1.60* |
 
 ---
 
@@ -36,8 +36,8 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
+| Rainbow Nourishments | 0 | 12 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 3 | 0 | 0 | 2026-07-07 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -47,7 +47,7 @@
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | PlantYou | 1 | 41 | 41 | 7 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
-| Vegan Richa GF | 1 | 45 | 2 | 11 | 7 | 45 | 2026-07-08 | ✅ OK |
+| Vegan Richa GF | 0 | 45 | 2 | 11 | 7 | 45 | 2026-07-08 | ✅ OK |
 | My Goodness Kitchen | 2 | 58 | 7 | 6 | 3 | 3 | 2026-06-24 | ✅ OK |
 | Jessica in the Kitchen | 0 | 62 | 1 | 6 | 1 | 3 | 2026-07-07 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 145 | 0 | 12 | 2 | 1 | 2026-06-24 | ✅ OK |
-| Earth to Veg | 1 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
+| Earth to Veg | 0 | 158 | 6 | 26 | 16 | 0 | 2026-06-07 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -80,7 +80,7 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 10 | 226 | 30 | 55 | 41 | 7 | 2026-05-28 | ✅ OK |
 | Cadry's Kitchen | 5 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
-| The Burger Dude | 4 | 228 | 6 | 13 | 13 | 0 | 2026-07-08 | ✅ OK |
+| The Burger Dude | 5 | 229 | 6 | 13 | 13 | 0 | 2026-07-08 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Sweet Simple Vegan | 0 | 231 | 4 | 44 | 18 | 2 | 2026-06-29 | ✅ OK |
@@ -103,8 +103,8 @@
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
+| Eat Figs, Not Pigs | 2 | 261 | 1 | 32 | 2 | 0 | 2026-07-05 | ✅ OK |
 | Make It Dairy Free | 1 | 261 | 4 | 42 | 2 | 3 | 2026-07-05 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 262 | 1 | 32 | 2 | 0 | 2026-07-05 | ✅ OK |
 | My Darling Vegan | 2 | 264 | 1 | 31 | 4 | 12 | 2026-07-03 | ✅ OK |
 | Bianca Zapatka | 0 | 266 | 22 | 119 | 43 | 4 | 2026-04-20 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -115,18 +115,18 @@
 | The Plant-Based RD | 0 | 274 | 4 | 17 | 1 | 0 | 2026-06-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 2 | 280 | 0 | 41 | 0 | 12 | 2026-07-02 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 283 | 38 | 75 | 3 | 0 | 2026-07-05 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 284 | 38 | 76 | 3 | 0 | 2026-07-08 | ✅ OK |
 | Plant-Based on a Budget | 2 | 284 | 16 | 69 | 284 | 1 | 2026-07-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 7 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (7) |
+| Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 286 | 10 | 47 | 2 | 283 | 2026-07-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 296 | 3 | 14 | 3 | 5 | 2026-07-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 298 | 0 | 34 | 1 | 0 | 2026-07-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 310 | 41 | 39 | 2 | 41 | 2026-07-07 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-06 | ✅ OK |
-| Reddit | 0 | 350 | 1 | 41 | 1 | 5 | 2026-07-08 | ✅ OK |
-| VegNews | 1 | 350 | 1 | 45 | 0 | 13 | 2026-07-07 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 42 | 1 | 5 | 2026-07-08 | ✅ OK (1) |
+| VegNews | 4 | 350 | 1 | 45 | 0 | 13 | 2026-07-08 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
