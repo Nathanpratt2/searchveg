@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-10 05:37:42
-**Total Run Time:** 7m 16s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-07-10 10:05:26
+**Total Run Time:** 7m 0s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 29s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20881 | 154 new today |
+| **Total Database** | 20881 | 146 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 196 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Spicy Vegan Buffalo Cauliflower Mac and Cheese](https://vegnews.com/recipes/vegan-buffalo-cauliflower-mac-and-cheese) | VegNews | **6.14** | *2.44* |
-| 2 |[Vegan Tofu Nuggets](https://theeburgerdude.com/vegan-tofu-nuggets/) | The Burger Dude | **5.91** | *2.35* |
-| 3 |[Vegan Buffalo Chicken Pasta Salad](https://www.reddit.com/r/veganrecipes/comments/1urftnl/vegan_buffalo_chicken_pasta_salad/) | Reddit | **5.78** | *2.29* |
-| 4 |[Vegan Cinnamon Cookie Cheesecake Crumb Bars (gluten-free)](https://healthylittlevittles.com/vegan-cinnamon-cookie-cheesecake-crumb-bars/) | Healthy Little Vittles | **5.78** | *2.29* |
-| 5 |[Strawberry Shortcake Recipe](https://jessicainthekitchen.com/strawberry-shortcake-recipe/) | Jessica in the Kitchen | **5.78** | *2.29* |
-| 6 |[Vegan Bumpy Cake](https://www.gretchensveganbakery.com/vegan-bumpy-cake/) | Gretchen's Vegan Bakery | **5.78** | *2.29* |
-| 7 |[Easy Vegan Tapioca Pudding](https://simpleveganblog.com/vegan-tapioca-pudding/) | Simple Vegan Blog | **4.88** | *1.94* |
-| 8 |[8 Summer Mocktails To Make on Repeat](https://www.acouplecooks.com/summer-mocktails/) | A Couple Cooks (Vegan Recipes) | **4.70** | *1.86* |
+| 1 |[Spicy Vegan Buffalo Cauliflower Mac and Cheese](https://vegnews.com/recipes/vegan-buffalo-cauliflower-mac-and-cheese) | VegNews | **5.64** | *2.24* |
+| 2 |[Vegan Tofu Nuggets](https://theeburgerdude.com/vegan-tofu-nuggets/) | The Burger Dude | **5.43** | *2.15* |
+| 3 |[Vegan Buffalo Chicken Pasta Salad](https://www.reddit.com/r/veganrecipes/comments/1urftnl/vegan_buffalo_chicken_pasta_salad/) | Reddit | **5.30** | *2.10* |
+| 4 |[Vegan Cinnamon Cookie Cheesecake Crumb Bars (gluten-free)](https://healthylittlevittles.com/vegan-cinnamon-cookie-cheesecake-crumb-bars/) | Healthy Little Vittles | **5.30** | *2.10* |
+| 5 |[Strawberry Shortcake Recipe](https://jessicainthekitchen.com/strawberry-shortcake-recipe/) | Jessica in the Kitchen | **5.30** | *2.10* |
+| 6 |[Vegan Bumpy Cake](https://www.gretchensveganbakery.com/vegan-bumpy-cake/) | Gretchen's Vegan Bakery | **5.30** | *2.10* |
+| 7 |[Easy Vegan Tapioca Pudding](https://simpleveganblog.com/vegan-tapioca-pudding/) | Simple Vegan Blog | **4.48** | *1.78* |
+| 8 |[8 Summer Mocktails To Make on Repeat](https://www.acouplecooks.com/summer-mocktails/) | A Couple Cooks (Vegan Recipes) | **4.31** | *1.71* |
 
 ---
 
@@ -118,14 +118,14 @@
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 284 | 38 | 76 | 3 | 0 | 2026-07-08 | ✅ OK |
 | Plant-Based on a Budget | 2 | 284 | 16 | 69 | 284 | 1 | 2026-07-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Healthy Little Vittles | 2 | 287 | 10 | 47 | 2 | 284 | 2026-07-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 296 | 3 | 14 | 3 | 5 | 2026-07-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 298 | 0 | 34 | 1 | 0 | 2026-07-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 310 | 41 | 39 | 2 | 41 | 2026-07-07 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-09 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 43 | 1 | 5 | 2026-07-10 | ✅ OK (2) |
+| Reddit | 0 | 350 | 1 | 43 | 1 | 5 | 2026-07-10 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 45 | 0 | 13 | 2026-07-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
