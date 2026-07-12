@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-07-11 22:19:29
-**Total Run Time:** 7m 21s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-07-12 04:56:19
+**Total Run Time:** 8m 2s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20891 | 154 new today |
+| **Total Database** | 20892 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 202 | Total recorded actions in database |
+| **Trending Events** | 201 | Total recorded actions in database |
 | **WFPB / GF** | 2589 / 2741 | 12% / 13% |
 | **Easy / Budget** | 5030 / 2084 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **4.06** | *1.61* |
-| 2 |[Vegan Skillet Cookie](https://www.reddit.com/r/veganrecipes/comments/1usn6or/vegan_skillet_cookie/) | Reddit | **4.06** | *1.61* |
-| 3 |[Buffalo Ranch Tofu Salad](https://sarahsvegankitchen.com/recipes/buffalo-ranch-tofu-salad/) | Sarah's Vegan Kitchen | **4.06** | *1.61* |
-| 4 |[Easy Vegan Vanilla Pudding](https://itdoesnttastelikechicken.com/easy-vegan-vanilla-pudding/) | It Doesn't Taste Like Chicken | **3.76** | *1.49* |
-| 5 |[Spicy Vegan Buffalo Cauliflower Mac and Cheese](https://vegnews.com/recipes/vegan-buffalo-cauliflower-mac-and-cheese) | VegNews | **2.81** | *1.11* |
-| 6 |[Vegan Tofu Nuggets](https://theeburgerdude.com/vegan-tofu-nuggets/) | The Burger Dude | **2.70** | *1.07* |
-| 7 |[Vegan Buffalo Chicken Pasta Salad](https://www.reddit.com/r/veganrecipes/comments/1urftnl/vegan_buffalo_chicken_pasta_salad/) | Reddit | **2.64** | *1.05* |
-| 8 |[Vegan Cinnamon Cookie Cheesecake Crumb Bars (gluten-free)](https://healthylittlevittles.com/vegan-cinnamon-cookie-cheesecake-crumb-bars/) | Healthy Little Vittles | **2.64** | *1.05* |
+| 1 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **3.57** | *1.42* |
+| 2 |[Vegan Skillet Cookie](https://www.reddit.com/r/veganrecipes/comments/1usn6or/vegan_skillet_cookie/) | Reddit | **3.57** | *1.42* |
+| 3 |[Buffalo Ranch Tofu Salad](https://sarahsvegankitchen.com/recipes/buffalo-ranch-tofu-salad/) | Sarah's Vegan Kitchen | **3.57** | *1.42* |
+| 4 |[Easy Vegan Vanilla Pudding](https://itdoesnttastelikechicken.com/easy-vegan-vanilla-pudding/) | It Doesn't Taste Like Chicken | **3.31** | *1.31* |
+| 5 |[Spicy Vegan Buffalo Cauliflower Mac and Cheese](https://vegnews.com/recipes/vegan-buffalo-cauliflower-mac-and-cheese) | VegNews | **2.47** | *0.98* |
+| 6 |[Vegan Tofu Nuggets](https://theeburgerdude.com/vegan-tofu-nuggets/) | The Burger Dude | **2.38** | *0.94* |
+| 7 |[Vegan Buffalo Chicken Pasta Salad](https://www.reddit.com/r/veganrecipes/comments/1urftnl/vegan_buffalo_chicken_pasta_salad/) | Reddit | **2.32** | *0.92* |
+| 8 |[Vegan Cinnamon Cookie Cheesecake Crumb Bars (gluten-free)](https://healthylittlevittles.com/vegan-cinnamon-cookie-cheesecake-crumb-bars/) | Healthy Little Vittles | **2.32** | *0.92* |
 
 ---
 
@@ -36,7 +36,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
+| Rainbow Nourishments | 0 | 12 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 5 | 0 | 0 | 2026-07-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
@@ -56,12 +56,12 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 146 | 0 | 12 | 2 | 1 | 2026-07-10 | ✅ OK |
-| Earth to Veg | 1 | 159 | 6 | 26 | 16 | 0 | 2026-07-08 | ✅ OK |
+| Earth to Veg | 0 | 159 | 6 | 26 | 16 | 0 | 2026-07-08 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
-| Steamy Vegan | 2 | 185 | 9 | 29 | 10 | 2 | 2026-07-07 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Steamy Vegan | 3 | 186 | 9 | 29 | 10 | 2 | 2026-07-11 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-07-07 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -79,7 +79,7 @@
 | Minimalist Baker (Vegan Recipes) | 4 | 220 | 19 | 69 | 18 | 42 | 2026-06-16 | ✅ OK (4) |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-10 | ✅ OK |
-| Cadry's Kitchen | 5 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
+| Cadry's Kitchen | 6 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
 | The Burger Dude | 5 | 230 | 6 | 13 | 13 | 0 | 2026-07-08 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 230 | 21 | 230 | 230 | 1 | 2026-01-09 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 298 | 0 | 34 | 1 | 0 | 2026-07-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 311 | 41 | 39 | 2 | 41 | 2026-07-10 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
+| Reddit | 1 | 349 | 1 | 43 | 1 | 4 | 2026-07-11 | ✅ OK (1) |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-09 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 43 | 1 | 4 | 2026-07-11 | ✅ OK (3) |
-| VegNews | 1 | 350 | 1 | 46 | 0 | 13 | 2026-07-11 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 46 | 0 | 13 | 2026-07-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
