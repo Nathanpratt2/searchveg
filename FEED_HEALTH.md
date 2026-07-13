@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-13 05:02:18
+**Last Run:** 2026-07-13 09:59:07
 **Total Run Time:** 7m 6s
 **Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20899 | 150 new today |
+| **Total Database** | 20900 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 184 | Total recorded actions in database |
 | **WFPB / GF** | 2589 / 2741 | 12% / 13% |
-| **Easy / Budget** | 5033 / 2084 | 24% / 9% |
+| **Easy / Budget** | 5033 / 2085 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **5.48** | *2.18* |
-| 2 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **5.48** | *2.18* |
-| 3 |[Cheeseburger Tortilla Kebabs (Vegan)](https://www.eatfigsnotpigs.com/cheeseburger-tortilla-kebabs-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheeseburger-tortilla-kebabs-vegan) | Eat Figs, Not Pigs | **5.48** | *2.18* |
-| 4 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **2.25** | *0.89* |
-| 5 |[Vegan Skillet Cookie](https://www.reddit.com/r/veganrecipes/comments/1usn6or/vegan_skillet_cookie/) | Reddit | **2.25** | *0.89* |
-| 6 |[Buffalo Ranch Tofu Salad](https://sarahsvegankitchen.com/recipes/buffalo-ranch-tofu-salad/) | Sarah's Vegan Kitchen | **2.25** | *0.89* |
-| 7 |[Easy Vegan Vanilla Pudding](https://itdoesnttastelikechicken.com/easy-vegan-vanilla-pudding/) | It Doesn't Taste Like Chicken | **2.08** | *0.83* |
-| 8 |[Spicy Vegan Buffalo Cauliflower Mac and Cheese](https://vegnews.com/recipes/vegan-buffalo-cauliflower-mac-and-cheese) | VegNews | **1.55** | *0.62* |
+| 1 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **4.99** | *1.98* |
+| 2 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **4.99** | *1.98* |
+| 3 |[Cheeseburger Tortilla Kebabs (Vegan)](https://www.eatfigsnotpigs.com/cheeseburger-tortilla-kebabs-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheeseburger-tortilla-kebabs-vegan) | Eat Figs, Not Pigs | **4.99** | *1.98* |
+| 4 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **2.04** | *0.81* |
+| 5 |[Vegan Skillet Cookie](https://www.reddit.com/r/veganrecipes/comments/1usn6or/vegan_skillet_cookie/) | Reddit | **2.04** | *0.81* |
+| 6 |[Buffalo Ranch Tofu Salad](https://sarahsvegankitchen.com/recipes/buffalo-ranch-tofu-salad/) | Sarah's Vegan Kitchen | **2.04** | *0.81* |
+| 7 |[Easy Vegan Vanilla Pudding](https://itdoesnttastelikechicken.com/easy-vegan-vanilla-pudding/) | It Doesn't Taste Like Chicken | **1.89** | *0.75* |
+| 8 |[Spicy Vegan Buffalo Cauliflower Mac and Cheese](https://vegnews.com/recipes/vegan-buffalo-cauliflower-mac-and-cheese) | VegNews | **1.41** | *0.56* |
 
 ---
 
@@ -60,8 +60,8 @@
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
-| Steamy Vegan | 0 | 184 | 9 | 29 | 10 | 2 | 2026-07-11 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Steamy Vegan | 2 | 186 | 9 | 29 | 10 | 2 | 2026-07-11 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-07-07 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -116,8 +116,8 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Full of Plants | 2 | 281 | 0 | 41 | 0 | 12 | 2026-07-09 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 283 | 283 | 7 | 0 | 9 | 2026-06-30 | ✅ OK |
-| Plant-Based on a Budget | 2 | 284 | 16 | 69 | 284 | 1 | 2026-07-06 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 285 | 38 | 77 | 3 | 0 | 2026-07-12 | ✅ OK |
+| Plant-Based on a Budget | 3 | 285 | 16 | 69 | 285 | 1 | 2026-07-13 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 287 | 10 | 47 | 2 | 284 | 2026-07-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 297 | 3 | 14 | 3 | 5 | 2026-07-12 | ✅ OK |
@@ -125,7 +125,7 @@
 | The Conscious Plant Kitchen | 0 | 311 | 41 | 39 | 2 | 41 | 2026-07-10 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-09 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 43 | 1 | 4 | 2026-07-12 | ✅ OK (2) |
+| Reddit | 2 | 350 | 1 | 43 | 1 | 4 | 2026-07-13 | ✅ OK (2) |
 | VegNews | 0 | 350 | 1 | 48 | 0 | 13 | 2026-07-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
