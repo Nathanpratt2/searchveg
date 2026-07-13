@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-13 13:39:36
-**Total Run Time:** 7m 8s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-07-13 18:24:34
+**Total Run Time:** 8m 38s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20901 | 151 new today |
+| **Total Database** | 20905 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 205 | Total recorded actions in database |
-| **WFPB / GF** | 2589 / 2741 | 12% / 13% |
-| **Easy / Budget** | 5033 / 2085 | 24% / 9% |
+| **WFPB / GF** | 2589 / 2742 | 12% / 13% |
+| **Easy / Budget** | 5034 / 2085 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **5.94** | *2.36* |
-| 2 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **5.94** | *2.36* |
-| 3 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **4.65** | *1.84* |
-| 4 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **4.64** | *1.84* |
-| 5 |[Cheeseburger Tortilla Kebabs (Vegan)](https://www.eatfigsnotpigs.com/cheeseburger-tortilla-kebabs-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheeseburger-tortilla-kebabs-vegan) | Eat Figs, Not Pigs | **4.64** | *1.84* |
-| 6 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **1.90** | *0.76* |
-| 7 |[Vegan Skillet Cookie](https://www.reddit.com/r/veganrecipes/comments/1usn6or/vegan_skillet_cookie/) | Reddit | **1.90** | *0.76* |
-| 8 |[Buffalo Ranch Tofu Salad](https://sarahsvegankitchen.com/recipes/buffalo-ranch-tofu-salad/) | Sarah's Vegan Kitchen | **1.90** | *0.75* |
+| 1 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **5.42** | *2.15* |
+| 2 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **5.42** | *2.15* |
+| 3 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **4.24** | *1.68* |
+| 4 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **4.24** | *1.68* |
+| 5 |[Cheeseburger Tortilla Kebabs (Vegan)](https://www.eatfigsnotpigs.com/cheeseburger-tortilla-kebabs-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheeseburger-tortilla-kebabs-vegan) | Eat Figs, Not Pigs | **4.24** | *1.68* |
+| 6 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **1.74** | *0.69* |
+| 7 |[Vegan Skillet Cookie](https://www.reddit.com/r/veganrecipes/comments/1usn6or/vegan_skillet_cookie/) | Reddit | **1.74** | *0.69* |
+| 8 |[Buffalo Ranch Tofu Salad](https://sarahsvegankitchen.com/recipes/buffalo-ranch-tofu-salad/) | Sarah's Vegan Kitchen | **1.74** | *0.69* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 1 | 13 | 0 | 3 | 1 | 0 | 2026-07-04 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 17 | 0 | 0 | 0 | 0 | 2026-06-08 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 16 | 0 | 0 | 0 | 0 | 2026-06-08 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 5 | 0 | 0 | 2026-07-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -49,7 +49,7 @@
 | PlantYou | 1 | 44 | 44 | 7 | 2 | 0 | 2026-07-11 | ✅ OK |
 | Vegan Richa GF | 0 | 47 | 2 | 11 | 7 | 47 | 2026-07-11 | ✅ OK |
 | My Goodness Kitchen | 2 | 58 | 7 | 6 | 3 | 3 | 2026-06-24 | ✅ OK |
-| Jessica in the Kitchen | 0 | 63 | 1 | 6 | 1 | 3 | 2026-07-09 | ✅ OK |
+| Jessica in the Kitchen | 1 | 64 | 1 | 6 | 1 | 3 | 2026-07-13 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 122 | 1 | 12 | 122 | 0 | 2026-06-16 | ✅ OK |
@@ -70,10 +70,10 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Little Blog of Vegan | 1 | 207 | 0 | 39 | 0 | 1 | 2026-07-12 | ✅ OK |
-| Nora Cooks | 2 | 208 | 14 | 32 | 13 | 5 | 2026-07-09 | ✅ OK |
+| Nora Cooks | 2 | 208 | 14 | 32 | 13 | 5 | 2026-07-13 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
-| Elavegan | 0 | 215 | 5 | 38 | 2 | 207 | 2026-07-05 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
+| Elavegan | 1 | 216 | 5 | 38 | 2 | 208 | 2026-07-13 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 4 | 220 | 19 | 69 | 18 | 42 | 2026-06-16 | ✅ OK (4) |
@@ -103,8 +103,8 @@
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
-| Eat Figs, Not Pigs | 2 | 262 | 1 | 33 | 2 | 0 | 2026-07-12 | ✅ OK |
 | Make It Dairy Free | 1 | 262 | 4 | 42 | 2 | 3 | 2026-07-12 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 263 | 1 | 33 | 2 | 0 | 2026-07-13 | ✅ OK |
 | My Darling Vegan | 2 | 265 | 1 | 31 | 4 | 12 | 2026-07-10 | ✅ OK |
 | Bianca Zapatka | 0 | 267 | 22 | 120 | 43 | 4 | 2026-07-09 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -121,12 +121,12 @@
 | Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 2 | 287 | 10 | 47 | 2 | 284 | 2026-07-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 297 | 3 | 14 | 3 | 5 | 2026-07-12 | ✅ OK |
-| Connoisseurus Veg | 2 | 299 | 0 | 34 | 1 | 0 | 2026-07-13 | ✅ OK |
+| Connoisseurus Veg | 1 | 299 | 0 | 34 | 1 | 0 | 2026-07-13 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 311 | 41 | 39 | 2 | 41 | 2026-07-10 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 347 | 2 | 13 | 5 | 1 | 2026-07-03 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 43 | 1 | 4 | 2026-07-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-09 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 48 | 0 | 13 | 2026-07-12 | ✅ OK |
+| VegNews | 3 | 350 | 1 | 49 | 0 | 13 | 2026-07-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
