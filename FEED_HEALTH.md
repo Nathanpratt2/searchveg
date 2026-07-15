@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-15 04:32:01
-**Total Run Time:** 8m 28s
-**Longest Step:** RSS: The Post-Punk Kitchen (1m 8s)
+**Last Run:** 2026-07-15 08:48:45
+**Total Run Time:** 8m 8s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 55s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20918 | 143 new today |
+| **Total Database** | 20917 | 150 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 174 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Lentil Dip (Red Lentil Hummus)](https://plantbasedonabudget.com/lentil-dip-red-lentil-hummus/) | Plant-Based on a Budget | **3.43** | *1.36* |
-| 2 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **3.43** | *1.36* |
-| 3 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **2.81** | *1.12* |
-| 4 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **2.81** | *1.12* |
-| 5 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **2.20** | *0.87* |
-| 6 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **2.20** | *0.87* |
-| 7 |[Cheeseburger Tortilla Kebabs (Vegan)](https://www.eatfigsnotpigs.com/cheeseburger-tortilla-kebabs-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheeseburger-tortilla-kebabs-vegan) | Eat Figs, Not Pigs | **2.20** | *0.87* |
-| 8 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **0.90** | *0.36* |
+| 1 |[Lentil Dip (Red Lentil Hummus)](https://plantbasedonabudget.com/lentil-dip-red-lentil-hummus/) | Plant-Based on a Budget | **3.16** | *1.25* |
+| 2 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **3.16** | *1.25* |
+| 3 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **2.59** | *1.03* |
+| 4 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **2.59** | *1.03* |
+| 5 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **2.02** | *0.80* |
+| 6 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **2.02** | *0.80* |
+| 7 |[Cheeseburger Tortilla Kebabs (Vegan)](https://www.eatfigsnotpigs.com/cheeseburger-tortilla-kebabs-vegan/?utm_source=rss&utm_medium=rss&utm_campaign=cheeseburger-tortilla-kebabs-vegan) | Eat Figs, Not Pigs | **2.02** | *0.80* |
+| 8 |[Triple Chilli Chilli Cheese Toast with Crispy Lime Tempeh -High Protein](https://www.veganricha.com/high-protein-chilli-cheese-toast/) | Vegan Richa GF | **0.83** | *0.33* |
 
 ---
 
@@ -48,7 +48,7 @@
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 44 | 44 | 7 | 2 | 0 | 2026-07-11 | ✅ OK |
 | Vegan Richa GF | 0 | 47 | 2 | 11 | 7 | 47 | 2026-07-11 | ✅ OK |
-| My Goodness Kitchen | 3 | 59 | 7 | 7 | 3 | 3 | 2026-07-15 | ✅ OK |
+| My Goodness Kitchen | 2 | 59 | 7 | 7 | 3 | 3 | 2026-07-15 | ✅ OK |
 | Jessica in the Kitchen | 0 | 64 | 1 | 6 | 1 | 3 | 2026-07-13 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -118,14 +118,14 @@
 | The Whole Food Plant Based Cooking Show | 0 | 284 | 284 | 7 | 0 | 9 | 2026-07-14 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 285 | 38 | 77 | 3 | 0 | 2026-07-12 | ✅ OK |
 | Plant-Based on a Budget | 2 | 285 | 16 | 69 | 285 | 1 | 2026-07-13 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Healthy Little Vittles | 3 | 287 | 10 | 47 | 2 | 284 | 2026-07-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 297 | 3 | 14 | 3 | 5 | 2026-07-12 | ✅ OK |
 | Connoisseurus Veg | 1 | 299 | 0 | 34 | 1 | 0 | 2026-07-13 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 312 | 41 | 39 | 2 | 41 | 2026-07-14 | ✅ OK |
-| The Post-Punk Kitchen | 0 | 348 | 2 | 13 | 5 | 1 | 2026-07-13 | ❌ Blocked/ConnErr |
+| The Post-Punk Kitchen | 1 | 348 | 2 | 13 | 5 | 1 | 2026-07-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-09 | ✅ OK |
-| Reddit | 0 | 350 | 1 | 43 | 1 | 4 | 2026-07-14 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 43 | 1 | 4 | 2026-07-15 | ✅ OK (1) |
 | VegNews | 0 | 350 | 1 | 50 | 0 | 13 | 2026-07-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
