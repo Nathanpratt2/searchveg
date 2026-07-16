@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-16 04:42:18
-**Total Run Time:** 7m 44s
-**Longest Step:** RSS: A Virtual Vegan (0m 51s)
+**Last Run:** 2026-07-16 08:46:07
+**Total Run Time:** 6m 56s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20923 | 150 new today |
+| **Total Database** | 20923 | 144 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 175 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pea Pesto Toast (High Protein)](https://drveganblog.com/pea-pesto-toast/) | Dr. Vegan | **5.12** | *2.03* |
-| 2 |[Sparkling Tomato Lemonade with Tomato Simple Syrup](https://frommybowl.com/sparkling-tomato-lemonade-tomato-simple-syrup/?utm_source=rss&utm_medium=rss&utm_campaign=sparkling-tomato-lemonade-tomato-simple-syrup) | From My Bowl | **3.98** | *1.58* |
-| 3 |[Lentil Dip (Red Lentil Hummus)](https://plantbasedonabudget.com/lentil-dip-red-lentil-hummus/) | Plant-Based on a Budget | **2.15** | *0.85* |
-| 4 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **2.15** | *0.85* |
-| 5 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **1.77** | *0.70* |
-| 6 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **1.76** | *0.70* |
-| 7 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **1.38** | *0.55* |
-| 8 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **1.38** | *0.55* |
+| 1 |[Pea Pesto Toast (High Protein)](https://drveganblog.com/pea-pesto-toast/) | Dr. Vegan | **4.73** | *1.88* |
+| 2 |[Sparkling Tomato Lemonade with Tomato Simple Syrup](https://frommybowl.com/sparkling-tomato-lemonade-tomato-simple-syrup/?utm_source=rss&utm_medium=rss&utm_campaign=sparkling-tomato-lemonade-tomato-simple-syrup) | From My Bowl | **3.68** | *1.46* |
+| 3 |[Lentil Dip (Red Lentil Hummus)](https://plantbasedonabudget.com/lentil-dip-red-lentil-hummus/) | Plant-Based on a Budget | **1.99** | *0.79* |
+| 4 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **1.99** | *0.79* |
+| 5 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **1.63** | *0.65* |
+| 6 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **1.63** | *0.65* |
+| 7 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **1.28** | *0.51* |
+| 8 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **1.28** | *0.51* |
 
 ---
 
@@ -117,7 +117,7 @@
 | Full of Plants | 2 | 281 | 0 | 41 | 0 | 12 | 2026-07-09 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 284 | 284 | 7 | 0 | 9 | 2026-07-14 | ✅ OK |
 | Plant-Based on a Budget | 2 | 285 | 16 | 69 | 285 | 1 | 2026-07-13 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 286 | 38 | 78 | 3 | 0 | 2026-07-15 | ✅ OK |
 | Healthy Little Vittles | 3 | 287 | 10 | 47 | 2 | 284 | 2026-07-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 297 | 3 | 14 | 3 | 5 | 2026-07-12 | ✅ OK |
