@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-16 08:46:07
-**Total Run Time:** 6m 56s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
+**Last Run:** 2026-07-16 13:05:52
+**Total Run Time:** 7m 38s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20923 | 144 new today |
+| **Total Database** | 20925 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 175 | Total recorded actions in database |
-| **WFPB / GF** | 2590 / 2743 | 12% / 13% |
-| **Easy / Budget** | 5043 / 2085 | 24% / 9% |
+| **WFPB / GF** | 2590 / 2744 | 12% / 13% |
+| **Easy / Budget** | 5044 / 2085 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Pea Pesto Toast (High Protein)](https://drveganblog.com/pea-pesto-toast/) | Dr. Vegan | **4.73** | *1.88* |
-| 2 |[Sparkling Tomato Lemonade with Tomato Simple Syrup](https://frommybowl.com/sparkling-tomato-lemonade-tomato-simple-syrup/?utm_source=rss&utm_medium=rss&utm_campaign=sparkling-tomato-lemonade-tomato-simple-syrup) | From My Bowl | **3.68** | *1.46* |
-| 3 |[Lentil Dip (Red Lentil Hummus)](https://plantbasedonabudget.com/lentil-dip-red-lentil-hummus/) | Plant-Based on a Budget | **1.99** | *0.79* |
-| 4 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **1.99** | *0.79* |
-| 5 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **1.63** | *0.65* |
-| 6 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **1.63** | *0.65* |
-| 7 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **1.28** | *0.51* |
-| 8 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **1.28** | *0.51* |
+| 1 |[Pea Pesto Toast (High Protein)](https://drveganblog.com/pea-pesto-toast/) | Dr. Vegan | **4.35** | *1.73* |
+| 2 |[Sparkling Tomato Lemonade with Tomato Simple Syrup](https://frommybowl.com/sparkling-tomato-lemonade-tomato-simple-syrup/?utm_source=rss&utm_medium=rss&utm_campaign=sparkling-tomato-lemonade-tomato-simple-syrup) | From My Bowl | **3.38** | *1.34* |
+| 3 |[Lentil Dip (Red Lentil Hummus)](https://plantbasedonabudget.com/lentil-dip-red-lentil-hummus/) | Plant-Based on a Budget | **1.83** | *0.73* |
+| 4 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **1.83** | *0.73* |
+| 5 |[Vegan Fish Sticks (Homemade Tofu Nuggets)](https://biancazapatka.com/en/vegan-fish-sticks/) | Bianca Zapatka | **1.50** | *0.60* |
+| 6 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **1.50** | *0.60* |
+| 7 |[Cheesy Vegan French Bread Pizza](https://vegnews.com/recipes/easy-cheesy-vegan-french-bread-pizza) | VegNews | **1.17** | *0.47* |
+| 8 |[Rachel Ama's No-Bake Berry Coconut Cake](https://vegnews.com/recipes/no-bake-vegan-stewed-berry-coconut-cake) | VegNews | **1.17** | *0.47* |
 
 ---
 
@@ -43,7 +43,7 @@
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 31 | 0 | 2 | 0 | 1 | 2026-07-09 | ✅ OK |
 | The Banana Diaries | 0 | 34 | 0 | 10 | 2 | 0 | 2026-07-10 | ✅ OK |
-| Dr. Vegan | 4 | 40 | 4 | 40 | 8 | 0 | 2026-07-14 | ✅ OK |
+| Dr. Vegan | 5 | 41 | 4 | 41 | 8 | 0 | 2026-07-16 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 44 | 44 | 7 | 2 | 0 | 2026-07-11 | ✅ OK |
@@ -99,7 +99,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
-| Vegan Richa | 7 | 253 | 11 | 58 | 41 | 73 | 2026-07-11 | ✅ OK |
+| Vegan Richa | 8 | 253 | 11 | 58 | 41 | 73 | 2026-07-11 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
@@ -117,9 +117,9 @@
 | Full of Plants | 2 | 281 | 0 | 41 | 0 | 12 | 2026-07-09 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 284 | 284 | 7 | 0 | 9 | 2026-07-14 | ✅ OK |
 | Plant-Based on a Budget | 2 | 285 | 16 | 69 | 285 | 1 | 2026-07-13 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Monkey & Me Kitchen Adventures | 0 | 286 | 38 | 78 | 3 | 0 | 2026-07-15 | ✅ OK |
-| Healthy Little Vittles | 3 | 287 | 10 | 47 | 2 | 284 | 2026-07-09 | ✅ OK |
+| Healthy Little Vittles | 4 | 288 | 10 | 47 | 2 | 285 | 2026-07-16 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 297 | 3 | 14 | 3 | 5 | 2026-07-12 | ✅ OK |
 | Connoisseurus Veg | 1 | 300 | 0 | 34 | 1 | 0 | 2026-07-15 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 312 | 41 | 39 | 2 | 41 | 2026-07-14 | ✅ OK |
