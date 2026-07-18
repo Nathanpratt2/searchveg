@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-07-18 08:23:00
-**Total Run Time:** 7m 16s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-07-18 12:17:36
+**Total Run Time:** 7m 12s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Loaded Baked Potatoes (Lentil & Tofu)](https://drveganblog.com/vegan-loaded-baked-potatoes/) | Dr. Vegan | **5.52** | *2.19* |
-| 2 |[Mexican Street Corn Pasta Salad](https://www.acouplecooks.com/mexican-street-corn-pasta-salad/) | A Couple Cooks (Vegan Recipes) | **5.51** | *2.19* |
-| 3 |[Vegan Vanilla Tapioca Pudding](https://fullofplants.com/vegan-vanilla-tapioca-pudding/?adt_ei={$email}) | Full of Plants | **5.51** | *2.19* |
-| 4 |[No-Bake Mini Mango Cheesecakes](https://www.thelittleblogofvegan.com/2026/07/no-bake-mini-mango-cheesecakes.html) | The Little Blog of Vegan | **5.51** | *2.19* |
-| 5 |[Vegan Whoopie Pies](https://www.connoisseurusveg.com/vegan-whoopie-pies/) | Connoisseurus Veg | **5.51** | *2.19* |
-| 6 |[Decadent Brownie Peanut Butter Mousse Cake – Vegan!](https://thebananadiaries.com/vegan-brownie-peanut-butter-mousse-cake-ve/) | The Banana Diaries | **5.51** | *2.19* |
-| 7 |[Blended Chocolate Chia Pudding](https://plantyou.com/blended-chocolate-chia-pudding/) | PlantYou | **5.51** | *2.19* |
-| 8 |[Super-Sized Fruity Vegan Pop Tart](https://vegnews.com/recipes/super-fruity-vegan-pop-tart) | VegNews | **5.51** | *2.19* |
+| 1 |[Vegan Loaded Baked Potatoes (Lentil & Tofu)](https://drveganblog.com/vegan-loaded-baked-potatoes/) | Dr. Vegan | **5.12** | *2.03* |
+| 2 |[Mexican Street Corn Pasta Salad](https://www.acouplecooks.com/mexican-street-corn-pasta-salad/) | A Couple Cooks (Vegan Recipes) | **5.11** | *2.03* |
+| 3 |[Vegan Vanilla Tapioca Pudding](https://fullofplants.com/vegan-vanilla-tapioca-pudding/?adt_ei={$email}) | Full of Plants | **5.11** | *2.03* |
+| 4 |[No-Bake Mini Mango Cheesecakes](https://www.thelittleblogofvegan.com/2026/07/no-bake-mini-mango-cheesecakes.html) | The Little Blog of Vegan | **5.11** | *2.03* |
+| 5 |[Vegan Whoopie Pies](https://www.connoisseurusveg.com/vegan-whoopie-pies/) | Connoisseurus Veg | **5.11** | *2.03* |
+| 6 |[Decadent Brownie Peanut Butter Mousse Cake – Vegan!](https://thebananadiaries.com/vegan-brownie-peanut-butter-mousse-cake-ve/) | The Banana Diaries | **5.11** | *2.03* |
+| 7 |[Blended Chocolate Chia Pudding](https://plantyou.com/blended-chocolate-chia-pudding/) | PlantYou | **5.11** | *2.03* |
+| 8 |[Super-Sized Fruity Vegan Pop Tart](https://vegnews.com/recipes/super-fruity-vegan-pop-tart) | VegNews | **5.11** | *2.03* |
 
 ---
 
@@ -48,7 +48,7 @@
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 45 | 45 | 7 | 2 | 0 | 2026-07-17 | ✅ OK |
 | Vegan Richa GF | 0 | 47 | 2 | 11 | 7 | 47 | 2026-07-11 | ✅ OK |
-| My Goodness Kitchen | 3 | 60 | 7 | 7 | 3 | 3 | 2026-07-18 | ✅ OK |
+| My Goodness Kitchen | 2 | 60 | 7 | 7 | 3 | 3 | 2026-07-18 | ✅ OK |
 | Jessica in the Kitchen | 1 | 65 | 1 | 7 | 1 | 3 | 2026-07-16 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 301 | 0 | 34 | 1 | 0 | 2026-07-17 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 313 | 41 | 39 | 2 | 41 | 2026-07-17 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 348 | 2 | 13 | 5 | 1 | 2026-07-13 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-09 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-07-17 | ✅ OK |
 | Reddit | 5 | 350 | 1 | 45 | 1 | 4 | 2026-07-18 | ✅ OK (5) |
 | VegNews | 0 | 350 | 1 | 48 | 0 | 13 | 2026-07-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
