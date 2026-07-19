@@ -1,5 +1,29 @@
 [
   {
+    "blog_name": "Reddit",
+    "title": "Spiced Dry Chickpea Curry (Pindi Chole) with Indian Fried Bread (Poori) \ud83d\ude0b",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1v0nqm6/spiced_dry_chickpea_curry_pindi_chole_with_indian/",
+    "image": "https://preview.redd.it/vpap3kgs56eh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=484f552daab4b2510afcf60a18c8a4aa8fdd4b65",
+    "date": "2026-07-19T11:09:06+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Dog Birthday Cake Recipe (Easy, Vegan & Dog-Friendly!)",
+    "link": "https://itdoesnttastelikechicken.com/dog-birthday-cake-recipe/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2026/06/Dog-Birthday-Cake-Recipe-facebook.jpg",
+    "date": "2026-07-19T09:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "My Darling Vegan",
     "title": "17 Easy vegan party and potluck recipes",
     "link": "https://www.mydarlingvegan.com/17-easy-vegan-party-and-potluck-recipes/",
@@ -10,7 +34,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 5.34
+    "trending_score": 4.99
   },
   {
     "blog_name": "Rabbit and Wolves",
@@ -23,7 +47,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 8.89
+    "trending_score": 8.32
   },
   {
     "blog_name": "Reddit",
@@ -111,7 +135,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 5.34
+    "trending_score": 4.99
   },
   {
     "blog_name": "VegNews",
@@ -155,7 +179,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 5.34
+    "trending_score": 4.99
   },
   {
     "blog_name": "The Conscious Plant Kitchen",
@@ -293,7 +317,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 3.44
+    "trending_score": 3.22
   },
   {
     "blog_name": "From My Bowl",
@@ -330,7 +354,7 @@
       "GF"
     ],
     "is_trending": true,
-    "trending_score": 3.45
+    "trending_score": 3.22
   },
   {
     "blog_name": "The Burger Dude",
@@ -368,7 +392,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.45
+    "trending_score": 3.22
   },
   {
     "blog_name": "The Plant-Based RD",
@@ -451,7 +475,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 3.45
+    "trending_score": 3.22
   },
   {
     "blog_name": "Monkey & Me Kitchen Adventures",
@@ -210802,8 +210826,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210816,8 +210840,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210869,8 +210893,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210896,9 +210920,9 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
+      "Low Waste",
       "Easy",
-      "GF",
-      "Low Waste"
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210937,8 +210961,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211029,8 +211053,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211069,8 +211093,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211109,8 +211133,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
