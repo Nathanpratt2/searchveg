@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-20 22:36:36
-**Total Run Time:** 7m 33s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
+**Last Run:** 2026-07-21 04:49:31
+**Total Run Time:** 7m 6s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20959 | 150 new today |
+| **Total Database** | 20960 | 142 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 191 | Total recorded actions in database |
+| **Trending Events** | 188 | Total recorded actions in database |
 | **WFPB / GF** | 2592 / 2745 | 12% / 13% |
-| **Easy / Budget** | 5053 / 2088 | 24% / 9% |
+| **Easy / Budget** | 5052 / 2088 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Our new favorite lunch - Buffalo Ranch Tofu Wraps 🌶️](https://www.reddit.com/r/veganrecipes/comments/1uzhiye/our_new_favorite_lunch_buffalo_ranch_tofu_wraps/) | Reddit | **5.03** | *2.00* |
-| 2 |[Vegan Breakfast Burrito Bowl Meal Prep](https://www.rabbitandwolves.com/vegan-breakfast-burrito-bowl-meal-prep/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-breakfast-burrito-bowl-meal-prep) | Rabbit and Wolves | **4.30** | *1.70* |
-| 3 |[korean-style bbq tofu skewers](https://www.reddit.com/r/veganrecipes/comments/1v0w5tx/koreanstyle_bbq_tofu_skewers/) | Reddit | **3.68** | *1.46* |
-| 4 |[Herbed Tofu Ricotta Cheese](https://vegnews.com/recipes/herbed-vegan-tofu-ricotta) | VegNews | **2.58** | *1.02* |
-| 5 |[17 Easy vegan party and potluck recipes](https://www.mydarlingvegan.com/17-easy-vegan-party-and-potluck-recipes/) | My Darling Vegan | **2.58** | *1.02* |
-| 6 |[Vegan Loaded Baked Potatoes (Lentil & Tofu)](https://drveganblog.com/vegan-loaded-baked-potatoes/) | Dr. Vegan | **1.66** | *0.66* |
-| 7 |[Mexican Street Corn Pasta Salad](https://www.acouplecooks.com/mexican-street-corn-pasta-salad/) | A Couple Cooks (Vegan Recipes) | **1.66** | *0.66* |
-| 8 |[Vegan Vanilla Tapioca Pudding](https://fullofplants.com/vegan-vanilla-tapioca-pudding/?adt_ei={$email}) | Full of Plants | **1.66** | *0.66* |
+| 1 |[Our new favorite lunch - Buffalo Ranch Tofu Wraps 🌶️](https://www.reddit.com/r/veganrecipes/comments/1uzhiye/our_new_favorite_lunch_buffalo_ranch_tofu_wraps/) | Reddit | **4.47** | *1.77* |
+| 2 |[Vegan Breakfast Burrito Bowl Meal Prep](https://www.rabbitandwolves.com/vegan-breakfast-burrito-bowl-meal-prep/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-breakfast-burrito-bowl-meal-prep) | Rabbit and Wolves | **3.81** | *1.51* |
+| 3 |[korean-style bbq tofu skewers](https://www.reddit.com/r/veganrecipes/comments/1v0w5tx/koreanstyle_bbq_tofu_skewers/) | Reddit | **3.27** | *1.30* |
+| 4 |[Herbed Tofu Ricotta Cheese](https://vegnews.com/recipes/herbed-vegan-tofu-ricotta) | VegNews | **2.29** | *0.91* |
+| 5 |[17 Easy vegan party and potluck recipes](https://www.mydarlingvegan.com/17-easy-vegan-party-and-potluck-recipes/) | My Darling Vegan | **2.29** | *0.91* |
+| 6 |[Vegan Loaded Baked Potatoes (Lentil & Tofu)](https://drveganblog.com/vegan-loaded-baked-potatoes/) | Dr. Vegan | **1.48** | *0.59* |
+| 7 |[Mexican Street Corn Pasta Salad](https://www.acouplecooks.com/mexican-street-corn-pasta-salad/) | A Couple Cooks (Vegan Recipes) | **1.48** | *0.59* |
+| 8 |[Vegan Vanilla Tapioca Pudding](https://fullofplants.com/vegan-vanilla-tapioca-pudding/?adt_ei={$email}) | Full of Plants | **1.48** | *0.59* |
 
 ---
 
@@ -44,7 +44,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 32 | 0 | 2 | 0 | 1 | 2026-07-17 | ✅ OK |
 | The Banana Diaries | 0 | 35 | 0 | 10 | 2 | 0 | 2026-07-17 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
-| Dr. Vegan | 5 | 42 | 4 | 42 | 8 | 0 | 2026-07-20 | ✅ OK |
+| Dr. Vegan | 4 | 42 | 4 | 42 | 8 | 0 | 2026-07-20 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 46 | 46 | 7 | 2 | 0 | 2026-07-19 | ✅ OK |
 | Vegan Richa GF | 0 | 47 | 2 | 11 | 7 | 47 | 2026-07-11 | ✅ OK |
@@ -56,13 +56,13 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 147 | 0 | 12 | 2 | 1 | 2026-07-17 | ✅ OK |
-| Earth to Veg | 0 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
+| Earth to Veg | 1 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 24 | 1 | 30 | 2026-07-07 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 187 | 0 | 23 | 1 | 30 | 2026-07-20 | ✅ OK |
 | Steamy Vegan | 2 | 187 | 9 | 29 | 10 | 2 | 2026-07-18 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
@@ -95,7 +95,7 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
-| HealthyGirl Kitchen | 1 | 248 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
+| HealthyGirl Kitchen | 0 | 248 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
@@ -116,16 +116,16 @@
 | The Plant-Based RD | 0 | 276 | 4 | 17 | 1 | 0 | 2026-07-18 | ✅ OK |
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 284 | 284 | 7 | 0 | 9 | 2026-07-14 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 286 | 286 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 286 | 38 | 78 | 3 | 0 | 2026-07-15 | ✅ OK |
 | Plant-Based on a Budget | 2 | 286 | 16 | 70 | 286 | 1 | 2026-07-20 | ✅ OK |
 | Healthy Little Vittles | 3 | 288 | 10 | 47 | 2 | 285 | 2026-07-16 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 297 | 3 | 14 | 3 | 5 | 2026-07-12 | ✅ OK |
 | Connoisseurus Veg | 1 | 302 | 0 | 34 | 1 | 0 | 2026-07-20 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 313 | 41 | 39 | 2 | 41 | 2026-07-17 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 349 | 2 | 13 | 5 | 1 | 2026-07-20 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-17 | ✅ OK |
 | Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-07-20 | ✅ OK (1) |
+| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-07-20 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 49 | 0 | 12 | 2026-07-20 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
