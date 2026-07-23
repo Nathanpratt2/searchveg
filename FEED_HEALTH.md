@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-07-23 13:03:18
-**Total Run Time:** 7m 32s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
+**Last Run:** 2026-07-23 18:02:31
+**Total Run Time:** 8m 19s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 6s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -9,9 +9,9 @@
 | **Total Database** | 20972 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 189 | Total recorded actions in database |
+| **Trending Events** | 197 | Total recorded actions in database |
 | **WFPB / GF** | 2594 / 2748 | 12% / 13% |
-| **Easy / Budget** | 5058 / 2088 | 24% / 9% |
+| **Easy / Budget** | 5057 / 2088 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **3.89** | *1.54* |
-| 2 |[Soya Manchurian 😋](https://www.reddit.com/r/veganrecipes/comments/1v3bq8s/soya_manchurian/) | Reddit | **3.20** | *1.27* |
-| 3 |[Our new favorite lunch - Buffalo Ranch Tofu Wraps 🌶️](https://www.reddit.com/r/veganrecipes/comments/1uzhiye/our_new_favorite_lunch_buffalo_ranch_tofu_wraps/) | Reddit | **1.51** | *0.60* |
-| 4 |[Vegan Breakfast Burrito Bowl Meal Prep](https://www.rabbitandwolves.com/vegan-breakfast-burrito-bowl-meal-prep/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-breakfast-burrito-bowl-meal-prep) | Rabbit and Wolves | **1.29** | *0.51* |
-| 5 |[korean-style bbq tofu skewers](https://www.reddit.com/r/veganrecipes/comments/1v0w5tx/koreanstyle_bbq_tofu_skewers/) | Reddit | **1.11** | *0.44* |
-| 6 |[Herbed Tofu Ricotta Cheese](https://vegnews.com/recipes/herbed-vegan-tofu-ricotta) | VegNews | **0.77** | *0.31* |
-| 7 |[17 Easy vegan party and potluck recipes](https://www.mydarlingvegan.com/17-easy-vegan-party-and-potluck-recipes/) | My Darling Vegan | **0.77** | *0.31* |
-| 8 |[Vegan Loaded Baked Potatoes (Lentil & Tofu)](https://drveganblog.com/vegan-loaded-baked-potatoes/) | Dr. Vegan | **0.50** | *0.20* |
+| 1 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **3.53** | *1.40* |
+| 2 |[Soya Manchurian 😋](https://www.reddit.com/r/veganrecipes/comments/1v3bq8s/soya_manchurian/) | Reddit | **2.90** | *1.15* |
+| 3 |[Our new favorite lunch - Buffalo Ranch Tofu Wraps 🌶️](https://www.reddit.com/r/veganrecipes/comments/1uzhiye/our_new_favorite_lunch_buffalo_ranch_tofu_wraps/) | Reddit | **1.37** | *0.55* |
+| 4 |[Vegan Breakfast Burrito Bowl Meal Prep](https://www.rabbitandwolves.com/vegan-breakfast-burrito-bowl-meal-prep/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-breakfast-burrito-bowl-meal-prep) | Rabbit and Wolves | **1.17** | *0.47* |
+| 5 |[korean-style bbq tofu skewers](https://www.reddit.com/r/veganrecipes/comments/1v0w5tx/koreanstyle_bbq_tofu_skewers/) | Reddit | **1.01** | *0.40* |
+| 6 |[Herbed Tofu Ricotta Cheese](https://vegnews.com/recipes/herbed-vegan-tofu-ricotta) | VegNews | **0.70** | *0.28* |
+| 7 |[17 Easy vegan party and potluck recipes](https://www.mydarlingvegan.com/17-easy-vegan-party-and-potluck-recipes/) | My Darling Vegan | **0.70** | *0.28* |
+| 8 |[Vegan Loaded Baked Potatoes (Lentil & Tofu)](https://drveganblog.com/vegan-loaded-baked-potatoes/) | Dr. Vegan | **0.45** | *0.18* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 17 | 0 | 0 | 0 | 0 | 2026-07-20 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 8 | 0 | 0 | 2026-07-22 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -49,7 +49,7 @@
 | PlantYou | 1 | 46 | 46 | 7 | 2 | 0 | 2026-07-19 | ✅ OK |
 | Vegan Richa GF | 0 | 48 | 2 | 12 | 7 | 48 | 2026-07-22 | ✅ OK |
 | My Goodness Kitchen | 2 | 61 | 7 | 7 | 3 | 3 | 2026-07-20 | ✅ OK |
-| Jessica in the Kitchen | 1 | 66 | 1 | 7 | 1 | 3 | 2026-07-20 | ✅ OK |
+| Jessica in the Kitchen | 2 | 67 | 1 | 7 | 1 | 3 | 2026-07-23 | ✅ OK |
 | The Korean Vegan | 1 | 99 | 8 | 61 | 10 | 5 | 2026-06-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 123 | 1 | 12 | 123 | 0 | 2026-07-16 | ✅ OK |
@@ -70,7 +70,7 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 1 | 208 | 14 | 32 | 13 | 5 | 2026-07-13 | ✅ OK |
-| The Little Blog of Vegan | 2 | 209 | 0 | 40 | 0 | 1 | 2026-07-23 | ✅ OK |
+| The Little Blog of Vegan | 1 | 209 | 0 | 40 | 0 | 1 | 2026-07-23 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Elavegan | 0 | 217 | 5 | 38 | 2 | 209 | 2026-07-19 | ✅ OK |
@@ -119,14 +119,14 @@
 | Plant-Based on a Budget | 2 | 286 | 16 | 70 | 286 | 1 | 2026-07-20 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Monkey & Me Kitchen Adventures | 0 | 288 | 38 | 78 | 3 | 0 | 2026-07-22 | ✅ OK |
-| Healthy Little Vittles | 4 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
+| Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
 | Connoisseurus Veg | 1 | 302 | 0 | 34 | 1 | 0 | 2026-07-20 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 314 | 41 | 39 | 2 | 41 | 2026-07-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-07-17 | ✅ OK |
 | Reddit | 3 | 350 | 1 | 42 | 0 | 5 | 2026-07-22 | ✅ OK (3) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-23 | ✅ OK |
-| VegNews | 1 | 350 | 1 | 50 | 0 | 12 | 2026-07-22 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 49 | 0 | 12 | 2026-07-23 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
