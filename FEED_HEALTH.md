@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-24 09:09:17
-**Total Run Time:** 7m 18s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-07-24 13:00:49
+**Total Run Time:** 7m 7s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20975 | 153 new today |
+| **Total Database** | 20975 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 197 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **8.46** | *3.36* |
-| 2 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **7.72** | *3.06* |
-| 3 |[DIY Strawberry Milkshakes](https://www.theppk.com/2026/07/easy-vegan-strawberry-milkshake/) | The Post-Punk Kitchen | **5.08** | *2.02* |
-| 4 |[Grilled Corn and Smashed Cucumber Salad](https://plantbasedrdblog.com/2026/07/corn-cucumber-salad/?utm_source=rss&utm_medium=rss&utm_campaign=corn-cucumber-salad) | The Plant-Based RD | **5.08** | *2.02* |
-| 5 |[Lauren Toyota's Ultimate Vegan Breakfast Skillet](https://vegnews.com/recipes/the-ultimate-vegan-breakfast-skillet) | VegNews | **5.08** | *2.02* |
-| 6 |[TVP Unturkey Salad](https://www.theppk.com/2026/07/tvp-unturkey-salad/) | The Post-Punk Kitchen | **5.08** | *2.02* |
-| 7 |[Vegan Biscoff Ice-Cream Tacos](https://www.thelittleblogofvegan.com/2026/07/vegan-biscoff-ice-cream-tacos.html) | The Little Blog of Vegan | **5.08** | *2.01* |
-| 8 |[Soya Manchurian 😋](https://www.reddit.com/r/veganrecipes/comments/1v3bq8s/soya_manchurian/) | Reddit | **2.17** | *0.86* |
+| 1 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **7.86** | *3.12* |
+| 2 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **7.17** | *2.84* |
+| 3 |[DIY Strawberry Milkshakes](https://www.theppk.com/2026/07/easy-vegan-strawberry-milkshake/) | The Post-Punk Kitchen | **4.71** | *1.87* |
+| 4 |[Grilled Corn and Smashed Cucumber Salad](https://plantbasedrdblog.com/2026/07/corn-cucumber-salad/?utm_source=rss&utm_medium=rss&utm_campaign=corn-cucumber-salad) | The Plant-Based RD | **4.71** | *1.87* |
+| 5 |[Lauren Toyota's Ultimate Vegan Breakfast Skillet](https://vegnews.com/recipes/the-ultimate-vegan-breakfast-skillet) | VegNews | **4.71** | *1.87* |
+| 6 |[TVP Unturkey Salad](https://www.theppk.com/2026/07/tvp-unturkey-salad/) | The Post-Punk Kitchen | **4.71** | *1.87* |
+| 7 |[Vegan Biscoff Ice-Cream Tacos](https://www.thelittleblogofvegan.com/2026/07/vegan-biscoff-ice-cream-tacos.html) | The Little Blog of Vegan | **4.71** | *1.87* |
+| 8 |[Soya Manchurian 😋](https://www.reddit.com/r/veganrecipes/comments/1v3bq8s/soya_manchurian/) | Reddit | **2.02** | *0.80* |
 
 ---
 
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 302 | 0 | 34 | 1 | 0 | 2026-07-20 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 314 | 41 | 39 | 2 | 41 | 2026-07-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 42 | 0 | 5 | 2026-07-24 | ✅ OK (3) |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 5 | 2026-07-24 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-23 | ✅ OK |
 | VegNews | 1 | 350 | 1 | 49 | 0 | 12 | 2026-07-23 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
