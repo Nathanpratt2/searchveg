@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-24 18:05:03
-**Total Run Time:** 7m 22s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (1m 13s)
+**Last Run:** 2026-07-24 22:40:31
+**Total Run Time:** 7m 10s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20977 | 153 new today |
+| **Total Database** | 20982 | 155 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 197 | Total recorded actions in database |
+| **Trending Events** | 200 | Total recorded actions in database |
 | **WFPB / GF** | 2594 / 2747 | 12% / 13% |
-| **Easy / Budget** | 5057 / 2088 | 24% / 9% |
+| **Easy / Budget** | 5058 / 2088 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **7.13** | *2.83* |
-| 2 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **6.50** | *2.58* |
-| 3 |[DIY Strawberry Milkshakes](https://www.theppk.com/2026/07/easy-vegan-strawberry-milkshake/) | The Post-Punk Kitchen | **4.28** | *1.70* |
-| 4 |[Grilled Corn and Smashed Cucumber Salad](https://plantbasedrdblog.com/2026/07/corn-cucumber-salad/?utm_source=rss&utm_medium=rss&utm_campaign=corn-cucumber-salad) | The Plant-Based RD | **4.28** | *1.70* |
-| 5 |[Lauren Toyota's Ultimate Vegan Breakfast Skillet](https://vegnews.com/recipes/the-ultimate-vegan-breakfast-skillet) | VegNews | **4.28** | *1.70* |
-| 6 |[TVP Unturkey Salad](https://www.theppk.com/2026/07/tvp-unturkey-salad/) | The Post-Punk Kitchen | **4.28** | *1.70* |
-| 7 |[Vegan Biscoff Ice-Cream Tacos](https://www.thelittleblogofvegan.com/2026/07/vegan-biscoff-ice-cream-tacos.html) | The Little Blog of Vegan | **4.28** | *1.70* |
-| 8 |[Soya Manchurian 😋](https://www.reddit.com/r/veganrecipes/comments/1v3bq8s/soya_manchurian/) | Reddit | **1.83** | *0.73* |
+| 1 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **6.52** | *2.59* |
+| 2 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **5.95** | *2.36* |
+| 3 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **5.60** | *2.22* |
+| 4 |[DIY Strawberry Milkshakes](https://www.theppk.com/2026/07/easy-vegan-strawberry-milkshake/) | The Post-Punk Kitchen | **3.91** | *1.55* |
+| 5 |[Grilled Corn and Smashed Cucumber Salad](https://plantbasedrdblog.com/2026/07/corn-cucumber-salad/?utm_source=rss&utm_medium=rss&utm_campaign=corn-cucumber-salad) | The Plant-Based RD | **3.91** | *1.55* |
+| 6 |[Lauren Toyota's Ultimate Vegan Breakfast Skillet](https://vegnews.com/recipes/the-ultimate-vegan-breakfast-skillet) | VegNews | **3.91** | *1.55* |
+| 7 |[TVP Unturkey Salad](https://www.theppk.com/2026/07/tvp-unturkey-salad/) | The Post-Punk Kitchen | **3.91** | *1.55* |
+| 8 |[Vegan Biscoff Ice-Cream Tacos](https://www.thelittleblogofvegan.com/2026/07/vegan-biscoff-ice-cream-tacos.html) | The Little Blog of Vegan | **3.91** | *1.55* |
 
 ---
 
@@ -50,7 +50,7 @@
 | Vegan Richa GF | 0 | 48 | 2 | 12 | 7 | 48 | 2026-07-22 | ✅ OK |
 | My Goodness Kitchen | 2 | 61 | 7 | 7 | 3 | 3 | 2026-07-20 | ✅ OK |
 | Jessica in the Kitchen | 2 | 67 | 1 | 7 | 1 | 3 | 2026-07-23 | ✅ OK |
-| The Korean Vegan | 2 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
+| The Korean Vegan | 1 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 123 | 1 | 12 | 123 | 0 | 2026-07-16 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -81,14 +81,14 @@
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-10 | ✅ OK |
 | Cadry's Kitchen | 6 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| The Burger Dude | 5 | 231 | 6 | 13 | 14 | 0 | 2026-07-17 | ✅ OK |
+| The Burger Dude | 5 | 231 | 6 | 13 | 14 | 0 | 2026-07-24 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 231 | 21 | 231 | 231 | 1 | 2026-07-16 | ✅ OK |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Sweet Simple Vegan | 0 | 234 | 4 | 45 | 18 | 2 | 2026-07-15 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | The First Mess | 0 | 235 | 1 | 31 | 3 | 1 | 2026-07-22 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Sweet Potato Soul | 0 | 240 | 0 | 35 | 1 | 6 | 2026-07-23 | ✅ OK |
+| Sweet Potato Soul | 1 | 241 | 0 | 36 | 1 | 6 | 2026-07-24 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 241 | 241 | 50 | 241 | 4 | 2026-07-07 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
@@ -104,8 +104,8 @@
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
 | Make It Dairy Free | 1 | 263 | 4 | 42 | 2 | 3 | 2026-07-19 | ✅ OK |
-| My Darling Vegan | 1 | 266 | 1 | 32 | 4 | 12 | 2026-07-18 | ✅ OK |
 | Eat Figs, Not Pigs | 4 | 267 | 1 | 35 | 2 | 0 | 2026-07-21 | ✅ OK |
+| My Darling Vegan | 2 | 267 | 1 | 32 | 4 | 12 | 2026-07-24 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Bianca Zapatka | 0 | 268 | 22 | 120 | 43 | 4 | 2026-07-20 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
@@ -117,16 +117,16 @@
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 285 | 285 | 7 | 0 | 9 | 2026-07-21 | ✅ OK |
 | Plant-Based on a Budget | 2 | 286 | 16 | 70 | 286 | 1 | 2026-07-20 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Monkey & Me Kitchen Adventures | 0 | 288 | 38 | 78 | 3 | 0 | 2026-07-22 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
-| Connoisseurus Veg | 2 | 303 | 0 | 34 | 1 | 0 | 2026-07-24 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 314 | 41 | 39 | 2 | 41 | 2026-07-21 | ✅ OK |
+| Connoisseurus Veg | 1 | 303 | 0 | 34 | 1 | 0 | 2026-07-24 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 315 | 41 | 40 | 2 | 41 | 2026-07-24 | ✅ OK |
+| Reddit | 1 | 349 | 1 | 41 | 0 | 5 | 2026-07-24 | ✅ OK (1) |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 42 | 0 | 5 | 2026-07-24 | ✅ OK (3) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-23 | ✅ OK |
-| VegNews | 4 | 350 | 1 | 49 | 0 | 11 | 2026-07-24 | ✅ OK |
+| VegNews | 1 | 350 | 1 | 49 | 0 | 11 | 2026-07-24 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
