@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-25 08:35:13
+**Last Run:** 2026-07-25 12:21:30
 **Total Run Time:** 7m 11s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 35s)
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20985 | 150 new today |
+| **Total Database** | 20985 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 203 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **8.92** | *3.54* |
-| 2 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **5.39** | *2.14* |
-| 3 |[BBQ Tempeh](https://sweetpotatosoul.com/bbq-tempeh/) | Sweet Potato Soul | **5.35** | *2.12* |
-| 4 |[Caramel Blondies](https://www.gretchensveganbakery.com/caramel-blondies/) | Gretchen's Vegan Bakery | **5.35** | *2.12* |
-| 5 |[Vegan Big Mac Bowls](https://www.rabbitandwolves.com/vegan-big-mac-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-big-mac-bowls) | Rabbit and Wolves | **5.35** | *2.12* |
-| 6 |[Vegan Rasta Pasta](https://www.reddit.com/r/veganrecipes/comments/1v53pog/vegan_rasta_pasta/) | Reddit | **5.35** | *2.12* |
-| 7 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **4.92** | *1.95* |
-| 8 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **4.63** | *1.84* |
+| 1 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **8.30** | *3.29* |
+| 2 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **5.01** | *1.99* |
+| 3 |[BBQ Tempeh](https://sweetpotatosoul.com/bbq-tempeh/) | Sweet Potato Soul | **4.98** | *1.98* |
+| 4 |[Caramel Blondies](https://www.gretchensveganbakery.com/caramel-blondies/) | Gretchen's Vegan Bakery | **4.98** | *1.98* |
+| 5 |[Vegan Big Mac Bowls](https://www.rabbitandwolves.com/vegan-big-mac-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-big-mac-bowls) | Rabbit and Wolves | **4.98** | *1.98* |
+| 6 |[Vegan Rasta Pasta](https://www.reddit.com/r/veganrecipes/comments/1v53pog/vegan_rasta_pasta/) | Reddit | **4.98** | *1.98* |
+| 7 |[Easy Lentil Dip with Crispy Capers](https://www.veganricha.com/lentil-dip/) | Vegan Richa GF | **4.57** | *1.81* |
+| 8 |[Vegan Fish Tacos (with Tofu)](https://www.eatfigsnotpigs.com/vegan-fish-tacos-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-fish-tacos-with-tofu) | Eat Figs, Not Pigs | **4.31** | *1.71* |
 
 ---
 
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 0 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
+| Earth to Veg | 1 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
