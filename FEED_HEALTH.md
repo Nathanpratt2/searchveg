@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-27 05:13:03
-**Total Run Time:** 6m 56s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-07-27 10:21:33
+**Total Run Time:** 7m 30s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20988 | 148 new today |
+| **Total Database** | 20988 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 203 | Total recorded actions in database |
 | **WFPB / GF** | 2594 / 2747 | 12% / 13% |
-| **Easy / Budget** | 5061 / 2088 | 24% / 9% |
+| **Easy / Budget** | 5061 / 2089 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **5.90** | *2.34* |
-| 2 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **5.90** | *2.34* |
-| 3 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **3.78** | *1.50* |
-| 4 |[Apricot Pancakes](https://www.reddit.com/r/veganrecipes/comments/1v7hrp2/apricot_pancakes/) | Reddit | **3.60** | *1.43* |
-| 5 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **2.28** | *0.91* |
-| 6 |[BBQ Tempeh](https://sweetpotatosoul.com/bbq-tempeh/) | Sweet Potato Soul | **2.27** | *0.90* |
-| 7 |[Caramel Blondies](https://www.gretchensveganbakery.com/caramel-blondies/) | Gretchen's Vegan Bakery | **2.27** | *0.90* |
-| 8 |[Vegan Big Mac Bowls](https://www.rabbitandwolves.com/vegan-big-mac-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-big-mac-bowls) | Rabbit and Wolves | **2.27** | *0.90* |
+| 1 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **5.35** | *2.12* |
+| 2 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **5.35** | *2.12* |
+| 3 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **3.42** | *1.36* |
+| 4 |[Apricot Pancakes](https://www.reddit.com/r/veganrecipes/comments/1v7hrp2/apricot_pancakes/) | Reddit | **3.26** | *1.29* |
+| 5 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **2.07** | *0.82* |
+| 6 |[BBQ Tempeh](https://sweetpotatosoul.com/bbq-tempeh/) | Sweet Potato Soul | **2.05** | *0.81* |
+| 7 |[Caramel Blondies](https://www.gretchensveganbakery.com/caramel-blondies/) | Gretchen's Vegan Bakery | **2.05** | *0.81* |
+| 8 |[Vegan Big Mac Bowls](https://www.rabbitandwolves.com/vegan-big-mac-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-big-mac-bowls) | Rabbit and Wolves | **2.05** | *0.81* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 17 | 0 | 0 | 0 | 0 | 2026-07-20 | ❌ Blocked/ConnErr |
+| Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-07-22 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 0 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
+| Earth to Veg | 1 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 174 | 174 | 12 | 18 | 42 | 2026-07-03 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -116,8 +116,8 @@
 | The Plant-Based RD | 0 | 278 | 4 | 17 | 1 | 0 | 2026-07-26 | ✅ OK |
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 285 | 285 | 7 | 0 | 9 | 2026-07-21 | ✅ OK |
-| Plant-Based on a Budget | 2 | 286 | 16 | 70 | 286 | 1 | 2026-07-20 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Plant-Based on a Budget | 3 | 287 | 16 | 70 | 287 | 1 | 2026-07-27 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 288 | 38 | 78 | 3 | 0 | 2026-07-22 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |

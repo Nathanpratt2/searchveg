@@ -1,6 +1,17 @@
 [
   {
     "blog_name": "Reddit",
+    "title": "Healthy oats chilla \ud83d\ude0b",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1v7vt6q/healthy_oats_chilla/",
+    "image": "https://preview.redd.it/fb2lm008vqfh1.jpeg?width=640&crop=smart&auto=webp&s=e520ce02b680931b65d5dc9978166979da301e87",
+    "date": "2026-07-27T09:51:22+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
     "title": "When life throws you lemons, embrace the raw vegan lifestyle and watch yourself glow!",
     "link": "https://www.reddit.com/r/veganrecipes/comments/1v7mbz4/when_life_throws_you_lemons_embrace_the_raw_vegan/",
     "image": "https://preview.redd.it/fzxhogkjdofh1.jpeg?width=640&crop=smart&auto=webp&s=19258d18395d98d494d1c521dd46ea85491546cf",
@@ -19,7 +30,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.6
+    "trending_score": 3.26
   },
   {
     "blog_name": "VegNews",
@@ -52,7 +63,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 5.9
+    "trending_score": 5.35
   },
   {
     "blog_name": "VegNews",
@@ -96,7 +107,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 5.9
+    "trending_score": 5.35
   },
   {
     "blog_name": "Reddit",
@@ -328,7 +339,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.78
+    "trending_score": 3.42
   },
   {
     "blog_name": "Reddit",
@@ -361,7 +372,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.27
+    "trending_score": 2.05
   },
   {
     "blog_name": "Gretchen's Vegan Bakery",
@@ -372,7 +383,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.27
+    "trending_score": 2.05
   },
   {
     "blog_name": "Sweet Potato Soul",
@@ -383,7 +394,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.27
+    "trending_score": 2.05
   },
   {
     "blog_name": "VegNews",
@@ -651,7 +662,7 @@
       "GF"
     ],
     "is_trending": true,
-    "trending_score": 2.28
+    "trending_score": 2.07
   },
   {
     "blog_name": "Lazy Cat Kitchen",
@@ -15903,17 +15914,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Mi plato salvador de almuerzos",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1strk7z/mi_plato_salvador_de_almuerzos/",
-    "image": "https://preview.redd.it/h1a6zmcmizwg1.png?width=140&height=105&auto=webp&s=add3ce28dc2378e95953b96735248ce1290df5af",
-    "date": "2026-04-23T18:43:07+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -211363,8 +211363,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211484,8 +211484,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211616,8 +211616,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -211656,8 +211656,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
