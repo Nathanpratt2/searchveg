@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-28 09:22:35
-**Total Run Time:** 7m 44s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-07-28 13:14:15
+**Total Run Time:** 7m 2s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20999 | 129 new today |
+| **Total Database** | 21002 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 206 | Total recorded actions in database |
+| **Trending Events** | 213 | Total recorded actions in database |
 | **WFPB / GF** | 2596 / 2748 | 12% / 13% |
-| **Easy / Budget** | 5058 / 2090 | 24% / 9% |
+| **Easy / Budget** | 5064 / 2091 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Egg Frittata Muffins](https://healthygirlkitchen.com/vegan-egg-frittata-muffins/) | HealthyGirl Kitchen | **4.94** | *1.96* |
-| 2 |[Vegan Egg Muffins](https://www.noracooks.com/vegan-egg-muffins/) | Nora Cooks | **4.94** | *1.96* |
-| 3 |[Vegan Egg Muffins – Mini Chickpea Frittata](https://biancazapatka.com/en/vegan-egg-muffins/) | Bianca Zapatka | **4.94** | *1.96* |
-| 4 |[Shredded Tofu Barbecue Sandwiches](https://www.connoisseurusveg.com/shredded-tofu-barbecue-sandwiches/) | Connoisseurus Veg | **4.87** | *1.93* |
-| 5 |[Black Bean Smash Tacos](https://theeburgerdude.com/black-bean-smash-tacos/) | The Burger Dude | **4.78** | *1.90* |
-| 6 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **3.43** | *1.36* |
-| 7 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **3.43** | *1.36* |
-| 8 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **2.20** | *0.87* |
+| 1 |[Vegan Egg Frittata Muffins](https://healthygirlkitchen.com/vegan-egg-frittata-muffins/) | HealthyGirl Kitchen | **4.59** | *1.82* |
+| 2 |[Vegan Egg Muffins](https://www.noracooks.com/vegan-egg-muffins/) | Nora Cooks | **4.59** | *1.82* |
+| 3 |[Vegan Egg Muffins – Mini Chickpea Frittata](https://biancazapatka.com/en/vegan-egg-muffins/) | Bianca Zapatka | **4.59** | *1.82* |
+| 4 |[Shredded Tofu Barbecue Sandwiches](https://www.connoisseurusveg.com/shredded-tofu-barbecue-sandwiches/) | Connoisseurus Veg | **4.52** | *1.79* |
+| 5 |[Black Bean Smash Tacos](https://theeburgerdude.com/black-bean-smash-tacos/) | The Burger Dude | **4.44** | *1.76* |
+| 6 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **3.19** | *1.26* |
+| 7 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **3.19** | *1.26* |
+| 8 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **2.04** | *0.81* |
 
 ---
 
@@ -39,12 +39,12 @@
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-07-22 | ✅ OK |
-| Mary's Test Kitchen | 0 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
+| Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 1 | 26 | 5 | 1 | 4 | 25 | 2026-05-28 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
 | The Banana Diaries | 0 | 35 | 0 | 10 | 2 | 0 | 2026-07-17 | ✅ OK |
-| Dr. Vegan | 0 | 39 | 4 | 39 | 8 | 0 | 2026-07-27 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
+| Dr. Vegan | 4 | 43 | 4 | 43 | 8 | 0 | 2026-07-27 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 47 | 47 | 8 | 2 | 0 | 2026-07-27 | ✅ OK |
 | Vegan Richa GF | 0 | 48 | 2 | 12 | 7 | 48 | 2026-07-22 | ✅ OK |
@@ -55,29 +55,29 @@
 | The Hidden Veggies | 4 | 124 | 1 | 12 | 124 | 0 | 2026-07-27 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 0 | 146 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 0 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
+| Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
+| Earth to Veg | 1 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Steamy Vegan | 2 | 187 | 9 | 29 | 10 | 2 | 2026-07-18 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 12 | 188 | 0 | 24 | 1 | 30 | 2026-07-23 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Little Blog of Vegan | 0 | 208 | 0 | 40 | 0 | 1 | 2026-07-23 | ✅ OK |
 | Nora Cooks | 2 | 209 | 14 | 32 | 13 | 5 | 2026-07-27 | ✅ OK |
+| The Little Blog of Vegan | 1 | 209 | 0 | 40 | 0 | 1 | 2026-07-23 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Elavegan | 0 | 217 | 5 | 38 | 2 | 209 | 2026-07-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 6 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (6) |
+| Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-10 | ✅ OK |
 | Cadry's Kitchen | 6 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -107,24 +107,24 @@
 | My Darling Vegan | 1 | 267 | 1 | 32 | 4 | 12 | 2026-07-24 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Bianca Zapatka | 0 | 268 | 22 | 120 | 43 | 4 | 2026-07-20 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 268 | 1 | 34 | 2 | 0 | 2026-07-27 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
+| Eat Figs, Not Pigs | 4 | 269 | 1 | 34 | 2 | 0 | 2026-07-28 | ✅ OK |
 | A Virtual Vegan | 6 | 270 | 3 | 36 | 1 | 4 | 2026-07-22 | ✅ OK |
-| From My Bowl | 0 | 273 | 3 | 47 | 3 | 5 | 2026-07-21 | ✅ OK |
+| From My Bowl | 1 | 274 | 3 | 47 | 3 | 5 | 2026-07-28 | ✅ OK |
 | It Doesn't Taste Like Chicken | 3 | 274 | 1 | 95 | 7 | 218 | 2026-07-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | The Plant-Based RD | 0 | 278 | 4 | 17 | 1 | 0 | 2026-07-26 | ✅ OK |
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 285 | 285 | 7 | 0 | 9 | 2026-07-21 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
-| Plant-Based on a Budget | 3 | 287 | 16 | 70 | 287 | 1 | 2026-07-27 | ✅ OK |
+| Plant-Based on a Budget | 4 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 289 | 38 | 79 | 3 | 0 | 2026-07-27 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 315 | 41 | 40 | 2 | 41 | 2026-07-24 | ✅ OK |
+| Reddit | 0 | 349 | 1 | 42 | 0 | 5 | 2026-07-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 5 | 2026-07-28 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-23 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 51 | 0 | 11 | 2026-07-27 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
