@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-27 22:39:20
-**Total Run Time:** 6m 59s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-07-28 04:45:36
+**Total Run Time:** 7m 9s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 49s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 20997 | 155 new today |
+| **Total Database** | 20998 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 200 | Total recorded actions in database |
-| **WFPB / GF** | 2596 / 2747 | 12% / 13% |
-| **Easy / Budget** | 5063 / 2090 | 24% / 9% |
+| **Trending Events** | 206 | Total recorded actions in database |
+| **WFPB / GF** | 2596 / 2748 | 12% / 13% |
+| **Easy / Budget** | 5064 / 2090 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Shredded Tofu Barbecue Sandwiches](https://www.connoisseurusveg.com/shredded-tofu-barbecue-sandwiches/) | Connoisseurus Veg | **5.98** | *2.37* |
-| 2 |[Black Bean Smash Tacos](https://theeburgerdude.com/black-bean-smash-tacos/) | The Burger Dude | **5.88** | *2.33* |
-| 3 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **4.22** | *1.67* |
-| 4 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **4.22** | *1.67* |
-| 5 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **2.70** | *1.07* |
-| 6 |[Apricot Pancakes](https://www.reddit.com/r/veganrecipes/comments/1v7hrp2/apricot_pancakes/) | Reddit | **2.57** | *1.02* |
-| 7 |[Vegan & Gluten Free Fauxlogna](https://www.reddit.com/r/veganrecipes/comments/1v2pcqv/vegan_gluten_free_fauxlogna/) | Reddit | **1.63** | *0.65* |
-| 8 |[BBQ Tempeh](https://sweetpotatosoul.com/bbq-tempeh/) | Sweet Potato Soul | **1.62** | *0.64* |
+| 1 |[Vegan Egg Frittata Muffins](https://healthygirlkitchen.com/vegan-egg-frittata-muffins/) | HealthyGirl Kitchen | **5.40** | *2.14* |
+| 2 |[Vegan Egg Muffins](https://www.noracooks.com/vegan-egg-muffins/) | Nora Cooks | **5.40** | *2.14* |
+| 3 |[Vegan Egg Muffins – Mini Chickpea Frittata](https://biancazapatka.com/en/vegan-egg-muffins/) | Bianca Zapatka | **5.40** | *2.14* |
+| 4 |[Shredded Tofu Barbecue Sandwiches](https://www.connoisseurusveg.com/shredded-tofu-barbecue-sandwiches/) | Connoisseurus Veg | **5.32** | *2.11* |
+| 5 |[Black Bean Smash Tacos](https://theeburgerdude.com/black-bean-smash-tacos/) | The Burger Dude | **5.22** | *2.07* |
+| 6 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **3.75** | *1.49* |
+| 7 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **3.75** | *1.49* |
+| 8 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **2.40** | *0.95* |
 
 ---
 
@@ -85,7 +85,7 @@
 | The Cheap Lazy Vegan | 0 | 231 | 21 | 231 | 231 | 1 | 2026-07-16 | ✅ OK |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
-| Sweet Simple Vegan | 1 | 235 | 4 | 45 | 18 | 2 | 2026-07-27 | ✅ OK |
+| Sweet Simple Vegan | 0 | 235 | 4 | 45 | 18 | 2 | 2026-07-27 | ✅ OK |
 | The First Mess | 0 | 235 | 1 | 31 | 3 | 1 | 2026-07-22 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 0 | 241 | 0 | 36 | 1 | 6 | 2026-07-24 | ✅ OK |
@@ -102,7 +102,7 @@
 | Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-07-22 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
-| Veggiekins | 0 | 260 | 35 | 260 | 0 | 257 | 2026-06-29 | ✅ OK |
+| Veggiekins | 1 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Make It Dairy Free | 1 | 264 | 4 | 42 | 2 | 3 | 2026-07-26 | ✅ OK |
 | My Darling Vegan | 1 | 267 | 1 | 32 | 4 | 12 | 2026-07-24 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -119,12 +119,12 @@
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Plant-Based on a Budget | 3 | 287 | 16 | 70 | 287 | 1 | 2026-07-27 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 289 | 38 | 79 | 3 | 0 | 2026-07-27 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 289 | 38 | 79 | 3 | 0 | 2026-07-27 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 315 | 41 | 40 | 2 | 41 | 2026-07-24 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 42 | 0 | 5 | 2026-07-27 | ✅ OK (2) |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 5 | 2026-07-28 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-23 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 51 | 0 | 11 | 2026-07-27 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
