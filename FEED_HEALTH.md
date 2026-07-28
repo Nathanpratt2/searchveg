@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-28 13:14:15
-**Total Run Time:** 7m 2s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
+**Last Run:** 2026-07-28 17:58:04
+**Total Run Time:** 7m 44s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21002 | 154 new today |
+| **Total Database** | 21005 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 213 | Total recorded actions in database |
 | **WFPB / GF** | 2596 / 2748 | 12% / 13% |
-| **Easy / Budget** | 5064 / 2091 | 24% / 9% |
+| **Easy / Budget** | 5065 / 2091 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Egg Frittata Muffins](https://healthygirlkitchen.com/vegan-egg-frittata-muffins/) | HealthyGirl Kitchen | **4.59** | *1.82* |
-| 2 |[Vegan Egg Muffins](https://www.noracooks.com/vegan-egg-muffins/) | Nora Cooks | **4.59** | *1.82* |
-| 3 |[Vegan Egg Muffins – Mini Chickpea Frittata](https://biancazapatka.com/en/vegan-egg-muffins/) | Bianca Zapatka | **4.59** | *1.82* |
-| 4 |[Shredded Tofu Barbecue Sandwiches](https://www.connoisseurusveg.com/shredded-tofu-barbecue-sandwiches/) | Connoisseurus Veg | **4.52** | *1.79* |
-| 5 |[Black Bean Smash Tacos](https://theeburgerdude.com/black-bean-smash-tacos/) | The Burger Dude | **4.44** | *1.76* |
-| 6 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **3.19** | *1.26* |
-| 7 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **3.19** | *1.26* |
-| 8 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **2.04** | *0.81* |
+| 1 |[Vegan Egg Frittata Muffins](https://healthygirlkitchen.com/vegan-egg-frittata-muffins/) | HealthyGirl Kitchen | **4.19** | *1.66* |
+| 2 |[Vegan Egg Muffins](https://www.noracooks.com/vegan-egg-muffins/) | Nora Cooks | **4.19** | *1.66* |
+| 3 |[Vegan Egg Muffins – Mini Chickpea Frittata](https://biancazapatka.com/en/vegan-egg-muffins/) | Bianca Zapatka | **4.19** | *1.66* |
+| 4 |[Shredded Tofu Barbecue Sandwiches](https://www.connoisseurusveg.com/shredded-tofu-barbecue-sandwiches/) | Connoisseurus Veg | **4.12** | *1.64* |
+| 5 |[Black Bean Smash Tacos](https://theeburgerdude.com/black-bean-smash-tacos/) | The Burger Dude | **4.05** | *1.61* |
+| 6 |[KFC Coleslaw Copycat (Sweet, Creamy & Vegan!)](https://itdoesnttastelikechicken.com/kfc-coleslaw-copycat/) | It Doesn't Taste Like Chicken | **2.91** | *1.15* |
+| 7 |[Nashville-Style Hot Tofu Chicken](https://vegnews.com/recipes/vegan-nashville-style-hot-tofu-chicken) | VegNews | **2.91** | *1.15* |
+| 8 |[Avocado Sushi](https://www.connoisseurusveg.com/avocado-sushi/) | Connoisseurus Veg | **1.86** | *0.74* |
 
 ---
 
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 1 | 160 | 6 | 26 | 16 | 0 | 2026-07-14 | ✅ OK |
+| Earth to Veg | 2 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 167 | 3 | 31 | 10 | 0 | 2026-06-30 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -79,7 +79,7 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-10 | ✅ OK |
-| Cadry's Kitchen | 6 | 227 | 11 | 82 | 21 | 0 | 2026-06-25 | ✅ OK |
+| Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 231 | 6 | 13 | 14 | 0 | 2026-07-24 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 231 | 21 | 231 | 231 | 1 | 2026-07-16 | ✅ OK |
@@ -108,25 +108,25 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Bianca Zapatka | 0 | 268 | 22 | 120 | 43 | 4 | 2026-07-20 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 269 | 1 | 34 | 2 | 0 | 2026-07-28 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 269 | 1 | 34 | 2 | 0 | 2026-07-28 | ✅ OK |
 | A Virtual Vegan | 6 | 270 | 3 | 36 | 1 | 4 | 2026-07-22 | ✅ OK |
-| From My Bowl | 1 | 274 | 3 | 47 | 3 | 5 | 2026-07-28 | ✅ OK |
+| From My Bowl | 0 | 274 | 3 | 47 | 3 | 5 | 2026-07-28 | ✅ OK |
 | It Doesn't Taste Like Chicken | 3 | 274 | 1 | 95 | 7 | 218 | 2026-07-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | The Plant-Based RD | 0 | 278 | 4 | 17 | 1 | 0 | 2026-07-26 | ✅ OK |
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 285 | 285 | 7 | 0 | 9 | 2026-07-21 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
-| Plant-Based on a Budget | 4 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
+| Plant-Based on a Budget | 3 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 289 | 38 | 79 | 3 | 0 | 2026-07-27 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 315 | 41 | 40 | 2 | 41 | 2026-07-24 | ✅ OK |
-| Reddit | 0 | 349 | 1 | 42 | 0 | 5 | 2026-07-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 5 | 2026-07-28 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-23 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 51 | 0 | 11 | 2026-07-27 | ✅ OK |
+| VegNews | 3 | 350 | 1 | 51 | 0 | 11 | 2026-07-28 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
