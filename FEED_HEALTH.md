@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-29 17:52:36
-**Total Run Time:** 7m 12s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-07-29 22:35:58
+**Total Run Time:** 8m 54s
+**Longest Step:** RSS: Forks Over Knives (1m 5s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21011 | 147 new today |
+| **Total Database** | 21015 | 166 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 232 | Total recorded actions in database |
-| **WFPB / GF** | 2596 / 2747 | 12% / 13% |
-| **Easy / Budget** | 5066 / 2092 | 24% / 9% |
+| **Trending Events** | 231 | Total recorded actions in database |
+| **WFPB / GF** | 2605 / 2749 | 12% / 13% |
+| **Easy / Budget** | 5071 / 2092 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **7.57** | *3.00* |
-| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **7.57** | *3.00* |
-| 3 |[Miso-Maple Braised Tempeh](https://sweetsimplevegan.com/miso-maple-braised-tempeh/) | Sweet Simple Vegan | **4.54** | *1.80* |
-| 4 |[Seared Tofu with Jammy Tomatoes and Basil](https://frommybowl.com/seared-tofu-with-jammy-tomatoes-and-basil/?utm_source=rss&utm_medium=rss&utm_campaign=seared-tofu-with-jammy-tomatoes-and-basil) | From My Bowl | **4.54** | *1.80* |
-| 5 |[Cucumber Peach Salad](https://plantbasedonabudget.com/cucumber-peach-salad/) | Plant-Based on a Budget | **4.54** | *1.80* |
-| 6 |[Mediterranean-Inspired Tofu Bowls](https://www.eatfigsnotpigs.com/mediterranean-inspired-tofu-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=mediterranean-inspired-tofu-bowls) | Eat Figs, Not Pigs | **4.54** | *1.80* |
-| 7 |[Grilled Tofu burger](https://www.reddit.com/r/veganrecipes/comments/1v96v2f/grilled_tofu_burger/) | Reddit | **4.54** | *1.80* |
-| 8 |[Blueberry Yogurt Pound Cake (5 Ingredients, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/blueberry-yogurt-pound-cake/) | The Conscious Plant Kitchen | **4.54** | *1.80* |
+| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **6.91** | *2.74* |
+| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **6.91** | *2.74* |
+| 3 |[Miso-Maple Braised Tempeh](https://sweetsimplevegan.com/miso-maple-braised-tempeh/) | Sweet Simple Vegan | **4.15** | *1.65* |
+| 4 |[Seared Tofu with Jammy Tomatoes and Basil](https://frommybowl.com/seared-tofu-with-jammy-tomatoes-and-basil/?utm_source=rss&utm_medium=rss&utm_campaign=seared-tofu-with-jammy-tomatoes-and-basil) | From My Bowl | **4.15** | *1.65* |
+| 5 |[Cucumber Peach Salad](https://plantbasedonabudget.com/cucumber-peach-salad/) | Plant-Based on a Budget | **4.15** | *1.65* |
+| 6 |[Mediterranean-Inspired Tofu Bowls](https://www.eatfigsnotpigs.com/mediterranean-inspired-tofu-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=mediterranean-inspired-tofu-bowls) | Eat Figs, Not Pigs | **4.15** | *1.65* |
+| 7 |[Grilled Tofu burger](https://www.reddit.com/r/veganrecipes/comments/1v96v2f/grilled_tofu_burger/) | Reddit | **4.15** | *1.65* |
+| 8 |[Blueberry Yogurt Pound Cake (5 Ingredients, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/blueberry-yogurt-pound-cake/) | The Conscious Plant Kitchen | **4.15** | *1.65* |
 
 ---
 
@@ -47,7 +47,7 @@
 | Dr. Vegan | 4 | 43 | 4 | 43 | 8 | 0 | 2026-07-27 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 47 | 47 | 8 | 2 | 0 | 2026-07-27 | ✅ OK |
-| Vegan Richa GF | 0 | 48 | 2 | 12 | 7 | 48 | 2026-07-22 | ✅ OK |
+| Vegan Richa GF | 1 | 49 | 2 | 12 | 7 | 49 | 2026-07-29 | ✅ OK |
 | My Goodness Kitchen | 2 | 61 | 7 | 7 | 3 | 3 | 2026-07-20 | ✅ OK |
 | Jessica in the Kitchen | 2 | 68 | 1 | 7 | 1 | 3 | 2026-07-27 | ✅ OK |
 | The Korean Vegan | 1 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -59,11 +59,11 @@
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 168 | 3 | 31 | 10 | 0 | 2026-07-28 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 176 | 0 | 22 | 1 | 30 | 2026-05-20 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Steamy Vegan | 2 | 187 | 9 | 29 | 10 | 2 | 2026-07-18 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 12 | 188 | 0 | 24 | 1 | 30 | 2026-07-23 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
@@ -76,17 +76,17 @@
 | Elavegan | 0 | 217 | 5 | 38 | 2 | 209 | 2026-07-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
-| Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-10 | ✅ OK |
 | Cadry's Kitchen | 6 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 231 | 6 | 13 | 14 | 0 | 2026-07-24 | ✅ OK |
+| Forks Over Knives | 10 | 232 | 232 | 25 | 39 | 3 | 2026-02-10 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
-| Sweet Simple Vegan | 0 | 235 | 4 | 45 | 18 | 2 | 2026-07-27 | ✅ OK |
-| The First Mess | 0 | 235 | 1 | 31 | 3 | 1 | 2026-07-22 | ✅ OK |
+| Sweet Simple Vegan | 1 | 236 | 4 | 45 | 18 | 2 | 2026-07-29 | ✅ OK |
+| The First Mess | 1 | 236 | 1 | 31 | 3 | 1 | 2026-07-29 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Potato Soul | 0 | 241 | 0 | 36 | 1 | 6 | 2026-07-24 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
@@ -99,7 +99,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
-| Vegan Richa | 8 | 253 | 11 | 59 | 41 | 73 | 2026-07-22 | ✅ OK |
+| Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-07-29 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -113,20 +113,20 @@
 | From My Bowl | 0 | 274 | 3 | 47 | 3 | 5 | 2026-07-28 | ✅ OK |
 | It Doesn't Taste Like Chicken | 3 | 274 | 1 | 95 | 7 | 218 | 2026-07-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| The Plant-Based RD | 1 | 279 | 4 | 17 | 1 | 0 | 2026-07-29 | ✅ OK |
+| The Plant-Based RD | 0 | 279 | 4 | 17 | 1 | 0 | 2026-07-29 | ✅ OK |
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Plant-Based on a Budget | 3 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 289 | 38 | 79 | 3 | 0 | 2026-07-27 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 290 | 38 | 79 | 3 | 0 | 2026-07-29 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 316 | 41 | 40 | 2 | 41 | 2026-07-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 43 | 0 | 4 | 2026-07-29 | ✅ OK (4) |
+| Reddit | 1 | 350 | 1 | 43 | 0 | 4 | 2026-07-29 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-28 | ✅ OK |
-| VegNews | 3 | 350 | 0 | 51 | 0 | 11 | 2026-07-29 | ✅ OK |
+| VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-07-29 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
