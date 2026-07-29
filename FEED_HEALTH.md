@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-29 04:49:02
-**Total Run Time:** 6m 55s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 36s)
+**Last Run:** 2026-07-29 09:27:13
+**Total Run Time:** 7m 43s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21009 | 150 new today |
+| **Total Database** | 21009 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 224 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **9.73** | *3.86* |
-| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **9.73** | *3.86* |
-| 3 |[Miso-Maple Braised Tempeh](https://sweetsimplevegan.com/miso-maple-braised-tempeh/) | Sweet Simple Vegan | **5.84** | *2.32* |
-| 4 |[Seared Tofu with Jammy Tomatoes and Basil](https://frommybowl.com/seared-tofu-with-jammy-tomatoes-and-basil/?utm_source=rss&utm_medium=rss&utm_campaign=seared-tofu-with-jammy-tomatoes-and-basil) | From My Bowl | **5.84** | *2.32* |
-| 5 |[Cucumber Peach Salad](https://plantbasedonabudget.com/cucumber-peach-salad/) | Plant-Based on a Budget | **5.84** | *2.32* |
-| 6 |[Mediterranean-Inspired Tofu Bowls](https://www.eatfigsnotpigs.com/mediterranean-inspired-tofu-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=mediterranean-inspired-tofu-bowls) | Eat Figs, Not Pigs | **5.84** | *2.32* |
-| 7 |[Grilled Tofu burger](https://www.reddit.com/r/veganrecipes/comments/1v96v2f/grilled_tofu_burger/) | Reddit | **5.84** | *2.32* |
-| 8 |[Blueberry Yogurt Pound Cake (5 Ingredients, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/blueberry-yogurt-pound-cake/) | The Conscious Plant Kitchen | **5.84** | *2.32* |
+| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **8.90** | *3.53* |
+| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **8.90** | *3.53* |
+| 3 |[Miso-Maple Braised Tempeh](https://sweetsimplevegan.com/miso-maple-braised-tempeh/) | Sweet Simple Vegan | **5.34** | *2.12* |
+| 4 |[Seared Tofu with Jammy Tomatoes and Basil](https://frommybowl.com/seared-tofu-with-jammy-tomatoes-and-basil/?utm_source=rss&utm_medium=rss&utm_campaign=seared-tofu-with-jammy-tomatoes-and-basil) | From My Bowl | **5.34** | *2.12* |
+| 5 |[Cucumber Peach Salad](https://plantbasedonabudget.com/cucumber-peach-salad/) | Plant-Based on a Budget | **5.34** | *2.12* |
+| 6 |[Mediterranean-Inspired Tofu Bowls](https://www.eatfigsnotpigs.com/mediterranean-inspired-tofu-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=mediterranean-inspired-tofu-bowls) | Eat Figs, Not Pigs | **5.34** | *2.12* |
+| 7 |[Grilled Tofu burger](https://www.reddit.com/r/veganrecipes/comments/1v96v2f/grilled_tofu_burger/) | Reddit | **5.34** | *2.12* |
+| 8 |[Blueberry Yogurt Pound Cake (5 Ingredients, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/blueberry-yogurt-pound-cake/) | The Conscious Plant Kitchen | **5.34** | *2.12* |
 
 ---
 
@@ -56,8 +56,8 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 3 | 168 | 3 | 31 | 10 | 0 | 2026-07-28 | ✅ OK |
+| Earth to Veg | 0 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 2 | 168 | 3 | 31 | 10 | 0 | 2026-07-28 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -116,7 +116,7 @@
 | The Plant-Based RD | 0 | 278 | 4 | 17 | 1 | 0 | 2026-07-26 | ✅ OK |
 | Full of Plants | 1 | 281 | 0 | 41 | 0 | 13 | 2026-07-17 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Plant-Based on a Budget | 3 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
 | Healthy Little Vittles | 3 | 289 | 10 | 47 | 2 | 286 | 2026-07-23 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 289 | 38 | 79 | 3 | 0 | 2026-07-27 | ✅ OK |
@@ -124,8 +124,8 @@
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 316 | 41 | 40 | 2 | 41 | 2026-07-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 43 | 0 | 5 | 2026-07-29 | ✅ OK (3) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-07-28 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 43 | 0 | 5 | 2026-07-29 | ✅ OK (1) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-28 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 51 | 0 | 11 | 2026-07-28 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
