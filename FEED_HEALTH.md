@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-07-30 13:10:51
-**Total Run Time:** 7m 53s
-**Longest Step:** RSS: Hot For Food (0m 37s)
+**Last Run:** 2026-07-30 18:02:26
+**Total Run Time:** 7m 34s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21020 | 155 new today |
+| **Total Database** | 21021 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 244 | Total recorded actions in database |
+| **Trending Events** | 245 | Total recorded actions in database |
 | **WFPB / GF** | 2595 / 2750 | 12% / 13% |
 | **Easy / Budget** | 5068 / 2092 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **5.22** | *2.07* |
-| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **5.22** | *2.07* |
-| 3 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **4.89** | *1.94* |
-| 4 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **4.89** | *1.94* |
-| 5 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **4.89** | *1.94* |
-| 6 |[Strawberry Cucumber Salad](https://monkeyandmekitchenadventures.com/strawberry-cucumber-salad/) | Monkey & Me Kitchen Adventures | **4.89** | *1.94* |
-| 7 |[Peanut Braised Tempeh](https://sweetsimplevegan.com/peanut-braised-tempeh/) | Sweet Simple Vegan | **4.89** | *1.94* |
-| 8 |[Garlic Vinegar Chickpeas with Crispy Potato Strips](https://www.veganricha.com/chili-garlic-vinegar-chickpeas/) | Vegan Richa GF | **4.89** | *1.94* |
+| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **4.75** | *1.89* |
+| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **4.75** | *1.89* |
+| 3 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **4.46** | *1.77* |
+| 4 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **4.46** | *1.77* |
+| 5 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **4.46** | *1.77* |
+| 6 |[Strawberry Cucumber Salad](https://monkeyandmekitchenadventures.com/strawberry-cucumber-salad/) | Monkey & Me Kitchen Adventures | **4.46** | *1.77* |
+| 7 |[Peanut Braised Tempeh](https://sweetsimplevegan.com/peanut-braised-tempeh/) | Sweet Simple Vegan | **4.46** | *1.77* |
+| 8 |[Garlic Vinegar Chickpeas with Crispy Potato Strips](https://www.veganricha.com/chili-garlic-vinegar-chickpeas/) | Vegan Richa GF | **4.46** | *1.77* |
 
 ---
 
@@ -39,24 +39,24 @@
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-07-22 | ✅ OK |
-| Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
+| Mary's Test Kitchen | 0 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 27 | 5 | 1 | 4 | 26 | 2026-07-29 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
-| The Banana Diaries | 1 | 36 | 0 | 10 | 2 | 0 | 2026-07-30 | ✅ OK |
+| The Banana Diaries | 0 | 36 | 0 | 10 | 2 | 0 | 2026-07-30 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Dr. Vegan | 4 | 43 | 4 | 43 | 8 | 0 | 2026-07-27 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | PlantYou | 1 | 47 | 47 | 8 | 2 | 0 | 2026-07-27 | ✅ OK |
 | Vegan Richa GF | 0 | 49 | 2 | 12 | 7 | 49 | 2026-07-29 | ✅ OK |
 | My Goodness Kitchen | 2 | 61 | 7 | 7 | 3 | 3 | 2026-07-20 | ✅ OK |
-| Jessica in the Kitchen | 2 | 68 | 1 | 7 | 1 | 3 | 2026-07-27 | ✅ OK |
+| Jessica in the Kitchen | 3 | 69 | 1 | 7 | 1 | 3 | 2026-07-30 | ✅ OK |
 | The Korean Vegan | 1 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 4 | 124 | 1 | 12 | 124 | 0 | 2026-07-27 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
+| Earth to Veg | 0 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 168 | 3 | 31 | 10 | 0 | 2026-07-28 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
@@ -70,7 +70,7 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 209 | 14 | 32 | 13 | 5 | 2026-07-27 | ✅ OK |
-| The Little Blog of Vegan | 2 | 210 | 0 | 41 | 0 | 1 | 2026-07-30 | ✅ OK |
+| The Little Blog of Vegan | 1 | 210 | 0 | 41 | 0 | 1 | 2026-07-30 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Elavegan | 0 | 217 | 5 | 38 | 2 | 209 | 2026-07-19 | ✅ OK |
@@ -114,19 +114,19 @@
 | It Doesn't Taste Like Chicken | 3 | 274 | 1 | 95 | 7 | 218 | 2026-07-26 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | The Plant-Based RD | 0 | 279 | 4 | 17 | 1 | 0 | 2026-07-29 | ✅ OK |
-| Full of Plants | 2 | 282 | 0 | 41 | 0 | 13 | 2026-07-30 | ✅ OK |
+| Full of Plants | 1 | 282 | 0 | 41 | 0 | 13 | 2026-07-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Plant-Based on a Budget | 3 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
-| Healthy Little Vittles | 4 | 290 | 10 | 47 | 2 | 287 | 2026-07-30 | ✅ OK |
+| Healthy Little Vittles | 3 | 290 | 10 | 47 | 2 | 287 | 2026-07-30 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 290 | 38 | 79 | 3 | 0 | 2026-07-29 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 298 | 3 | 14 | 3 | 5 | 2026-07-21 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 316 | 41 | 40 | 2 | 41 | 2026-07-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-07-30 | ✅ OK (1) |
-| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-30 | ✅ OK |
-| VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-07-29 | ✅ OK |
+| Reddit | 0 | 350 | 1 | 42 | 0 | 4 | 2026-07-30 | ✅ OK |
+| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-07-30 | ✅ OK |
+| VegNews | 3 | 350 | 0 | 51 | 0 | 11 | 2026-07-30 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
