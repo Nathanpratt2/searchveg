@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-07-30 04:36:59
-**Total Run Time:** 8m 2s
-**Longest Step:** RSS: Forks Over Knives (0m 40s)
+**Last Run:** 2026-07-30 09:18:35
+**Total Run Time:** 7m 20s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21016 | 154 new today |
+| **Total Database** | 21016 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 228 | Total recorded actions in database |
 | **WFPB / GF** | 2595 / 2749 | 12% / 13% |
-| **Easy / Budget** | 5068 / 2092 | 24% / 9% |
+| **Easy / Budget** | 5067 / 2092 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **6.16** | *2.44* |
-| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **6.15** | *2.44* |
-| 3 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **5.77** | *2.29* |
-| 4 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **5.77** | *2.29* |
-| 5 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **5.77** | *2.29* |
-| 6 |[Strawberry Cucumber Salad](https://monkeyandmekitchenadventures.com/strawberry-cucumber-salad/) | Monkey & Me Kitchen Adventures | **5.77** | *2.29* |
-| 7 |[Peanut Braised Tempeh](https://sweetsimplevegan.com/peanut-braised-tempeh/) | Sweet Simple Vegan | **5.77** | *2.29* |
-| 8 |[Garlic Vinegar Chickpeas with Crispy Potato Strips](https://www.veganricha.com/chili-garlic-vinegar-chickpeas/) | Vegan Richa GF | **5.77** | *2.29* |
+| 1 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **5.62** | *2.23* |
+| 2 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **5.62** | *2.23* |
+| 3 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **5.27** | *2.09* |
+| 4 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **5.27** | *2.09* |
+| 5 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **5.27** | *2.09* |
+| 6 |[Strawberry Cucumber Salad](https://monkeyandmekitchenadventures.com/strawberry-cucumber-salad/) | Monkey & Me Kitchen Adventures | **5.27** | *2.09* |
+| 7 |[Peanut Braised Tempeh](https://sweetsimplevegan.com/peanut-braised-tempeh/) | Sweet Simple Vegan | **5.27** | *2.09* |
+| 8 |[Garlic Vinegar Chickpeas with Crispy Potato Strips](https://www.veganricha.com/chili-garlic-vinegar-chickpeas/) | Vegan Richa GF | **5.27** | *2.09* |
 
 ---
 
@@ -40,7 +40,7 @@
 | Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-07-22 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
-| Rainbow Plant Life GF | 1 | 27 | 5 | 1 | 4 | 26 | 2026-07-29 | ✅ OK |
+| Rainbow Plant Life GF | 0 | 27 | 5 | 1 | 4 | 26 | 2026-07-29 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
 | The Banana Diaries | 0 | 35 | 0 | 10 | 2 | 0 | 2026-07-17 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
@@ -97,8 +97,8 @@
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 248 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 252 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
+| Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-07-29 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
@@ -124,8 +124,8 @@
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 316 | 41 | 40 | 2 | 41 | 2026-07-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 43 | 0 | 4 | 2026-07-30 | ✅ OK (3) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-07-30 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-07-30 | ✅ OK (1) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-30 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-07-29 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
