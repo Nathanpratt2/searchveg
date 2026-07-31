@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-07-31 09:29:20
-**Total Run Time:** 7m 18s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-07-31 13:20:35
+**Total Run Time:** 8m 8s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21022 | 151 new today |
+| **Total Database** | 21022 | 149 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 264 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **15.10** | *5.99* |
-| 2 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **3.53** | *1.40* |
-| 3 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **3.53** | *1.40* |
-| 4 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **3.31** | *1.31* |
-| 5 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **3.31** | *1.31* |
-| 6 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **3.31** | *1.31* |
-| 7 |[Strawberry Cucumber Salad](https://monkeyandmekitchenadventures.com/strawberry-cucumber-salad/) | Monkey & Me Kitchen Adventures | **3.31** | *1.31* |
-| 8 |[Peanut Braised Tempeh](https://sweetsimplevegan.com/peanut-braised-tempeh/) | Sweet Simple Vegan | **3.31** | *1.31* |
+| 1 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **14.02** | *5.56* |
+| 2 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **3.28** | *1.30* |
+| 3 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **3.28** | *1.30* |
+| 4 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **3.07** | *1.22* |
+| 5 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **3.07** | *1.22* |
+| 6 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **3.07** | *1.22* |
+| 7 |[Strawberry Cucumber Salad](https://monkeyandmekitchenadventures.com/strawberry-cucumber-salad/) | Monkey & Me Kitchen Adventures | **3.07** | *1.22* |
+| 8 |[Peanut Braised Tempeh](https://sweetsimplevegan.com/peanut-braised-tempeh/) | Sweet Simple Vegan | **3.07** | *1.22* |
 
 ---
 
@@ -56,14 +56,14 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 149 | 0 | 12 | 2 | 1 | 2026-07-24 | ✅ OK |
-| Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
+| Earth to Veg | 0 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 168 | 3 | 31 | 10 | 0 | 2026-07-28 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Steamy Vegan | 2 | 187 | 9 | 29 | 10 | 2 | 2026-07-18 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 12 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 199 | 199 | 11 | 0 | 9 | 2026-06-30 | ✅ OK |
