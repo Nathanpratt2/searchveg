@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-01 04:54:19
-**Total Run Time:** 6m 28s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
+**Last Run:** 2026-08-01 08:47:00
+**Total Run Time:** 8m 38s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 1s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21028 | 139 new today |
+| **Total Database** | 21028 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 291 | Total recorded actions in database |
-| **WFPB / GF** | 2595 / 2750 | 12% / 13% |
-| **Easy / Budget** | 5065 / 2089 | 24% / 9% |
+| **WFPB / GF** | 2595 / 2751 | 12% / 13% |
+| **Easy / Budget** | 5069 / 2092 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **10.39** | *4.12* |
-| 2 |[Savory overnight oats](https://www.reddit.com/r/veganrecipes/comments/1vbqtbv/savory_overnight_oats/) | Reddit | **9.02** | *3.58* |
-| 3 |[Easy Lentil Burgers](https://www.noracooks.com/lentil-burgers/) | Nora Cooks | **5.41** | *2.15* |
-| 4 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **2.43** | *0.96* |
-| 5 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **2.43** | *0.96* |
-| 6 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **2.28** | *0.90* |
-| 7 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **2.28** | *0.90* |
-| 8 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **2.28** | *0.90* |
+| 1 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **9.64** | *3.83* |
+| 2 |[Savory overnight oats](https://www.reddit.com/r/veganrecipes/comments/1vbqtbv/savory_overnight_oats/) | Reddit | **8.37** | *3.32* |
+| 3 |[Easy Lentil Burgers](https://www.noracooks.com/lentil-burgers/) | Nora Cooks | **5.02** | *1.99* |
+| 4 |[Strawberry Matcha Cake](https://www.noracooks.com/strawberry-matcha-cake/) | Nora Cooks | **2.25** | *0.89* |
+| 5 |[Pickled zucchini recipe (Easy refrigerator pickles)](https://cadryskitchen.com/pickled-zucchini-recipe/) | Cadry's Kitchen | **2.25** | *0.89* |
+| 6 |[Vegan Cucumber Salad with Yogurt Dressing (Easy & Creamy)](https://biancazapatka.com/en/vegan-cucumber-salad/?adt_ei={$email}) | Bianca Zapatka | **2.11** | *0.84* |
+| 7 |[Pink Vegan Sushi Rolls With Creamy Ginger-Tamari Sauce](https://vegnews.com/recipes/vegan-pink-rice-hand-roll-with-ginger-tamari-sauce) | VegNews | **2.11** | *0.84* |
+| 8 |[Smoky BBQ Shredded Tofu Tacos with Yogurt Ranch Slaw](https://thefirstmess.com/2026/07/29/bbq-shredded-tofu-tacos/) | The First Mess | **2.11** | *0.84* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 17 | 0 | 0 | 0 | 0 | 2026-07-20 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-07-22 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
@@ -60,8 +60,8 @@
 | Love and Lemons (Vegan Recipes) | 3 | 169 | 3 | 31 | 10 | 0 | 2026-07-31 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
-| The Stingy Vegan | 0 | 183 | 1 | 183 | 183 | 0 | 2026-06-29 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Steamy Vegan | 2 | 187 | 9 | 29 | 10 | 2 | 2026-07-18 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
@@ -71,19 +71,19 @@
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 210 | 14 | 33 | 13 | 5 | 2026-07-31 | ✅ OK |
 | The Little Blog of Vegan | 1 | 210 | 0 | 41 | 0 | 1 | 2026-07-30 | ✅ OK |
-| The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
 | Elavegan | 0 | 217 | 5 | 38 | 2 | 209 | 2026-07-19 | ✅ OK |
-| Vegan in the Freezer | 0 | 217 | 5 | 36 | 10 | 0 | 2026-05-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
+| Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-31 | ✅ OK |
-| Cadry's Kitchen | 0 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
+| Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 231 | 6 | 13 | 14 | 0 | 2026-07-24 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
-| Rabbit and Wolves | 0 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
+| Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | Sweet Simple Vegan | 0 | 236 | 4 | 45 | 18 | 2 | 2026-07-29 | ✅ OK |
 | The First Mess | 0 | 236 | 1 | 31 | 3 | 1 | 2026-07-29 | ✅ OK |
@@ -97,16 +97,16 @@
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 249 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 252 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
+| Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-07-29 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Make It Dairy Free | 1 | 264 | 4 | 42 | 2 | 3 | 2026-07-26 | ✅ OK |
-| Strength and Sunshine | 0 | 267 | 8 | 267 | 2 | 260 | 2026-06-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | My Darling Vegan | 2 | 268 | 1 | 32 | 4 | 12 | 2026-07-31 | ✅ OK |
+| Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Eat Figs, Not Pigs | 3 | 269 | 1 | 34 | 2 | 0 | 2026-07-31 | ✅ OK |
 | A Virtual Vegan | 6 | 271 | 3 | 36 | 1 | 4 | 2026-07-30 | ✅ OK |
@@ -122,9 +122,9 @@
 | Monkey & Me Kitchen Adventures | 0 | 290 | 38 | 79 | 3 | 0 | 2026-07-29 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 299 | 3 | 14 | 3 | 5 | 2026-07-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 317 | 41 | 40 | 2 | 41 | 2026-08-01 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 317 | 41 | 40 | 2 | 41 | 2026-08-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-07-31 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-07-31 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-07-30 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-07-31 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
