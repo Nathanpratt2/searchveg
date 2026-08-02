@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-02 08:50:49
-**Total Run Time:** 8m 33s
-**Longest Step:** RSS: Hot For Food (1m 1s)
+**Last Run:** 2026-08-02 12:40:28
+**Total Run Time:** 6m 20s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21032 | 152 new today |
+| **Total Database** | 21033 | 137 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 310 | Total recorded actions in database |
-| **WFPB / GF** | 2597 / 2752 | 12% / 13% |
-| **Easy / Budget** | 5070 / 2092 | 24% / 9% |
+| **WFPB / GF** | 2597 / 2751 | 12% / 13% |
+| **Easy / Budget** | 5066 / 2089 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **6.41** | *2.54* |
-| 2 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **6.07** | *2.41* |
-| 3 |[Savory overnight oats](https://www.reddit.com/r/veganrecipes/comments/1vbqtbv/savory_overnight_oats/) | Reddit | **5.26** | *2.09* |
-| 4 |[Pineapple Right-Side-Up Cakes](https://annarborvegankitchen.com/2020/10/21/pineapple-right-side-up-cakes/) | Ann Arbor Vegan Kitchen | **4.81** | *1.91* |
-| 5 |[Vegan Pineapple Upside Down Cake](https://zardyplants.com/recipes/desserts/vegan-pineapple-upside-down-cake/) | ZardyPlants | **4.81** | *1.91* |
-| 6 |[Easy Pineapple Upside Down Cake](https://www.theconsciousplantkitchen.com/easy-pineapple-upside-down-cake/) | The Conscious Plant Kitchen | **4.80** | *1.91* |
-| 7 |[Vegan Chocolate Chip White Bean Blondies](https://vegnews.com/recipes/vegan-chocolate-chip-white-bean-blondies) | VegNews | **4.80** | *1.91* |
-| 8 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **4.35** | *1.72* |
+| 1 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **5.95** | *2.36* |
+| 2 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **5.64** | *2.24* |
+| 3 |[Savory overnight oats](https://www.reddit.com/r/veganrecipes/comments/1vbqtbv/savory_overnight_oats/) | Reddit | **4.89** | *1.94* |
+| 4 |[Pineapple Right-Side-Up Cakes](https://annarborvegankitchen.com/2020/10/21/pineapple-right-side-up-cakes/) | Ann Arbor Vegan Kitchen | **4.46** | *1.77* |
+| 5 |[Vegan Pineapple Upside Down Cake](https://zardyplants.com/recipes/desserts/vegan-pineapple-upside-down-cake/) | ZardyPlants | **4.46** | *1.77* |
+| 6 |[Easy Pineapple Upside Down Cake](https://www.theconsciousplantkitchen.com/easy-pineapple-upside-down-cake/) | The Conscious Plant Kitchen | **4.46** | *1.77* |
+| 7 |[Vegan Chocolate Chip White Bean Blondies](https://vegnews.com/recipes/vegan-chocolate-chip-white-bean-blondies) | VegNews | **4.46** | *1.77* |
+| 8 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **4.04** | *1.60* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-07-22 | ✅ OK |
-| Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
+| Mary's Test Kitchen | 0 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
 | The Banana Diaries | 0 | 37 | 0 | 10 | 2 | 0 | 2026-07-31 | ✅ OK |
@@ -60,8 +60,8 @@
 | Love and Lemons (Vegan Recipes) | 3 | 169 | 3 | 31 | 10 | 0 | 2026-07-31 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
+| The Stingy Vegan | 0 | 183 | 1 | 183 | 183 | 0 | 2026-06-29 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Steamy Vegan | 3 | 188 | 9 | 29 | 10 | 2 | 2026-08-01 | ✅ OK |
@@ -71,19 +71,19 @@
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 210 | 14 | 33 | 13 | 5 | 2026-07-31 | ✅ OK |
 | The Little Blog of Vegan | 1 | 210 | 0 | 41 | 0 | 1 | 2026-07-30 | ✅ OK |
-| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
+| Vegan in the Freezer | 0 | 217 | 5 | 36 | 10 | 0 | 2026-05-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Elavegan | 0 | 218 | 5 | 38 | 2 | 210 | 2026-08-01 | ✅ OK |
-| Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-07-31 | ✅ OK |
-| Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
+| Cadry's Kitchen | 0 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 231 | 6 | 14 | 14 | 0 | 2026-08-02 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
-| Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
+| Rabbit and Wolves | 0 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | Sweet Simple Vegan | 0 | 236 | 4 | 45 | 18 | 2 | 2026-07-29 | ✅ OK |
 | The First Mess | 0 | 236 | 1 | 31 | 3 | 1 | 2026-07-29 | ✅ OK |
@@ -97,21 +97,21 @@
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 249 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 252 | 9 | 37 | 12 | 1 | 2026-07-06 | ❌ Blocked/ConnErr |
+| Hot For Food | 0 | 252 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-07-29 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Make It Dairy Free | 1 | 264 | 4 | 42 | 2 | 3 | 2026-07-26 | ✅ OK |
+| Strength and Sunshine | 0 | 267 | 8 | 267 | 2 | 260 | 2026-06-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| Eat Figs, Not Pigs | 2 | 268 | 1 | 34 | 2 | 0 | 2026-07-31 | ✅ OK |
 | My Darling Vegan | 2 | 268 | 1 | 32 | 4 | 12 | 2026-07-31 | ✅ OK |
-| Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 269 | 1 | 34 | 2 | 0 | 2026-08-02 | ✅ OK |
 | A Virtual Vegan | 6 | 271 | 3 | 36 | 1 | 4 | 2026-07-30 | ✅ OK |
 | From My Bowl | 0 | 274 | 3 | 47 | 3 | 5 | 2026-07-28 | ✅ OK |
-| It Doesn't Taste Like Chicken | 3 | 274 | 1 | 95 | 7 | 218 | 2026-07-26 | ✅ OK |
+| It Doesn't Taste Like Chicken | 3 | 274 | 1 | 95 | 7 | 218 | 2026-08-02 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | The Plant-Based RD | 0 | 279 | 4 | 17 | 1 | 0 | 2026-07-29 | ✅ OK |
 | Full of Plants | 1 | 282 | 0 | 41 | 0 | 13 | 2026-07-30 | ✅ OK |
