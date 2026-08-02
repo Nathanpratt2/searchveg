@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-02 04:58:09
-**Total Run Time:** 7m 51s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
+**Last Run:** 2026-08-02 08:50:49
+**Total Run Time:** 8m 33s
+**Longest Step:** RSS: Hot For Food (1m 1s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21032 | 149 new today |
+| **Total Database** | 21032 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 310 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **6.90** | *2.74* |
-| 2 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **6.54** | *2.59* |
-| 3 |[Savory overnight oats](https://www.reddit.com/r/veganrecipes/comments/1vbqtbv/savory_overnight_oats/) | Reddit | **5.67** | *2.25* |
-| 4 |[Pineapple Right-Side-Up Cakes](https://annarborvegankitchen.com/2020/10/21/pineapple-right-side-up-cakes/) | Ann Arbor Vegan Kitchen | **5.18** | *2.06* |
-| 5 |[Vegan Pineapple Upside Down Cake](https://zardyplants.com/recipes/desserts/vegan-pineapple-upside-down-cake/) | ZardyPlants | **5.18** | *2.05* |
-| 6 |[Easy Pineapple Upside Down Cake](https://www.theconsciousplantkitchen.com/easy-pineapple-upside-down-cake/) | The Conscious Plant Kitchen | **5.18** | *2.05* |
-| 7 |[Vegan Chocolate Chip White Bean Blondies](https://vegnews.com/recipes/vegan-chocolate-chip-white-bean-blondies) | VegNews | **5.17** | *2.05* |
-| 8 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **4.68** | *1.86* |
+| 1 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **6.41** | *2.54* |
+| 2 |[Marinated Tofu Sandwich With Pineapple Slaw](https://vegnews.com/recipes/vegan-tofu-and-pineapple-sandwich) | VegNews | **6.07** | *2.41* |
+| 3 |[Savory overnight oats](https://www.reddit.com/r/veganrecipes/comments/1vbqtbv/savory_overnight_oats/) | Reddit | **5.26** | *2.09* |
+| 4 |[Pineapple Right-Side-Up Cakes](https://annarborvegankitchen.com/2020/10/21/pineapple-right-side-up-cakes/) | Ann Arbor Vegan Kitchen | **4.81** | *1.91* |
+| 5 |[Vegan Pineapple Upside Down Cake](https://zardyplants.com/recipes/desserts/vegan-pineapple-upside-down-cake/) | ZardyPlants | **4.81** | *1.91* |
+| 6 |[Easy Pineapple Upside Down Cake](https://www.theconsciousplantkitchen.com/easy-pineapple-upside-down-cake/) | The Conscious Plant Kitchen | **4.80** | *1.91* |
+| 7 |[Vegan Chocolate Chip White Bean Blondies](https://vegnews.com/recipes/vegan-chocolate-chip-white-bean-blondies) | VegNews | **4.80** | *1.91* |
+| 8 |[Lemon Orzo Pasta Salad](https://www.noracooks.com/lemon-orzo-pasta-salad/) | Nora Cooks | **4.35** | *1.72* |
 
 ---
 
@@ -97,8 +97,8 @@
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 249 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
+| Hot For Food | 0 | 252 | 9 | 37 | 12 | 1 | 2026-07-06 | ❌ Blocked/ConnErr |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
 | Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-07-29 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
@@ -116,7 +116,7 @@
 | The Plant-Based RD | 0 | 279 | 4 | 17 | 1 | 0 | 2026-07-29 | ✅ OK |
 | Full of Plants | 1 | 282 | 0 | 41 | 0 | 13 | 2026-07-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
 | Plant-Based on a Budget | 3 | 288 | 16 | 70 | 288 | 1 | 2026-07-28 | ✅ OK |
 | Healthy Little Vittles | 3 | 290 | 10 | 47 | 2 | 287 | 2026-07-30 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 290 | 38 | 79 | 3 | 0 | 2026-07-29 | ✅ OK |
@@ -124,8 +124,8 @@
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 317 | 41 | 40 | 2 | 41 | 2026-08-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 43 | 0 | 4 | 2026-08-02 | ✅ OK (2) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-08-02 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 43 | 0 | 4 | 2026-08-02 | ✅ OK (1) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-02 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 50 | 0 | 11 | 2026-08-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
