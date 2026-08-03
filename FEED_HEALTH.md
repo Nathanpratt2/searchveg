@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-03 10:18:17
-**Total Run Time:** 7m 11s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 32s)
+**Last Run:** 2026-08-03 14:04:09
+**Total Run Time:** 7m 23s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21034 | 149 new today |
+| **Total Database** | 21034 | 145 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 312 | Total recorded actions in database |
 | **WFPB / GF** | 2597 / 2752 | 12% / 13% |
-| **Easy / Budget** | 5070 / 2093 | 24% / 9% |
+| **Easy / Budget** | 5067 / 2093 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Buffalo "Chicken" Sandwich](https://www.reddit.com/r/veganrecipes/comments/1vdsiwk/vegan_buffalo_chicken_sandwich/) | Reddit | **8.09** | *3.21* |
-| 2 |[Crispy Air Fryer Vegetable Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1vd48h4/crispy_air_fryer_vegetable_spring_rolls/) | Reddit | **4.86** | *1.93* |
-| 3 |[Blintzes with Macadamia Cheese and Blueberry Sauce](https://www.theppk.com/2026/08/blintzes-with-macadamia-cheese-and-blueberry-sauce/) | The Post-Punk Kitchen | **4.86** | *1.93* |
-| 4 |[Corn Salsa (Chipotle Copycat)](https://itdoesnttastelikechicken.com/corn-salsa/) | It Doesn't Taste Like Chicken | **4.86** | *1.93* |
-| 5 |[Vegan White Chocolate Raspberry Cookies](https://www.thelittleblogofvegan.com/2026/08/vegan-white-chocolate-raspberry-cookies-2.html) | The Little Blog of Vegan | **4.86** | *1.93* |
-| 6 |[Caramelly, Eggy Vegan Leche Flan](https://vegnews.com/recipes/carmelly-vegan-leche-flan) | VegNews | **4.86** | *1.93* |
-| 7 |[Who Needs Eggs? Tofu Rancheros With Avocado](https://vegnews.com/recipes/vegan-tofu-rancheros-with-avocado) | VegNews | **4.86** | *1.93* |
-| 8 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **3.92** | *1.56* |
+| 1 |[Vegan Buffalo "Chicken" Sandwich](https://www.reddit.com/r/veganrecipes/comments/1vdsiwk/vegan_buffalo_chicken_sandwich/) | Reddit | **7.52** | *2.98* |
+| 2 |[Crispy Air Fryer Vegetable Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1vd48h4/crispy_air_fryer_vegetable_spring_rolls/) | Reddit | **4.52** | *1.79* |
+| 3 |[Blintzes with Macadamia Cheese and Blueberry Sauce](https://www.theppk.com/2026/08/blintzes-with-macadamia-cheese-and-blueberry-sauce/) | The Post-Punk Kitchen | **4.52** | *1.79* |
+| 4 |[Corn Salsa (Chipotle Copycat)](https://itdoesnttastelikechicken.com/corn-salsa/) | It Doesn't Taste Like Chicken | **4.52** | *1.79* |
+| 5 |[Vegan White Chocolate Raspberry Cookies](https://www.thelittleblogofvegan.com/2026/08/vegan-white-chocolate-raspberry-cookies-2.html) | The Little Blog of Vegan | **4.52** | *1.79* |
+| 6 |[Caramelly, Eggy Vegan Leche Flan](https://vegnews.com/recipes/carmelly-vegan-leche-flan) | VegNews | **4.52** | *1.79* |
+| 7 |[Who Needs Eggs? Tofu Rancheros With Avocado](https://vegnews.com/recipes/vegan-tofu-rancheros-with-avocado) | VegNews | **4.52** | *1.79* |
+| 8 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **3.65** | *1.45* |
 
 ---
 
@@ -59,10 +59,10 @@
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 169 | 3 | 31 | 10 | 0 | 2026-07-31 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 177 | 0 | 22 | 1 | 30 | 2026-07-31 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Steamy Vegan | 3 | 188 | 9 | 29 | 10 | 2 | 2026-08-01 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
@@ -108,7 +108,7 @@
 | My Darling Vegan | 2 | 268 | 1 | 32 | 4 | 12 | 2026-07-31 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 269 | 1 | 34 | 2 | 0 | 2026-08-02 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 269 | 1 | 33 | 2 | 0 | 2026-08-03 | ✅ OK |
 | A Virtual Vegan | 6 | 271 | 3 | 36 | 1 | 4 | 2026-07-30 | ✅ OK |
 | From My Bowl | 0 | 274 | 3 | 47 | 3 | 5 | 2026-07-28 | ✅ OK |
 | It Doesn't Taste Like Chicken | 2 | 274 | 1 | 95 | 7 | 218 | 2026-08-02 | ✅ OK |
@@ -116,15 +116,15 @@
 | The Plant-Based RD | 0 | 279 | 4 | 17 | 1 | 0 | 2026-07-29 | ✅ OK |
 | Full of Plants | 1 | 282 | 0 | 41 | 0 | 13 | 2026-07-30 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK |
-| Plant-Based on a Budget | 4 | 289 | 16 | 70 | 289 | 1 | 2026-08-03 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 287 | 287 | 26 | 3 | 0 | 2026-05-06 | ✅ OK (6) |
+| Plant-Based on a Budget | 3 | 289 | 16 | 70 | 289 | 1 | 2026-08-03 | ✅ OK |
 | Healthy Little Vittles | 3 | 290 | 10 | 47 | 2 | 287 | 2026-07-30 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 290 | 38 | 79 | 3 | 0 | 2026-07-29 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 299 | 3 | 14 | 3 | 5 | 2026-07-31 | ✅ OK |
 | Connoisseurus Veg | 1 | 304 | 0 | 34 | 1 | 0 | 2026-07-27 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 317 | 41 | 40 | 2 | 41 | 2026-08-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 44 | 0 | 4 | 2026-08-02 | ✅ OK (2) |
+| Reddit | 4 | 350 | 1 | 44 | 0 | 4 | 2026-08-03 | ✅ OK (4) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-02 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 49 | 0 | 11 | 2026-08-02 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
