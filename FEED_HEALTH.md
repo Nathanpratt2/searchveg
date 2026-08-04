@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-08-04 04:47:37
-**Total Run Time:** 7m 45s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-08-04 09:26:16
+**Total Run Time:** 7m 24s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -9,7 +9,7 @@
 | **Total Database** | 21038 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 305 | Total recorded actions in database |
+| **Trending Events** | 297 | Total recorded actions in database |
 | **WFPB / GF** | 2598 / 2751 | 12% / 13% |
 | **Easy / Budget** | 5070 / 2093 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Buffalo "Chicken" Sandwich](https://www.reddit.com/r/veganrecipes/comments/1vdsiwk/vegan_buffalo_chicken_sandwich/) | Reddit | **5.66** | *2.25* |
-| 2 |[Crispy Air Fryer Vegetable Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1vd48h4/crispy_air_fryer_vegetable_spring_rolls/) | Reddit | **3.40** | *1.35* |
-| 3 |[Blintzes with Macadamia Cheese and Blueberry Sauce](https://www.theppk.com/2026/08/blintzes-with-macadamia-cheese-and-blueberry-sauce/) | The Post-Punk Kitchen | **3.40** | *1.35* |
-| 4 |[Corn Salsa (Chipotle Copycat)](https://itdoesnttastelikechicken.com/corn-salsa/) | It Doesn't Taste Like Chicken | **3.40** | *1.35* |
-| 5 |[Vegan White Chocolate Raspberry Cookies](https://www.thelittleblogofvegan.com/2026/08/vegan-white-chocolate-raspberry-cookies-2.html) | The Little Blog of Vegan | **3.40** | *1.35* |
-| 6 |[Caramelly, Eggy Vegan Leche Flan](https://vegnews.com/recipes/carmelly-vegan-leche-flan) | VegNews | **3.40** | *1.35* |
-| 7 |[Who Needs Eggs? Tofu Rancheros With Avocado](https://vegnews.com/recipes/vegan-tofu-rancheros-with-avocado) | VegNews | **3.40** | *1.35* |
-| 8 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **2.75** | *1.09* |
+| 1 |[Vegan Buffalo "Chicken" Sandwich](https://www.reddit.com/r/veganrecipes/comments/1vdsiwk/vegan_buffalo_chicken_sandwich/) | Reddit | **5.18** | *2.06* |
+| 2 |[Crispy Air Fryer Vegetable Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1vd48h4/crispy_air_fryer_vegetable_spring_rolls/) | Reddit | **3.11** | *1.23* |
+| 3 |[Blintzes with Macadamia Cheese and Blueberry Sauce](https://www.theppk.com/2026/08/blintzes-with-macadamia-cheese-and-blueberry-sauce/) | The Post-Punk Kitchen | **3.11** | *1.23* |
+| 4 |[Corn Salsa (Chipotle Copycat)](https://itdoesnttastelikechicken.com/corn-salsa/) | It Doesn't Taste Like Chicken | **3.11** | *1.23* |
+| 5 |[Vegan White Chocolate Raspberry Cookies](https://www.thelittleblogofvegan.com/2026/08/vegan-white-chocolate-raspberry-cookies-2.html) | The Little Blog of Vegan | **3.11** | *1.23* |
+| 6 |[Caramelly, Eggy Vegan Leche Flan](https://vegnews.com/recipes/carmelly-vegan-leche-flan) | VegNews | **3.11** | *1.23* |
+| 7 |[Who Needs Eggs? Tofu Rancheros With Avocado](https://vegnews.com/recipes/vegan-tofu-rancheros-with-avocado) | VegNews | **3.11** | *1.23* |
+| 8 |[No Bake Pineapple Cheesecake (vegan, nut-free)](https://addictedtodates.com/no-bake-pineapple-cheesecake/) | Addicted to Dates | **2.51** | *1.00* |
 
 ---
 
