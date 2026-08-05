@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-08-05 04:46:55
-**Total Run Time:** 7m 42s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
+**Last Run:** 2026-08-05 09:24:39
+**Total Run Time:** 7m 9s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21047 | 147 new today |
+| **Total Database** | 21047 | 148 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 299 | Total recorded actions in database |
+| **Trending Events** | 305 | Total recorded actions in database |
 | **WFPB / GF** | 2600 / 2751 | 12% / 13% |
 | **Easy / Budget** | 5071 / 2093 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Smashed Bean and Avocado Tostadas with Crispy Corn](https://plantbasedrdblog.com/2026/08/bean-and-avocado-tostadas/?utm_source=rss&utm_medium=rss&utm_campaign=bean-and-avocado-tostadas) | The Plant-Based RD | **5.47** | *2.17* |
-| 2 |[Loaded Meal-Prep Southwest Salad With Creamy Cashew-Lime Dressing](https://vegnews.com/recipes/meal-prep-southwest-salad) | VegNews | **5.47** | *2.17* |
-| 3 |[Vegan Buffalo "Chicken" Sandwich](https://www.reddit.com/r/veganrecipes/comments/1vdsiwk/vegan_buffalo_chicken_sandwich/) | Reddit | **3.57** | *1.42* |
-| 4 |[Crispy Air Fryer Vegetable Spring Rolls](https://www.reddit.com/r/veganrecipes/comments/1vd48h4/crispy_air_fryer_vegetable_spring_rolls/) | Reddit | **2.14** | *0.85* |
-| 5 |[Blintzes with Macadamia Cheese and Blueberry Sauce](https://www.theppk.com/2026/08/blintzes-with-macadamia-cheese-and-blueberry-sauce/) | The Post-Punk Kitchen | **2.14** | *0.85* |
-| 6 |[Corn Salsa (Chipotle Copycat)](https://itdoesnttastelikechicken.com/corn-salsa/) | It Doesn't Taste Like Chicken | **2.14** | *0.85* |
-| 7 |[Vegan White Chocolate Raspberry Cookies](https://www.thelittleblogofvegan.com/2026/08/vegan-white-chocolate-raspberry-cookies-2.html) | The Little Blog of Vegan | **2.14** | *0.85* |
-| 8 |[Caramelly, Eggy Vegan Leche Flan](https://vegnews.com/recipes/carmelly-vegan-leche-flan) | VegNews | **2.14** | *0.85* |
+| 1 |[Smashed Bean and Avocado Tostadas with Crispy Corn](https://plantbasedrdblog.com/2026/08/bean-and-avocado-tostadas/?utm_source=rss&utm_medium=rss&utm_campaign=bean-and-avocado-tostadas) | The Plant-Based RD | **5.00** | *1.99* |
+| 2 |[Loaded Meal-Prep Southwest Salad With Creamy Cashew-Lime Dressing](https://vegnews.com/recipes/meal-prep-southwest-salad) | VegNews | **5.00** | *1.99* |
+| 3 |[Hit me with your best pea recipes!](https://www.reddit.com/r/veganrecipes/comments/1vefw90/hit_me_with_your_best_pea_recipes/) | Reddit | **3.89** | *1.54* |
+| 4 |[Sushi Cups](https://plantyou.com/sushi-cups/) | PlantYou | **3.76** | *1.49* |
+| 5 |[Easy Crispy Air Fryer Tortilla Chips Recipe](https://zardyplants.com/recipes/easy-crispy-air-fryer-tortilla-chips-recipe/) | ZardyPlants | **3.76** | *1.49* |
+| 6 |[Easy Banana Chia Pudding Recipe (Vegan)](https://zardyplants.com/recipes/easy-banana-chia-pudding-recipe-vegan/) | ZardyPlants | **3.76** | *1.49* |
+| 7 |[Broccoli Cucumber Salad](https://plantyou.com/broccoli-cucumber-salad/) | PlantYou | **3.76** | *1.49* |
+| 8 |[Smashed Potato Nachos](https://plantyou.com/smashed-potato-nachos/) | PlantYou | **3.76** | *1.49* |
 
 ---
 
@@ -56,7 +56,7 @@
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 4 | 150 | 0 | 12 | 2 | 1 | 2026-08-04 | ✅ OK |
-| Earth to Veg | 0 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
+| Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 169 | 3 | 31 | 10 | 0 | 2026-07-31 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
