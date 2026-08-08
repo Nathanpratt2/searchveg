@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-08 07:36:29
-**Total Run Time:** 8m 48s
+**Last Run:** 2026-08-08 11:59:49
+**Total Run Time:** 8m 6s
 **Longest Step:** RSS: Fragrant Vanilla Cake (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21063 | 149 new today |
+| **Total Database** | 21063 | 143 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 277 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Sesame Hoisin Eggplant Stir Fry](https://www.connoisseurusveg.com/eggplant-stir-fry/) | Connoisseurus Veg | **2.77** | *1.10* |
-| 2 |[Smashed Bean and Avocado Tostadas with Crispy Corn](https://plantbasedrdblog.com/2026/08/bean-and-avocado-tostadas/?utm_source=rss&utm_medium=rss&utm_campaign=bean-and-avocado-tostadas) | The Plant-Based RD | **1.30** | *0.51* |
-| 3 |[Loaded Meal-Prep Southwest Salad With Creamy Cashew-Lime Dressing](https://vegnews.com/recipes/meal-prep-southwest-salad) | VegNews | **1.30** | *0.51* |
-| 4 |[Hit me with your best pea recipes!](https://www.reddit.com/r/veganrecipes/comments/1vefw90/hit_me_with_your_best_pea_recipes/) | Reddit | **1.01** | *0.40* |
-| 5 |[Sushi Cups](https://plantyou.com/sushi-cups/) | PlantYou | **0.97** | *0.39* |
-| 6 |[Easy Crispy Air Fryer Tortilla Chips Recipe](https://zardyplants.com/recipes/easy-crispy-air-fryer-tortilla-chips-recipe/) | ZardyPlants | **0.97** | *0.39* |
-| 7 |[Easy Banana Chia Pudding Recipe (Vegan)](https://zardyplants.com/recipes/easy-banana-chia-pudding-recipe-vegan/) | ZardyPlants | **0.97** | *0.39* |
-| 8 |[Broccoli Cucumber Salad](https://plantyou.com/broccoli-cucumber-salad/) | PlantYou | **0.97** | *0.39* |
+| 1 |[Sesame Hoisin Eggplant Stir Fry](https://www.connoisseurusveg.com/eggplant-stir-fry/) | Connoisseurus Veg | **2.55** | *1.01* |
+| 2 |[Smashed Bean and Avocado Tostadas with Crispy Corn](https://plantbasedrdblog.com/2026/08/bean-and-avocado-tostadas/?utm_source=rss&utm_medium=rss&utm_campaign=bean-and-avocado-tostadas) | The Plant-Based RD | **1.19** | *0.47* |
+| 3 |[Loaded Meal-Prep Southwest Salad With Creamy Cashew-Lime Dressing](https://vegnews.com/recipes/meal-prep-southwest-salad) | VegNews | **1.19** | *0.47* |
+| 4 |[Hit me with your best pea recipes!](https://www.reddit.com/r/veganrecipes/comments/1vefw90/hit_me_with_your_best_pea_recipes/) | Reddit | **0.92** | *0.37* |
+| 5 |[Sushi Cups](https://plantyou.com/sushi-cups/) | PlantYou | **0.89** | *0.36* |
+| 6 |[Easy Crispy Air Fryer Tortilla Chips Recipe](https://zardyplants.com/recipes/easy-crispy-air-fryer-tortilla-chips-recipe/) | ZardyPlants | **0.89** | *0.36* |
+| 7 |[Easy Banana Chia Pudding Recipe (Vegan)](https://zardyplants.com/recipes/easy-banana-chia-pudding-recipe-vegan/) | ZardyPlants | **0.89** | *0.35* |
+| 8 |[Broccoli Cucumber Salad](https://plantyou.com/broccoli-cucumber-salad/) | PlantYou | **0.89** | *0.35* |
 
 ---
 
@@ -116,7 +116,7 @@
 | The Plant-Based RD | 0 | 280 | 4 | 17 | 1 | 0 | 2026-08-04 | ✅ OK |
 | Full of Plants | 1 | 283 | 0 | 42 | 0 | 13 | 2026-08-06 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK |
 | Plant-Based on a Budget | 3 | 289 | 16 | 70 | 289 | 1 | 2026-08-03 | ✅ OK |
 | Healthy Little Vittles | 3 | 291 | 10 | 47 | 2 | 288 | 2026-08-06 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 292 | 38 | 81 | 3 | 0 | 2026-08-05 | ✅ OK |
