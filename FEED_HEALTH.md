@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-08 17:11:30
-**Total Run Time:** 9m 42s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 0s)
+**Last Run:** 2026-08-08 22:01:35
+**Total Run Time:** 7m 34s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 45s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21063 | 152 new today |
+| **Total Database** | 21063 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 277 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Sesame Hoisin Eggplant Stir Fry](https://www.connoisseurusveg.com/eggplant-stir-fry/) | Connoisseurus Veg | **2.30** | *0.91* |
-| 2 |[Smashed Bean and Avocado Tostadas with Crispy Corn](https://plantbasedrdblog.com/2026/08/bean-and-avocado-tostadas/?utm_source=rss&utm_medium=rss&utm_campaign=bean-and-avocado-tostadas) | The Plant-Based RD | **1.08** | *0.43* |
-| 3 |[Loaded Meal-Prep Southwest Salad With Creamy Cashew-Lime Dressing](https://vegnews.com/recipes/meal-prep-southwest-salad) | VegNews | **1.08** | *0.43* |
-| 4 |[Hit me with your best pea recipes!](https://www.reddit.com/r/veganrecipes/comments/1vefw90/hit_me_with_your_best_pea_recipes/) | Reddit | **0.84** | *0.33* |
-| 5 |[Sushi Cups](https://plantyou.com/sushi-cups/) | PlantYou | **0.81** | *0.32* |
-| 6 |[Easy Crispy Air Fryer Tortilla Chips Recipe](https://zardyplants.com/recipes/easy-crispy-air-fryer-tortilla-chips-recipe/) | ZardyPlants | **0.81** | *0.32* |
-| 7 |[Easy Banana Chia Pudding Recipe (Vegan)](https://zardyplants.com/recipes/easy-banana-chia-pudding-recipe-vegan/) | ZardyPlants | **0.81** | *0.32* |
-| 8 |[Broccoli Cucumber Salad](https://plantyou.com/broccoli-cucumber-salad/) | PlantYou | **0.81** | *0.32* |
+| 1 |[Sesame Hoisin Eggplant Stir Fry](https://www.connoisseurusveg.com/eggplant-stir-fry/) | Connoisseurus Veg | **2.10** | *0.83* |
+| 2 |[Smashed Bean and Avocado Tostadas with Crispy Corn](https://plantbasedrdblog.com/2026/08/bean-and-avocado-tostadas/?utm_source=rss&utm_medium=rss&utm_campaign=bean-and-avocado-tostadas) | The Plant-Based RD | **0.98** | *0.39* |
+| 3 |[Loaded Meal-Prep Southwest Salad With Creamy Cashew-Lime Dressing](https://vegnews.com/recipes/meal-prep-southwest-salad) | VegNews | **0.98** | *0.39* |
+| 4 |[Hit me with your best pea recipes!](https://www.reddit.com/r/veganrecipes/comments/1vefw90/hit_me_with_your_best_pea_recipes/) | Reddit | **0.76** | *0.30* |
+| 5 |[Sushi Cups](https://plantyou.com/sushi-cups/) | PlantYou | **0.74** | *0.29* |
+| 6 |[Easy Crispy Air Fryer Tortilla Chips Recipe](https://zardyplants.com/recipes/easy-crispy-air-fryer-tortilla-chips-recipe/) | ZardyPlants | **0.74** | *0.29* |
+| 7 |[Easy Banana Chia Pudding Recipe (Vegan)](https://zardyplants.com/recipes/easy-banana-chia-pudding-recipe-vegan/) | ZardyPlants | **0.74** | *0.29* |
+| 8 |[Broccoli Cucumber Salad](https://plantyou.com/broccoli-cucumber-salad/) | PlantYou | **0.74** | *0.29* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 17 | 0 | 0 | 0 | 0 | 2026-07-20 | ❌ Blocked/ConnErr |
+| Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 7 | 0 | 0 | 2026-07-23 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
@@ -64,7 +64,7 @@
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
-| Steamy Vegan | 3 | 188 | 9 | 29 | 10 | 2 | 2026-08-08 | ✅ OK |
+| Steamy Vegan | 2 | 188 | 9 | 29 | 10 | 2 | 2026-08-08 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 200 | 200 | 11 | 0 | 9 | 2026-08-01 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 305 | 0 | 34 | 1 | 0 | 2026-08-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 319 | 41 | 40 | 2 | 41 | 2026-08-08 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-08 | ✅ OK (2) |
+| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-08-08 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-05 | ✅ OK |
-| VegNews | 0 | 350 | 0 | 50 | 0 | 9 | 2026-08-07 | ✅ OK |
+| VegNews | 4 | 350 | 0 | 50 | 0 | 9 | 2026-08-08 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
