@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-09 07:36:58
-**Total Run Time:** 7m 4s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-08-09 12:00:36
+**Total Run Time:** 7m 13s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21063 | 150 new today |
+| **Total Database** | 21063 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 299 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **5.51** | *2.19* |
-| 2 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **5.51** | *2.19* |
-| 3 |[Creamy Caramelized Onion & Yellow Squash Pasta (Vegan)](https://thefirstmess.com/2026/08/05/caramelized-onion-yellow-squash-pasta/) | The First Mess | **5.51** | *2.19* |
-| 4 |[Never buying pita from the store again 🫓](https://www.reddit.com/r/veganrecipes/comments/1vgg7jn/never_buying_pita_from_the_store_again/) | Reddit | **5.51** | *2.19* |
-| 5 |[6-Ingredient Vegan French Silk Pie](https://thebananadiaries.com/6-ingredient-vegan-french-silk-pie/) | The Banana Diaries | **5.51** | *2.19* |
-| 6 |[Beer-Battered Banana Blossom Vegan Fish Filets](https://vegnews.com/recipes/vegan-beer-battered-fish-filets) | VegNews | **5.51** | *2.19* |
-| 7 |[Pizza Croissants](https://www.reddit.com/r/veganrecipes/comments/1vhpy4g/pizza_croissants/) | Reddit | **5.51** | *2.19* |
-| 8 |[Vegan Butter Pecan Ice Cream](https://www.connoisseurusveg.com/vegan-butter-pecan/) | Connoisseurus Veg | **5.51** | *2.19* |
+| 1 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **5.06** | *2.01* |
+| 2 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **5.06** | *2.01* |
+| 3 |[Creamy Caramelized Onion & Yellow Squash Pasta (Vegan)](https://thefirstmess.com/2026/08/05/caramelized-onion-yellow-squash-pasta/) | The First Mess | **5.06** | *2.01* |
+| 4 |[Never buying pita from the store again 🫓](https://www.reddit.com/r/veganrecipes/comments/1vgg7jn/never_buying_pita_from_the_store_again/) | Reddit | **5.06** | *2.01* |
+| 5 |[6-Ingredient Vegan French Silk Pie](https://thebananadiaries.com/6-ingredient-vegan-french-silk-pie/) | The Banana Diaries | **5.06** | *2.01* |
+| 6 |[Beer-Battered Banana Blossom Vegan Fish Filets](https://vegnews.com/recipes/vegan-beer-battered-fish-filets) | VegNews | **5.06** | *2.01* |
+| 7 |[Pizza Croissants](https://www.reddit.com/r/veganrecipes/comments/1vhpy4g/pizza_croissants/) | Reddit | **5.06** | *2.01* |
+| 8 |[Vegan Butter Pecan Ice Cream](https://www.connoisseurusveg.com/vegan-butter-pecan/) | Connoisseurus Veg | **5.06** | *2.01* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 17 | 0 | 0 | 0 | 0 | 2026-07-20 | ❌ Blocked/ConnErr |
+| Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 7 | 0 | 0 | 2026-07-23 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 305 | 0 | 34 | 1 | 0 | 2026-08-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 319 | 41 | 40 | 2 | 41 | 2026-08-08 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-08-08 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-09 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-05 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 50 | 0 | 9 | 2026-08-08 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
