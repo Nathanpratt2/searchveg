@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-09 03:21:31
-**Total Run Time:** 8m 19s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-08-09 07:36:58
+**Total Run Time:** 7m 4s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21063 | 114 new today |
+| **Total Database** | 21063 | 150 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 299 | Total recorded actions in database |
-| **WFPB / GF** | 2602 / 2752 | 12% / 13% |
-| **Easy / Budget** | 5065 / 2090 | 24% / 9% |
+| **WFPB / GF** | 2602 / 2753 | 12% / 13% |
+| **Easy / Budget** | 5073 / 2093 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **5.98** | *2.37* |
-| 2 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **5.98** | *2.37* |
-| 3 |[Creamy Caramelized Onion & Yellow Squash Pasta (Vegan)](https://thefirstmess.com/2026/08/05/caramelized-onion-yellow-squash-pasta/) | The First Mess | **5.98** | *2.37* |
-| 4 |[Never buying pita from the store again 🫓](https://www.reddit.com/r/veganrecipes/comments/1vgg7jn/never_buying_pita_from_the_store_again/) | Reddit | **5.98** | *2.37* |
-| 5 |[6-Ingredient Vegan French Silk Pie](https://thebananadiaries.com/6-ingredient-vegan-french-silk-pie/) | The Banana Diaries | **5.98** | *2.37* |
-| 6 |[Beer-Battered Banana Blossom Vegan Fish Filets](https://vegnews.com/recipes/vegan-beer-battered-fish-filets) | VegNews | **5.98** | *2.37* |
-| 7 |[Pizza Croissants](https://www.reddit.com/r/veganrecipes/comments/1vhpy4g/pizza_croissants/) | Reddit | **5.98** | *2.37* |
-| 8 |[Vegan Butter Pecan Ice Cream](https://www.connoisseurusveg.com/vegan-butter-pecan/) | Connoisseurus Veg | **5.98** | *2.37* |
+| 1 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **5.51** | *2.19* |
+| 2 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **5.51** | *2.19* |
+| 3 |[Creamy Caramelized Onion & Yellow Squash Pasta (Vegan)](https://thefirstmess.com/2026/08/05/caramelized-onion-yellow-squash-pasta/) | The First Mess | **5.51** | *2.19* |
+| 4 |[Never buying pita from the store again 🫓](https://www.reddit.com/r/veganrecipes/comments/1vgg7jn/never_buying_pita_from_the_store_again/) | Reddit | **5.51** | *2.19* |
+| 5 |[6-Ingredient Vegan French Silk Pie](https://thebananadiaries.com/6-ingredient-vegan-french-silk-pie/) | The Banana Diaries | **5.51** | *2.19* |
+| 6 |[Beer-Battered Banana Blossom Vegan Fish Filets](https://vegnews.com/recipes/vegan-beer-battered-fish-filets) | VegNews | **5.51** | *2.19* |
+| 7 |[Pizza Croissants](https://www.reddit.com/r/veganrecipes/comments/1vhpy4g/pizza_croissants/) | Reddit | **5.51** | *2.19* |
+| 8 |[Vegan Butter Pecan Ice Cream](https://www.connoisseurusveg.com/vegan-butter-pecan/) | Connoisseurus Veg | **5.51** | *2.19* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 13 | 0 | 3 | 1 | 0 | 2026-07-17 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 18 | 0 | 0 | 0 | 0 | 2026-07-20 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 17 | 0 | 0 | 0 | 0 | 2026-07-20 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 7 | 0 | 0 | 2026-07-23 | ✅ OK |
 | Mary's Test Kitchen | 2 | 21 | 0 | 8 | 1 | 0 | 2026-06-23 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
@@ -55,14 +55,14 @@
 | The Hidden Veggies | 4 | 124 | 1 | 12 | 124 | 0 | 2026-07-27 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 0 | 147 | 0 | 12 | 2 | 1 | 2026-08-04 | ✅ OK |
+| Sarah's Vegan Kitchen | 4 | 150 | 0 | 12 | 2 | 1 | 2026-08-04 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 169 | 3 | 31 | 10 | 0 | 2026-07-31 | ✅ OK |
 | Dreena Burton | 0 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 177 | 0 | 22 | 1 | 30 | 2026-07-31 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
-| The Stingy Vegan | 0 | 183 | 1 | 183 | 183 | 0 | 2026-06-29 | ✅ OK |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 30 | 2026-07-31 | ✅ OK |
 | My Vegan Minimalist | 0 | 188 | 16 | 57 | 10 | 1 | 2026-02-16 | ✅ OK |
 | Steamy Vegan | 2 | 188 | 9 | 29 | 10 | 2 | 2026-08-08 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
@@ -70,20 +70,20 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 210 | 14 | 33 | 13 | 5 | 2026-07-31 | ✅ OK |
-| The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | The Little Blog of Vegan | 1 | 212 | 0 | 41 | 0 | 1 | 2026-08-05 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 6 | 215 | 0 | 30 | 0 | 3 | 2026-03-03 | ✅ OK |
-| Vegan in the Freezer | 0 | 217 | 5 | 36 | 10 | 0 | 2026-05-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Elavegan | 0 | 218 | 5 | 38 | 2 | 210 | 2026-08-01 | ✅ OK |
+| Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-08-09 | ✅ OK |
-| Cadry's Kitchen | 0 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
+| Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 232 | 6 | 14 | 14 | 0 | 2026-08-08 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
-| Rabbit and Wolves | 0 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
+| Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | The First Mess | 0 | 237 | 1 | 31 | 3 | 1 | 2026-08-05 | ✅ OK |
@@ -95,18 +95,18 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
-| Vegan Richa | 0 | 246 | 10 | 57 | 41 | 73 | 2026-07-10 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 249 | 30 | 55 | 0 | 62 | 2026-07-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Hot For Food | 0 | 252 | 9 | 37 | 12 | 1 | 2026-07-06 | ❌ Blocked/ConnErr |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
+| Hot For Food | 1 | 253 | 9 | 37 | 12 | 1 | 2026-07-06 | ✅ OK |
+| Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-08-05 | ✅ OK |
 | The Foodie Takes Flight | 0 | 254 | 0 | 254 | 2 | 0 | 2026-06-18 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Make It Dairy Free | 1 | 264 | 4 | 42 | 2 | 3 | 2026-07-26 | ✅ OK |
-| Strength and Sunshine | 0 | 267 | 8 | 267 | 2 | 260 | 2026-06-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | My Darling Vegan | 2 | 268 | 1 | 32 | 4 | 12 | 2026-07-31 | ✅ OK |
+| Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | A Virtual Vegan | 6 | 271 | 3 | 36 | 1 | 4 | 2026-07-30 | ✅ OK |
 | Eat Figs, Not Pigs | 4 | 271 | 1 | 33 | 2 | 0 | 2026-08-08 | ✅ OK |
