@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-10 08:20:43
-**Total Run Time:** 8m 51s
-**Longest Step:** HTML: The Cheap Lazy Vegan (1m 17s)
+**Last Run:** 2026-08-10 12:13:44
+**Total Run Time:** 7m 10s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21068 | 154 new today |
+| **Total Database** | 21070 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 312 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **4.44** | *1.76* |
-| 2 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **3.42** | *1.36* |
-| 3 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **3.42** | *1.36* |
-| 4 |[Creamy Caramelized Onion & Yellow Squash Pasta (Vegan)](https://thefirstmess.com/2026/08/05/caramelized-onion-yellow-squash-pasta/) | The First Mess | **3.42** | *1.36* |
-| 5 |[Never buying pita from the store again 🫓](https://www.reddit.com/r/veganrecipes/comments/1vgg7jn/never_buying_pita_from_the_store_again/) | Reddit | **3.42** | *1.36* |
-| 6 |[6-Ingredient Vegan French Silk Pie](https://thebananadiaries.com/6-ingredient-vegan-french-silk-pie/) | The Banana Diaries | **3.42** | *1.36* |
-| 7 |[Beer-Battered Banana Blossom Vegan Fish Filets](https://vegnews.com/recipes/vegan-beer-battered-fish-filets) | VegNews | **3.42** | *1.36* |
-| 8 |[Pizza Croissants](https://www.reddit.com/r/veganrecipes/comments/1vhpy4g/pizza_croissants/) | Reddit | **3.42** | *1.36* |
+| 1 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **4.12** | *1.63* |
+| 2 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **3.18** | *1.26* |
+| 3 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **3.18** | *1.26* |
+| 4 |[Creamy Caramelized Onion & Yellow Squash Pasta (Vegan)](https://thefirstmess.com/2026/08/05/caramelized-onion-yellow-squash-pasta/) | The First Mess | **3.18** | *1.26* |
+| 5 |[Never buying pita from the store again 🫓](https://www.reddit.com/r/veganrecipes/comments/1vgg7jn/never_buying_pita_from_the_store_again/) | Reddit | **3.18** | *1.26* |
+| 6 |[6-Ingredient Vegan French Silk Pie](https://thebananadiaries.com/6-ingredient-vegan-french-silk-pie/) | The Banana Diaries | **3.18** | *1.26* |
+| 7 |[Beer-Battered Banana Blossom Vegan Fish Filets](https://vegnews.com/recipes/vegan-beer-battered-fish-filets) | VegNews | **3.18** | *1.26* |
+| 8 |[Pizza Croissants](https://www.reddit.com/r/veganrecipes/comments/1vhpy4g/pizza_croissants/) | Reddit | **3.17** | *1.26* |
 
 ---
 
@@ -44,7 +44,7 @@
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
 | The Banana Diaries | 0 | 38 | 0 | 11 | 2 | 0 | 2026-08-05 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
-| Dr. Vegan | 3 | 43 | 4 | 43 | 8 | 0 | 2026-08-05 | ✅ OK |
+| Dr. Vegan | 3 | 43 | 4 | 43 | 8 | 0 | 2026-08-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Vegan Richa GF | 0 | 50 | 2 | 12 | 7 | 50 | 2026-08-05 | ✅ OK |
 | PlantYou | 2 | 51 | 51 | 8 | 2 | 0 | 2026-08-06 | ✅ OK |
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 232 | 6 | 14 | 14 | 0 | 2026-08-08 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ❌ Blocked/HTML Fail |
+| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -109,22 +109,22 @@
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | A Virtual Vegan | 6 | 271 | 3 | 36 | 1 | 4 | 2026-07-30 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 272 | 1 | 34 | 2 | 0 | 2026-08-09 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 273 | 1 | 34 | 2 | 0 | 2026-08-10 | ✅ OK |
 | From My Bowl | 0 | 275 | 3 | 47 | 3 | 5 | 2026-08-04 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | It Doesn't Taste Like Chicken | 2 | 277 | 1 | 95 | 7 | 218 | 2026-08-09 | ✅ OK |
 | The Plant-Based RD | 0 | 280 | 4 | 17 | 1 | 0 | 2026-08-04 | ✅ OK |
 | Full of Plants | 1 | 283 | 0 | 42 | 0 | 13 | 2026-08-06 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 286 | 286 | 7 | 0 | 9 | 2026-07-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
-| Plant-Based on a Budget | 3 | 289 | 16 | 70 | 289 | 1 | 2026-08-03 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK |
+| Plant-Based on a Budget | 3 | 289 | 16 | 70 | 289 | 1 | 2026-08-10 | ✅ OK |
 | Healthy Little Vittles | 3 | 291 | 10 | 47 | 2 | 288 | 2026-08-06 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 292 | 38 | 81 | 3 | 0 | 2026-08-05 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 300 | 3 | 14 | 3 | 5 | 2026-08-09 | ✅ OK |
-| Connoisseurus Veg | 1 | 305 | 0 | 34 | 1 | 0 | 2026-08-07 | ✅ OK |
+| Connoisseurus Veg | 2 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 319 | 41 | 40 | 2 | 41 | 2026-08-08 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-08-10 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-10 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-05 | ✅ OK |
 | VegNews | 1 | 350 | 0 | 50 | 0 | 8 | 2026-08-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
