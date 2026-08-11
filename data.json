@@ -1,5 +1,82 @@
 [
   {
+    "blog_name": "Gimme Some Oven (Vegan Recipes)",
+    "title": "Saut\u00e9ed Broccolini",
+    "link": "https://www.gimmesomeoven.com/sauteed-broccolini/",
+    "image": "https://www.gimmesomeoven.com/wp-content/uploads/2026/08/Sauteed-Broccoli-8.jpg",
+    "date": "2026-08-11T16:18:01+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Pulled Jackfruit \ud83c\udf2e I love it in street tacos and sliders",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1vll59p/pulled_jackfruit_i_love_it_in_street_tacos_and/",
+    "image": "https://preview.redd.it/jcbrvjsfnrih1.jpeg?width=640&crop=smart&auto=webp&s=289b36a1db8a65aca4ba0e2145fa19e2793ce546",
+    "date": "2026-08-11T15:45:53+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Orange Vanilla Frozen Yogurt Pops",
+    "link": "https://vegnews.com/recipes/vegan-citrus-popsicles",
+    "image": "https://vegnews.com/media/W1siZiIsIjgwNTAvVmVnTmV3cy5DaXRydXNQb3BzaWNsZXMuSGFubmFoS2FtaW5za3kuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.CitrusPopsicles.HannahKaminsky.jpg?sha=a6028c45a061c5ef",
+    "date": "2026-08-11T15:15:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Vegan Buffalo Ranch Cauliflower Sandwich",
+    "link": "https://vegnews.com/recipes/vegan-buffalo-cauliflower-sandwich",
+    "image": "https://vegnews.com/media/W1siZiIsIjE4MDY5L1ZlZ05ld3MuQnVmZmFsb0NhdWxpZmxvd2VyU2FuZHdpY2guanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.BuffaloCauliflowerSandwich.jpg?sha=e11e68bf7dff96e0",
+    "date": "2026-08-11T15:15:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Cardamom Panna Cotta With Candied Blood Oranges",
+    "link": "https://vegnews.com/recipes/cardamom-panna-cotta-with-candied-blood-oranges",
+    "image": "https://vegnews.com/media/W1siZiIsIjExMDkzL1ZlZ05ld3MuUGFubmFDb3R0YTEucG5nIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.PannaCotta1.jpg?sha=0f58a18c79ed9627",
+    "date": "2026-08-11T15:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Nora Cooks",
+    "title": "Marry Me Lentils",
+    "link": "https://www.noracooks.com/marry-me-lentils/",
+    "image": "https://www.noracooks.com/wp-content/uploads/2026/08/marry-me-lentils-1-2-1200x1200.jpg",
+    "date": "2026-08-11T14:00:50+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Hearty Spinach Dal",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1vli4dm/hearty_spinach_dal/",
+    "image": "https://preview.redd.it/a6ki7rq64rih1.jpeg?width=640&crop=smart&auto=webp&s=95dd98fe256a0e10fd36c72552293d7f63adad52",
+    "date": "2026-08-11T13:53:59+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "My Vegan Minimalist",
     "title": "Pumpkin Seed Pesto - Simple Nut-Free Basil Pesto",
     "link": "https://myveganminimalist.com/pumpkin-seed-pesto/",
@@ -91,7 +168,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.38
+    "trending_score": 3.96
   },
   {
     "blog_name": "VegNews",
@@ -102,7 +179,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.38
+    "trending_score": 3.96
   },
   {
     "blog_name": "The Post-Punk Kitchen",
@@ -135,7 +212,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.38
+    "trending_score": 3.96
   },
   {
     "blog_name": "Reddit",
@@ -319,7 +396,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 3.82
+    "trending_score": 3.45
   },
   {
     "blog_name": "Reddit",
@@ -330,7 +407,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.82
+    "trending_score": 3.45
   },
   {
     "blog_name": "VegNews",
@@ -697,8 +774,8 @@
     "date": "2026-08-05T16:53:56+00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": true,
-    "trending_score": 2.0
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "VegNews",
@@ -805,7 +882,7 @@
       "WFPB"
     ],
     "is_trending": true,
-    "trending_score": 2.0
+    "trending_score": 1.81
   },
   {
     "blog_name": "The Conscious Plant Kitchen",
@@ -5277,8 +5354,8 @@
     "date": "2026-07-07T18:51:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -5292,8 +5369,8 @@
     "date": "2026-07-07T18:51:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -5971,8 +6048,8 @@
     "date": "2026-07-03T17:07:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -6536,8 +6613,8 @@
     "date": "2026-06-30T16:29:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -6943,8 +7020,8 @@
     "date": "2026-06-28T18:27:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -7119,8 +7196,8 @@
     "date": "2026-06-27T17:07:35+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -7134,8 +7211,8 @@
     "date": "2026-06-27T17:07:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -7937,8 +8014,8 @@
     "date": "2026-06-23T12:23:50+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -8487,8 +8564,8 @@
     "date": "2026-06-19T18:42:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -8930,8 +9007,8 @@
     "date": "2026-06-17T12:32:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -8944,8 +9021,8 @@
     "date": "2026-06-17T12:31:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -8986,7 +9063,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 2.59
+    "trending_score": 2.34
   },
   {
     "blog_name": "The First Mess",
@@ -10155,8 +10232,8 @@
     "date": "2026-06-09T20:34:50+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -13356,8 +13433,8 @@
     "date": "2026-05-20T19:23:02+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -14499,8 +14576,8 @@
     "date": "2026-05-14T13:31:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -15693,28 +15770,6 @@
     "link": "https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/",
     "image": "https://preview.redd.it/785mypuemrzg1.jpeg?width=640&crop=smart&auto=webp&s=48e12aec67ea21223bb083cc195c2c5e3df57219",
     "date": "2026-05-07T19:17:36+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Wild Rice Shiitake Mushroom Soup with White Beans \ud83c\udf31",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1t6i6o1/wild_rice_shiitake_mushroom_soup_with_white_beans/",
-    "image": "https://preview.redd.it/n3t7i15x7rzg1.jpeg?width=640&crop=smart&auto=webp&s=6443bfceed694501d7d60f9b81d2f1644184774c",
-    "date": "2026-05-07T17:57:34+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Garlicky ginger potstickers with tofu mushrooms, and scallions",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1t6hdkv/garlicky_ginger_potstickers_with_tofu_mushrooms/",
-    "image": "https://preview.redd.it/xazs11773rzg1.jpeg?width=640&crop=smart&auto=webp&s=bbc2169f9e04f94b03ad0783b66098bf98cb9b39",
-    "date": "2026-05-07T17:29:54+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -17115,8 +17170,8 @@
     "date": "2026-04-27T18:23:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -18509,28 +18564,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "VegNews",
-    "title": "Rainbow Veggie Spring Rolls",
-    "link": "https://vegnews.com/recipes/vegan-rainbow-spring-rolls",
-    "image": "https://vegnews.com/media/W1siZiIsIjExNTc3L1ZlZ05ld3MuUmFpbmJvd1NwcmluZ1JvbGxzLnBuZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIix7ImZvcm1hdCI6ImpwZyJ9XSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.RainbowSpringRolls.jpg?sha=cd415696790991a2",
-    "date": "2026-04-17T14:25:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Super Green Cherry Avocado Smoothie",
-    "link": "https://vegnews.com/recipes/vegan-cherry-avocado-smoothie",
-    "image": "https://vegnews.com/media/W1siZiIsIjg2NTUvVmVnTmV3cy5DaGVycnlWYW5pbGxhU21vb3RoaWUuSGFubmFoS2FtaW5za3kuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiLHsiZm9ybWF0IjoianBnIn1dLFsicCIsIm9wdGltaXplIl1d/VegNews.CherryVanillaSmoothie.HannahKaminsky.jpg?sha=dbab93bb8956c421",
-    "date": "2026-04-17T14:15:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Jessica in the Kitchen",
     "title": "Shoofly Pie",
     "link": "https://jessicainthekitchen.com/shoofly-pie/",
@@ -18593,17 +18626,6 @@
     "link": "https://theeburgerdude.com/shredded-tofu-chicken/",
     "image": "https://theeburgerdude.com/wp-content/uploads/2026/04/Shredded-Tofu-Chicken-1-1024x1024.jpg",
     "date": "2026-04-16T18:10:02+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Chickpea Tacos With Creamy Cashew Dill Sauce",
-    "link": "https://vegnews.com/recipes/vegan-chickpea-tacos-with-creamy-cashew-dill-sauce",
-    "image": "https://vegnews.com/media/W1siZiIsIjI5NTMyL1ZlZ05ld3MuVGFjb3MuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiLHsiZm9ybWF0IjoianBnIn1dLFsicCIsIm9wdGltaXplIl1d/VegNews.Tacos.jpg?sha=b8a20d0aeccc4288",
-    "date": "2026-04-16T15:05:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -19661,8 +19683,8 @@
     "date": "2026-04-07T01:33:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -20201,8 +20223,8 @@
     "date": "2026-04-01T02:49:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -20925,8 +20947,8 @@
     "date": "2026-03-25T02:38:22+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -21364,8 +21386,8 @@
     "date": "2026-03-20T19:00:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -22497,8 +22519,8 @@
     "date": "2026-03-11T03:40:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -23175,8 +23197,8 @@
     "date": "2026-03-04T13:15:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -24834,8 +24856,8 @@
     "date": "2026-02-19T10:03:29+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -24910,8 +24932,8 @@
     "date": "2026-02-18T18:12:55+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25252,8 +25274,8 @@
     "date": "2026-02-16T00:57:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25612,17 +25634,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Celery Pasta Soup",
-    "link": "https://fullofplants.com/celery-pasta-soup/?adt_ei={$email}",
-    "image": "https://fullofplants.com/wp-content/uploads/2026/02/vegan-celery-pasta-soup-rich-and-hearty-16-720x900.jpg",
-    "date": "2026-02-13T11:00:00+00:00",
-    "is_disruptor": true,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "From My Bowl",
     "title": "One Pan Vegan Massaman Curry",
     "link": "https://frommybowl.com/one-pan-vegan-massaman-curry/?utm_source=rss&utm_medium=rss&utm_campaign=one-pan-vegan-massaman-curry",
@@ -25632,6 +25643,17 @@
     "special_tags": [
       "Easy"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Celery Pasta Soup",
+    "link": "https://fullofplants.com/celery-pasta-soup/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/02/vegan-celery-pasta-soup-rich-and-hearty-16-720x900.jpg",
+    "date": "2026-02-13T11:00:00+00:00",
+    "is_disruptor": true,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -25654,8 +25676,8 @@
     "date": "2026-02-13T01:59:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -26076,17 +26098,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Vegan Custard Tart",
-    "link": "https://fullofplants.com/vegan-custard-tart/?adt_ei={$email}",
-    "image": "https://fullofplants.com/wp-content/uploads/2026/02/creamy-vegan-custard-tart-with-vanilla-bean-12-720x900.jpg",
-    "date": "2026-02-10T11:00:00+00:00",
-    "is_disruptor": true,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "From My Bowl",
     "title": "Cherry Almond Scones",
     "link": "https://frommybowl.com/cherry-almond-scones/?utm_source=rss&utm_medium=rss&utm_campaign=cherry-almond-scones",
@@ -26097,6 +26108,17 @@
       "WFPB",
       "Easy"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Vegan Custard Tart",
+    "link": "https://fullofplants.com/vegan-custard-tart/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/02/creamy-vegan-custard-tart-with-vanilla-bean-12-720x900.jpg",
+    "date": "2026-02-10T11:00:00+00:00",
+    "is_disruptor": true,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -26669,8 +26691,8 @@
     "date": "2026-02-05T20:13:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -27244,8 +27266,8 @@
     "date": "2026-02-02T15:41:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -27788,8 +27810,8 @@
     "date": "2026-01-29T15:19:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -27878,8 +27900,8 @@
     "date": "2026-01-28T19:16:29+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -27983,8 +28005,8 @@
     "date": "2026-01-28T11:45:05+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -28669,8 +28691,8 @@
     "date": "2026-01-21T21:51:00+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -28771,8 +28793,8 @@
     "date": "2026-01-21T09:00:13+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -28896,21 +28918,10 @@
     "date": "2026-01-20T13:29:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Full of Plants",
-    "title": "Vegan Mini Chocolate Chip Loaf Cakes",
-    "link": "https://fullofplants.com/vegan-mini-chocolate-chip-loaf-cakes/?adt_ei={$email}",
-    "image": "https://fullofplants.com/wp-content/uploads/2026/01/vegan-chocolate-chip-mini-loaf-cakes-36-720x900.jpg",
-    "date": "2026-01-20T11:00:00+00:00",
-    "is_disruptor": true,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -28925,6 +28936,17 @@
       "WFPB",
       "Easy"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Vegan Mini Chocolate Chip Loaf Cakes",
+    "link": "https://fullofplants.com/vegan-mini-chocolate-chip-loaf-cakes/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/01/vegan-chocolate-chip-mini-loaf-cakes-36-720x900.jpg",
+    "date": "2026-01-20T11:00:00+00:00",
+    "is_disruptor": true,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -29691,8 +29713,8 @@
     "date": "2026-01-14T01:52:22+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -30132,17 +30154,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Stuffed Tofu in Spicy Tomato Sauce",
-    "link": "https://fullofplants.com/stuffed-tofu-in-tomato-sauce/",
-    "image": "https://fullofplants.com/wp-content/uploads/2026/01/stuffed-tofu-in-spicy-tomato-sauce-vietnamese-vegan-dish-4.jpg",
-    "date": "2026-01-09T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "From My Bowl",
     "title": "Kale and Chickpea Salad",
     "link": "https://frommybowl.com/kale-chickpea-salad/?utm_source=rss&utm_medium=rss&utm_campaign=kale-chickpea-salad",
@@ -30152,6 +30163,17 @@
     "special_tags": [
       "WFPB"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Stuffed Tofu in Spicy Tomato Sauce",
+    "link": "https://fullofplants.com/stuffed-tofu-in-tomato-sauce/",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/01/stuffed-tofu-in-spicy-tomato-sauce-vietnamese-vegan-dish-4.jpg",
+    "date": "2026-01-09T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -30459,8 +30481,8 @@
     "date": "2026-01-07T09:00:11+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -31234,8 +31256,8 @@
     "date": "2025-12-29T15:35:13+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -31473,17 +31495,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Vegan P\u00e2t\u00e9 Chaud (Vietnamese Meat Pastries)",
-    "link": "https://fullofplants.com/vegan-pate-chaud-vietnamese-meat-pastries/",
-    "image": "https://fullofplants.com/wp-content/uploads/2025/12/vegan-pate-chaud-vietnamese-meat-pastries-8.jpg",
-    "date": "2025-12-26T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "From My Bowl",
     "title": "Farro Soup with White Beans",
     "link": "https://frommybowl.com/farro-soup-white-beans/?utm_source=rss&utm_medium=rss&utm_campaign=farro-soup-white-beans",
@@ -31493,6 +31504,17 @@
     "special_tags": [
       "Budget"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Vegan P\u00e2t\u00e9 Chaud (Vietnamese Meat Pastries)",
+    "link": "https://fullofplants.com/vegan-pate-chaud-vietnamese-meat-pastries/",
+    "image": "https://fullofplants.com/wp-content/uploads/2025/12/vegan-pate-chaud-vietnamese-meat-pastries-8.jpg",
+    "date": "2025-12-26T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -32708,8 +32730,8 @@
     "date": "2025-12-14T00:22:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -32840,8 +32862,8 @@
     "date": "2025-12-12T05:45:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -33347,8 +33369,8 @@
     "date": "2025-12-08T10:18:07",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -33842,8 +33864,8 @@
     "date": "2025-12-03T09:00:59+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -34446,8 +34468,8 @@
     "date": "2025-11-26T10:21:13",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -35112,8 +35134,8 @@
     "date": "2025-11-19T22:54:08+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -36158,8 +36180,8 @@
     "date": "2025-11-08T15:02:16+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -36653,8 +36675,8 @@
     "date": "2025-11-05T03:20:51+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -37198,8 +37220,8 @@
     "date": "2025-10-28T17:13:41+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -37294,8 +37316,8 @@
     "date": "2025-10-27T10:00:20",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -37873,8 +37895,8 @@
     "date": "2025-10-21T16:43:44+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -38407,8 +38429,8 @@
     "date": "2025-10-16T10:10:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -39255,8 +39277,8 @@
     "date": "2025-10-08T15:47:23+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -40015,8 +40037,8 @@
     "date": "2025-09-29T17:18:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -40262,8 +40284,8 @@
     "date": "2025-09-25T17:58:30+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -40671,8 +40693,8 @@
     "date": "2025-09-21T16:04:26+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -41100,8 +41122,8 @@
     "date": "2025-09-16T08:39:30",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41149,8 +41171,8 @@
     "date": "2025-09-15T20:00:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41222,8 +41244,8 @@
     "date": "2025-09-14T23:33:11+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41343,8 +41365,8 @@
     "date": "2025-09-13T18:58:14+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -41793,8 +41815,8 @@
     "date": "2025-09-08T12:56:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42165,8 +42187,8 @@
     "date": "2025-09-03T12:40:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42386,8 +42408,8 @@
     "date": "2025-08-31T16:27:45+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42818,8 +42840,8 @@
     "date": "2025-08-26T09:45:49",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42858,8 +42880,8 @@
     "date": "2025-08-25T12:56:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42883,8 +42905,8 @@
     "date": "2025-08-25T11:46:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -44741,8 +44763,8 @@
     "date": "2025-07-31T18:00:11+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -46244,8 +46266,8 @@
     "date": "2025-07-16T09:27:48",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -46741,8 +46763,8 @@
     "date": "2025-07-10T00:00:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -46960,8 +46982,8 @@
     "date": "2025-07-08T09:12:27",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -48094,8 +48116,8 @@
     "date": "2025-06-24T09:42:44",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -48132,8 +48154,8 @@
     "date": "2025-06-23T22:03:48+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -48592,8 +48614,8 @@
     "date": "2025-06-18T09:12:39",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -48826,8 +48848,8 @@
     "date": "2025-06-16T09:32:54",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -51830,8 +51852,8 @@
     "date": "2025-05-08T22:51:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -54267,8 +54289,8 @@
     "date": "2025-04-23T15:50:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -54978,8 +55000,8 @@
     "date": "2025-04-14T09:21:52",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -55191,8 +55213,8 @@
     "date": "2025-04-11T18:47:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -55479,8 +55501,8 @@
     "date": "2025-04-08T09:55:02",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -56450,8 +56472,8 @@
     "date": "2025-03-28T07:08:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -57167,8 +57189,8 @@
     "date": "2025-03-20T13:34:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -57182,8 +57204,8 @@
     "date": "2025-03-20T09:22:31",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -58075,8 +58097,8 @@
     "date": "2025-03-10T11:42:06",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -58767,8 +58789,8 @@
     "date": "2025-03-03T10:44:17",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -60566,8 +60588,8 @@
     "date": "2025-02-11T10:20:47",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -60866,8 +60888,8 @@
     "date": "2025-02-07T12:27:41",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -61206,8 +61228,8 @@
     "date": "2025-02-03T09:43:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -63305,8 +63327,8 @@
     "date": "2025-01-07T10:49:31",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -63432,8 +63454,8 @@
     "date": "2025-01-06T10:14:23",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -63943,8 +63965,8 @@
     "date": "2024-12-30T08:26:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -64132,8 +64154,8 @@
     "date": "2024-12-24T09:52:35",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -64216,8 +64238,8 @@
     "date": "2024-12-23T13:54:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -64231,8 +64253,8 @@
     "date": "2024-12-23T10:37:32",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -67329,8 +67351,8 @@
     "date": "2024-11-19T11:42:37",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -67995,8 +68017,8 @@
     "date": "2024-11-11T10:11:31",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -68198,8 +68220,8 @@
     "date": "2024-11-08T10:56:08",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -68311,8 +68333,8 @@
     "date": "2024-11-07T11:27:17",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -69507,8 +69529,8 @@
     "date": "2024-10-24T09:09:44",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -70214,8 +70236,8 @@
     "date": "2024-10-15T09:58:13",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -70885,8 +70907,8 @@
     "date": "2024-10-07T09:26:34",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -71040,8 +71062,8 @@
     "date": "2024-10-05T13:43:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -71270,8 +71292,8 @@
     "date": "2024-10-03T09:37:14",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -71668,8 +71690,8 @@
     "date": "2024-09-28T15:02:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -72332,8 +72354,8 @@
     "date": "2024-09-21T14:21:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -72468,8 +72490,8 @@
     "date": "2024-09-20T09:07:25",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -72693,8 +72715,8 @@
     "date": "2024-09-17T09:15:12",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -72707,8 +72729,8 @@
     "date": "2024-09-17T08:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -72845,8 +72867,8 @@
     "date": "2024-09-16T09:13:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -73008,8 +73030,8 @@
     "date": "2024-09-14T14:52:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -73272,8 +73294,8 @@
     "date": "2024-09-11T11:10:38",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -73715,8 +73737,8 @@
     "date": "2024-09-07T12:12:02+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -73791,8 +73813,8 @@
     "date": "2024-09-06T09:28:50",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -74038,8 +74060,8 @@
     "date": "2024-09-04T09:42:50",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -74160,8 +74182,8 @@
     "date": "2024-09-03T17:34:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -74428,8 +74450,8 @@
     "date": "2024-08-31T13:33:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -74685,8 +74707,8 @@
     "date": "2024-08-27T15:53:27+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -75295,8 +75317,8 @@
     "date": "2024-08-20T17:08:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -75309,8 +75331,8 @@
     "date": "2024-08-20T17:08:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -75464,8 +75486,8 @@
     "date": "2024-08-18T13:22:02+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -75549,8 +75571,8 @@
     "date": "2024-08-17T15:22:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -75955,8 +75977,8 @@
     "date": "2024-08-12T19:05:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -76161,8 +76183,8 @@
     "date": "2024-08-10T15:07:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -77004,10 +77026,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "Easy Vegan Vietnamese Curry",
-    "link": "https://fullofplants.com/easy-vegan-vietnamese-curry/",
-    "image": "https://fullofplants.com/wp-content/uploads/2019/07/easy-spicy-vietnamese-curry-vegan-vegetarian-with-tofu-mushrooms-broccoli-taro-eggplant-14.jpg",
+    "blog_name": "From My Bowl",
+    "title": "Sheet Pan Gnocchi with Tomatoes",
+    "link": "https://frommybowl.com/sheet-pan-gnocchi-tomatoes/",
+    "image": "https://frommybowl.com/wp-content/uploads/2024/07/Sheet_Pan_Gnocchi_Tomatoes_Vegan_FromMyBowl-4.jpg",
     "date": "2024-07-30T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
@@ -77017,10 +77039,10 @@
     "trending_score": 0
   },
   {
-    "blog_name": "From My Bowl",
-    "title": "Sheet Pan Gnocchi with Tomatoes",
-    "link": "https://frommybowl.com/sheet-pan-gnocchi-tomatoes/",
-    "image": "https://frommybowl.com/wp-content/uploads/2024/07/Sheet_Pan_Gnocchi_Tomatoes_Vegan_FromMyBowl-4.jpg",
+    "blog_name": "Full of Plants",
+    "title": "Easy Vegan Vietnamese Curry",
+    "link": "https://fullofplants.com/easy-vegan-vietnamese-curry/",
+    "image": "https://fullofplants.com/wp-content/uploads/2019/07/easy-spicy-vietnamese-curry-vegan-vegetarian-with-tofu-mushrooms-broccoli-taro-eggplant-14.jpg",
     "date": "2024-07-30T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
@@ -77710,8 +77732,8 @@
     "date": "2024-07-20T14:39:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -77995,8 +78017,8 @@
     "date": "2024-07-17T00:59:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -78079,8 +78101,8 @@
     "date": "2024-07-15T22:34:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -78394,8 +78416,8 @@
     "date": "2024-07-11T17:14:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -79318,8 +79340,8 @@
     "date": "2024-06-29T18:11:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -79790,8 +79812,8 @@
     "date": "2024-06-25T09:55:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -79943,8 +79965,8 @@
     "date": "2024-06-23T17:47:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -79957,8 +79979,8 @@
     "date": "2024-06-23T17:46:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -79971,8 +79993,8 @@
     "date": "2024-06-23T17:46:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80046,8 +80068,8 @@
     "date": "2024-06-22T13:16:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80097,8 +80119,8 @@
     "date": "2024-06-22T09:36:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -80428,8 +80450,8 @@
     "date": "2024-06-18T15:22:08+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -80674,8 +80696,8 @@
     "date": "2024-06-15T10:55:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80869,8 +80891,8 @@
     "date": "2024-06-12T18:18:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81264,8 +81286,8 @@
     "date": "2024-06-08T17:42:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81552,8 +81574,8 @@
     "date": "2024-06-06T11:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81747,8 +81769,8 @@
     "date": "2024-06-04T22:19:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81796,8 +81818,8 @@
     "date": "2024-06-04T18:35:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81846,8 +81868,8 @@
     "date": "2024-06-04T18:02:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81860,8 +81882,8 @@
     "date": "2024-06-04T17:23:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -82550,8 +82572,8 @@
     "date": "2024-06-03T21:24:33+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -83716,8 +83738,8 @@
     "date": "2024-06-01T12:18:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -83863,8 +83885,8 @@
     "date": "2024-05-31T19:35:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -84531,8 +84553,8 @@
     "date": "2024-05-30T16:24:24+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -85638,8 +85660,8 @@
     "date": "2024-05-22T18:03:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -86449,8 +86471,8 @@
     "date": "2024-05-14T13:24:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -86463,8 +86485,8 @@
     "date": "2024-05-14T13:23:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -86900,8 +86922,8 @@
     "date": "2024-05-09T15:32:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -88541,8 +88563,8 @@
     "date": "2024-04-23T18:53:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -88927,8 +88949,8 @@
     "date": "2024-04-19T14:23:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -89491,8 +89513,8 @@
     "date": "2024-04-13T01:56:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -89630,8 +89652,8 @@
     "date": "2024-04-10T15:34:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -90089,8 +90111,8 @@
     "date": "2024-04-05T18:51:40+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -90713,8 +90735,8 @@
     "date": "2024-03-29T22:12:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -90762,8 +90784,8 @@
     "date": "2024-03-29T08:30:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -91461,8 +91483,8 @@
     "date": "2024-03-19T15:18:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -91696,8 +91718,8 @@
     "date": "2024-03-16T02:41:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -92104,8 +92126,8 @@
     "date": "2024-03-12T18:29:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -92714,8 +92736,8 @@
     "date": "2024-03-05T17:29:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -93369,8 +93391,8 @@
     "date": "2024-02-26T12:45:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -96608,8 +96630,8 @@
     "date": "2024-01-26T08:46:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -98313,17 +98335,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Full of Plants",
-    "title": "The Fluffiest Vegan Chocolate Chip Muffins",
-    "link": "https://fullofplants.com/the-fluffiest-vegan-chocolate-chip-muffins/",
-    "image": "https://fullofplants.com/wp-content/uploads/2022/05/the-fluffiest-vegan-chocolate-chip-muffins-1-bowl-22.jpg",
-    "date": "2024-01-05T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "From My Bowl",
     "title": "30-Minute Thai Curry Noodles",
     "link": "https://frommybowl.com/30-minute-thai-curry-noodles/",
@@ -98333,6 +98344,17 @@
     "special_tags": [
       "Easy"
     ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "The Fluffiest Vegan Chocolate Chip Muffins",
+    "link": "https://fullofplants.com/the-fluffiest-vegan-chocolate-chip-muffins/",
+    "image": "https://fullofplants.com/wp-content/uploads/2022/05/the-fluffiest-vegan-chocolate-chip-muffins-1-bowl-22.jpg",
+    "date": "2024-01-05T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -99038,8 +99060,8 @@
     "date": "2023-12-21T01:26:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -100012,8 +100034,8 @@
     "date": "2023-12-12T17:02:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -101690,8 +101712,8 @@
     "date": "2023-11-24T22:50:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -101980,8 +102002,8 @@
     "date": "2023-11-21T22:03:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -102721,8 +102743,8 @@
     "date": "2023-11-15T15:23:22+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -102946,8 +102968,8 @@
     "date": "2023-11-14T14:43:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -103516,8 +103538,8 @@
     "date": "2023-11-08T19:13:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -104389,8 +104411,8 @@
     "date": "2023-10-31T12:14:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -104657,8 +104679,8 @@
     "date": "2023-10-28T10:59:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -104802,8 +104824,8 @@
     "date": "2023-10-26T04:33:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -105530,8 +105552,8 @@
     "date": "2023-10-18T16:51:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -106767,8 +106789,8 @@
     "date": "2023-10-05T18:39:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -107990,8 +108012,8 @@
     "date": "2023-09-22T21:19:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -108044,8 +108066,8 @@
     "date": "2023-09-22T16:32:22+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -108473,8 +108495,8 @@
     "date": "2023-09-19T15:58:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -108609,8 +108631,8 @@
     "date": "2023-09-18T09:23:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -109319,8 +109341,8 @@
     "date": "2023-09-15T01:00:00+01:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -109856,8 +109878,8 @@
     "date": "2023-09-15T01:00:00+01:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -110841,8 +110863,8 @@
     "date": "2023-09-14T17:23:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -111119,8 +111141,8 @@
     "date": "2023-09-12T17:54:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -112531,8 +112553,8 @@
     "date": "2023-08-30T02:17:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -113100,8 +113122,8 @@
     "date": "2023-08-24T16:48:27+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -113595,8 +113617,8 @@
     "date": "2023-08-18T19:25:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -113916,8 +113938,8 @@
     "date": "2023-08-15T16:39:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -114071,8 +114093,8 @@
     "date": "2023-08-14T09:10:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -114945,8 +114967,8 @@
     "date": "2023-08-04T12:15:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -115080,8 +115102,8 @@
     "date": "2023-08-03T20:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -115094,8 +115116,8 @@
     "date": "2023-08-03T19:41:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -115810,8 +115832,8 @@
     "date": "2023-07-26T20:39:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -116135,8 +116157,8 @@
     "date": "2023-07-23T10:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -116642,8 +116664,8 @@
     "date": "2023-07-17T20:10:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -117210,8 +117232,8 @@
     "date": "2023-07-12T04:05:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -117827,8 +117849,8 @@
     "date": "2023-07-05T15:55:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -118143,8 +118165,8 @@
     "date": "2023-07-01T22:35:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -118230,8 +118252,8 @@
     "date": "2023-06-30T17:04:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -123779,8 +123801,8 @@
     "date": "2023-04-27T19:29:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -124341,8 +124363,8 @@
     "date": "2023-04-20T14:45:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -126650,8 +126672,8 @@
     "date": "2023-03-23T17:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -127289,8 +127311,8 @@
     "date": "2023-03-16T15:29:55-07:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -129204,8 +129226,8 @@
     "date": "2023-02-22T11:44:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -130295,8 +130317,8 @@
     "date": "2023-02-08T17:12:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -130408,8 +130430,8 @@
     "date": "2023-02-07T14:27:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -131591,8 +131613,8 @@
     "date": "2023-01-25T11:39:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -131691,8 +131713,8 @@
     "date": "2023-01-24T19:42:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -131705,8 +131727,8 @@
     "date": "2023-01-24T19:42:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -132628,8 +132650,8 @@
     "date": "2023-01-14T17:42:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -133562,8 +133584,8 @@
     "date": "2023-01-03T16:21:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -134127,8 +134149,8 @@
     "date": "2022-12-24T06:04:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -135776,8 +135798,8 @@
     "date": "2022-12-06T16:31:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -135973,8 +135995,8 @@
     "date": "2022-12-04T14:51:33+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -136733,8 +136755,8 @@
     "date": "2022-11-23T22:12:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -137454,8 +137476,8 @@
     "date": "2022-11-16T23:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -137744,8 +137766,8 @@
     "date": "2022-11-13T00:31:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -139134,8 +139156,8 @@
     "date": "2022-10-28T08:51:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -139187,8 +139209,8 @@
     "date": "2022-10-27T18:43:13+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -140691,8 +140713,8 @@
     "date": "2022-10-12T04:15:03+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -141650,8 +141672,8 @@
     "date": "2022-09-30T01:24:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -142920,8 +142942,8 @@
     "date": "2022-09-15T15:40:27+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -143180,8 +143202,8 @@
     "date": "2022-09-13T18:33:27+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -143845,8 +143867,8 @@
     "date": "2022-09-04T03:08:03+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -144596,8 +144618,8 @@
     "date": "2022-08-25T08:20:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -145438,8 +145460,8 @@
     "date": "2022-08-17T01:06:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -145811,8 +145833,8 @@
     "date": "2022-08-12T19:29:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -146131,8 +146153,8 @@
     "date": "2022-08-09T16:46:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -146232,8 +146254,8 @@
     "date": "2022-08-07T23:05:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -146570,8 +146592,8 @@
     "date": "2022-08-04T18:26:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -146864,8 +146886,8 @@
     "date": "2022-08-01T13:33:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -147196,8 +147218,8 @@
     "date": "2022-07-28T16:40:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -147568,8 +147590,8 @@
     "date": "2022-07-23T19:29:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -147888,8 +147910,8 @@
     "date": "2022-07-19T15:02:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -148209,8 +148231,8 @@
     "date": "2022-07-14T18:52:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -148421,8 +148443,8 @@
     "date": "2022-07-12T17:15:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -149325,8 +149347,8 @@
     "date": "2022-06-30T18:14:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -149444,8 +149466,8 @@
     "date": "2022-06-30T03:01:08+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -149564,8 +149586,8 @@
     "date": "2022-06-28T16:44:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -149968,8 +149990,8 @@
     "date": "2022-06-21T18:41:08+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -150242,8 +150264,8 @@
     "date": "2022-06-16T15:18:43+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -150404,8 +150426,8 @@
     "date": "2022-06-14T17:11:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -150715,8 +150737,8 @@
     "date": "2022-06-09T18:38:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -151181,8 +151203,8 @@
     "date": "2022-06-02T16:24:47+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -151263,8 +151285,8 @@
     "date": "2022-06-02T01:36:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -151328,8 +151350,8 @@
     "date": "2022-06-01T06:12:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -151356,8 +151378,8 @@
     "date": "2022-05-31T16:24:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -151555,8 +151577,8 @@
     "date": "2022-05-27T13:49:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152048,8 +152070,8 @@
     "date": "2022-05-17T17:52:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152880,8 +152902,8 @@
     "date": "2022-05-05T18:46:40+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -153053,8 +153075,8 @@
     "date": "2022-05-03T16:48:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -153336,8 +153358,8 @@
     "date": "2022-04-30T02:07:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -153547,8 +153569,8 @@
     "date": "2022-04-26T17:17:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -154448,8 +154470,8 @@
     "date": "2022-04-13T17:23:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -154958,8 +154980,8 @@
     "date": "2022-04-05T15:48:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -155319,8 +155341,8 @@
     "date": "2022-03-31T03:21:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -155466,8 +155488,8 @@
     "date": "2022-03-29T16:29:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -155740,8 +155762,8 @@
     "date": "2022-03-24T18:05:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -155860,8 +155882,8 @@
     "date": "2022-03-22T20:39:24+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -156106,8 +156128,8 @@
     "date": "2022-03-18T18:31:35+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -156144,8 +156166,8 @@
     "date": "2022-03-18T01:53:41+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -156326,8 +156348,8 @@
     "date": "2022-03-15T13:11:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -156791,8 +156813,8 @@
     "date": "2022-03-08T13:13:35+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -157879,8 +157901,8 @@
     "date": "2022-02-22T18:28:25+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -158549,8 +158571,8 @@
     "date": "2022-02-13T21:44:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -158720,8 +158742,8 @@
     "date": "2022-02-11T20:02:22+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -159309,8 +159331,8 @@
     "date": "2022-02-03T19:07:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -159832,8 +159854,8 @@
     "date": "2022-01-28T21:03:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -160068,8 +160090,8 @@
     "date": "2022-01-24T23:35:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -160471,8 +160493,8 @@
     "date": "2022-01-19T16:35:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -160580,8 +160602,8 @@
     "date": "2022-01-18T16:59:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -160905,8 +160927,8 @@
     "date": "2022-01-11T18:42:25+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -161226,8 +161248,8 @@
     "date": "2022-01-06T18:36:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -162532,8 +162554,8 @@
     "date": "2021-12-16T18:24:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -162655,8 +162677,8 @@
     "date": "2021-12-15T13:38:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -162728,8 +162750,8 @@
     "date": "2021-12-14T17:34:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -163200,8 +163222,8 @@
     "date": "2021-12-09T18:20:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -163516,8 +163538,8 @@
     "date": "2021-12-06T23:49:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -163887,8 +163909,8 @@
     "date": "2021-12-02T19:02:03+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -163901,8 +163923,8 @@
     "date": "2021-12-02T18:32:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -164643,8 +164665,8 @@
     "date": "2021-11-22T21:33:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -165387,8 +165409,8 @@
     "date": "2021-11-15T18:44:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -165632,8 +165654,8 @@
     "date": "2021-11-12T17:57:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -166918,8 +166940,8 @@
     "date": "2021-10-26T17:08:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -167379,8 +167401,8 @@
     "date": "2021-10-21T17:11:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -167547,8 +167569,8 @@
     "date": "2021-10-19T17:28:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -168142,8 +168164,8 @@
     "date": "2021-10-12T16:50:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -168533,8 +168555,8 @@
     "date": "2021-10-07T17:19:27+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -168678,8 +168700,8 @@
     "date": "2021-10-05T16:46:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -169073,8 +169095,8 @@
     "date": "2021-09-30T17:41:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -169274,8 +169296,8 @@
     "date": "2021-09-28T15:40:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -169705,8 +169727,8 @@
     "date": "2021-09-23T15:14:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -169719,8 +169741,8 @@
     "date": "2021-09-23T15:12:55+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -169873,8 +169895,8 @@
     "date": "2021-09-21T21:09:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -169959,8 +169981,8 @@
     "date": "2021-09-20T19:57:51+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -170154,8 +170176,8 @@
     "date": "2021-09-16T19:04:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -170360,8 +170382,8 @@
     "date": "2021-09-14T18:06:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -170374,8 +170396,8 @@
     "date": "2021-09-14T18:06:16+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -170905,8 +170927,8 @@
     "date": "2021-09-08T03:53:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -171013,8 +171035,8 @@
     "date": "2021-09-06T22:46:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -171309,8 +171331,8 @@
     "date": "2021-09-02T17:07:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -171386,8 +171408,8 @@
     "date": "2021-09-01T17:24:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -171608,8 +171630,8 @@
     "date": "2021-08-30T20:25:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -171899,8 +171921,8 @@
     "date": "2021-08-26T17:17:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172362,8 +172384,8 @@
     "date": "2021-08-19T17:04:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -172471,8 +172493,8 @@
     "date": "2021-08-17T17:05:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172655,8 +172677,8 @@
     "date": "2021-08-12T16:33:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172928,8 +172950,8 @@
     "date": "2021-08-10T00:22:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173145,8 +173167,8 @@
     "date": "2021-08-05T17:29:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173585,8 +173607,8 @@
     "date": "2021-07-29T17:12:33+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173719,8 +173741,8 @@
     "date": "2021-07-27T17:20:19+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173889,8 +173911,8 @@
     "date": "2021-07-22T17:44:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -174171,8 +174193,8 @@
     "date": "2021-07-20T15:51:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -174414,8 +174436,8 @@
     "date": "2021-07-15T17:04:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -174540,8 +174562,8 @@
     "date": "2021-07-13T17:13:27+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -175247,8 +175269,8 @@
     "date": "2021-07-01T18:47:47+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -175509,8 +175531,8 @@
     "date": "2021-06-29T16:14:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -175810,8 +175832,8 @@
     "date": "2021-06-24T17:09:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -175825,8 +175847,8 @@
     "date": "2021-06-24T16:34:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -176659,8 +176681,8 @@
     "date": "2021-06-15T02:39:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -177044,8 +177066,8 @@
     "date": "2021-06-10T16:06:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -177119,8 +177141,8 @@
     "date": "2021-06-09T22:55:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -177280,8 +177302,8 @@
     "date": "2021-06-08T15:48:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -178015,8 +178037,8 @@
     "date": "2021-05-27T16:46:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -178223,8 +178245,8 @@
     "date": "2021-05-25T15:59:51+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -178969,8 +178991,8 @@
     "date": "2021-05-13T17:08:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -179078,8 +179100,8 @@
     "date": "2021-05-11T16:58:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -179919,8 +179941,8 @@
     "date": "2021-04-29T17:20:16+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180007,8 +180029,8 @@
     "date": "2021-04-28T08:13:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -180069,8 +180091,8 @@
     "date": "2021-04-27T16:53:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180434,8 +180456,8 @@
     "date": "2021-04-22T18:45:02+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -180898,8 +180920,8 @@
     "date": "2021-04-16T08:16:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -180924,8 +180946,8 @@
     "date": "2021-04-15T18:05:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -181091,8 +181113,8 @@
     "date": "2021-04-13T14:40:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -181813,8 +181835,8 @@
     "date": "2021-04-03T00:36:48+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -182004,8 +182026,8 @@
     "date": "2021-03-30T16:34:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -182196,8 +182218,8 @@
     "date": "2021-03-29T02:19:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -182498,8 +182520,8 @@
     "date": "2021-03-23T17:19:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -182746,8 +182768,8 @@
     "date": "2021-03-18T16:27:35+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -182922,8 +182944,8 @@
     "date": "2021-03-16T16:48:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -183029,8 +183051,8 @@
     "date": "2021-03-15T17:16:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -183172,8 +183194,8 @@
     "date": "2021-03-14T02:00:24+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -183319,8 +183341,8 @@
     "date": "2021-03-12T07:51:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -183392,8 +183414,8 @@
     "date": "2021-03-11T05:52:31+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -183468,8 +183490,8 @@
     "date": "2021-03-09T17:16:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -183881,8 +183903,8 @@
     "date": "2021-03-04T18:15:41+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184019,8 +184041,8 @@
     "date": "2021-03-02T17:19:16+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184033,8 +184055,8 @@
     "date": "2021-03-02T17:12:51+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184448,8 +184470,8 @@
     "date": "2021-02-25T16:07:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -184544,8 +184566,8 @@
     "date": "2021-02-23T17:50:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184870,8 +184892,8 @@
     "date": "2021-02-18T03:28:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185030,8 +185052,8 @@
     "date": "2021-02-15T17:38:48+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -185328,8 +185350,8 @@
     "date": "2021-02-11T17:10:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185488,8 +185510,8 @@
     "date": "2021-02-10T05:59:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185527,8 +185549,8 @@
     "date": "2021-02-09T17:33:33+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185541,8 +185563,8 @@
     "date": "2021-02-09T15:33:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185555,8 +185577,8 @@
     "date": "2021-02-09T06:24:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185569,8 +185591,8 @@
     "date": "2021-02-09T06:02:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185920,8 +185942,8 @@
     "date": "2021-02-04T17:40:58+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186095,8 +186117,8 @@
     "date": "2021-02-02T17:47:38+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186122,8 +186144,8 @@
     "date": "2021-02-02T15:52:35+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186535,8 +186557,8 @@
     "date": "2021-01-28T18:00:24+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186721,8 +186743,8 @@
     "date": "2021-01-26T17:57:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186735,8 +186757,8 @@
     "date": "2021-01-26T17:57:03+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -187194,8 +187216,8 @@
     "date": "2021-01-21T18:07:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187358,8 +187380,8 @@
     "date": "2021-01-19T17:04:26+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187506,8 +187528,8 @@
     "date": "2021-01-16T07:09:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187637,8 +187659,8 @@
     "date": "2021-01-14T17:46:48+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187744,8 +187766,8 @@
     "date": "2021-01-13T01:56:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -187770,8 +187792,8 @@
     "date": "2021-01-12T17:25:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188101,8 +188123,8 @@
     "date": "2021-01-07T17:27:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188352,8 +188374,8 @@
     "date": "2021-01-05T18:24:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188521,8 +188543,8 @@
     "date": "2021-01-01T23:00:16+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188568,8 +188590,8 @@
     "date": "2020-12-31T17:49:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188639,8 +188661,8 @@
     "date": "2020-12-30T08:31:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -188679,8 +188701,8 @@
     "date": "2020-12-29T18:00:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188937,8 +188959,8 @@
     "date": "2020-12-22T21:10:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189389,8 +189411,8 @@
     "date": "2020-12-17T18:07:42+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189591,8 +189613,8 @@
     "date": "2020-12-15T18:04:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189888,8 +189910,8 @@
     "date": "2020-12-10T18:11:53+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189902,8 +189924,8 @@
     "date": "2020-12-10T16:19:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189949,8 +189971,8 @@
     "date": "2020-12-10T00:10:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -190090,8 +190112,8 @@
     "date": "2020-12-08T07:18:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -190201,8 +190223,8 @@
     "date": "2020-12-07T08:20:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -190288,8 +190310,8 @@
     "date": "2020-12-04T19:17:25+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -190416,8 +190438,8 @@
     "date": "2020-12-02T19:47:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -190444,8 +190466,8 @@
     "date": "2020-12-02T17:10:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -190530,8 +190552,8 @@
     "date": "2020-12-01T17:45:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -190642,8 +190664,8 @@
     "date": "2020-11-29T04:14:39+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -190893,8 +190915,8 @@
     "date": "2020-11-24T17:56:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191288,8 +191310,8 @@
     "date": "2020-11-19T18:15:28+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191437,8 +191459,8 @@
     "date": "2020-11-17T17:42:31+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191816,8 +191838,8 @@
     "date": "2020-11-13T00:59:21+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -191871,8 +191893,8 @@
     "date": "2020-11-12T17:19:17+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192012,8 +192034,8 @@
     "date": "2020-11-10T17:39:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192039,8 +192061,8 @@
     "date": "2020-11-10T07:29:03+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -192124,8 +192146,8 @@
     "date": "2020-11-09T12:22:20+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -192343,8 +192365,8 @@
     "date": "2020-11-05T18:39:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192444,8 +192466,8 @@
     "date": "2020-11-03T17:45:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192520,8 +192542,8 @@
     "date": "2020-11-02T01:26:47+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -192897,8 +192919,8 @@
     "date": "2020-10-25T07:44:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -192967,8 +192989,8 @@
     "date": "2020-10-24T00:49:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -193698,8 +193720,8 @@
     "date": "2020-10-14T10:48:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -193774,8 +193796,8 @@
     "date": "2020-10-13T00:05:22+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -194765,8 +194787,8 @@
     "date": "2020-09-25T06:19:41+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -195474,8 +195496,8 @@
     "date": "2020-09-08T23:26:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -195801,8 +195823,8 @@
     "date": "2020-09-03T01:37:48+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -195838,8 +195860,8 @@
     "date": "2020-09-02T03:17:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -196605,8 +196627,8 @@
     "date": "2020-08-19T01:10:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -196788,8 +196810,8 @@
     "date": "2020-08-16T01:00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197468,8 +197490,8 @@
     "date": "2020-08-01T12:25:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -197798,8 +197820,8 @@
     "date": "2020-07-22T14:11:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -198392,8 +198414,8 @@
     "date": "2020-07-11T10:11:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -199825,8 +199847,8 @@
     "date": "2020-06-13T18:24:14+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -200389,8 +200411,8 @@
     "date": "2020-05-30T04:09:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -200605,8 +200627,8 @@
     "date": "2020-05-25T20:49:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -200841,8 +200863,8 @@
     "date": "2020-05-21T02:26:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -201142,8 +201164,8 @@
     "date": "2020-05-15T05:28:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -201246,8 +201268,8 @@
     "date": "2020-05-13T06:50:09+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -203455,8 +203477,8 @@
     "date": "2020-05-05T14:31:21-08:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -203503,8 +203525,8 @@
     "date": "2020-05-05T07:44:41+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -204315,8 +204337,8 @@
     "date": "2020-05-01T21:19:18+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -204544,8 +204566,8 @@
     "date": "2020-04-27T00:30:24+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -205092,8 +205114,8 @@
     "date": "2020-04-16T19:01:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205117,8 +205139,8 @@
     "date": "2020-04-16T08:30:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -206003,8 +206025,8 @@
     "date": "2020-04-01T02:41:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -206948,8 +206970,8 @@
     "date": "2020-03-09T18:39:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -209360,6 +209382,72 @@
     "trending_score": 0
   },
   {
+    "blog_name": "My Vegan Minimalist",
+    "title": "Previous page",
+    "link": "https://myveganminimalist.com/?s=+",
+    "image": "https://myveganminimalist.com/wp-content/uploads/2020/05/My-Vegan-Minimalist-Facebook-scaled.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "My Vegan Minimalist",
+    "title": "Work With Me",
+    "link": "https://myveganminimalist.com/work-with-me/",
+    "image": "https://myveganminimalist.com/wp-content/uploads/2022/04/Tajda-Ferko-My-Vegan-Minimalist-6.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "My Vegan Minimalist",
+    "title": "Vegan Hotspots",
+    "link": "https://myveganminimalist.com/vegan-hotspots/",
+    "image": "https://myveganminimalist.com/wp-content/uploads/2020/05/My-Vegan-Minimalist-Facebook-scaled.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "My Vegan Minimalist",
+    "title": "Get In Touch",
+    "link": "https://myveganminimalist.com/contact-us/",
+    "image": "https://myveganminimalist.com/wp-content/uploads/2020/05/My-Vegan-Minimalist-Facebook-scaled.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "My Vegan Minimalist",
+    "title": "Page Full Width",
+    "link": "https://myveganminimalist.com/page-full-width/",
+    "image": "https://myveganminimalist.com/wp-content/uploads/2015/11/12.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Rainbow Nourishments",
+    "title": "Incredible Plant-Based Desserts",
+    "link": "https://www.rainbownourishments.com/shop/incredible-plant-based-desserts/",
+    "image": "https://www.rainbownourishments.com/wp-content/uploads/2020/10/Incredible-Plant-Based-Desserts-by-Anthea-Cheng-cover.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "The Post-Punk Kitchen",
     "title": "\u2190 Back To All Recipes",
     "link": "https://www.theppk.com/recipes/",
@@ -210582,8 +210670,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -210639,8 +210727,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "Easy"
     ],
     "is_trending": false,
@@ -210804,17 +210892,6 @@
     "title": "What is this?",
     "link": "https://www.mediavine.com?utm_source=mediavine&utm_medium=ad&utm_campaign=logo",
     "image": "https://www.mediavine.com/wp-content/uploads/2025/11/hp-hero-image.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Rainbow Nourishments",
-    "title": "Incredible Plant-Based Desserts",
-    "link": "https://www.rainbownourishments.com/shop/incredible-plant-based-desserts/",
-    "image": "https://www.rainbownourishments.com/wp-content/uploads/2020/10/Incredible-Plant-Based-Desserts-by-Anthea-Cheng-cover.jpg",
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -211423,61 +211500,6 @@
     "title": "Foxlight Designs",
     "link": "http://foxlightdesigns.com",
     "image": "http://foxlightdesigns.com/devices.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "My Vegan Minimalist",
-    "title": "Previous page",
-    "link": "https://myveganminimalist.com/?s=+",
-    "image": "https://myveganminimalist.com/wp-content/uploads/2020/05/My-Vegan-Minimalist-Facebook-scaled.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "My Vegan Minimalist",
-    "title": "Work With Me",
-    "link": "https://myveganminimalist.com/work-with-me/",
-    "image": "https://myveganminimalist.com/wp-content/uploads/2022/04/Tajda-Ferko-My-Vegan-Minimalist-6.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "My Vegan Minimalist",
-    "title": "Vegan Hotspots",
-    "link": "https://myveganminimalist.com/vegan-hotspots/",
-    "image": "https://myveganminimalist.com/wp-content/uploads/2020/05/My-Vegan-Minimalist-Facebook-scaled.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "My Vegan Minimalist",
-    "title": "Get In Touch",
-    "link": "https://myveganminimalist.com/contact-us/",
-    "image": "https://myveganminimalist.com/wp-content/uploads/2020/05/My-Vegan-Minimalist-Facebook-scaled.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "My Vegan Minimalist",
-    "title": "Page Full Width",
-    "link": "https://myveganminimalist.com/page-full-width/",
-    "image": "https://myveganminimalist.com/wp-content/uploads/2015/11/12.jpg",
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -212471,8 +212493,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "GF"
+      "GF",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -212565,8 +212587,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
       "GF",
+      "Low Waste",
       "Easy"
     ],
     "is_trending": false,
@@ -212606,8 +212628,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "WFPB"
+      "WFPB",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -212738,8 +212760,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "WFPB"
+      "WFPB",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -218713,8 +218735,8 @@
     "date": "2019-10-17T17:16:54+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -221802,8 +221824,8 @@
     "date": "2019-07-07T21:20:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -222952,8 +222974,8 @@
     "date": "2019-05-23T16:37:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -224849,8 +224871,8 @@
     "date": "2019-03-15T11:35:56+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -225395,8 +225417,8 @@
     "date": "2019-02-26T10:26:27",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -226650,8 +226672,8 @@
     "date": "2019-01-08T19:00:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -227727,8 +227749,8 @@
     "date": "2018-11-12T08:57:30+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -227838,8 +227860,8 @@
     "date": "2018-11-07T13:04:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -228242,8 +228264,8 @@
     "date": "2018-10-14T17:41:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -230857,8 +230879,8 @@
     "date": "2018-05-09T19:50:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF",
       "Easy"
     ],
@@ -231682,8 +231704,8 @@
     "date": "2018-03-22T12:47:36+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -233311,8 +233333,8 @@
     "date": "2017-12-26T20:03:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -234667,8 +234689,8 @@
     "date": "2017-10-15T22:34:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
       "WFPB",
+      "Budget",
       "GF"
     ],
     "is_trending": false,
@@ -239181,8 +239203,8 @@
     "date": "2017-01-17T13:23:49+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -239232,8 +239254,8 @@
     "date": "2017-01-10T18:24:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -240857,8 +240879,8 @@
     "date": "2016-08-29T15:10:37+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -242271,8 +242293,8 @@
     "date": "2016-05-18T17:46:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -243248,8 +243270,8 @@
     "date": "2016-02-03T15:08:10+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -244701,8 +244723,8 @@
     "date": "2015-09-19T15:29:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -245485,8 +245507,8 @@
     "date": "2015-06-23T14:00:04+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -245835,8 +245857,8 @@
     "date": "2015-05-08T13:24:41+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -246521,8 +246543,8 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
+    "is_trending": true,
+    "trending_score": 5.77
   },
   {
     "blog_name": "Yup It's Vegan",
@@ -248293,8 +248315,8 @@
     "date": "2014-06-26T20:26:44+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "WFPB"
+      "WFPB",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
