@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-08-10 22:14:17
-**Total Run Time:** 8m 58s
-**Longest Step:** HTML: The Cheap Lazy Vegan (1m 17s)
+**Last Run:** 2026-08-11 03:26:02
+**Total Run Time:** 9m 44s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 18s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21075 | 156 new today |
+| **Total Database** | 21075 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 300 | Total recorded actions in database |
+| **Trending Events** | 291 | Total recorded actions in database |
 | **WFPB / GF** | 2602 / 2753 | 12% / 13% |
 | **Easy / Budget** | 5072 / 2093 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Soy Curl Tacos](https://jessicainthekitchen.com/soy-curl-tacos/) | Jessica in the Kitchen | **5.74** | *2.28* |
-| 2 |[Two-Ingredient Homemade Almond Cheese](https://vegnews.com/recipes/vegan-almond-cheese) | VegNews | **5.74** | *2.28* |
-| 3 |[Simple Fresh Lemon Pudding](https://vegnews.com/recipes/summery-vegan-lemon-pudding) | VegNews | **5.74** | *2.28* |
-| 4 |[Detroit style pizza](https://www.reddit.com/r/veganrecipes/comments/1vjnx2s/detroit_style_pizza/) | Reddit | **5.00** | *1.98* |
-| 5 |[Skillet Bruschetta Tofu and Orzo](https://www.eatfigsnotpigs.com/skillet-bruschetta-tofu-and-orzo/?utm_source=rss&utm_medium=rss&utm_campaign=skillet-bruschetta-tofu-and-orzo) | Eat Figs, Not Pigs | **5.00** | *1.98* |
-| 6 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **3.40** | *1.35* |
-| 7 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **2.62** | *1.04* |
-| 8 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **2.62** | *1.04* |
+| 1 |[Soy Curl Tacos](https://jessicainthekitchen.com/soy-curl-tacos/) | Jessica in the Kitchen | **5.19** | *2.06* |
+| 2 |[Two-Ingredient Homemade Almond Cheese](https://vegnews.com/recipes/vegan-almond-cheese) | VegNews | **5.19** | *2.06* |
+| 3 |[Simple Fresh Lemon Pudding](https://vegnews.com/recipes/summery-vegan-lemon-pudding) | VegNews | **5.19** | *2.06* |
+| 4 |[Detroit style pizza](https://www.reddit.com/r/veganrecipes/comments/1vjnx2s/detroit_style_pizza/) | Reddit | **4.52** | *1.79* |
+| 5 |[Skillet Bruschetta Tofu and Orzo](https://www.eatfigsnotpigs.com/skillet-bruschetta-tofu-and-orzo/?utm_source=rss&utm_medium=rss&utm_campaign=skillet-bruschetta-tofu-and-orzo) | Eat Figs, Not Pigs | **4.52** | *1.79* |
+| 6 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **3.07** | *1.22* |
+| 7 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **2.37** | *0.94* |
+| 8 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **2.37** | *0.94* |
 
 ---
 
@@ -107,8 +107,8 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
-| My Darling Vegan | 3 | 269 | 1 | 32 | 4 | 12 | 2026-08-10 | ✅ OK |
-| A Virtual Vegan | 7 | 272 | 3 | 36 | 1 | 4 | 2026-08-10 | ✅ OK |
+| My Darling Vegan | 2 | 269 | 1 | 32 | 4 | 12 | 2026-08-10 | ✅ OK |
+| A Virtual Vegan | 6 | 272 | 3 | 36 | 1 | 4 | 2026-08-10 | ✅ OK |
 | Eat Figs, Not Pigs | 5 | 273 | 1 | 34 | 2 | 0 | 2026-08-10 | ✅ OK |
 | From My Bowl | 0 | 275 | 3 | 47 | 3 | 5 | 2026-08-04 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
@@ -119,7 +119,7 @@
 | Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
 | Plant-Based on a Budget | 3 | 289 | 16 | 70 | 289 | 1 | 2026-08-10 | ✅ OK |
 | Healthy Little Vittles | 3 | 291 | 10 | 47 | 2 | 288 | 2026-08-06 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 293 | 38 | 81 | 3 | 0 | 2026-08-10 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 293 | 38 | 81 | 3 | 0 | 2026-08-10 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 300 | 3 | 14 | 3 | 5 | 2026-08-09 | ✅ OK |
 | Connoisseurus Veg | 1 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 319 | 41 | 40 | 2 | 41 | 2026-08-08 | ✅ OK |
