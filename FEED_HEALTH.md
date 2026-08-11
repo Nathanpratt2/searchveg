@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-11 03:26:02
-**Total Run Time:** 9m 44s
-**Longest Step:** HTML: The Cheap Lazy Vegan (1m 18s)
+**Last Run:** 2026-08-11 07:52:21
+**Total Run Time:** 7m 37s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21075 | 153 new today |
+| **Total Database** | 21075 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 291 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Soy Curl Tacos](https://jessicainthekitchen.com/soy-curl-tacos/) | Jessica in the Kitchen | **5.19** | *2.06* |
-| 2 |[Two-Ingredient Homemade Almond Cheese](https://vegnews.com/recipes/vegan-almond-cheese) | VegNews | **5.19** | *2.06* |
-| 3 |[Simple Fresh Lemon Pudding](https://vegnews.com/recipes/summery-vegan-lemon-pudding) | VegNews | **5.19** | *2.06* |
-| 4 |[Detroit style pizza](https://www.reddit.com/r/veganrecipes/comments/1vjnx2s/detroit_style_pizza/) | Reddit | **4.52** | *1.79* |
-| 5 |[Skillet Bruschetta Tofu and Orzo](https://www.eatfigsnotpigs.com/skillet-bruschetta-tofu-and-orzo/?utm_source=rss&utm_medium=rss&utm_campaign=skillet-bruschetta-tofu-and-orzo) | Eat Figs, Not Pigs | **4.52** | *1.79* |
-| 6 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **3.07** | *1.22* |
-| 7 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **2.37** | *0.94* |
-| 8 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **2.37** | *0.94* |
+| 1 |[Soy Curl Tacos](https://jessicainthekitchen.com/soy-curl-tacos/) | Jessica in the Kitchen | **4.77** | *1.89* |
+| 2 |[Two-Ingredient Homemade Almond Cheese](https://vegnews.com/recipes/vegan-almond-cheese) | VegNews | **4.77** | *1.89* |
+| 3 |[Simple Fresh Lemon Pudding](https://vegnews.com/recipes/summery-vegan-lemon-pudding) | VegNews | **4.77** | *1.89* |
+| 4 |[Detroit style pizza](https://www.reddit.com/r/veganrecipes/comments/1vjnx2s/detroit_style_pizza/) | Reddit | **4.15** | *1.65* |
+| 5 |[Skillet Bruschetta Tofu and Orzo](https://www.eatfigsnotpigs.com/skillet-bruschetta-tofu-and-orzo/?utm_source=rss&utm_medium=rss&utm_campaign=skillet-bruschetta-tofu-and-orzo) | Eat Figs, Not Pigs | **4.15** | *1.65* |
+| 6 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **2.82** | *1.12* |
+| 7 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **2.18** | *0.86* |
+| 8 |[Cheezy Lentil Smashburgers](https://www.theppk.com/2026/08/cheezy-lentil-smashburgers/) | The Post-Punk Kitchen | **2.18** | *0.86* |
 
 ---
 
@@ -67,7 +67,7 @@
 | Steamy Vegan | 2 | 188 | 9 | 29 | 10 | 2 | 2026-08-08 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 200 | 200 | 11 | 0 | 9 | 2026-08-01 | ✅ OK |
-| Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ❌ Blocked/HTML Fail |
+| Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | Nora Cooks | 2 | 210 | 14 | 33 | 13 | 5 | 2026-07-31 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 232 | 6 | 14 | 14 | 0 | 2026-08-08 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ❌ Blocked/HTML Fail |
+| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 319 | 41 | 40 | 2 | 41 | 2026-08-08 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 41 | 0 | 4 | 2026-08-10 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 41 | 0 | 4 | 2026-08-11 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
 | VegNews | 1 | 350 | 0 | 51 | 0 | 8 | 2026-08-10 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
