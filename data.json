@@ -1,5 +1,66 @@
 [
   {
+    "blog_name": "The Foodie Takes Flight",
+    "title": "Hearty One-Pot Lentil Soup",
+    "link": "https://thefoodietakesflight.com/one-pot-lentil-soup/",
+    "image": "https://thefoodietakesflight.com/wp-content/uploads/2026/08/Hearty-Lentil-Stew-62-of-107-683x1024.jpg",
+    "date": "2026-08-12T02:13:55+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Foodie Takes Flight",
+    "title": "Greek-Style Smashed Kebab Pitas",
+    "link": "https://thefoodietakesflight.com/greek-style-smashed-kebab-pitas/",
+    "image": "https://thefoodietakesflight.com/wp-content/uploads/2026/08/Vegan-Beef-Kebab-Smash-Pitas-6-of-22-683x1024.jpg",
+    "date": "2026-08-12T01:33:30+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Whole Food Plant Based Cooking Show",
+    "title": "Mexican Street Food Huaraches",
+    "link": "https://plantbasedcookingshow.com/2026/08/11/mexican-street-food-huaraches/",
+    "image": "https://plantbasedcookingshow.com/wp-content/uploads/2026/08/Huaraches-2.jpeg",
+    "date": "2026-08-11T23:25:37+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "WFPB"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Sweet Potato Ice Cream (Vegan)",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1vlww60/sweet_potato_ice_cream_vegan/",
+    "image": "https://external-preview.redd.it/bHJpaWRxaWd0dGloMRRRpxaVeEqfUoTaBugGJgEX74GiXr03G_KFfsHKi_Ca.png?width=640&crop=smart&auto=webp&s=f017b149663b8e4bb2c277963823e230e703ec41",
+    "date": "2026-08-11T22:59:15+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "A Virtual Vegan",
+    "title": "Really Delicious Grilled Tofu",
+    "link": "https://avirtualvegan.com/really-delicious-grilled-tofu/",
+    "image": "https://avirtualvegan.com/wp-content/uploads/2026/07/grilled-tofu-2.jpg",
+    "date": "2026-08-11T22:53:06+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "The Conscious Plant Kitchen",
     "title": "Date Pistachio Lemon Cake (No Eggs, No Dairy)",
     "link": "https://www.theconsciousplantkitchen.com/date-pistachio-lemon-cake/",
@@ -190,7 +251,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 3.61
+    "trending_score": 3.26
   },
   {
     "blog_name": "VegNews",
@@ -201,7 +262,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.61
+    "trending_score": 3.26
   },
   {
     "blog_name": "The Post-Punk Kitchen",
@@ -234,7 +295,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.61
+    "trending_score": 3.26
   },
   {
     "blog_name": "Reddit",
@@ -418,7 +479,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 3.15
+    "trending_score": 2.83
   },
   {
     "blog_name": "Reddit",
@@ -429,7 +490,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.15
+    "trending_score": 2.83
   },
   {
     "blog_name": "VegNews",
@@ -904,7 +965,7 @@
       "WFPB"
     ],
     "is_trending": true,
-    "trending_score": 1.65
+    "trending_score": 1.49
   },
   {
     "blog_name": "The Conscious Plant Kitchen",
@@ -9085,7 +9146,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 2.14
+    "trending_score": 1.93
   },
   {
     "blog_name": "The First Mess",
@@ -15781,17 +15842,6 @@
     "link": "https://www.noracooks.com/almond-croissant-bars/",
     "image": "https://www.noracooks.com/wp-content/uploads/2026/04/almond-croissant-bars-1-2-1200x1200.jpg",
     "date": "2026-05-07T20:19:11+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Kalamata and pepper pasta salad",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1t6khaq/kalamata_and_pepper_pasta_salad/",
-    "image": "https://preview.redd.it/785mypuemrzg1.jpeg?width=640&crop=smart&auto=webp&s=48e12aec67ea21223bb083cc195c2c5e3df57219",
-    "date": "2026-05-07T19:17:36+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -32752,8 +32802,8 @@
     "date": "2025-12-14T00:22:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -44785,9 +44835,9 @@
     "date": "2025-07-31T18:00:11+00:00",
     "is_disruptor": true,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -91505,9 +91555,9 @@
     "date": "2024-03-19T15:18:01+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -141694,9 +141744,9 @@
     "date": "2022-09-30T01:24:15+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -167423,8 +167473,8 @@
     "date": "2021-10-21T17:11:07+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -169917,8 +169967,8 @@
     "date": "2021-09-21T21:09:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -183363,9 +183413,9 @@
     "date": "2021-03-12T07:51:59+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -183512,8 +183562,8 @@
     "date": "2021-03-09T17:16:11+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -186779,8 +186829,8 @@
     "date": "2021-01-26T17:57:03+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -188683,9 +188733,9 @@
     "date": "2020-12-30T08:31:46+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -190245,9 +190295,9 @@
     "date": "2020-12-07T08:20:45+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -192941,9 +192991,9 @@
     "date": "2020-10-25T07:44:32+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -193011,9 +193061,9 @@
     "date": "2020-10-24T00:49:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -193742,9 +193792,9 @@
     "date": "2020-10-14T10:48:23+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -195518,9 +195568,9 @@
     "date": "2020-09-08T23:26:34+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -196649,9 +196699,9 @@
     "date": "2020-08-19T01:10:06+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -198436,9 +198486,9 @@
     "date": "2020-07-11T10:11:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -205161,9 +205211,9 @@
     "date": "2020-04-16T08:30:57+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -209404,6 +209454,63 @@
     "trending_score": 0
   },
   {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "All Categories",
+    "link": "https://www.theconsciousplantkitchen.com/browse-by-category/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Gluten-Free",
+    "link": "https://www.theconsciousplantkitchen.com/diet/gluten-free/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "GF"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Keto-Friendly",
+    "link": "https://www.theconsciousplantkitchen.com/diet/keto-friendly/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Thanksgiving",
+    "link": "https://www.theconsciousplantkitchen.com/season/thanksgiving/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Middle-Eastern",
+    "link": "https://www.theconsciousplantkitchen.com/inspiration/middle-eastern/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Gimme Some Oven (Vegan Recipes)",
     "title": "Go to Previous Page",
     "link": "https://www.gimmesomeoven.com/dietary/vegan/",
@@ -209853,63 +209960,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "All Categories",
-    "link": "https://www.theconsciousplantkitchen.com/browse-by-category/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Gluten-Free",
-    "link": "https://www.theconsciousplantkitchen.com/diet/gluten-free/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "GF"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Keto-Friendly",
-    "link": "https://www.theconsciousplantkitchen.com/diet/keto-friendly/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Thanksgiving",
-    "link": "https://www.theconsciousplantkitchen.com/season/thanksgiving/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Middle-Eastern",
-    "link": "https://www.theconsciousplantkitchen.com/inspiration/middle-eastern/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -212529,8 +212579,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "Easy"
+      "Easy",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -212582,8 +212632,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "Budget"
+      "Budget",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -212609,8 +212659,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
       "Easy",
+      "Low Waste",
       "GF"
     ],
     "is_trending": false,
@@ -212742,8 +212792,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "Budget"
+      "Budget",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -212822,8 +212872,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "Easy"
+      "Easy",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -221846,8 +221896,8 @@
     "date": "2019-07-07T21:20:29+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -230901,9 +230951,9 @@
     "date": "2018-05-09T19:50:12+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Easy",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -233355,8 +233405,8 @@
     "date": "2017-12-26T20:03:52+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -234711,8 +234761,8 @@
     "date": "2017-10-15T22:34:05+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Budget",
+      "GF",
       "WFPB"
     ],
     "is_trending": false,
@@ -246566,7 +246616,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 5.26
+    "trending_score": 4.74
   },
   {
     "blog_name": "Yup It's Vegan",
