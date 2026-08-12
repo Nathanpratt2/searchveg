@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-12 08:05:19
-**Total Run Time:** 7m 5s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 34s)
+**Last Run:** 2026-08-12 12:14:41
+**Total Run Time:** 8m 24s
+**Longest Step:** RSS: The Post-Punk Kitchen (1m 7s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21087 | 151 new today |
+| **Total Database** | 21088 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 292 | Total recorded actions in database |
 | **WFPB / GF** | 2603 / 2753 | 12% / 13% |
-| **Easy / Budget** | 5077 / 2093 | 24% / 9% |
+| **Easy / Budget** | 5078 / 2094 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Easy Sesame Shishito Peppers](https://www.gimmesomeoven.com/easy-sesame-shishito-peppers-recipe/) | Gimme Some Oven (Vegan Recipes) | **4.36** | *1.73* |
-| 2 |[Soy Curl Tacos](https://jessicainthekitchen.com/soy-curl-tacos/) | Jessica in the Kitchen | **2.99** | *1.19* |
-| 3 |[Two-Ingredient Homemade Almond Cheese](https://vegnews.com/recipes/vegan-almond-cheese) | VegNews | **2.99** | *1.19* |
-| 4 |[Simple Fresh Lemon Pudding](https://vegnews.com/recipes/summery-vegan-lemon-pudding) | VegNews | **2.99** | *1.19* |
-| 5 |[Detroit style pizza](https://www.reddit.com/r/veganrecipes/comments/1vjnx2s/detroit_style_pizza/) | Reddit | **2.60** | *1.03* |
-| 6 |[Skillet Bruschetta Tofu and Orzo](https://www.eatfigsnotpigs.com/skillet-bruschetta-tofu-and-orzo/?utm_source=rss&utm_medium=rss&utm_campaign=skillet-bruschetta-tofu-and-orzo) | Eat Figs, Not Pigs | **2.60** | *1.03* |
-| 7 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **1.77** | *0.70* |
-| 8 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **1.36** | *0.54* |
+| 1 |[Easy Sesame Shishito Peppers](https://www.gimmesomeoven.com/easy-sesame-shishito-peppers-recipe/) | Gimme Some Oven (Vegan Recipes) | **4.02** | *1.60* |
+| 2 |[Soy Curl Tacos](https://jessicainthekitchen.com/soy-curl-tacos/) | Jessica in the Kitchen | **2.76** | *1.10* |
+| 3 |[Two-Ingredient Homemade Almond Cheese](https://vegnews.com/recipes/vegan-almond-cheese) | VegNews | **2.76** | *1.10* |
+| 4 |[Simple Fresh Lemon Pudding](https://vegnews.com/recipes/summery-vegan-lemon-pudding) | VegNews | **2.76** | *1.10* |
+| 5 |[Detroit style pizza](https://www.reddit.com/r/veganrecipes/comments/1vjnx2s/detroit_style_pizza/) | Reddit | **2.40** | *0.95* |
+| 6 |[Skillet Bruschetta Tofu and Orzo](https://www.eatfigsnotpigs.com/skillet-bruschetta-tofu-and-orzo/?utm_source=rss&utm_medium=rss&utm_campaign=skillet-bruschetta-tofu-and-orzo) | Eat Figs, Not Pigs | **2.40** | *0.95* |
+| 7 |[Cucumber Dill Salad (Easy, Crunchy & Vinegar-Based)](https://itdoesnttastelikechicken.com/cucumber-dill-salad/) | It Doesn't Taste Like Chicken | **1.63** | *0.65* |
+| 8 |[Same-Day Sourdough Focaccia](https://annarborvegankitchen.com/2026/08/05/same-day-sourdough-focaccia/) | Ann Arbor Vegan Kitchen | **1.26** | *0.50* |
 
 ---
 
@@ -48,7 +48,7 @@
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Vegan Richa GF | 0 | 50 | 2 | 12 | 7 | 50 | 2026-08-05 | ✅ OK |
 | PlantYou | 2 | 51 | 51 | 8 | 2 | 0 | 2026-08-06 | ✅ OK |
-| My Goodness Kitchen | 3 | 62 | 7 | 7 | 3 | 3 | 2026-08-12 | ✅ OK |
+| My Goodness Kitchen | 2 | 62 | 7 | 7 | 3 | 3 | 2026-08-12 | ✅ OK |
 | Jessica in the Kitchen | 2 | 73 | 2 | 7 | 1 | 4 | 2026-08-11 | ✅ OK |
 | The Korean Vegan | 1 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -112,20 +112,20 @@
 | Eat Figs, Not Pigs | 5 | 273 | 1 | 34 | 2 | 0 | 2026-08-10 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 276 | 3 | 48 | 3 | 5 | 2026-08-11 | ✅ OK |
-| It Doesn't Taste Like Chicken | 2 | 277 | 1 | 95 | 7 | 218 | 2026-08-09 | ✅ OK |
+| It Doesn't Taste Like Chicken | 3 | 278 | 1 | 95 | 7 | 218 | 2026-08-12 | ✅ OK |
 | The Plant-Based RD | 0 | 280 | 4 | 17 | 1 | 0 | 2026-08-04 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 287 | 287 | 7 | 0 | 9 | 2026-08-11 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK |
-| Plant-Based on a Budget | 3 | 289 | 16 | 70 | 289 | 1 | 2026-08-10 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
+| Plant-Based on a Budget | 4 | 290 | 16 | 71 | 290 | 1 | 2026-08-12 | ✅ OK |
 | Healthy Little Vittles | 4 | 291 | 10 | 47 | 2 | 288 | 2026-08-06 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 293 | 38 | 81 | 3 | 0 | 2026-08-10 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 300 | 3 | 14 | 3 | 5 | 2026-08-09 | ✅ OK |
 | Connoisseurus Veg | 1 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 320 | 41 | 40 | 2 | 41 | 2026-08-11 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 41 | 0 | 4 | 2026-08-12 | ✅ OK (2) |
-| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 41 | 0 | 4 | 2026-08-12 | ✅ OK (1) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ❌ Blocked/ConnErr |
 | VegNews | 1 | 350 | 0 | 51 | 0 | 8 | 2026-08-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
