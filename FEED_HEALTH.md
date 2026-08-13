@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-13 17:34:18
-**Total Run Time:** 7m 13s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 35s)
+**Last Run:** 2026-08-13 22:19:40
+**Total Run Time:** 10m 12s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 15s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21099 | 158 new today |
+| **Total Database** | 21100 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 266 | Total recorded actions in database |
-| **WFPB / GF** | 2605 / 2759 | 12% / 13% |
-| **Easy / Budget** | 5079 / 2094 | 24% / 9% |
+| **Trending Events** | 283 | Total recorded actions in database |
+| **WFPB / GF** | 2606 / 2759 | 12% / 13% |
+| **Easy / Budget** | 5080 / 2094 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **4.29** | *1.70* |
-| 2 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **4.29** | *1.70* |
-| 3 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **4.29** | *1.70* |
-| 4 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **4.29** | *1.70* |
-| 5 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **4.29** | *1.70* |
-| 6 |[Three-Step Vegan French Crêpes With Orange Zest](https://vegnews.com/recipes/vegan-french-crepes) | VegNews | **4.29** | *1.70* |
-| 7 |[The Crispy Tofu Patty Template](https://plantbasedrdblog.com/2026/08/crispy-tofu-patty/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-patty) | The Plant-Based RD | **4.29** | *1.70* |
-| 8 |[One-Pot 'Summer Like an Italian' Spaghetti](https://vegnews.com/recipes/one-pot-vegan-spaghetti) | VegNews | **3.98** | *1.58* |
+| 1 |[Creamy Roasted Gold Potato Leek Soup (dairy-free!)](https://healthylittlevittles.com/creamy-roasted-gold-potato-leek-soup/) | Healthy Little Vittles | **5.93** | *2.35* |
+| 2 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **3.92** | *1.55* |
+| 3 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **3.92** | *1.55* |
+| 4 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **3.92** | *1.55* |
+| 5 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **3.91** | *1.55* |
+| 6 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **3.91** | *1.55* |
+| 7 |[Three-Step Vegan French Crêpes With Orange Zest](https://vegnews.com/recipes/vegan-french-crepes) | VegNews | **3.91** | *1.55* |
+| 8 |[The Crispy Tofu Patty Template](https://plantbasedrdblog.com/2026/08/crispy-tofu-patty/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-patty) | The Plant-Based RD | **3.91** | *1.55* |
 
 ---
 
@@ -49,7 +49,7 @@
 | Vegan Richa GF | 0 | 51 | 2 | 12 | 7 | 51 | 2026-08-12 | ✅ OK |
 | PlantYou | 2 | 53 | 53 | 8 | 2 | 0 | 2026-08-12 | ✅ OK |
 | My Goodness Kitchen | 2 | 62 | 7 | 7 | 3 | 3 | 2026-08-12 | ✅ OK |
-| Jessica in the Kitchen | 3 | 74 | 2 | 7 | 1 | 4 | 2026-08-13 | ✅ OK |
+| Jessica in the Kitchen | 2 | 74 | 2 | 7 | 1 | 4 | 2026-08-13 | ✅ OK |
 | The Korean Vegan | 1 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 4 | 124 | 1 | 12 | 124 | 0 | 2026-07-27 | ✅ OK |
@@ -67,22 +67,22 @@
 | My Vegan Minimalist | 0 | 189 | 16 | 58 | 10 | 1 | 2026-08-11 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 200 | 200 | 11 | 0 | 9 | 2026-08-01 | ✅ OK |
-| Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
+| Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ❌ Blocked/HTML Fail |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Nora Cooks | 2 | 211 | 14 | 33 | 13 | 5 | 2026-08-11 | ✅ OK |
-| The Little Blog of Vegan | 1 | 212 | 0 | 41 | 0 | 1 | 2026-08-13 | ✅ OK |
+| The Little Blog of Vegan | 0 | 212 | 0 | 41 | 0 | 1 | 2026-08-13 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 4 | 214 | 0 | 28 | 0 | 3 | 2026-08-11 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 218 | 5 | 36 | 10 | 0 | 2026-06-29 | ✅ OK |
-| Elavegan | 1 | 219 | 5 | 38 | 2 | 211 | 2026-08-13 | ✅ OK |
+| Elavegan | 0 | 219 | 5 | 38 | 2 | 211 | 2026-08-13 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 222 | 19 | 70 | 18 | 42 | 2026-07-14 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-08-09 | ✅ OK |
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 4 | 232 | 6 | 14 | 14 | 0 | 2026-08-08 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
+| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ❌ Blocked/HTML Fail |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -91,9 +91,9 @@
 | Sweet Potato Soul | 0 | 241 | 0 | 36 | 1 | 6 | 2026-07-24 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 241 | 241 | 50 | 241 | 4 | 2026-07-07 | ✅ OK |
-| Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-05-01 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
+| Running on Real Food | 2 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
@@ -116,7 +116,7 @@
 | The Plant-Based RD | 0 | 281 | 4 | 17 | 1 | 0 | 2026-08-12 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 287 | 287 | 7 | 0 | 9 | 2026-08-11 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
 | Plant-Based on a Budget | 4 | 290 | 16 | 71 | 290 | 1 | 2026-08-12 | ✅ OK |
 | Healthy Little Vittles | 4 | 292 | 10 | 47 | 2 | 289 | 2026-08-13 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 294 | 38 | 81 | 3 | 0 | 2026-08-12 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 320 | 41 | 40 | 2 | 41 | 2026-08-11 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 41 | 0 | 4 | 2026-08-13 | ✅ OK (4) |
-| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
-| VegNews | 3 | 350 | 0 | 52 | 0 | 9 | 2026-08-13 | ✅ OK |
+| Reddit | 4 | 350 | 1 | 42 | 0 | 4 | 2026-08-13 | ✅ OK (4) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ❌ Blocked/ConnErr |
+| VegNews | 0 | 350 | 0 | 52 | 0 | 9 | 2026-08-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
