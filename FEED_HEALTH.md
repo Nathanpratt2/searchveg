@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-08-13 08:07:07
-**Total Run Time:** 7m 45s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-08-13 12:13:57
+**Total Run Time:** 7m 29s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21096 | 157 new today |
+| **Total Database** | 21097 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 298 | Total recorded actions in database |
-| **WFPB / GF** | 2605 / 2756 | 12% / 13% |
+| **Trending Events** | 282 | Total recorded actions in database |
+| **WFPB / GF** | 2605 / 2757 | 12% / 13% |
 | **Easy / Budget** | 5079 / 2094 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **5.15** | *2.04* |
-| 2 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **5.15** | *2.04* |
-| 3 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **5.15** | *2.04* |
-| 4 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **5.15** | *2.04* |
-| 5 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **5.15** | *2.04* |
-| 6 |[Three-Step Vegan French Crêpes With Orange Zest](https://vegnews.com/recipes/vegan-french-crepes) | VegNews | **5.15** | *2.04* |
-| 7 |[The Crispy Tofu Patty Template](https://plantbasedrdblog.com/2026/08/crispy-tofu-patty/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-patty) | The Plant-Based RD | **5.15** | *2.04* |
-| 8 |[One-Pot 'Summer Like an Italian' Spaghetti](https://vegnews.com/recipes/one-pot-vegan-spaghetti) | VegNews | **4.77** | *1.89* |
+| 1 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **4.76** | *1.89* |
+| 2 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **4.76** | *1.89* |
+| 3 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **4.76** | *1.89* |
+| 4 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **4.75** | *1.89* |
+| 5 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **4.75** | *1.89* |
+| 6 |[Three-Step Vegan French Crêpes With Orange Zest](https://vegnews.com/recipes/vegan-french-crepes) | VegNews | **4.75** | *1.89* |
+| 7 |[The Crispy Tofu Patty Template](https://plantbasedrdblog.com/2026/08/crispy-tofu-patty/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-patty) | The Plant-Based RD | **4.75** | *1.89* |
+| 8 |[One-Pot 'Summer Like an Italian' Spaghetti](https://vegnews.com/recipes/one-pot-vegan-spaghetti) | VegNews | **4.41** | *1.75* |
 
 ---
 
@@ -118,13 +118,13 @@
 | The Whole Food Plant Based Cooking Show | 0 | 287 | 287 | 7 | 0 | 9 | 2026-08-11 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
 | Plant-Based on a Budget | 4 | 290 | 16 | 71 | 290 | 1 | 2026-08-12 | ✅ OK |
-| Healthy Little Vittles | 4 | 291 | 10 | 47 | 2 | 288 | 2026-08-06 | ✅ OK |
+| Healthy Little Vittles | 5 | 292 | 10 | 47 | 2 | 289 | 2026-08-13 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 294 | 38 | 81 | 3 | 0 | 2026-08-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 300 | 3 | 14 | 3 | 5 | 2026-08-09 | ✅ OK |
 | Connoisseurus Veg | 1 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 320 | 41 | 40 | 2 | 41 | 2026-08-11 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 41 | 0 | 4 | 2026-08-13 | ✅ OK (2) |
+| Reddit | 1 | 350 | 1 | 41 | 0 | 4 | 2026-08-13 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
 | VegNews | 1 | 350 | 0 | 52 | 0 | 8 | 2026-08-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
