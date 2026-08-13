@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-08-13 03:45:31
-**Total Run Time:** 7m 32s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-08-13 08:07:07
+**Total Run Time:** 7m 45s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **5.60** | *2.22* |
-| 2 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **5.60** | *2.22* |
-| 3 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **5.60** | *2.22* |
-| 4 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **5.60** | *2.22* |
-| 5 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **5.60** | *2.22* |
-| 6 |[Three-Step Vegan French Crêpes With Orange Zest](https://vegnews.com/recipes/vegan-french-crepes) | VegNews | **5.60** | *2.22* |
-| 7 |[The Crispy Tofu Patty Template](https://plantbasedrdblog.com/2026/08/crispy-tofu-patty/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-patty) | The Plant-Based RD | **5.60** | *2.22* |
-| 8 |[One-Pot 'Summer Like an Italian' Spaghetti](https://vegnews.com/recipes/one-pot-vegan-spaghetti) | VegNews | **5.19** | *2.06* |
+| 1 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **5.15** | *2.04* |
+| 2 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **5.15** | *2.04* |
+| 3 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **5.15** | *2.04* |
+| 4 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **5.15** | *2.04* |
+| 5 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **5.15** | *2.04* |
+| 6 |[Three-Step Vegan French Crêpes With Orange Zest](https://vegnews.com/recipes/vegan-french-crepes) | VegNews | **5.15** | *2.04* |
+| 7 |[The Crispy Tofu Patty Template](https://plantbasedrdblog.com/2026/08/crispy-tofu-patty/?utm_source=rss&utm_medium=rss&utm_campaign=crispy-tofu-patty) | The Plant-Based RD | **5.15** | *2.04* |
+| 8 |[One-Pot 'Summer Like an Italian' Spaghetti](https://vegnews.com/recipes/one-pot-vegan-spaghetti) | VegNews | **4.77** | *1.89* |
 
 ---
 
@@ -42,7 +42,7 @@
 | Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
-| The Banana Diaries | 1 | 39 | 0 | 11 | 2 | 0 | 2026-08-12 | ✅ OK |
+| The Banana Diaries | 0 | 39 | 0 | 11 | 2 | 0 | 2026-08-12 | ✅ OK |
 | Plant Baes | 0 | 41 | 3 | 4 | 2 | 4 | 2026-06-17 | ✅ OK |
 | Dr. Vegan | 2 | 43 | 4 | 43 | 8 | 0 | 2026-08-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 306 | 0 | 34 | 1 | 0 | 2026-08-10 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 320 | 41 | 40 | 2 | 41 | 2026-08-11 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-07-23 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 41 | 0 | 4 | 2026-08-12 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 41 | 0 | 4 | 2026-08-13 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
 | VegNews | 1 | 350 | 0 | 52 | 0 | 8 | 2026-08-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
