@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-08-15 11:50:01
-**Total Run Time:** 7m 54s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
+**Last Run:** 2026-08-15 16:57:37
+**Total Run Time:** 9m 14s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 13s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21103 | 158 new today |
+| **Total Database** | 21105 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 223 | Total recorded actions in database |
-| **WFPB / GF** | 2606 / 2760 | 12% / 13% |
+| **Trending Events** | 208 | Total recorded actions in database |
+| **WFPB / GF** | 2607 / 2760 | 12% / 13% |
 | **Easy / Budget** | 5079 / 2094 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **4.98** | *1.98* |
-| 2 |[Creamy Beet Pasta (Barbie Pasta)](https://elavegan.com/beet-pasta/) | Elavegan | **4.98** | *1.98* |
-| 3 |[Creamy Roasted Gold Potato Leek Soup (dairy-free!)](https://healthylittlevittles.com/creamy-roasted-gold-potato-leek-soup/) | Healthy Little Vittles | **2.88** | *1.14* |
-| 4 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **1.90** | *0.75* |
-| 5 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **1.90** | *0.75* |
-| 6 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **1.90** | *0.75* |
-| 7 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **1.90** | *0.75* |
-| 8 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **1.90** | *0.75* |
+| 1 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **4.52** | *1.79* |
+| 2 |[Creamy Beet Pasta (Barbie Pasta)](https://elavegan.com/beet-pasta/) | Elavegan | **4.52** | *1.79* |
+| 3 |[Moosey Lucy](https://www.reddit.com/r/veganrecipes/comments/1volr89/moosey_lucy/) | Reddit | **3.72** | *1.48* |
+| 4 |[Creamy Roasted Gold Potato Leek Soup (dairy-free!)](https://healthylittlevittles.com/creamy-roasted-gold-potato-leek-soup/) | Healthy Little Vittles | **2.61** | *1.03* |
+| 5 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **1.72** | *0.68* |
+| 6 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **1.72** | *0.68* |
+| 7 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **1.72** | *0.68* |
+| 8 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **1.72** | *0.68* |
 
 ---
 
@@ -58,13 +58,13 @@
 | Sarah's Vegan Kitchen | 4 | 150 | 0 | 12 | 2 | 1 | 2026-08-04 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 3 | 169 | 3 | 31 | 10 | 0 | 2026-07-31 | ✅ OK |
-| Dreena Burton | 1 | 175 | 175 | 12 | 18 | 42 | 2026-07-27 | ✅ OK |
+| Dreena Burton | 2 | 176 | 176 | 12 | 18 | 42 | 2026-08-15 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 31 | 2026-08-12 | ✅ OK |
-| Steamy Vegan | 2 | 188 | 9 | 29 | 10 | 2 | 2026-08-08 | ✅ OK |
 | My Vegan Minimalist | 0 | 189 | 16 | 58 | 10 | 1 | 2026-08-11 | ✅ OK |
+| Steamy Vegan | 3 | 189 | 9 | 29 | 10 | 2 | 2026-08-15 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 200 | 200 | 11 | 0 | 9 | 2026-08-01 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 232 | 6 | 14 | 14 | 0 | 2026-08-08 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ✅ OK |
+| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ❌ Blocked/HTML Fail |
 | Rabbit and Wolves | 1 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -126,7 +126,7 @@
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
 | Reddit | 2 | 350 | 1 | 41 | 0 | 4 | 2026-08-14 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
-| VegNews | 0 | 350 | 0 | 52 | 0 | 9 | 2026-08-14 | ✅ OK |
+| VegNews | 4 | 350 | 0 | 52 | 0 | 9 | 2026-08-15 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
