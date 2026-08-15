@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-15 07:14:00
-**Total Run Time:** 8m 22s
-**Longest Step:** RSS: Hot For Food (1m 2s)
+**Last Run:** 2026-08-15 11:50:01
+**Total Run Time:** 7m 54s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21103 | 156 new today |
+| **Total Database** | 21103 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 223 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **5.45** | *2.16* |
-| 2 |[Creamy Beet Pasta (Barbie Pasta)](https://elavegan.com/beet-pasta/) | Elavegan | **5.45** | *2.16* |
-| 3 |[Creamy Roasted Gold Potato Leek Soup (dairy-free!)](https://healthylittlevittles.com/creamy-roasted-gold-potato-leek-soup/) | Healthy Little Vittles | **3.14** | *1.25* |
-| 4 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **2.08** | *0.82* |
-| 5 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **2.08** | *0.82* |
-| 6 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **2.08** | *0.82* |
-| 7 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **2.08** | *0.82* |
-| 8 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **2.08** | *0.82* |
+| 1 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **4.98** | *1.98* |
+| 2 |[Creamy Beet Pasta (Barbie Pasta)](https://elavegan.com/beet-pasta/) | Elavegan | **4.98** | *1.98* |
+| 3 |[Creamy Roasted Gold Potato Leek Soup (dairy-free!)](https://healthylittlevittles.com/creamy-roasted-gold-potato-leek-soup/) | Healthy Little Vittles | **2.88** | *1.14* |
+| 4 |[Really Delicious Grilled Tofu](https://avirtualvegan.com/really-delicious-grilled-tofu/) | A Virtual Vegan | **1.90** | *0.75* |
+| 5 |[Hearty One-Pot Lentil Soup](https://thefoodietakesflight.com/one-pot-lentil-soup/) | The Foodie Takes Flight | **1.90** | *0.75* |
+| 6 |[Burrito Bowl (Chipotle Copycat)](https://itdoesnttastelikechicken.com/burrito-bowl/) | It Doesn't Taste Like Chicken | **1.90** | *0.75* |
+| 7 |[Chickpea Breakfast Frittata With Hash Brown Crust](https://vegnews.com/recipes/vegan-breakfast-fritatta-hash-brown) | VegNews | **1.90** | *0.75* |
+| 8 |[Vegan Double Chocolate Chip Brownies](https://vegnews.com/recipes/vegan-chocolate-chip-brownies) | VegNews | **1.90** | *0.75* |
 
 ---
 
@@ -112,7 +112,7 @@
 | A Virtual Vegan | 6 | 273 | 3 | 36 | 1 | 4 | 2026-08-11 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 276 | 3 | 48 | 3 | 5 | 2026-08-11 | ✅ OK |
-| It Doesn't Taste Like Chicken | 2 | 278 | 1 | 95 | 7 | 218 | 2026-08-12 | ✅ OK |
+| It Doesn't Taste Like Chicken | 3 | 278 | 1 | 95 | 7 | 218 | 2026-08-12 | ✅ OK |
 | The Plant-Based RD | 0 | 281 | 4 | 17 | 1 | 0 | 2026-08-12 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 287 | 287 | 7 | 0 | 9 | 2026-08-11 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 2 | 307 | 0 | 34 | 1 | 0 | 2026-08-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 321 | 41 | 40 | 2 | 42 | 2026-08-15 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 41 | 0 | 4 | 2026-08-14 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 41 | 0 | 4 | 2026-08-14 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 52 | 0 | 9 | 2026-08-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
