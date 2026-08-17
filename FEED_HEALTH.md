@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-08-17 02:45:32
-**Total Run Time:** 7m 30s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
+**Last Run:** 2026-08-17 07:37:49
+**Total Run Time:** 7m 47s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21112 | 151 new today |
+| **Total Database** | 21112 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 163 | Total recorded actions in database |
+| **Trending Events** | 161 | Total recorded actions in database |
 | **WFPB / GF** | 2607 / 2760 | 12% / 13% |
 | **Easy / Budget** | 5086 / 2094 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **5.61** | *2.23* |
-| 2 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **5.61** | *2.23* |
-| 3 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **5.61** | *2.23* |
-| 4 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **5.61** | *2.23* |
-| 5 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **5.61** | *2.23* |
-| 6 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **5.61** | *2.23* |
-| 7 |[Crispy Air Fryer Vegan Puff Pastry Twists](https://www.reddit.com/r/veganrecipes/comments/1vpijy9/crispy_air_fryer_vegan_puff_pastry_twists/) | Reddit | **3.45** | *1.37* |
-| 8 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **2.36** | *0.93* |
+| 1 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **5.11** | *2.03* |
+| 2 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **5.11** | *2.03* |
+| 3 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **5.11** | *2.03* |
+| 4 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **5.11** | *2.03* |
+| 5 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **5.11** | *2.03* |
+| 6 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **5.11** | *2.03* |
+| 7 |[Crispy Air Fryer Vegan Puff Pastry Twists](https://www.reddit.com/r/veganrecipes/comments/1vpijy9/crispy_air_fryer_vegan_puff_pastry_twists/) | Reddit | **3.14** | *1.25* |
+| 8 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **2.14** | *0.85* |
 
 ---
 
@@ -116,7 +116,7 @@
 | The Plant-Based RD | 0 | 281 | 4 | 17 | 1 | 0 | 2026-08-12 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 287 | 287 | 7 | 0 | 9 | 2026-08-11 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
 | Plant-Based on a Budget | 4 | 290 | 16 | 71 | 290 | 1 | 2026-08-12 | ✅ OK |
 | Healthy Little Vittles | 4 | 292 | 10 | 47 | 2 | 289 | 2026-08-13 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 295 | 38 | 82 | 3 | 0 | 2026-08-16 | ✅ OK |
