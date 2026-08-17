@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-17 17:01:50
-**Total Run Time:** 8m 18s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-08-17 21:56:11
+**Total Run Time:** 8m 1s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21115 | 161 new today |
+| **Total Database** | 21117 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 161 | Total recorded actions in database |
+| **Trending Events** | 163 | Total recorded actions in database |
 | **WFPB / GF** | 2607 / 2761 | 12% / 13% |
-| **Easy / Budget** | 5086 / 2095 | 24% / 9% |
+| **Easy / Budget** | 5087 / 2095 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **4.26** | *1.69* |
-| 2 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **4.26** | *1.69* |
-| 3 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **4.26** | *1.69* |
-| 4 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **4.26** | *1.69* |
-| 5 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **4.26** | *1.69* |
-| 6 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **4.26** | *1.69* |
-| 7 |[Crispy Air Fryer Vegan Puff Pastry Twists](https://www.reddit.com/r/veganrecipes/comments/1vpijy9/crispy_air_fryer_vegan_puff_pastry_twists/) | Reddit | **2.62** | *1.04* |
-| 8 |[Nectarine Fruit Leather (Fruit Roll-Ups)](https://healthylittlevittles.com/nectarine-fruit-leather/) | Healthy Little Vittles | **1.79** | *0.71* |
+| 1 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **7.86** | *3.12* |
+| 2 |[Black Bean Curry](https://www.reddit.com/r/veganrecipes/comments/1vqrttv/black_bean_curry/) | Reddit | **5.97** | *2.37* |
+| 3 |[Dairy-Free Orange Creamsicle Custard](https://vegnews.com/recipes/vegan-orange-creamsicle-custard) | VegNews | **5.97** | *2.37* |
+| 4 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **3.88** | *1.54* |
+| 5 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **3.88** | *1.54* |
+| 6 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **3.88** | *1.54* |
+| 7 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **3.88** | *1.54* |
+| 8 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **3.88** | *1.54* |
 
 ---
 
@@ -49,8 +49,8 @@
 | Vegan Richa GF | 0 | 51 | 2 | 12 | 7 | 51 | 2026-08-12 | ✅ OK |
 | PlantYou | 2 | 53 | 53 | 8 | 2 | 0 | 2026-08-12 | ✅ OK |
 | My Goodness Kitchen | 2 | 62 | 7 | 7 | 3 | 3 | 2026-08-12 | ✅ OK |
-| Jessica in the Kitchen | 2 | 74 | 2 | 6 | 1 | 4 | 2026-08-17 | ✅ OK |
-| The Korean Vegan | 1 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
+| Jessica in the Kitchen | 1 | 74 | 2 | 6 | 1 | 4 | 2026-08-17 | ✅ OK |
+| The Korean Vegan | 2 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 4 | 124 | 1 | 12 | 124 | 0 | 2026-07-27 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -87,10 +87,10 @@
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | The First Mess | 0 | 238 | 1 | 31 | 3 | 2 | 2026-08-12 | ✅ OK |
-| Sweet Simple Vegan | 0 | 239 | 4 | 45 | 18 | 2 | 2026-08-13 | ✅ OK |
-| Sweet Potato Soul | 0 | 241 | 0 | 36 | 1 | 6 | 2026-07-24 | ✅ OK |
+| Sweet Simple Vegan | 1 | 240 | 4 | 45 | 18 | 2 | 2026-08-17 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 241 | 241 | 50 | 241 | 4 | 2026-07-07 | ✅ OK |
+| Sweet Potato Soul | 1 | 242 | 0 | 36 | 1 | 6 | 2026-08-17 | ✅ OK |
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
@@ -107,8 +107,8 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
-| My Darling Vegan | 2 | 269 | 1 | 32 | 4 | 12 | 2026-08-10 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 272 | 1 | 34 | 2 | 0 | 2026-08-17 | ✅ OK |
+| My Darling Vegan | 3 | 270 | 1 | 33 | 4 | 12 | 2026-08-17 | ✅ OK |
+| Eat Figs, Not Pigs | 2 | 272 | 1 | 34 | 2 | 0 | 2026-08-17 | ✅ OK |
 | A Virtual Vegan | 6 | 273 | 3 | 36 | 1 | 4 | 2026-08-11 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 276 | 3 | 48 | 3 | 5 | 2026-08-11 | ✅ OK |
@@ -126,7 +126,7 @@
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
 | Reddit | 3 | 350 | 1 | 44 | 0 | 4 | 2026-08-17 | ✅ OK (3) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
-| VegNews | 3 | 350 | 0 | 52 | 0 | 10 | 2026-08-17 | ✅ OK |
+| VegNews | 0 | 350 | 0 | 52 | 0 | 10 | 2026-08-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
