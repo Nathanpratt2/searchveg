@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-18 02:41:21
-**Total Run Time:** 7m 31s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
+**Last Run:** 2026-08-18 07:20:08
+**Total Run Time:** 7m 27s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21117 | 158 new today |
+| **Total Database** | 21117 | 155 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 163 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **7.17** | *2.85* |
-| 2 |[Black Bean Curry](https://www.reddit.com/r/veganrecipes/comments/1vqrttv/black_bean_curry/) | Reddit | **5.45** | *2.16* |
-| 3 |[Dairy-Free Orange Creamsicle Custard](https://vegnews.com/recipes/vegan-orange-creamsicle-custard) | VegNews | **5.45** | *2.16* |
-| 4 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **3.54** | *1.40* |
-| 5 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **3.54** | *1.40* |
-| 6 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **3.54** | *1.40* |
-| 7 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **3.54** | *1.40* |
-| 8 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **3.54** | *1.40* |
+| 1 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **6.56** | *2.60* |
+| 2 |[Black Bean Curry](https://www.reddit.com/r/veganrecipes/comments/1vqrttv/black_bean_curry/) | Reddit | **4.98** | *1.98* |
+| 3 |[Dairy-Free Orange Creamsicle Custard](https://vegnews.com/recipes/vegan-orange-creamsicle-custard) | VegNews | **4.98** | *1.98* |
+| 4 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **3.24** | *1.28* |
+| 5 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **3.24** | *1.28* |
+| 6 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **3.23** | *1.28* |
+| 7 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **3.23** | *1.28* |
+| 8 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **3.23** | *1.28* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 20 | 0 | 7 | 0 | 0 | 2026-08-14 | ✅ OK |
-| Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
+| Mary's Test Kitchen | 0 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
 | The Banana Diaries | 0 | 39 | 0 | 11 | 2 | 0 | 2026-08-12 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 2 | 307 | 0 | 34 | 1 | 0 | 2026-08-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 321 | 41 | 40 | 2 | 42 | 2026-08-15 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 43 | 0 | 4 | 2026-08-17 | ✅ OK (4) |
+| Reddit | 3 | 350 | 1 | 43 | 0 | 4 | 2026-08-18 | ✅ OK (3) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-10 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 52 | 0 | 10 | 2026-08-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
