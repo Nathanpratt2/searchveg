@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-19 17:02:24
-**Total Run Time:** 7m 53s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
+**Last Run:** 2026-08-19 21:57:01
+**Total Run Time:** 8m 26s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 19s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21128 | 165 new today |
+| **Total Database** | 21128 | 149 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 178 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **4.32** | *1.72* |
-| 2 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **4.32** | *1.72* |
-| 3 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **4.32** | *1.72* |
-| 4 |[beet lox (vegan smoked salmon alternative)](https://www.hotforfoodblog.com/recipes/appetizers/2026/08/18/beet-lox-vegan-smoked-salmon-alternative/) | Hot For Food | **4.32** | *1.72* |
-| 5 |[Blended Raspberry Chia Pudding](https://avirtualvegan.com/blended-raspberry-chia-pudding/) | A Virtual Vegan | **4.32** | *1.72* |
-| 6 |[Whole Grain Sandwich Bread](https://jessicainthekitchen.com/whole-grain-sandwich-bread/) | Jessica in the Kitchen | **3.46** | *1.37* |
-| 7 |[Mexican Street Food Huaraches](https://plantbasedcookingshow.com/2026/08/11/mexican-street-food-huaraches/) | The Whole Food Plant Based Cooking Show | **3.46** | *1.37* |
-| 8 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **3.43** | *1.36* |
+| 1 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **3.93** | *1.56* |
+| 2 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **3.93** | *1.56* |
+| 3 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **3.93** | *1.56* |
+| 4 |[beet lox (vegan smoked salmon alternative)](https://www.hotforfoodblog.com/recipes/appetizers/2026/08/18/beet-lox-vegan-smoked-salmon-alternative/) | Hot For Food | **3.93** | *1.56* |
+| 5 |[Blended Raspberry Chia Pudding](https://avirtualvegan.com/blended-raspberry-chia-pudding/) | A Virtual Vegan | **3.93** | *1.56* |
+| 6 |[Whole Grain Sandwich Bread](https://jessicainthekitchen.com/whole-grain-sandwich-bread/) | Jessica in the Kitchen | **3.15** | *1.25* |
+| 7 |[Mexican Street Food Huaraches](https://plantbasedcookingshow.com/2026/08/11/mexican-street-food-huaraches/) | The Whole Food Plant Based Cooking Show | **3.15** | *1.25* |
+| 8 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **3.12** | *1.24* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 7 | 0 | 0 | 2026-08-14 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
@@ -46,7 +46,7 @@
 | Plant Baes | 0 | 42 | 3 | 4 | 2 | 4 | 2026-08-19 | ✅ OK |
 | Dr. Vegan | 2 | 43 | 4 | 43 | 8 | 0 | 2026-08-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
-| Vegan Richa GF | 1 | 52 | 2 | 13 | 7 | 52 | 2026-08-19 | ✅ OK |
+| Vegan Richa GF | 0 | 52 | 2 | 13 | 7 | 52 | 2026-08-19 | ✅ OK |
 | PlantYou | 2 | 53 | 53 | 8 | 2 | 0 | 2026-08-12 | ✅ OK |
 | My Goodness Kitchen | 2 | 62 | 7 | 7 | 3 | 3 | 2026-08-12 | ✅ OK |
 | Jessica in the Kitchen | 1 | 74 | 2 | 6 | 1 | 4 | 2026-08-17 | ✅ OK |
@@ -93,7 +93,7 @@
 | Vegan Yack Attack | 0 | 242 | 21 | 51 | 23 | 215 | 2026-04-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
-| Sweet Potato Soul | 1 | 243 | 0 | 36 | 1 | 6 | 2026-08-19 | ✅ OK |
+| Sweet Potato Soul | 0 | 243 | 0 | 36 | 1 | 6 | 2026-08-19 | ✅ OK |
 | Pick Up Limes | 0 | 245 | 22 | 28 | 28 | 1 | 2026-07-08 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
@@ -116,7 +116,7 @@
 | The Plant-Based RD | 0 | 281 | 4 | 17 | 1 | 0 | 2026-08-12 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 288 | 288 | 7 | 0 | 9 | 2026-08-18 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 7 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (7) |
+| Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 72 | 291 | 1 | 2026-08-17 | ✅ OK |
 | Healthy Little Vittles | 4 | 292 | 10 | 47 | 2 | 289 | 2026-08-13 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 295 | 38 | 82 | 3 | 0 | 2026-08-16 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 307 | 0 | 34 | 1 | 0 | 2026-08-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 322 | 41 | 40 | 2 | 43 | 2026-08-19 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 42 | 0 | 4 | 2026-08-19 | ✅ OK (4) |
+| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-19 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-18 | ✅ OK |
-| VegNews | 3 | 350 | 0 | 50 | 0 | 11 | 2026-08-19 | ✅ OK |
+| VegNews | 0 | 350 | 0 | 50 | 0 | 11 | 2026-08-19 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
