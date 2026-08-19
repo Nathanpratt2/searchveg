@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-18 21:55:14
-**Total Run Time:** 9m 38s
-**Longest Step:** HTML: The Cheap Lazy Vegan (1m 14s)
+**Last Run:** 2026-08-19 02:45:15
+**Total Run Time:** 9m 1s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 16s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21121 | 161 new today |
+| **Total Database** | 21122 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 179 | Total recorded actions in database |
-| **WFPB / GF** | 2608 / 2761 | 12% / 13% |
-| **Easy / Budget** | 5085 / 2095 | 24% / 9% |
+| **Trending Events** | 182 | Total recorded actions in database |
+| **WFPB / GF** | 2608 / 2762 | 12% / 13% |
+| **Easy / Budget** | 5084 / 2095 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **4.95** | *1.97* |
-| 2 |[Black Bean Curry](https://www.reddit.com/r/veganrecipes/comments/1vqrttv/black_bean_curry/) | Reddit | **3.76** | *1.49* |
-| 3 |[Dairy-Free Orange Creamsicle Custard](https://vegnews.com/recipes/vegan-orange-creamsicle-custard) | VegNews | **3.76** | *1.49* |
-| 4 |[Greek bowls with lemon tofu](https://www.lazycatkitchen.com/greek-bowls-lemon-tofu/) | Lazy Cat Kitchen | **2.44** | *0.97* |
-| 5 |[Vegan Stroopwafle Tiramisu Tacos](https://www.thelittleblogofvegan.com/2026/08/vegan-stroopwafle-tiramisu-tacos.html) | The Little Blog of Vegan | **2.44** | *0.97* |
-| 6 |[Lentil Sloppy Joes](https://www.reddit.com/r/veganrecipes/comments/1vpxl0w/lentil_sloppy_joes/) | Reddit | **2.44** | *0.97* |
-| 7 |[Sweet and spicy glazed tofu with veggies over basmati](https://www.reddit.com/r/veganrecipes/comments/1vpy9u8/sweet_and_spicy_glazed_tofu_with_veggies_over/) | Reddit | **2.44** | *0.97* |
-| 8 |[No Garlic Hummus - Super Easy, Creamy Homemade Dip](https://myveganminimalist.com/no-garlic-hummus/) | My Vegan Minimalist | **2.44** | *0.97* |
+| 1 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **5.69** | *2.26* |
+| 2 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **5.69** | *2.26* |
+| 3 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **5.69** | *2.26* |
+| 4 |[beet lox (vegan smoked salmon alternative)](https://www.hotforfoodblog.com/recipes/appetizers/2026/08/18/beet-lox-vegan-smoked-salmon-alternative/) | Hot For Food | **5.69** | *2.26* |
+| 5 |[Blended Raspberry Chia Pudding](https://avirtualvegan.com/blended-raspberry-chia-pudding/) | A Virtual Vegan | **5.69** | *2.26* |
+| 6 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **4.51** | *1.79* |
+| 7 |[Black Bean Curry](https://www.reddit.com/r/veganrecipes/comments/1vqrttv/black_bean_curry/) | Reddit | **3.43** | *1.36* |
+| 8 |[Dairy-Free Orange Creamsicle Custard](https://vegnews.com/recipes/vegan-orange-creamsicle-custard) | VegNews | **3.43** | *1.36* |
 
 ---
 
@@ -99,7 +99,7 @@
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 8 | 253 | 10 | 59 | 41 | 73 | 2026-08-12 | ✅ OK |
-| Hot For Food | 2 | 254 | 9 | 37 | 12 | 1 | 2026-08-18 | ✅ OK |
+| Hot For Food | 1 | 254 | 9 | 37 | 12 | 1 | 2026-08-18 | ✅ OK |
 | The Foodie Takes Flight | 1 | 257 | 0 | 257 | 2 | 0 | 2026-08-12 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -108,7 +108,7 @@
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | My Darling Vegan | 2 | 270 | 1 | 33 | 4 | 12 | 2026-08-17 | ✅ OK |
-| A Virtual Vegan | 6 | 273 | 3 | 35 | 1 | 4 | 2026-08-18 | ✅ OK |
+| A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-18 | ✅ OK |
 | Eat Figs, Not Pigs | 3 | 273 | 1 | 34 | 2 | 0 | 2026-08-18 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 277 | 3 | 48 | 3 | 5 | 2026-08-18 | ✅ OK |
@@ -116,16 +116,16 @@
 | The Plant-Based RD | 0 | 281 | 4 | 17 | 1 | 0 | 2026-08-12 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 288 | 288 | 26 | 3 | 0 | 2026-08-05 | ✅ OK (6) |
-| The Whole Food Plant Based Cooking Show | 1 | 288 | 288 | 7 | 0 | 9 | 2026-08-18 | ✅ OK (1) |
+| The Whole Food Plant Based Cooking Show | 0 | 288 | 288 | 7 | 0 | 9 | 2026-08-18 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 72 | 291 | 1 | 2026-08-17 | ✅ OK |
 | Healthy Little Vittles | 4 | 292 | 10 | 47 | 2 | 289 | 2026-08-13 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 295 | 38 | 82 | 3 | 0 | 2026-08-16 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 301 | 3 | 14 | 3 | 5 | 2026-08-16 | ✅ OK |
 | Connoisseurus Veg | 2 | 307 | 0 | 34 | 1 | 0 | 2026-08-14 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 321 | 41 | 40 | 2 | 42 | 2026-08-15 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 322 | 41 | 40 | 2 | 43 | 2026-08-19 | ✅ OK |
+| Reddit | 1 | 349 | 1 | 42 | 0 | 4 | 2026-08-18 | ✅ OK (1) |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 43 | 0 | 4 | 2026-08-18 | ✅ OK (2) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-08-18 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-18 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 51 | 0 | 10 | 2026-08-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
