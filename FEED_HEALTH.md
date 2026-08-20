@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-08-19 21:57:01
-**Total Run Time:** 8m 26s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 19s)
+**Last Run:** 2026-08-20 02:41:58
+**Total Run Time:** 7m 15s
+**Longest Step:** RSS: Cadry's Kitchen (0m 26s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21128 | 149 new today |
+| **Total Database** | 21129 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 178 | Total recorded actions in database |
-| **WFPB / GF** | 2609 / 2764 | 12% / 13% |
+| **WFPB / GF** | 2610 / 2764 | 12% / 13% |
 | **Easy / Budget** | 5085 / 2095 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **3.93** | *1.56* |
-| 2 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **3.93** | *1.56* |
-| 3 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **3.93** | *1.56* |
-| 4 |[beet lox (vegan smoked salmon alternative)](https://www.hotforfoodblog.com/recipes/appetizers/2026/08/18/beet-lox-vegan-smoked-salmon-alternative/) | Hot For Food | **3.93** | *1.56* |
-| 5 |[Blended Raspberry Chia Pudding](https://avirtualvegan.com/blended-raspberry-chia-pudding/) | A Virtual Vegan | **3.93** | *1.56* |
-| 6 |[Whole Grain Sandwich Bread](https://jessicainthekitchen.com/whole-grain-sandwich-bread/) | Jessica in the Kitchen | **3.15** | *1.25* |
-| 7 |[Mexican Street Food Huaraches](https://plantbasedcookingshow.com/2026/08/11/mexican-street-food-huaraches/) | The Whole Food Plant Based Cooking Show | **3.15** | *1.25* |
-| 8 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **3.12** | *1.24* |
+| 1 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **3.59** | *1.42* |
+| 2 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **3.59** | *1.42* |
+| 3 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **3.59** | *1.42* |
+| 4 |[beet lox (vegan smoked salmon alternative)](https://www.hotforfoodblog.com/recipes/appetizers/2026/08/18/beet-lox-vegan-smoked-salmon-alternative/) | Hot For Food | **3.59** | *1.42* |
+| 5 |[Blended Raspberry Chia Pudding](https://avirtualvegan.com/blended-raspberry-chia-pudding/) | A Virtual Vegan | **3.59** | *1.42* |
+| 6 |[Whole Grain Sandwich Bread](https://jessicainthekitchen.com/whole-grain-sandwich-bread/) | Jessica in the Kitchen | **2.87** | *1.14* |
+| 7 |[Mexican Street Food Huaraches](https://plantbasedcookingshow.com/2026/08/11/mexican-street-food-huaraches/) | The Whole Food Plant Based Cooking Show | **2.87** | *1.14* |
+| 8 |[15 Delicious High-Fiber Meals](https://www.noracooks.com/high-fiber-meals/) | Nora Cooks | **2.85** | *1.13* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 7 | 0 | 0 | 2026-08-14 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 28 | 5 | 1 | 4 | 27 | 2026-07-31 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 0 | 33 | 0 | 2 | 0 | 1 | 2026-07-21 | ✅ OK |
@@ -108,7 +108,7 @@
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | My Darling Vegan | 2 | 270 | 1 | 33 | 4 | 12 | 2026-08-17 | ✅ OK |
-| A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-18 | ✅ OK |
+| A Virtual Vegan | 5 | 272 | 3 | 35 | 1 | 4 | 2026-08-18 | ✅ OK |
 | Eat Figs, Not Pigs | 3 | 273 | 1 | 34 | 2 | 0 | 2026-08-18 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 277 | 3 | 48 | 3 | 5 | 2026-08-18 | ✅ OK |
@@ -119,12 +119,12 @@
 | Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 72 | 291 | 1 | 2026-08-17 | ✅ OK |
 | Healthy Little Vittles | 4 | 292 | 10 | 47 | 2 | 289 | 2026-08-13 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 295 | 38 | 82 | 3 | 0 | 2026-08-16 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 296 | 39 | 82 | 3 | 0 | 2026-08-20 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 301 | 3 | 14 | 3 | 5 | 2026-08-16 | ✅ OK |
 | Connoisseurus Veg | 1 | 307 | 0 | 34 | 1 | 0 | 2026-08-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 322 | 41 | 40 | 2 | 43 | 2026-08-19 | ✅ OK |
+| Reddit | 2 | 349 | 1 | 42 | 0 | 4 | 2026-08-19 | ✅ OK (2) |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-12 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-19 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-18 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 50 | 0 | 11 | 2026-08-19 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
