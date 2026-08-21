@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-08-21 07:30:22
-**Total Run Time:** 8m 18s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (1m 2s)
+**Last Run:** 2026-08-21 11:58:55
+**Total Run Time:** 8m 58s
+**Longest Step:** RSS: The Post-Punk Kitchen (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21141 | 159 new today |
+| **Total Database** | 21142 | 160 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 204 | Total recorded actions in database |
+| **Trending Events** | 199 | Total recorded actions in database |
 | **WFPB / GF** | 2611 / 2766 | 12% / 13% |
 | **Easy / Budget** | 5088 / 2095 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Viral Crispy Rice Paper Nuggets (Vegan)](https://plantbaes.com/viral-crispy-rice-paper-nuggets-vegan/) | Plant Baes | **8.86** | *3.52* |
-| 2 |[High Protein Hash Brown Breakfast Casserole (Vegan IHOP Copycat!)](https://www.veganricha.com/hash-brown-breakfast-casserole/) | Vegan Richa GF | **8.86** | *3.52* |
-| 3 |[Dill Pickle Potato Salad](https://theeburgerdude.com/dill-pickle-potato-salad/) | The Burger Dude | **4.65** | *1.84* |
-| 4 |[Creamy Vodka Sauce Tomato Soup (Vegan)](https://sweetsimplevegan.com/creamy-vodka-sauce-tomato-soup-vegan/) | Sweet Simple Vegan | **4.36** | *1.73* |
-| 5 |[Easy Two-Step Tofu Scramble With Mixed Veggies](https://vegnews.com/recipes/vegan-tofu-scramble-veggies) | VegNews | **3.54** | *1.41* |
-| 6 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **2.06** | *0.82* |
-| 7 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **2.06** | *0.82* |
-| 8 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **2.06** | *0.82* |
+| 1 |[Viral Crispy Rice Paper Nuggets (Vegan)](https://plantbaes.com/viral-crispy-rice-paper-nuggets-vegan/) | Plant Baes | **8.13** | *3.23* |
+| 2 |[High Protein Hash Brown Breakfast Casserole (Vegan IHOP Copycat!)](https://www.veganricha.com/hash-brown-breakfast-casserole/) | Vegan Richa GF | **8.13** | *3.23* |
+| 3 |[Dill Pickle Potato Salad](https://theeburgerdude.com/dill-pickle-potato-salad/) | The Burger Dude | **4.26** | *1.69* |
+| 4 |[Creamy Vodka Sauce Tomato Soup (Vegan)](https://sweetsimplevegan.com/creamy-vodka-sauce-tomato-soup-vegan/) | Sweet Simple Vegan | **4.00** | *1.59* |
+| 5 |[Easy Two-Step Tofu Scramble With Mixed Veggies](https://vegnews.com/recipes/vegan-tofu-scramble-veggies) | VegNews | **3.25** | *1.29* |
+| 6 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **1.89** | *0.75* |
+| 7 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **1.89** | *0.75* |
+| 8 |[Cheesy Stuffed Vegan Baked Potato Rolls](https://vegnews.com/recipes/vegan-baked-potato-rolls) | VegNews | **1.89** | *0.75* |
 
 ---
 
@@ -121,11 +121,11 @@
 | Healthy Little Vittles | 4 | 293 | 10 | 47 | 2 | 290 | 2026-08-20 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 296 | 39 | 82 | 3 | 0 | 2026-08-20 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 301 | 3 | 14 | 3 | 5 | 2026-08-16 | ✅ OK |
-| Connoisseurus Veg | 1 | 307 | 0 | 34 | 1 | 0 | 2026-08-19 | ✅ OK |
+| Connoisseurus Veg | 2 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 322 | 41 | 40 | 2 | 43 | 2026-08-19 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-19 | ✅ OK |
 | Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-20 | ✅ OK (2) |
-| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-18 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-18 | ❌ Blocked/ConnErr |
 | VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-08-20 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
