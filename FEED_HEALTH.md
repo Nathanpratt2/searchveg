@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-22 02:41:28
-**Total Run Time:** 8m 54s
-**Longest Step:** HTML: The Cheap Lazy Vegan (1m 14s)
+**Last Run:** 2026-08-22 07:16:07
+**Total Run Time:** 7m 52s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21145 | 154 new today |
+| **Total Database** | 21146 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 200 | Total recorded actions in database |
 | **WFPB / GF** | 2611 / 2767 | 12% / 13% |
-| **Easy / Budget** | 5086 / 2095 | 24% / 9% |
+| **Easy / Budget** | 5087 / 2096 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Viral Crispy Rice Paper Nuggets (Vegan)](https://plantbaes.com/viral-crispy-rice-paper-nuggets-vegan/) | Plant Baes | **6.12** | *2.43* |
-| 2 |[High Protein Hash Brown Breakfast Casserole (Vegan IHOP Copycat!)](https://www.veganricha.com/hash-brown-breakfast-casserole/) | Vegan Richa GF | **6.12** | *2.43* |
-| 3 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **3.91** | *1.55* |
-| 4 |[Dill Pickle Potato Salad](https://theeburgerdude.com/dill-pickle-potato-salad/) | The Burger Dude | **3.21** | *1.27* |
-| 5 |[Creamy Vodka Sauce Tomato Soup (Vegan)](https://sweetsimplevegan.com/creamy-vodka-sauce-tomato-soup-vegan/) | Sweet Simple Vegan | **3.01** | *1.20* |
-| 6 |[Easy Two-Step Tofu Scramble With Mixed Veggies](https://vegnews.com/recipes/vegan-tofu-scramble-veggies) | VegNews | **2.45** | *0.97* |
-| 7 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **1.42** | *0.57* |
-| 8 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **1.42** | *0.57* |
+| 1 |[Viral Crispy Rice Paper Nuggets (Vegan)](https://plantbaes.com/viral-crispy-rice-paper-nuggets-vegan/) | Plant Baes | **5.61** | *2.23* |
+| 2 |[High Protein Hash Brown Breakfast Casserole (Vegan IHOP Copycat!)](https://www.veganricha.com/hash-brown-breakfast-casserole/) | Vegan Richa GF | **5.61** | *2.23* |
+| 3 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **3.58** | *1.42* |
+| 4 |[Dill Pickle Potato Salad](https://theeburgerdude.com/dill-pickle-potato-salad/) | The Burger Dude | **2.94** | *1.17* |
+| 5 |[Creamy Vodka Sauce Tomato Soup (Vegan)](https://sweetsimplevegan.com/creamy-vodka-sauce-tomato-soup-vegan/) | Sweet Simple Vegan | **2.76** | *1.09* |
+| 6 |[Easy Two-Step Tofu Scramble With Mixed Veggies](https://vegnews.com/recipes/vegan-tofu-scramble-veggies) | VegNews | **2.24** | *0.89* |
+| 7 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **1.30** | *0.52* |
+| 8 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **1.30** | *0.52* |
 
 ---
 
@@ -81,8 +81,8 @@
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-08-20 | ✅ OK |
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 232 | 21 | 232 | 232 | 1 | 2026-07-28 | ❌ Blocked/HTML Fail |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
+| The Cheap Lazy Vegan | 1 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ✅ OK (1) |
 | Rabbit and Wolves | 2 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 323 | 41 | 40 | 2 | 44 | 2026-08-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 42 | 0 | 4 | 2026-08-21 | ✅ OK (2) |
+| Reddit | 1 | 350 | 1 | 42 | 0 | 4 | 2026-08-21 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-21 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 50 | 0 | 11 | 2026-08-21 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
