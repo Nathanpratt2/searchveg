@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-22 07:16:07
-**Total Run Time:** 7m 52s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 32s)
+**Last Run:** 2026-08-22 11:50:59
+**Total Run Time:** 7m 47s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21146 | 154 new today |
+| **Total Database** | 21146 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 200 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Viral Crispy Rice Paper Nuggets (Vegan)](https://plantbaes.com/viral-crispy-rice-paper-nuggets-vegan/) | Plant Baes | **5.61** | *2.23* |
-| 2 |[High Protein Hash Brown Breakfast Casserole (Vegan IHOP Copycat!)](https://www.veganricha.com/hash-brown-breakfast-casserole/) | Vegan Richa GF | **5.61** | *2.23* |
-| 3 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **3.58** | *1.42* |
-| 4 |[Dill Pickle Potato Salad](https://theeburgerdude.com/dill-pickle-potato-salad/) | The Burger Dude | **2.94** | *1.17* |
-| 5 |[Creamy Vodka Sauce Tomato Soup (Vegan)](https://sweetsimplevegan.com/creamy-vodka-sauce-tomato-soup-vegan/) | Sweet Simple Vegan | **2.76** | *1.09* |
-| 6 |[Easy Two-Step Tofu Scramble With Mixed Veggies](https://vegnews.com/recipes/vegan-tofu-scramble-veggies) | VegNews | **2.24** | *0.89* |
-| 7 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **1.30** | *0.52* |
-| 8 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **1.30** | *0.52* |
+| 1 |[Viral Crispy Rice Paper Nuggets (Vegan)](https://plantbaes.com/viral-crispy-rice-paper-nuggets-vegan/) | Plant Baes | **5.13** | *2.04* |
+| 2 |[High Protein Hash Brown Breakfast Casserole (Vegan IHOP Copycat!)](https://www.veganricha.com/hash-brown-breakfast-casserole/) | Vegan Richa GF | **5.13** | *2.04* |
+| 3 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **3.28** | *1.30* |
+| 4 |[Dill Pickle Potato Salad](https://theeburgerdude.com/dill-pickle-potato-salad/) | The Burger Dude | **2.69** | *1.07* |
+| 5 |[Creamy Vodka Sauce Tomato Soup (Vegan)](https://sweetsimplevegan.com/creamy-vodka-sauce-tomato-soup-vegan/) | Sweet Simple Vegan | **2.53** | *1.00* |
+| 6 |[Easy Two-Step Tofu Scramble With Mixed Veggies](https://vegnews.com/recipes/vegan-tofu-scramble-veggies) | VegNews | **2.05** | *0.81* |
+| 7 |[Lemon Bars (Vegan)](https://www.reddit.com/r/veganrecipes/comments/1vr89oq/lemon_bars_vegan/) | Reddit | **1.19** | *0.47* |
+| 8 |[Chocolate S'mores Plant-Based Protein Smoothie](https://vegnews.com/recipes/vegan-smores-smoothie) | VegNews | **1.19** | *0.47* |
 
 ---
 
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 0 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ✅ OK |
 | Rabbit and Wolves | 2 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
