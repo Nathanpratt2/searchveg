@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-08-23 02:49:36
-**Total Run Time:** 7m 41s
-**Longest Step:** RSS: Hot For Food (0m 36s)
+**Last Run:** 2026-08-23 07:18:01
+**Total Run Time:** 8m 32s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 15s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21151 | 156 new today |
+| **Total Database** | 21151 | 153 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 206 | Total recorded actions in database |
+| **Trending Events** | 207 | Total recorded actions in database |
 | **WFPB / GF** | 2611 / 2767 | 12% / 13% |
 | **Easy / Budget** | 5089 / 2097 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **9.51** | *3.78* |
-| 2 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **8.17** | *3.24* |
-| 3 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **5.71** | *2.27* |
-| 4 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **5.71** | *2.26* |
-| 5 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **5.71** | *2.26* |
-| 6 |[Strawberry Banana Bread](https://www.reddit.com/r/veganrecipes/comments/1vuk9yt/strawberry_banana_bread/) | Reddit | **5.71** | *2.26* |
-| 7 |[30 Vegan Sandwich Recipes](https://theeburgerdude.com/vegan-sandwich-recipes/) | The Burger Dude | **5.71** | *2.26* |
-| 8 |[Poppy Seed Waffles With Blueberries and Orange Zest](https://vegnews.com/recipes/vegan-poppy-seed-waffles-with-blueberries-orange-zest-and-maple-syrup) | VegNews | **5.71** | *2.26* |
+| 1 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **8.73** | *3.46* |
+| 2 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **7.49** | *2.97* |
+| 3 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **5.24** | *2.08* |
+| 4 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **5.24** | *2.08* |
+| 5 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **5.24** | *2.08* |
+| 6 |[Strawberry Banana Bread](https://www.reddit.com/r/veganrecipes/comments/1vuk9yt/strawberry_banana_bread/) | Reddit | **5.24** | *2.08* |
+| 7 |[30 Vegan Sandwich Recipes](https://theeburgerdude.com/vegan-sandwich-recipes/) | The Burger Dude | **5.24** | *2.08* |
+| 8 |[Poppy Seed Waffles With Blueberries and Orange Zest](https://vegnews.com/recipes/vegan-poppy-seed-waffles-with-blueberries-orange-zest-and-maple-syrup) | VegNews | **5.24** | *2.08* |
 
 ---
 
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ✅ OK |
+| The Cheap Lazy Vegan | 0 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ❌ Blocked/HTML Fail |
 | Rabbit and Wolves | 2 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -93,7 +93,7 @@
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Sweet Potato Soul | 0 | 243 | 0 | 36 | 1 | 6 | 2026-08-19 | ✅ OK |
-| Vegan Yack Attack | 1 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
+| Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | Pick Up Limes | 0 | 248 | 22 | 28 | 28 | 1 | 2026-08-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 323 | 41 | 40 | 2 | 44 | 2026-08-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 43 | 0 | 4 | 2026-08-23 | ✅ OK (4) |
+| Reddit | 2 | 350 | 1 | 43 | 0 | 4 | 2026-08-23 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-21 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-08-22 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
