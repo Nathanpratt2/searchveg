@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-23 11:51:12
-**Total Run Time:** 7m 46s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-08-23 16:57:05
+**Total Run Time:** 7m 42s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21152 | 160 new today |
+| **Total Database** | 21153 | 161 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 207 | Total recorded actions in database |
+| **Trending Events** | 191 | Total recorded actions in database |
 | **WFPB / GF** | 2611 / 2767 | 12% / 13% |
-| **Easy / Budget** | 5090 / 2097 | 24% / 9% |
+| **Easy / Budget** | 5088 / 2097 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **7.99** | *3.17* |
-| 2 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **6.86** | *2.72* |
-| 3 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **4.80** | *1.90* |
-| 4 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **4.80** | *1.90* |
-| 5 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **4.80** | *1.90* |
-| 6 |[Strawberry Banana Bread](https://www.reddit.com/r/veganrecipes/comments/1vuk9yt/strawberry_banana_bread/) | Reddit | **4.80** | *1.90* |
-| 7 |[30 Vegan Sandwich Recipes](https://theeburgerdude.com/vegan-sandwich-recipes/) | The Burger Dude | **4.80** | *1.90* |
-| 8 |[Poppy Seed Waffles With Blueberries and Orange Zest](https://vegnews.com/recipes/vegan-poppy-seed-waffles-with-blueberries-orange-zest-and-maple-syrup) | VegNews | **4.80** | *1.90* |
+| 1 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **7.25** | *2.88* |
+| 2 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **6.22** | *2.47* |
+| 3 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **4.35** | *1.73* |
+| 4 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **4.35** | *1.73* |
+| 5 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **4.35** | *1.73* |
+| 6 |[Strawberry Banana Bread](https://www.reddit.com/r/veganrecipes/comments/1vuk9yt/strawberry_banana_bread/) | Reddit | **4.35** | *1.73* |
+| 7 |[30 Vegan Sandwich Recipes](https://theeburgerdude.com/vegan-sandwich-recipes/) | The Burger Dude | **4.35** | *1.73* |
+| 8 |[Poppy Seed Waffles With Blueberries and Orange Zest](https://vegnews.com/recipes/vegan-poppy-seed-waffles-with-blueberries-orange-zest-and-maple-syrup) | VegNews | **4.35** | *1.73* |
 
 ---
 
@@ -103,7 +103,7 @@
 | The Foodie Takes Flight | 1 | 257 | 0 | 257 | 2 | 0 | 2026-08-12 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
-| Make It Dairy Free | 1 | 266 | 4 | 43 | 2 | 3 | 2026-08-16 | ✅ OK |
+| Make It Dairy Free | 2 | 267 | 4 | 43 | 2 | 3 | 2026-08-23 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
@@ -112,11 +112,11 @@
 | Eat Figs, Not Pigs | 3 | 274 | 1 | 34 | 2 | 0 | 2026-08-22 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 277 | 3 | 48 | 3 | 5 | 2026-08-18 | ✅ OK |
-| It Doesn't Taste Like Chicken | 4 | 280 | 1 | 96 | 7 | 218 | 2026-08-23 | ✅ OK |
+| It Doesn't Taste Like Chicken | 3 | 280 | 1 | 96 | 7 | 218 | 2026-08-23 | ✅ OK |
 | The Plant-Based RD | 0 | 283 | 4 | 17 | 1 | 0 | 2026-08-22 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 288 | 288 | 7 | 0 | 9 | 2026-08-18 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 72 | 291 | 1 | 2026-08-17 | ✅ OK |
 | Healthy Little Vittles | 4 | 293 | 10 | 47 | 2 | 290 | 2026-08-20 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 296 | 39 | 82 | 3 | 0 | 2026-08-20 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 323 | 41 | 40 | 2 | 44 | 2026-08-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 43 | 0 | 4 | 2026-08-23 | ✅ OK (2) |
+| Reddit | 5 | 350 | 1 | 42 | 0 | 4 | 2026-08-23 | ✅ OK (5) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-21 | ✅ OK |
-| VegNews | 0 | 350 | 0 | 51 | 0 | 11 | 2026-08-22 | ✅ OK |
+| VegNews | 4 | 350 | 0 | 50 | 0 | 11 | 2026-08-23 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
