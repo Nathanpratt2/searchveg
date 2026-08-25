@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-08-24 22:00:00
-**Total Run Time:** 7m 48s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-08-25 02:43:45
+**Total Run Time:** 7m 53s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -9,7 +9,7 @@
 | **Total Database** | 21158 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 195 | Total recorded actions in database |
+| **Trending Events** | 198 | Total recorded actions in database |
 | **WFPB / GF** | 2612 / 2767 | 12% / 13% |
 | **Easy / Budget** | 5087 / 2097 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **4.14** | *1.64* |
-| 2 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **3.56** | *1.41* |
-| 3 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **2.49** | *0.99* |
-| 4 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **2.49** | *0.99* |
-| 5 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **2.49** | *0.99* |
-| 6 |[Strawberry Banana Bread](https://www.reddit.com/r/veganrecipes/comments/1vuk9yt/strawberry_banana_bread/) | Reddit | **2.49** | *0.99* |
-| 7 |[30 Vegan Sandwich Recipes](https://theeburgerdude.com/vegan-sandwich-recipes/) | The Burger Dude | **2.49** | *0.99* |
-| 8 |[Poppy Seed Waffles With Blueberries and Orange Zest](https://vegnews.com/recipes/vegan-poppy-seed-waffles-with-blueberries-orange-zest-and-maple-syrup) | VegNews | **2.48** | *0.99* |
+| 1 |[Watermelon Feta & Chili Crisp Salad](https://www.reddit.com/r/veganrecipes/comments/1vvu6rb/watermelon_feta_chili_crisp_salad/) | Reddit | **5.68** | *2.26* |
+| 2 |[Cherry Tomato Orzo](https://thehiddenveggies.com/cherry-tomato-orzo/) | The Hidden Veggies | **5.68** | *2.26* |
+| 3 |[Crispy Air Fryer Popcorn Tofu](https://www.reddit.com/r/veganrecipes/comments/1vvq0uk/crispy_air_fryer_popcorn_tofu/) | Reddit | **5.68** | *2.26* |
+| 4 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **3.78** | *1.50* |
+| 5 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **3.25** | *1.29* |
+| 6 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **2.27** | *0.90* |
+| 7 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **2.27** | *0.90* |
+| 8 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **2.27** | *0.90* |
 
 ---
 
