@@ -1,5 +1,42 @@
 [
   {
+    "blog_name": "Vegan in the Freezer",
+    "title": "Strawberry Vinaigrette",
+    "link": "https://veganinthefreezer.com/strawberry-vinaigrette/",
+    "image": "https://veganinthefreezer.com/wp-content/uploads/2026/07/Strawberry-Vinaigrette-10.jpg",
+    "date": "2026-08-25T21:31:40+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "My Darling Vegan",
+    "title": "Easy vegan apple crisp cookies",
+    "link": "https://www.mydarlingvegan.com/easy-vegan-apple-crisp-cookies/",
+    "image": "https://www.mydarlingvegan.com/wp-content/uploads/2026/08/apple-crisp-cookie-hero.jpg",
+    "date": "2026-08-25T21:01:14+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Chickpea Flour Banana Muffins (No Eggs, No Dairy, 4g Protein)",
+    "link": "https://www.theconsciousplantkitchen.com/chickpea-flour-banana-muffins/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2026/02/Chickpea-Flour-Banana-Muffins-1-768x768.jpg",
+    "date": "2026-08-25T20:15:39+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "GF"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Reddit",
     "title": "Vegan S'mores Cookies",
     "link": "https://www.reddit.com/r/veganrecipes/comments/1vy48mu/vegan_smores_cookies/",
@@ -346,7 +383,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.3
+    "trending_score": 3.92
   },
   {
     "blog_name": "Reddit",
@@ -359,7 +396,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.3
+    "trending_score": 3.92
   },
   {
     "blog_name": "The Hidden Veggies",
@@ -372,7 +409,7 @@
       "Budget"
     ],
     "is_trending": true,
-    "trending_score": 4.3
+    "trending_score": 3.92
   },
   {
     "blog_name": "Eat Figs, Not Pigs",
@@ -566,7 +603,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.46
+    "trending_score": 2.24
   },
   {
     "blog_name": "VegNews",
@@ -599,7 +636,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 1.72
+    "trending_score": 1.57
   },
   {
     "blog_name": "Connoisseurus Veg",
@@ -610,7 +647,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 1.72
+    "trending_score": 1.57
   },
   {
     "blog_name": "Plant Baes",
@@ -623,7 +660,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 2.86
+    "trending_score": 2.61
   },
   {
     "blog_name": "Plant Baes",
@@ -636,7 +673,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 1.72
+    "trending_score": 1.57
   },
   {
     "blog_name": "Rainbow Plant Life GF",
@@ -7511,8 +7548,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -7526,8 +7563,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -8172,8 +8209,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -9294,8 +9331,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -9309,8 +9346,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -10112,8 +10149,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -10662,8 +10699,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -11119,8 +11156,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -12330,8 +12367,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -15531,8 +15568,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17273,8 +17310,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -20697,8 +20734,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -21237,8 +21274,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -21961,8 +21998,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -23533,8 +23570,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25870,8 +25907,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -26690,8 +26727,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -29004,8 +29041,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -29019,8 +29056,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -29603,8 +29640,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -29932,8 +29969,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -30701,8 +30738,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -30727,8 +30764,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -36358,8 +36395,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -36913,8 +36950,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -37648,8 +37685,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -37689,8 +37726,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -38234,8 +38271,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -38909,8 +38946,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -39443,8 +39480,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -40291,8 +40328,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41051,8 +41088,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41298,8 +41335,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41707,8 +41744,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42379,8 +42416,8 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42814,8 +42851,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -43919,8 +43956,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -45777,9 +45814,9 @@
     "is_disruptor": true,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -49168,8 +49205,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -49862,8 +49899,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -52866,8 +52903,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -56227,8 +56264,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -57486,8 +57523,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -58203,8 +58240,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -62242,8 +62279,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -65252,8 +65289,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -65267,8 +65304,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -72704,8 +72741,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -73344,8 +73381,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -74009,8 +74046,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -75429,8 +75466,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -76465,8 +76502,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -79395,8 +79432,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80791,8 +80828,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81098,8 +81135,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -81429,8 +81466,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -82861,8 +82898,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -90631,8 +90668,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -90882,8 +90919,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -91018,8 +91055,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -92462,9 +92499,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -93525,8 +93562,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -94370,8 +94407,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -97609,8 +97646,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -100039,8 +100076,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -105803,8 +105840,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -106531,8 +106568,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -110320,8 +110357,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -110857,8 +110894,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -114917,8 +114954,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -115946,8 +115983,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -131409,8 +131446,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -132592,8 +132629,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -132706,8 +132743,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -135128,8 +135165,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -138745,8 +138782,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -139942,8 +139979,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -140135,8 +140172,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -140188,8 +140225,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -141692,8 +141729,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -142651,9 +142688,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -145597,8 +145634,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -146439,8 +146476,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -146454,8 +146491,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -147233,8 +147270,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -148004,8 +148041,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -148197,8 +148234,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -148569,8 +148606,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -150445,8 +150482,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152182,8 +152219,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152264,8 +152301,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152329,8 +152366,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -154337,8 +154374,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -157145,8 +157182,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -158575,8 +158612,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -159550,8 +159587,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -159721,8 +159758,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -161472,8 +161509,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -165644,8 +165681,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -168548,8 +168585,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172014,8 +172051,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172310,8 +172347,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -173363,8 +173400,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -176811,8 +176848,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -176826,8 +176863,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -179970,8 +180007,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180649,8 +180686,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -181008,8 +181045,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -181435,8 +181472,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -181755,8 +181792,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -181899,8 +181936,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -182814,8 +182851,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -183076,8 +183113,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -183435,8 +183472,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184030,8 +184067,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184173,8 +184210,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184320,9 +184357,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184393,8 +184430,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185449,8 +185486,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185581,8 +185618,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185959,8 +185996,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186031,8 +186068,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187987,8 +188024,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188745,8 +188782,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189640,9 +189677,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189811,8 +189848,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191022,8 +191059,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191091,8 +191128,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191202,9 +191239,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -191417,8 +191454,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192817,8 +192854,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193040,8 +193077,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193125,8 +193162,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193521,8 +193558,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193898,9 +193935,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193968,9 +194005,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194699,9 +194736,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -194775,8 +194812,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195574,8 +195611,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195766,8 +195803,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196475,9 +196512,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196598,8 +196635,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196802,8 +196839,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196839,8 +196876,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197063,8 +197100,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197606,9 +197643,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -198469,8 +198506,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -198734,8 +198771,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -199343,8 +199380,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -199393,9 +199430,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -199930,8 +199967,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -201390,8 +201427,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -201606,8 +201643,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -201842,8 +201879,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -202143,8 +202180,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -202247,8 +202284,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -204456,8 +204493,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -204504,8 +204541,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -204834,8 +204871,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205316,8 +205353,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205545,8 +205582,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205983,8 +206020,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -206118,9 +206155,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -206657,8 +206694,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "GF"
+      "GF",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210723,8 +210760,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210780,8 +210817,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -213606,8 +213643,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "WFPB"
+      "WFPB",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -213738,8 +213775,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "WFPB"
+      "WFPB",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -231858,9 +231895,9 @@
     "is_disruptor": false,
     "special_tags": [
       "Budget",
-      "Easy",
       "GF",
-      "WFPB"
+      "WFPB",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
