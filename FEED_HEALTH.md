@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-25 07:32:23
-**Total Run Time:** 9m 0s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 1s)
+**Last Run:** 2026-08-25 12:02:05
+**Total Run Time:** 9m 21s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 14s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21158 | 154 new today |
+| **Total Database** | 21159 | 152 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 198 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Watermelon Feta & Chili Crisp Salad](https://www.reddit.com/r/veganrecipes/comments/1vvu6rb/watermelon_feta_chili_crisp_salad/) | Reddit | **5.18** | *2.06* |
-| 2 |[Cherry Tomato Orzo](https://thehiddenveggies.com/cherry-tomato-orzo/) | The Hidden Veggies | **5.18** | *2.06* |
-| 3 |[Crispy Air Fryer Popcorn Tofu](https://www.reddit.com/r/veganrecipes/comments/1vvq0uk/crispy_air_fryer_popcorn_tofu/) | Reddit | **5.18** | *2.06* |
-| 4 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **3.45** | *1.37* |
-| 5 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **2.96** | *1.17* |
-| 6 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **2.07** | *0.82* |
-| 7 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **2.07** | *0.82* |
-| 8 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **2.07** | *0.82* |
+| 1 |[Watermelon Feta & Chili Crisp Salad](https://www.reddit.com/r/veganrecipes/comments/1vvu6rb/watermelon_feta_chili_crisp_salad/) | Reddit | **4.75** | *1.89* |
+| 2 |[Cherry Tomato Orzo](https://thehiddenveggies.com/cherry-tomato-orzo/) | The Hidden Veggies | **4.75** | *1.89* |
+| 3 |[Crispy Air Fryer Popcorn Tofu](https://www.reddit.com/r/veganrecipes/comments/1vvq0uk/crispy_air_fryer_popcorn_tofu/) | Reddit | **4.75** | *1.89* |
+| 4 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **3.16** | *1.25* |
+| 5 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **2.71** | *1.08* |
+| 6 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **1.90** | *0.75* |
+| 7 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **1.90** | *0.75* |
+| 8 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **1.90** | *0.75* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 6 | 0 | 0 | 2026-08-24 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 29 | 5 | 1 | 4 | 28 | 2026-08-20 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 34 | 0 | 2 | 0 | 1 | 2026-08-20 | ✅ OK |
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ✅ OK |
+| The Cheap Lazy Vegan | 0 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ❌ Blocked/HTML Fail |
 | Rabbit and Wolves | 2 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -111,12 +111,12 @@
 | A Virtual Vegan | 5 | 272 | 3 | 35 | 1 | 4 | 2026-08-18 | ✅ OK |
 | Eat Figs, Not Pigs | 3 | 275 | 1 | 34 | 2 | 0 | 2026-08-24 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| From My Bowl | 0 | 277 | 3 | 48 | 3 | 5 | 2026-08-18 | ✅ OK |
+| From My Bowl | 1 | 278 | 3 | 48 | 3 | 5 | 2026-08-25 | ✅ OK |
 | It Doesn't Taste Like Chicken | 3 | 280 | 1 | 96 | 7 | 218 | 2026-08-23 | ✅ OK |
 | The Plant-Based RD | 0 | 283 | 4 | 17 | 1 | 0 | 2026-08-22 | ✅ OK |
-| Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-10 | ✅ OK |
+| Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-25 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 288 | 288 | 7 | 0 | 9 | 2026-08-18 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 73 | 291 | 1 | 2026-08-24 | ✅ OK |
 | Healthy Little Vittles | 4 | 293 | 10 | 47 | 2 | 290 | 2026-08-20 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 297 | 39 | 83 | 3 | 0 | 2026-08-23 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 323 | 41 | 40 | 2 | 44 | 2026-08-21 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 23 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 0 | 350 | 1 | 41 | 0 | 3 | 2026-08-24 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 41 | 0 | 3 | 2026-08-25 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-21 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 49 | 0 | 11 | 2026-08-24 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
