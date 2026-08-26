@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-26 02:51:49
-**Total Run Time:** 7m 55s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-08-26 07:31:09
+**Total Run Time:** 7m 45s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21164 | 154 new today |
+| **Total Database** | 21165 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 179 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Watermelon Feta & Chili Crisp Salad](https://www.reddit.com/r/veganrecipes/comments/1vvu6rb/watermelon_feta_chili_crisp_salad/) | Reddit | **3.57** | *1.42* |
-| 2 |[Cherry Tomato Orzo](https://thehiddenveggies.com/cherry-tomato-orzo/) | The Hidden Veggies | **3.57** | *1.42* |
-| 3 |[Crispy Air Fryer Popcorn Tofu](https://www.reddit.com/r/veganrecipes/comments/1vvq0uk/crispy_air_fryer_popcorn_tofu/) | Reddit | **3.57** | *1.42* |
-| 4 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **2.38** | *0.94* |
-| 5 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **2.04** | *0.81* |
-| 6 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **1.43** | *0.57* |
-| 7 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **1.43** | *0.57* |
-| 8 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **1.43** | *0.57* |
+| 1 |[Watermelon Feta & Chili Crisp Salad](https://www.reddit.com/r/veganrecipes/comments/1vvu6rb/watermelon_feta_chili_crisp_salad/) | Reddit | **3.27** | *1.30* |
+| 2 |[Cherry Tomato Orzo](https://thehiddenveggies.com/cherry-tomato-orzo/) | The Hidden Veggies | **3.27** | *1.30* |
+| 3 |[Crispy Air Fryer Popcorn Tofu](https://www.reddit.com/r/veganrecipes/comments/1vvq0uk/crispy_air_fryer_popcorn_tofu/) | Reddit | **3.27** | *1.30* |
+| 4 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **2.17** | *0.86* |
+| 5 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **1.87** | *0.74* |
+| 6 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **1.30** | *0.52* |
+| 7 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **1.30** | *0.52* |
+| 8 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **1.30** | *0.52* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 5 | 0 | 0 | 2026-08-24 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 29 | 5 | 1 | 4 | 28 | 2026-08-20 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 34 | 0 | 2 | 0 | 1 | 2026-08-20 | ✅ OK |
@@ -62,7 +62,7 @@
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 31 | 2026-08-12 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 31 | 2026-08-25 | ✅ OK |
 | Steamy Vegan | 2 | 189 | 9 | 29 | 10 | 2 | 2026-08-15 | ✅ OK |
 | My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
@@ -86,8 +86,8 @@
 | Rabbit and Wolves | 2 | 234 | 0 | 34 | 1 | 0 | 2026-07-23 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| The First Mess | 0 | 239 | 1 | 31 | 3 | 2 | 2026-08-19 | ✅ OK |
 | Sweet Simple Vegan | 0 | 240 | 4 | 45 | 18 | 2 | 2026-08-17 | ✅ OK |
+| The First Mess | 1 | 240 | 1 | 31 | 3 | 2 | 2026-08-26 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 241 | 241 | 50 | 241 | 4 | 2026-07-07 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-07-13 | ✅ OK |
