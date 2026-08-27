@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-27 01:04:44
-**Total Run Time:** 8m 28s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 37s)
+**Last Run:** 2026-08-27 11:49:49
+**Total Run Time:** 7m 46s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21168 | 162 new today |
+| **Total Database** | 21171 | 162 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 159 | Total recorded actions in database |
-| **WFPB / GF** | 2613 / 2767 | 12% / 13% |
-| **Easy / Budget** | 5084 / 2097 | 24% / 9% |
+| **Trending Events** | 171 | Total recorded actions in database |
+| **WFPB / GF** | 2613 / 2768 | 12% / 13% |
+| **Easy / Budget** | 5087 / 2097 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Watermelon Feta & Chili Crisp Salad](https://www.reddit.com/r/veganrecipes/comments/1vvu6rb/watermelon_feta_chili_crisp_salad/) | Reddit | **2.33** | *0.92* |
-| 2 |[Cherry Tomato Orzo](https://thehiddenveggies.com/cherry-tomato-orzo/) | The Hidden Veggies | **2.33** | *0.92* |
-| 3 |[Crispy Air Fryer Popcorn Tofu](https://www.reddit.com/r/veganrecipes/comments/1vvq0uk/crispy_air_fryer_popcorn_tofu/) | Reddit | **2.33** | *0.92* |
-| 4 |[6 Things I 3D Printed to Make Meal Prep Easier](https://plantbaes.com/6-things-i-3d-printed-to-make-meal-prep-easier/) | Plant Baes | **1.55** | *0.61* |
-| 5 |[Spicy Cauliflower Wings With Pesto Dipping Sauce](https://vegnews.com/recipes/vegan-cauliflower-wings-pesto-sauce) | VegNews | **1.33** | *0.53* |
-| 6 |[Spicy Peanut Noodle Salad Meal Prep](https://plantbaes.com/spicy-peanut-noodle-salad-meal-prep/) | Plant Baes | **0.93** | *0.37* |
-| 7 |[Vegan Rocky Road Ice Cream](https://www.connoisseurusveg.com/vegan-rocky-road-ice-cream/) | Connoisseurus Veg | **0.93** | *0.37* |
-| 8 |[My Favorite Avocado Toast Recipe](https://www.acouplecooks.com/avocado-toast-recipe-toppings/) | A Couple Cooks (Vegan Recipes) | **0.93** | *0.37* |
+| 1 |[New York-Style Vegan Reuben](https://vegnews.com/recipes/vegan-new-york-reuben) | VegNews | **8.25** | *3.28* |
+| 2 |[50+ Vegan Back-to-School Recipes](https://www.noracooks.com/back-to-school-recipes/) | Nora Cooks | **8.25** | *3.27* |
+| 3 |[Easy vegan apple crisp cookies](https://www.mydarlingvegan.com/easy-vegan-apple-crisp-cookies/) | My Darling Vegan | **4.95** | *1.97* |
+| 4 |[Strawberry Vinaigrette](https://veganinthefreezer.com/strawberry-vinaigrette/) | Vegan in the Freezer | **4.95** | *1.97* |
+| 5 |[Crispy Popcorn Tofu Bowls with Spicy Garlic Tahini & Greens](https://thefirstmess.com/2026/08/26/crispy-popcorn-tofu-bowls-spicy-tahini/) | The First Mess | **4.95** | *1.97* |
+| 6 |[Garlicky Chickpea Avocado Hummus Dip](https://vegnews.com/recipes/vegan-garlicky-chickpea-avocado-hummus-dip) | VegNews | **4.95** | *1.96* |
+| 7 |[Vegan Cheeseburger Tater Tots With Cashew Cheddar Sauce](https://vegnews.com/recipes/vegan-cheeseburger-tater-tots) | VegNews | **4.95** | *1.96* |
+| 8 |[Vegan Vanilla Birthday Cake Bars](https://vegnews.com/recipes/vegan-vanilla-birthday-cake-bars) | VegNews | **4.95** | *1.96* |
 
 ---
 
@@ -100,7 +100,7 @@
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Hot For Food | 1 | 254 | 9 | 37 | 12 | 1 | 2026-08-18 | ✅ OK |
 | Vegan Richa | 9 | 254 | 10 | 60 | 41 | 73 | 2026-08-19 | ✅ OK |
-| The Foodie Takes Flight | 1 | 257 | 0 | 257 | 2 | 0 | 2026-08-12 | ✅ OK |
+| The Foodie Takes Flight | 2 | 258 | 0 | 258 | 2 | 0 | 2026-08-27 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Make It Dairy Free | 1 | 267 | 4 | 43 | 2 | 3 | 2026-08-23 | ✅ OK |
@@ -111,20 +111,20 @@
 | A Virtual Vegan | 5 | 272 | 3 | 35 | 1 | 4 | 2026-08-18 | ✅ OK |
 | Eat Figs, Not Pigs | 3 | 275 | 1 | 34 | 2 | 0 | 2026-08-24 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| From My Bowl | 0 | 278 | 3 | 48 | 3 | 5 | 2026-08-25 | ✅ OK |
+| From My Bowl | 1 | 279 | 3 | 49 | 3 | 5 | 2026-08-27 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 281 | 1 | 96 | 7 | 218 | 2026-08-26 | ✅ OK |
 | The Plant-Based RD | 0 | 283 | 4 | 17 | 1 | 0 | 2026-08-22 | ✅ OK |
 | Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-25 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
-| The Whole Food Plant Based Cooking Show | 1 | 289 | 289 | 7 | 0 | 9 | 2026-08-26 | ✅ OK (1) |
+| The Whole Food Plant Based Cooking Show | 0 | 289 | 289 | 7 | 0 | 9 | 2026-08-26 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 73 | 291 | 1 | 2026-08-24 | ✅ OK |
-| Healthy Little Vittles | 4 | 293 | 10 | 47 | 2 | 290 | 2026-08-20 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 298 | 39 | 84 | 3 | 0 | 2026-08-26 | ✅ OK |
+| Healthy Little Vittles | 5 | 294 | 10 | 48 | 2 | 291 | 2026-08-27 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 298 | 39 | 84 | 3 | 0 | 2026-08-26 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 302 | 3 | 14 | 3 | 5 | 2026-08-22 | ✅ OK |
 | Connoisseurus Veg | 1 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 324 | 41 | 40 | 2 | 45 | 2026-08-25 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 41 | 0 | 3 | 2026-08-26 | ✅ OK (4) |
+| Reddit | 3 | 350 | 1 | 41 | 0 | 3 | 2026-08-26 | ✅ OK (3) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-21 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 46 | 0 | 10 | 2026-08-26 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
