@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-28 01:09:52
-**Total Run Time:** 8m 0s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
+**Last Run:** 2026-08-28 13:13:49
+**Total Run Time:** 7m 57s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21174 | 171 new today |
+| **Total Database** | 21175 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 157 | Total recorded actions in database |
 | **WFPB / GF** | 2613 / 2770 | 12% / 13% |
-| **Easy / Budget** | 5085 / 2098 | 24% / 9% |
+| **Easy / Budget** | 5086 / 2098 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[New York-Style Vegan Reuben](https://vegnews.com/recipes/vegan-new-york-reuben) | VegNews | **6.38** | *2.53* |
-| 2 |[50+ Vegan Back-to-School Recipes](https://www.noracooks.com/back-to-school-recipes/) | Nora Cooks | **6.38** | *2.53* |
-| 3 |[Vegan Pumpkin Smoothie](https://avirtualvegan.com/vegan-pumpkin-smoothie/) | A Virtual Vegan | **4.92** | *1.95* |
-| 4 |[Easy vegan apple crisp cookies](https://www.mydarlingvegan.com/easy-vegan-apple-crisp-cookies/) | My Darling Vegan | **3.83** | *1.52* |
-| 5 |[Strawberry Vinaigrette](https://veganinthefreezer.com/strawberry-vinaigrette/) | Vegan in the Freezer | **3.83** | *1.52* |
-| 6 |[Crispy Popcorn Tofu Bowls with Spicy Garlic Tahini & Greens](https://thefirstmess.com/2026/08/26/crispy-popcorn-tofu-bowls-spicy-tahini/) | The First Mess | **3.83** | *1.52* |
-| 7 |[Garlicky Chickpea Avocado Hummus Dip](https://vegnews.com/recipes/vegan-garlicky-chickpea-avocado-hummus-dip) | VegNews | **3.83** | *1.52* |
-| 8 |[Vegan Cheeseburger Tater Tots With Cashew Cheddar Sauce](https://vegnews.com/recipes/vegan-cheeseburger-tater-tots) | VegNews | **3.83** | *1.52* |
+| 1 |[New York-Style Vegan Reuben](https://vegnews.com/recipes/vegan-new-york-reuben) | VegNews | **5.06** | *2.01* |
+| 2 |[50+ Vegan Back-to-School Recipes](https://www.noracooks.com/back-to-school-recipes/) | Nora Cooks | **5.06** | *2.01* |
+| 3 |[Vegan Pumpkin Smoothie](https://avirtualvegan.com/vegan-pumpkin-smoothie/) | A Virtual Vegan | **3.90** | *1.55* |
+| 4 |[Easy vegan apple crisp cookies](https://www.mydarlingvegan.com/easy-vegan-apple-crisp-cookies/) | My Darling Vegan | **3.04** | *1.20* |
+| 5 |[Strawberry Vinaigrette](https://veganinthefreezer.com/strawberry-vinaigrette/) | Vegan in the Freezer | **3.04** | *1.20* |
+| 6 |[Crispy Popcorn Tofu Bowls with Spicy Garlic Tahini & Greens](https://thefirstmess.com/2026/08/26/crispy-popcorn-tofu-bowls-spicy-tahini/) | The First Mess | **3.04** | *1.20* |
+| 7 |[Garlicky Chickpea Avocado Hummus Dip](https://vegnews.com/recipes/vegan-garlicky-chickpea-avocado-hummus-dip) | VegNews | **3.04** | *1.20* |
+| 8 |[Vegan Cheeseburger Tater Tots With Cashew Cheddar Sauce](https://vegnews.com/recipes/vegan-cheeseburger-tater-tots) | VegNews | **3.04** | *1.20* |
 
 ---
 
@@ -40,13 +40,13 @@
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 4 | 0 | 0 | 2026-08-21 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
-| Rainbow Plant Life GF | 1 | 30 | 5 | 1 | 4 | 29 | 2026-08-27 | ✅ OK |
+| Rainbow Plant Life GF | 0 | 30 | 5 | 1 | 4 | 29 | 2026-08-27 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 34 | 0 | 2 | 0 | 1 | 2026-08-20 | ✅ OK |
 | The Banana Diaries | 0 | 39 | 0 | 11 | 2 | 0 | 2026-08-12 | ✅ OK |
 | Dr. Vegan | 2 | 43 | 4 | 43 | 8 | 0 | 2026-08-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
-| Plant Baes | 1 | 46 | 3 | 6 | 2 | 5 | 2026-08-27 | ✅ OK |
-| Vegan Richa GF | 1 | 53 | 2 | 13 | 7 | 53 | 2026-08-27 | ✅ OK |
+| Plant Baes | 0 | 46 | 3 | 6 | 2 | 5 | 2026-08-27 | ✅ OK |
+| Vegan Richa GF | 0 | 53 | 2 | 13 | 7 | 53 | 2026-08-27 | ✅ OK |
 | PlantYou | 3 | 54 | 54 | 7 | 2 | 0 | 2026-08-26 | ✅ OK |
 | My Goodness Kitchen | 2 | 62 | 7 | 7 | 3 | 3 | 2026-08-12 | ✅ OK |
 | Jessica in the Kitchen | 1 | 76 | 2 | 6 | 1 | 4 | 2026-08-27 | ✅ OK |
@@ -90,7 +90,7 @@
 | The First Mess | 0 | 240 | 1 | 31 | 3 | 2 | 2026-08-26 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 241 | 241 | 50 | 241 | 4 | 2026-07-07 | ✅ OK |
-| Cookie and Kate (Vegan Recipes) | 7 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
+| Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Sweet Potato Soul | 0 | 243 | 0 | 36 | 1 | 6 | 2026-08-19 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
@@ -114,19 +114,19 @@
 | From My Bowl | 0 | 279 | 3 | 49 | 3 | 5 | 2026-08-27 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 281 | 1 | 96 | 7 | 218 | 2026-08-26 | ✅ OK |
 | The Plant-Based RD | 0 | 283 | 4 | 17 | 1 | 0 | 2026-08-22 | ✅ OK |
-| Full of Plants | 1 | 284 | 0 | 43 | 0 | 13 | 2026-08-25 | ✅ OK |
+| Full of Plants | 2 | 285 | 0 | 43 | 0 | 13 | 2026-08-28 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 289 | 289 | 7 | 0 | 9 | 2026-08-26 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 73 | 291 | 1 | 2026-08-24 | ✅ OK |
 | Healthy Little Vittles | 4 | 294 | 10 | 48 | 2 | 291 | 2026-08-27 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 298 | 39 | 84 | 3 | 0 | 2026-08-26 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 302 | 3 | 14 | 3 | 5 | 2026-08-22 | ✅ OK |
-| Connoisseurus Veg | 1 | 308 | 0 | 34 | 1 | 0 | 2026-08-21 | ✅ OK |
+| Connoisseurus Veg | 2 | 309 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 324 | 41 | 40 | 2 | 45 | 2026-08-25 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 6 | 350 | 1 | 40 | 0 | 3 | 2026-08-27 | ✅ OK (6) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-08-27 | ✅ OK |
-| VegNews | 3 | 350 | 0 | 46 | 0 | 10 | 2026-08-27 | ✅ OK |
+| Reddit | 5 | 350 | 1 | 41 | 0 | 3 | 2026-08-28 | ✅ OK (5) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-27 | ✅ OK |
+| VegNews | 0 | 350 | 0 | 46 | 0 | 10 | 2026-08-27 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
