@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-29 15:50:57
-**Total Run Time:** 7m 38s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 44s)
+**Last Run:** 2026-08-29 19:35:59
+**Total Run Time:** 8m 41s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21182 | 166 new today |
+| **Total Database** | 21187 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 167 | Total recorded actions in database |
 | **WFPB / GF** | 2613 / 2769 | 12% / 13% |
-| **Easy / Budget** | 5086 / 2098 | 24% / 9% |
+| **Easy / Budget** | 5088 / 2098 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **7.98** | *3.17* |
-| 2 |[Vegan Pumpkin Streusel Muffins](https://sarahsvegankitchen.com/recipes/pumpkin-streusel-muffins/) | Sarah's Vegan Kitchen | **5.70** | *2.26* |
-| 3 |[Tha Basil Tofu Stir-Fry](https://www.reddit.com/r/veganrecipes/comments/1w0veu5/tha_basil_tofu_stirfry/) | Reddit | **4.79** | *1.90* |
-| 4 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **4.79** | *1.90* |
-| 5 |[Vegan Liverwurst Recipe (Easy Bean Spread)](https://elavegan.com/vegan-liverwurst/) | Elavegan | **3.19** | *1.27* |
-| 6 |[New York-Style Vegan Reuben](https://vegnews.com/recipes/vegan-new-york-reuben) | VegNews | **3.03** | *1.20* |
-| 7 |[50+ Vegan Back-to-School Recipes](https://www.noracooks.com/back-to-school-recipes/) | Nora Cooks | **3.03** | *1.20* |
-| 8 |[My fav go-to everyday breakfast](https://www.reddit.com/r/veganrecipes/comments/1w0lgbt/my_fav_goto_everyday_breakfast/) | Reddit | **2.96** | *1.17* |
+| 1 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **7.42** | *2.95* |
+| 2 |[Vegan Pumpkin Streusel Muffins](https://sarahsvegankitchen.com/recipes/pumpkin-streusel-muffins/) | Sarah's Vegan Kitchen | **5.31** | *2.11* |
+| 3 |[Tha Basil Tofu Stir-Fry](https://www.reddit.com/r/veganrecipes/comments/1w0veu5/tha_basil_tofu_stirfry/) | Reddit | **4.45** | *1.77* |
+| 4 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **4.45** | *1.77* |
+| 5 |[Vegan Liverwurst Recipe (Easy Bean Spread)](https://elavegan.com/vegan-liverwurst/) | Elavegan | **2.97** | *1.18* |
+| 6 |[New York-Style Vegan Reuben](https://vegnews.com/recipes/vegan-new-york-reuben) | VegNews | **2.82** | *1.12* |
+| 7 |[50+ Vegan Back-to-School Recipes](https://www.noracooks.com/back-to-school-recipes/) | Nora Cooks | **2.82** | *1.12* |
+| 8 |[My fav go-to everyday breakfast](https://www.reddit.com/r/veganrecipes/comments/1w0lgbt/my_fav_goto_everyday_breakfast/) | Reddit | **2.75** | *1.09* |
 
 ---
 
@@ -55,7 +55,7 @@
 | The Hidden Veggies | 4 | 125 | 1 | 12 | 125 | 0 | 2026-08-22 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 150 | 0 | 12 | 2 | 1 | 2026-08-04 | ✅ OK |
+| Sarah's Vegan Kitchen | 6 | 152 | 0 | 12 | 2 | 1 | 2026-08-29 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 169 | 3 | 31 | 10 | 0 | 2026-08-25 | ✅ OK |
 | Dreena Burton | 1 | 177 | 177 | 12 | 18 | 42 | 2026-08-23 | ✅ OK |
@@ -120,13 +120,13 @@
 | Plant-Based on a Budget | 4 | 291 | 16 | 73 | 291 | 1 | 2026-08-24 | ✅ OK |
 | Healthy Little Vittles | 4 | 294 | 10 | 48 | 2 | 291 | 2026-08-27 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 298 | 39 | 84 | 3 | 0 | 2026-08-26 | ✅ OK |
-| Lazy Cat Kitchen | 0 | 302 | 3 | 14 | 3 | 5 | 2026-08-22 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 303 | 3 | 15 | 3 | 5 | 2026-08-29 | ✅ OK |
 | Connoisseurus Veg | 1 | 309 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 325 | 41 | 40 | 2 | 45 | 2026-08-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 40 | 0 | 2 | 2026-08-29 | ✅ OK (3) |
+| Reddit | 2 | 350 | 1 | 41 | 0 | 2 | 2026-08-29 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-27 | ✅ OK |
-| VegNews | 4 | 350 | 0 | 45 | 0 | 9 | 2026-08-29 | ✅ OK |
+| VegNews | 0 | 350 | 0 | 45 | 0 | 9 | 2026-08-29 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
