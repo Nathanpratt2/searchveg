@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-30 07:06:29
-**Total Run Time:** 7m 26s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
+**Last Run:** 2026-08-30 15:31:58
+**Total Run Time:** 7m 47s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 32s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21189 | 159 new today |
+| **Total Database** | 21190 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 185 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **7.30** | *2.90* |
-| 2 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **5.95** | *2.36* |
-| 3 |[Vegan Mac and Cheese Powder (Easy Homemade Recipe!)](https://steamyvegan.com/vegan-mac-and-cheese-powder/) | Steamy Vegan | **5.60** | *2.22* |
-| 4 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **5.60** | *2.22* |
-| 5 |[BBQ Shredded Tofu Sandwich](https://sarahsvegankitchen.com/recipes/bbq-tofu/) | Sarah's Vegan Kitchen | **5.60** | *2.22* |
-| 6 |[Vegan Chick’n Salad (with Shredded Tofu)](https://sarahsvegankitchen.com/recipes/shredded-chicken-salad/) | Sarah's Vegan Kitchen | **5.60** | *2.22* |
-| 7 |[Bulgogi-Style Tofu Rice Bowls](https://sarahsvegankitchen.com/recipes/bulgogi-tofu/) | Sarah's Vegan Kitchen | **5.60** | *2.22* |
-| 8 |[One Pot Pasta](https://simpleveganblog.com/one-pot-pasta/) | Simple Vegan Blog | **4.96** | *1.97* |
+| 1 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **6.21** | *2.46* |
+| 2 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **5.06** | *2.01* |
+| 3 |[Vegan Mac and Cheese Powder (Easy Homemade Recipe!)](https://steamyvegan.com/vegan-mac-and-cheese-powder/) | Steamy Vegan | **4.76** | *1.89* |
+| 4 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **4.76** | *1.89* |
+| 5 |[BBQ Shredded Tofu Sandwich](https://sarahsvegankitchen.com/recipes/bbq-tofu/) | Sarah's Vegan Kitchen | **4.76** | *1.89* |
+| 6 |[Vegan Chick’n Salad (with Shredded Tofu)](https://sarahsvegankitchen.com/recipes/shredded-chicken-salad/) | Sarah's Vegan Kitchen | **4.76** | *1.89* |
+| 7 |[Bulgogi-Style Tofu Rice Bowls](https://sarahsvegankitchen.com/recipes/bulgogi-tofu/) | Sarah's Vegan Kitchen | **4.76** | *1.89* |
+| 8 |[One Pot Pasta](https://simpleveganblog.com/one-pot-pasta/) | Simple Vegan Blog | **4.22** | *1.67* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 4 | 0 | 0 | 2026-08-28 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
-| Mary's Test Kitchen | 2 | 22 | 0 | 8 | 1 | 1 | 2026-08-09 | ✅ OK |
+| Mary's Test Kitchen | 2 | 23 | 0 | 8 | 1 | 1 | 2026-08-29 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 30 | 5 | 1 | 4 | 29 | 2026-08-27 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 34 | 0 | 2 | 0 | 1 | 2026-08-20 | ✅ OK |
 | The Banana Diaries | 0 | 39 | 0 | 11 | 2 | 0 | 2026-08-12 | ✅ OK |
@@ -57,7 +57,7 @@
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 152 | 0 | 12 | 2 | 1 | 2026-08-29 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
-| Love and Lemons (Vegan Recipes) | 2 | 169 | 3 | 31 | 10 | 0 | 2026-08-25 | ✅ OK |
+| Love and Lemons (Vegan Recipes) | 1 | 169 | 3 | 31 | 10 | 0 | 2026-08-25 | ✅ OK |
 | Dreena Burton | 1 | 177 | 177 | 12 | 18 | 42 | 2026-08-23 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 234 | 21 | 234 | 234 | 1 | 2026-08-27 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 1 | 234 | 21 | 234 | 234 | 1 | 2026-08-21 | ✅ OK (1) |
 | Rabbit and Wolves | 2 | 235 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -103,14 +103,14 @@
 | The Foodie Takes Flight | 1 | 258 | 0 | 258 | 2 | 0 | 2026-08-27 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
-| Make It Dairy Free | 1 | 267 | 4 | 43 | 2 | 3 | 2026-08-30 | ✅ OK |
+| Make It Dairy Free | 0 | 267 | 4 | 43 | 2 | 3 | 2026-08-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | My Darling Vegan | 2 | 271 | 1 | 34 | 4 | 12 | 2026-08-25 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Eat Figs, Not Pigs | 5 | 277 | 1 | 35 | 2 | 0 | 2026-08-29 | ✅ OK |
+| Eat Figs, Not Pigs | 4 | 277 | 1 | 35 | 2 | 0 | 2026-08-29 | ✅ OK |
 | From My Bowl | 0 | 279 | 3 | 49 | 3 | 5 | 2026-08-27 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 281 | 1 | 96 | 7 | 218 | 2026-08-26 | ✅ OK |
 | The Plant-Based RD | 0 | 284 | 4 | 17 | 1 | 0 | 2026-08-28 | ✅ OK |
