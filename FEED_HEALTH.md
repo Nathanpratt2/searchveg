@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-08-29 23:37:02
-**Total Run Time:** 8m 16s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-08-30 07:06:29
+**Total Run Time:** 7m 26s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21187 | 112 new today |
+| **Total Database** | 21189 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 178 | Total recorded actions in database |
-| **WFPB / GF** | 2613 / 2767 | 12% / 13% |
-| **Easy / Budget** | 5079 / 2094 | 23% / 9% |
+| **Trending Events** | 185 | Total recorded actions in database |
+| **WFPB / GF** | 2613 / 2769 | 12% / 13% |
+| **Easy / Budget** | 5090 / 2098 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **6.87** | *2.73* |
-| 2 |[One Pot Pasta](https://simpleveganblog.com/one-pot-pasta/) | Simple Vegan Blog | **5.73** | *2.27* |
-| 3 |[Vegan Pumpkin Streusel Muffins](https://sarahsvegankitchen.com/recipes/pumpkin-streusel-muffins/) | Sarah's Vegan Kitchen | **4.91** | *1.95* |
-| 4 |[Tha Basil Tofu Stir-Fry](https://www.reddit.com/r/veganrecipes/comments/1w0veu5/tha_basil_tofu_stirfry/) | Reddit | **4.12** | *1.64* |
-| 5 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **4.12** | *1.64* |
-| 6 |[Vegan Liverwurst Recipe (Easy Bean Spread)](https://elavegan.com/vegan-liverwurst/) | Elavegan | **2.75** | *1.09* |
-| 7 |[New York-Style Vegan Reuben](https://vegnews.com/recipes/vegan-new-york-reuben) | VegNews | **2.61** | *1.04* |
-| 8 |[50+ Vegan Back-to-School Recipes](https://www.noracooks.com/back-to-school-recipes/) | Nora Cooks | **2.61** | *1.04* |
+| 1 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **7.30** | *2.90* |
+| 2 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **5.95** | *2.36* |
+| 3 |[Vegan Mac and Cheese Powder (Easy Homemade Recipe!)](https://steamyvegan.com/vegan-mac-and-cheese-powder/) | Steamy Vegan | **5.60** | *2.22* |
+| 4 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **5.60** | *2.22* |
+| 5 |[BBQ Shredded Tofu Sandwich](https://sarahsvegankitchen.com/recipes/bbq-tofu/) | Sarah's Vegan Kitchen | **5.60** | *2.22* |
+| 6 |[Vegan Chick’n Salad (with Shredded Tofu)](https://sarahsvegankitchen.com/recipes/shredded-chicken-salad/) | Sarah's Vegan Kitchen | **5.60** | *2.22* |
+| 7 |[Bulgogi-Style Tofu Rice Bowls](https://sarahsvegankitchen.com/recipes/bulgogi-tofu/) | Sarah's Vegan Kitchen | **5.60** | *2.22* |
+| 8 |[One Pot Pasta](https://simpleveganblog.com/one-pot-pasta/) | Simple Vegan Blog | **4.96** | *1.97* |
 
 ---
 
@@ -55,21 +55,21 @@
 | The Hidden Veggies | 4 | 125 | 1 | 12 | 125 | 0 | 2026-08-22 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 0 | 150 | 0 | 12 | 2 | 1 | 2026-08-29 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 152 | 0 | 12 | 2 | 1 | 2026-08-29 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 169 | 3 | 31 | 10 | 0 | 2026-08-25 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 0 | 177 | 0 | 22 | 1 | 30 | 2026-07-31 | ✅ OK |
 | Dreena Burton | 1 | 177 | 177 | 12 | 18 | 42 | 2026-08-23 | ✅ OK |
-| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ❌ Blocked/ConnErr |
-| The Stingy Vegan | 0 | 183 | 1 | 183 | 183 | 0 | 2026-06-29 | ✅ OK |
+| Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 31 | 2026-08-25 | ✅ OK |
 | My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
 | Steamy Vegan | 2 | 191 | 9 | 30 | 10 | 2 | 2026-08-28 | ✅ OK |
 | Simple Vegan Blog | 2 | 195 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 200 | 200 | 11 | 0 | 9 | 2026-08-01 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
-| The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Nora Cooks | 1 | 212 | 14 | 33 | 13 | 5 | 2026-08-26 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 4 | 214 | 0 | 28 | 0 | 3 | 2026-08-11 | ✅ OK |
 | The Little Blog of Vegan | 0 | 215 | 0 | 41 | 0 | 1 | 2026-08-25 | ✅ OK |
@@ -79,11 +79,11 @@
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 223 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-08-27 | ✅ OK |
-| Cadry's Kitchen | 0 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
+| Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 233 | 21 | 233 | 233 | 1 | 2026-08-21 | ✅ OK |
-| Rabbit and Wolves | 0 | 235 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
+| The Cheap Lazy Vegan | 1 | 234 | 21 | 234 | 234 | 1 | 2026-08-27 | ✅ OK (1) |
+| Rabbit and Wolves | 2 | 235 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | The First Mess | 0 | 240 | 1 | 31 | 3 | 2 | 2026-08-26 | ✅ OK |
@@ -94,28 +94,28 @@
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Sweet Potato Soul | 0 | 243 | 0 | 36 | 1 | 6 | 2026-08-19 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
-| Vegan Richa | 0 | 246 | 10 | 57 | 41 | 73 | 2026-07-10 | ✅ OK |
 | Pick Up Limes | 0 | 248 | 22 | 28 | 28 | 1 | 2026-08-20 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 253 | 9 | 37 | 12 | 1 | 2026-08-18 | ❌ Blocked/ConnErr |
-| The Foodie Takes Flight | 0 | 257 | 0 | 257 | 2 | 0 | 2026-08-27 | ✅ OK |
+| Hot For Food | 1 | 254 | 9 | 37 | 12 | 1 | 2026-08-18 | ✅ OK |
+| Vegan Richa | 9 | 254 | 10 | 59 | 41 | 73 | 2026-08-27 | ✅ OK |
+| The Foodie Takes Flight | 1 | 258 | 0 | 258 | 2 | 0 | 2026-08-27 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
-| Make It Dairy Free | 1 | 267 | 4 | 43 | 2 | 3 | 2026-08-23 | ✅ OK |
-| Strength and Sunshine | 0 | 267 | 8 | 267 | 2 | 260 | 2026-06-30 | ✅ OK |
+| Make It Dairy Free | 1 | 267 | 4 | 43 | 2 | 3 | 2026-08-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 0 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | My Darling Vegan | 2 | 271 | 1 | 34 | 4 | 12 | 2026-08-25 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 276 | 1 | 34 | 2 | 0 | 2026-08-28 | ✅ OK |
+| Eat Figs, Not Pigs | 5 | 277 | 1 | 35 | 2 | 0 | 2026-08-29 | ✅ OK |
 | From My Bowl | 0 | 279 | 3 | 49 | 3 | 5 | 2026-08-27 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 281 | 1 | 96 | 7 | 218 | 2026-08-26 | ✅ OK |
 | The Plant-Based RD | 0 | 284 | 4 | 17 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Full of Plants | 2 | 285 | 0 | 43 | 0 | 13 | 2026-08-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 289 | 289 | 7 | 0 | 9 | 2026-08-26 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 73 | 291 | 1 | 2026-08-24 | ✅ OK |
 | Healthy Little Vittles | 4 | 294 | 10 | 48 | 2 | 291 | 2026-08-27 | ✅ OK |
@@ -123,8 +123,8 @@
 | Lazy Cat Kitchen | 0 | 303 | 3 | 15 | 3 | 5 | 2026-08-29 | ✅ OK |
 | Connoisseurus Veg | 1 | 309 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 325 | 41 | 40 | 2 | 45 | 2026-08-28 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 349 | 3 | 23 | 1 | 1 | 2026-08-19 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 42 | 0 | 2 | 2026-08-29 | ✅ OK (2) |
+| Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-08-19 | ✅ OK |
+| Reddit | 0 | 350 | 1 | 42 | 0 | 2 | 2026-08-29 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-08-27 | ✅ OK |
 | VegNews | 0 | 350 | 0 | 45 | 0 | 9 | 2026-08-29 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
