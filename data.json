@@ -1,5 +1,93 @@
 [
   {
+    "blog_name": "Reddit",
+    "title": "Creamy cannellini beans!",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1w2o0su/creamy_cannellini_beans/",
+    "image": "https://preview.redd.it/3su7rr52ujmh1.jpeg?width=640&crop=smart&auto=webp&s=cd7a38659729c2d331df468e3ee4aff4a6c6c96f",
+    "date": "2026-08-30T17:41:18+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Sweet Potato Soul",
+    "title": "10 Best Beet Recipes",
+    "link": "https://sweetpotatosoul.com/beet-recipes/",
+    "image": "https://sweetpotatosoul.com/wp-content/uploads/2026/08/Beet-Recipes-Roundup.jpg",
+    "date": "2026-08-30T17:37:05+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Post-Punk Kitchen",
+    "title": "Marble Tahini Bundt Cake",
+    "link": "https://www.theppk.com/2026/08/tahini-bundt-cake/",
+    "image": "https://www.theppk.com/wp-content/uploads/2026/08/TahiniBundtHero-819x1024.jpg",
+    "date": "2026-08-30T17:10:48+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Creamy Vanilla Chai Protein Pudding",
+    "link": "https://vegnews.com/recipes/creamy-vanilla-chai-protein-pudding",
+    "image": "https://vegnews.com/media/W1siZiIsIjU0MzQ0L1ZlZ05ld3MtSnVzdE9uZS1DaGlhUHVkZGluZy0xMS5qcGciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews-JustOne-ChiaPudding-11.jpg?sha=d9bc59ee1a8d8cd6",
+    "date": "2026-08-30T16:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Tikka masala wings over basmati rice with crispy onions",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1w2l7uh/tikka_masala_wings_over_basmati_rice_with_crispy/",
+    "image": "https://preview.redd.it/wdbstqd2bjmh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=dfa571a49104d63eb39301cef0d496b0fbf13cc9",
+    "date": "2026-08-30T15:54:51+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Double Dark Chocolate Fudgewiches With Ice Cream Filling",
+    "link": "https://vegnews.com/recipes/vegan-double-dark-chocolate-fudgewiches",
+    "image": "https://vegnews.com/media/W1siZiIsIjMzNjQ3L1ZlZ05ld3MuRnVkZ2V3aWNoZXMuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.Fudgewiches.jpg?sha=7ef916b647c3750d",
+    "date": "2026-08-30T15:45:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Pulled Barbecue Jackfruit Sandwich With Grilled Pineapple",
+    "link": "https://vegnews.com/recipes/pulled-barbecue-jackfruit-sandwich-with-grilled-pineapple",
+    "image": "https://vegnews.com/media/W1siZiIsIjEyMjMyL1ZlZ05ld3MuUHVsbGVkSmFja2ZydWl0LnBuZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.PulledJackfruit.jpg?sha=bd3094f376f5b232",
+    "date": "2026-08-30T15:30:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Chocolate-Covered Strawberry Vanilla Smoothie Bowl",
+    "link": "https://vegnews.com/recipes/vegan-chocolate-strawberry-smoothie-bowl",
+    "image": "https://vegnews.com/media/W1siZiIsIjE3NDgzL1ZlZ05ld3MuU21vb3RoaWVCb3dsLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.SmoothieBowl.jpg?sha=96a1bd00284d18a2",
+    "date": "2026-08-30T15:25:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Make It Dairy Free",
     "title": "High Protein Smashed Edamame Toast",
     "link": "https://makeitdairyfree.com/high-protein-smashed-edamame-toast/",
@@ -56,7 +144,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.76
+    "trending_score": 4.41
   },
   {
     "blog_name": "Sarah's Vegan Kitchen",
@@ -67,7 +155,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.76
+    "trending_score": 4.41
   },
   {
     "blog_name": "Sarah's Vegan Kitchen",
@@ -78,7 +166,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.76
+    "trending_score": 4.41
   },
   {
     "blog_name": "Reddit",
@@ -148,7 +236,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.76
+    "trending_score": 4.41
   },
   {
     "blog_name": "Reddit",
@@ -194,7 +282,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.76
+    "trending_score": 4.41
   },
   {
     "blog_name": "The Plant-Based RD",
@@ -205,7 +293,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 6.21
+    "trending_score": 5.75
   },
   {
     "blog_name": "The Conscious Plant Kitchen",
@@ -271,7 +359,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 5.06
+    "trending_score": 4.68
   },
   {
     "blog_name": "Elavegan",
@@ -15492,30 +15580,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Reddit",
-    "title": "Vegan Banana Muffins made in Air Fryer",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tmliae/vegan_banana_muffins_made_in_air_fryer/",
-    "image": "https://preview.redd.it/b9z4h17by43h1.jpeg?width=640&crop=smart&auto=webp&s=35fa85a636e01c5a0989b78cfa52dcc789d98a18",
-    "date": "2026-05-24T19:19:52+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "Easy"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "NYC Halal chick'n bowl",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tml6f3/nyc_halal_chickn_bowl/",
-    "image": "https://preview.redd.it/hzeebyf3w43h1.jpeg?width=640&crop=smart&auto=webp&s=a6a4932010e1f0f7791a8aebdd117371459d3fa0",
-    "date": "2026-05-24T19:07:28+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Gretchen's Vegan Bakery",
     "title": "Ice Cream Sandwich Cake",
     "link": "https://www.gretchensveganbakery.com/ice-cream-sandwich-cake/",
@@ -17845,17 +17909,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "VegNews",
-    "title": "Cheesy Vegan Mini Pizza Cups",
-    "link": "https://vegnews.com/recipes/vegan-cheese-pizza-cups",
-    "image": "https://vegnews.com/media/W1siZiIsIjI4ODIyL1ZlZ05ld3MuUGl6emFDdXBzLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.PizzaCups.jpg?sha=da94333eee94afaf",
-    "date": "2026-05-07T14:55:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Dr. Vegan",
     "title": "Mediterranean Roasted Vegetables",
     "link": "https://drveganblog.com/mediterranean-roasted-vegetables/",
@@ -17970,41 +18023,6 @@
     "special_tags": [
       "WFPB"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Confetti Cake White Chocolate Granola",
-    "link": "https://vegnews.com/recipes/vegan-confetti-cake-granola",
-    "image": "https://vegnews.com/media/W1siZiIsIjMxODMxL1ZlZ05ld3MuQ29uZmV0dGlHcmFub2xhLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.ConfettiGranola.jpg?sha=996556d9baecb908",
-    "date": "2026-05-06T16:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Easy Vegan Instant Pot Minestrone Soup",
-    "link": "https://vegnews.com/recipes/easy-vegan-instant-pot-minestrone-soup",
-    "image": "https://vegnews.com/media/W1siZiIsIjI5MzY3L1ZlZ05ld3MuTWluZXN0cm9uZS5qcGciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.Minestrone.jpg?sha=c1b898b8c61d531b",
-    "date": "2026-05-06T15:55:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "Easy"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Spicy Spinach Chili Palak Tofu",
-    "link": "https://vegnews.com/recipes/vegan-spicy-spinach-chili-palak-tofu",
-    "image": "https://vegnews.com/media/W1siZiIsIjMxMTg5L1ZlZ05ld3MuUGFsYWsuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.Palak.jpg?sha=a806141cb3e543d3",
-    "date": "2026-05-06T15:50:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -210697,20 +210715,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "The Cheap Lazy Vegan",
-    "title": "Sesame Soba Noodles",
-    "link": "https://thecheaplazyvegan.com/sesame-soba-noodles/",
-    "image": "https://thecheaplazyvegan.com/wp-content/uploads/2026/08/Sesame-Soba-Noodles.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "Easy",
-      "Budget"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Eat Figs, Not Pigs",
     "title": "my vegan carbonara-inspired fettuccine is comfort",
     "link": "https://www.instagram.com/reel/DVEiqyFkj7T/",
@@ -211289,6 +211293,20 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Cheap Lazy Vegan",
+    "title": "Sesame Soba Noodles",
+    "link": "https://thecheaplazyvegan.com/sesame-soba-noodles/",
+    "image": "https://thecheaplazyvegan.com/wp-content/uploads/2026/08/Sesame-Soba-Noodles.png",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy",
+      "Budget"
+    ],
     "is_trending": false,
     "trending_score": 0
   },
@@ -213822,8 +213840,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -213889,8 +213907,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -213917,8 +213935,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214049,8 +214067,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -225541,7 +225559,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.22
+    "trending_score": 3.9
   },
   {
     "blog_name": "Gimme Some Oven (Vegan Recipes)",
@@ -255396,17 +255414,6 @@
     "link": "https://www.theppk.com/2010/01/tin-foil-beets/",
     "image": "https://www.theppk.com/wp-content/uploads/2014/02/TinFoilBeets.jpg",
     "date": "2010-01-11T17:50:26+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Post-Punk Kitchen",
-    "title": "Gingerbread Flax Muffins",
-    "link": "https://www.theppk.com/2009/12/gingerbread-flax-muffins/",
-    "image": "https://www.theppk.com/wp-content/uploads/2009/12/Gingerbread-Flax-Muffins.jpg",
-    "date": "2009-12-07T16:46:47+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
