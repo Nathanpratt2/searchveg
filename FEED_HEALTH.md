@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-08-30 23:49:25
-**Total Run Time:** 9m 8s
-**Longest Step:** RSS: Hot For Food (1m 22s)
+**Last Run:** 2026-08-31 07:23:58
+**Total Run Time:** 9m 36s
+**Longest Step:** HTML: The Cheap Lazy Vegan (1m 15s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21192 | 154 new today |
+| **Total Database** | 21192 | 148 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 182 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Air Fryer Corn & Tofu Fritters](https://www.reddit.com/r/veganrecipes/comments/1w216be/crispy_air_fryer_corn_tofu_fritters/) | Reddit | **5.91** | *2.34* |
-| 2 |[High Protein Smashed Edamame Toast](https://makeitdairyfree.com/high-protein-smashed-edamame-toast/) | Make It Dairy Free | **5.91** | *2.34* |
-| 3 |[Chocolate-Covered Strawberry Vanilla Smoothie Bowl](https://vegnews.com/recipes/vegan-chocolate-strawberry-smoothie-bowl) | VegNews | **5.91** | *2.34* |
-| 4 |[Creamy cannellini beans!](https://www.reddit.com/r/veganrecipes/comments/1w2o0su/creamy_cannellini_beans/) | Reddit | **5.91** | *2.34* |
-| 5 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **5.29** | *2.10* |
-| 6 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **4.31** | *1.71* |
-| 7 |[Vegan Mac and Cheese Powder (Easy Homemade Recipe!)](https://steamyvegan.com/vegan-mac-and-cheese-powder/) | Steamy Vegan | **4.06** | *1.61* |
-| 8 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **4.06** | *1.61* |
+| 1 |[Crispy Air Fryer Corn & Tofu Fritters](https://www.reddit.com/r/veganrecipes/comments/1w216be/crispy_air_fryer_corn_tofu_fritters/) | Reddit | **5.11** | *2.03* |
+| 2 |[High Protein Smashed Edamame Toast](https://makeitdairyfree.com/high-protein-smashed-edamame-toast/) | Make It Dairy Free | **5.11** | *2.03* |
+| 3 |[Chocolate-Covered Strawberry Vanilla Smoothie Bowl](https://vegnews.com/recipes/vegan-chocolate-strawberry-smoothie-bowl) | VegNews | **5.11** | *2.03* |
+| 4 |[Creamy cannellini beans!](https://www.reddit.com/r/veganrecipes/comments/1w2o0su/creamy_cannellini_beans/) | Reddit | **5.11** | *2.03* |
+| 5 |[Key Lime Cheesecake Chia Pudding](https://plantbasedrdblog.com/2026/08/key-lime-cheesecake-chia-pudding/?utm_source=rss&utm_medium=rss&utm_campaign=key-lime-cheesecake-chia-pudding) | The Plant-Based RD | **4.57** | *1.82* |
+| 6 |[Plant-Based Cobb Salad Wraps](https://www.rabbitandwolves.com/plant-based-cobb-salad-wraps/?utm_source=rss&utm_medium=rss&utm_campaign=plant-based-cobb-salad-wraps) | Rabbit and Wolves | **3.73** | *1.48* |
+| 7 |[Vegan Mac and Cheese Powder (Easy Homemade Recipe!)](https://steamyvegan.com/vegan-mac-and-cheese-powder/) | Steamy Vegan | **3.51** | *1.39* |
+| 8 |[Loaded Dairy-Free Queso Dip](https://vegnews.com/recipes/loaded-vegan-queso-dip) | VegNews | **3.51** | *1.39* |
 
 ---
 
@@ -62,12 +62,12 @@
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 31 | 2026-08-25 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 11 | 188 | 0 | 24 | 1 | 31 | 2026-08-30 | ✅ OK |
 | My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
 | Steamy Vegan | 2 | 191 | 9 | 30 | 10 | 2 | 2026-08-28 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
 | Flora & Vino | 0 | 200 | 200 | 11 | 0 | 9 | 2026-08-01 | ✅ OK |
-| Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
+| Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ❌ Blocked/HTML Fail |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Nora Cooks | 1 | 212 | 14 | 33 | 13 | 5 | 2026-08-26 | ✅ OK |
@@ -82,7 +82,7 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 233 | 6 | 14 | 14 | 0 | 2026-08-21 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 234 | 21 | 234 | 234 | 1 | 2026-08-21 | ✅ OK |
+| The Cheap Lazy Vegan | 0 | 234 | 21 | 234 | 234 | 1 | 2026-08-21 | ❌ Blocked/HTML Fail |
 | Rabbit and Wolves | 2 | 235 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -98,7 +98,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 253 | 9 | 37 | 12 | 1 | 2026-08-18 | ✅ OK |
+| Hot For Food | 1 | 254 | 9 | 37 | 12 | 1 | 2026-08-18 | ✅ OK |
 | Vegan Richa | 9 | 254 | 10 | 59 | 41 | 73 | 2026-08-27 | ✅ OK |
 | The Foodie Takes Flight | 1 | 258 | 0 | 258 | 2 | 0 | 2026-08-27 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
@@ -115,11 +115,11 @@
 | It Doesn't Taste Like Chicken | 4 | 281 | 1 | 96 | 7 | 218 | 2026-08-26 | ✅ OK |
 | The Plant-Based RD | 0 | 284 | 4 | 17 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Full of Plants | 2 | 285 | 0 | 43 | 0 | 13 | 2026-08-28 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 289 | 289 | 7 | 0 | 9 | 2026-08-26 | ✅ OK |
 | Plant-Based on a Budget | 4 | 291 | 16 | 73 | 291 | 1 | 2026-08-24 | ✅ OK |
 | Healthy Little Vittles | 4 | 294 | 10 | 48 | 2 | 291 | 2026-08-27 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 299 | 39 | 84 | 3 | 0 | 2026-08-30 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 299 | 39 | 84 | 3 | 0 | 2026-08-30 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 303 | 3 | 15 | 3 | 5 | 2026-08-29 | ✅ OK |
 | Connoisseurus Veg | 1 | 309 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 325 | 41 | 40 | 2 | 45 | 2026-08-28 | ✅ OK |
