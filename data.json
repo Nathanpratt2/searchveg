@@ -111,7 +111,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 8.21
+    "trending_score": 7.22
   },
   {
     "blog_name": "Reddit",
@@ -122,7 +122,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.98
+    "trending_score": 4.38
   },
   {
     "blog_name": "The Hidden Veggies",
@@ -135,7 +135,7 @@
       "Budget"
     ],
     "is_trending": true,
-    "trending_score": 3.91
+    "trending_score": 3.44
   },
   {
     "blog_name": "Reddit",
@@ -223,7 +223,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.91
+    "trending_score": 3.44
   },
   {
     "blog_name": "VegNews",
@@ -293,7 +293,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.91
+    "trending_score": 3.44
   },
   {
     "blog_name": "Reddit",
@@ -403,7 +403,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.36
+    "trending_score": 2.07
   },
   {
     "blog_name": "Make It Dairy Free",
@@ -414,7 +414,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.36
+    "trending_score": 2.07
   },
   {
     "blog_name": "Eat Figs, Not Pigs",
@@ -440,7 +440,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 2.36
+    "trending_score": 2.07
   },
   {
     "blog_name": "Reddit",
@@ -210867,6 +210867,63 @@
     "trending_score": 0
   },
   {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "All Categories",
+    "link": "https://www.theconsciousplantkitchen.com/browse-by-category/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Gluten-Free",
+    "link": "https://www.theconsciousplantkitchen.com/diet/gluten-free/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "GF"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Keto-Friendly",
+    "link": "https://www.theconsciousplantkitchen.com/diet/keto-friendly/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Thanksgiving",
+    "link": "https://www.theconsciousplantkitchen.com/season/thanksgiving/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Middle-Eastern",
+    "link": "https://www.theconsciousplantkitchen.com/inspiration/middle-eastern/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "The Post-Punk Kitchen",
     "title": "\u2190 Back To All Recipes",
     "link": "https://www.theppk.com/recipes/",
@@ -211437,63 +211494,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "All Categories",
-    "link": "https://www.theconsciousplantkitchen.com/browse-by-category/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Gluten-Free",
-    "link": "https://www.theconsciousplantkitchen.com/diet/gluten-free/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "GF"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Keto-Friendly",
-    "link": "https://www.theconsciousplantkitchen.com/diet/keto-friendly/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Thanksgiving",
-    "link": "https://www.theconsciousplantkitchen.com/season/thanksgiving/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Conscious Plant Kitchen",
-    "title": "Middle-Eastern",
-    "link": "https://www.theconsciousplantkitchen.com/inspiration/middle-eastern/",
-    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/07/Carine-23.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -213992,8 +213992,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "GF"
+      "GF",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214059,8 +214059,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "Budget"
+      "Budget",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214087,8 +214087,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "Low Waste",
-      "GF"
+      "GF",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214219,8 +214219,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Low Waste",
-      "Budget"
+      "Budget",
+      "Low Waste"
     ],
     "is_trending": false,
     "trending_score": 0

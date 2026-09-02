@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-01 23:34:43
-**Total Run Time:** 7m 38s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
+**Last Run:** 2026-09-02 06:14:08
+**Total Run Time:** 7m 59s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21203 | 157 new today |
+| **Total Database** | 21203 | 155 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 178 | Total recorded actions in database |
+| **Trending Events** | 165 | Total recorded actions in database |
 | **WFPB / GF** | 2615 / 2769 | 12% / 13% |
 | **Easy / Budget** | 5083 / 2100 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Peanut Ginger Stir Fry with Tofu (Easy + 30-min)](https://frommybowl.com/peanut-ginger-stir-fry-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=peanut-ginger-stir-fry-with-tofu) | From My Bowl | **8.21** | *3.26* |
-| 2 |[Pasta Puttanesca](https://www.reddit.com/r/veganrecipes/comments/1w41z66/pasta_puttanesca/) | Reddit | **4.98** | *1.97* |
-| 3 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **3.91** | *1.55* |
-| 4 |[Creamy Cashew Horchata](https://vegnews.com/recipes/vegan-cashew-horchata) | VegNews | **3.91** | *1.55* |
-| 5 |[Vegan Bulgogi (Korean Beef Bowls)](https://thehiddenveggies.com/vegan-bulgogi-korean-beef-bowls/) | The Hidden Veggies | **3.91** | *1.55* |
-| 6 |[Crispy Air Fryer Corn & Tofu Fritters](https://www.reddit.com/r/veganrecipes/comments/1w216be/crispy_air_fryer_corn_tofu_fritters/) | Reddit | **2.36** | *0.93* |
-| 7 |[High Protein Smashed Edamame Toast](https://makeitdairyfree.com/high-protein-smashed-edamame-toast/) | Make It Dairy Free | **2.36** | *0.93* |
-| 8 |[Chocolate-Covered Strawberry Vanilla Smoothie Bowl](https://vegnews.com/recipes/vegan-chocolate-strawberry-smoothie-bowl) | VegNews | **2.36** | *0.93* |
+| 1 |[Peanut Ginger Stir Fry with Tofu (Easy + 30-min)](https://frommybowl.com/peanut-ginger-stir-fry-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=peanut-ginger-stir-fry-with-tofu) | From My Bowl | **7.22** | *2.87* |
+| 2 |[Pasta Puttanesca](https://www.reddit.com/r/veganrecipes/comments/1w41z66/pasta_puttanesca/) | Reddit | **4.38** | *1.74* |
+| 3 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **3.44** | *1.37* |
+| 4 |[Creamy Cashew Horchata](https://vegnews.com/recipes/vegan-cashew-horchata) | VegNews | **3.44** | *1.37* |
+| 5 |[Vegan Bulgogi (Korean Beef Bowls)](https://thehiddenveggies.com/vegan-bulgogi-korean-beef-bowls/) | The Hidden Veggies | **3.44** | *1.37* |
+| 6 |[Crispy Air Fryer Corn & Tofu Fritters](https://www.reddit.com/r/veganrecipes/comments/1w216be/crispy_air_fryer_corn_tofu_fritters/) | Reddit | **2.07** | *0.82* |
+| 7 |[High Protein Smashed Edamame Toast](https://makeitdairyfree.com/high-protein-smashed-edamame-toast/) | Make It Dairy Free | **2.07** | *0.82* |
+| 8 |[Chocolate-Covered Strawberry Vanilla Smoothie Bowl](https://vegnews.com/recipes/vegan-chocolate-strawberry-smoothie-bowl) | VegNews | **2.07** | *0.82* |
 
 ---
 
@@ -116,13 +116,13 @@
 | The Plant-Based RD | 0 | 284 | 4 | 17 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Full of Plants | 2 | 285 | 0 | 43 | 0 | 13 | 2026-08-28 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
-| The Whole Food Plant Based Cooking Show | 1 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK (1) |
+| The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
 | Plant-Based on a Budget | 5 | 292 | 16 | 73 | 292 | 1 | 2026-08-31 | ✅ OK |
 | Healthy Little Vittles | 4 | 294 | 10 | 48 | 2 | 291 | 2026-08-27 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 299 | 39 | 84 | 3 | 0 | 2026-08-30 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 303 | 3 | 15 | 3 | 5 | 2026-08-29 | ✅ OK |
 | Connoisseurus Veg | 1 | 309 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 326 | 41 | 40 | 2 | 45 | 2026-09-01 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 326 | 41 | 40 | 2 | 45 | 2026-09-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 23 | 1 | 1 | 2026-08-31 | ✅ OK |
 | Reddit | 2 | 350 | 1 | 38 | 0 | 2 | 2026-09-01 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-01 | ✅ OK |
