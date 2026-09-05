@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-09-05 14:04:43
-**Total Run Time:** 7m 25s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-09-05 18:36:41
+**Total Run Time:** 8m 25s
+**Longest Step:** RSS: Hot For Food (1m 1s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21220 | 158 new today |
+| **Total Database** | 21220 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 145 | Total recorded actions in database |
 | **WFPB / GF** | 2616 / 2773 | 12% / 13% |
-| **Easy / Budget** | 5084 / 2100 | 23% / 9% |
+| **Easy / Budget** | 5086 / 2100 | 23% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Vanilla Cake (Fluffy, Moist & Foolproof!)](https://itdoesnttastelikechicken.com/best-vegan-vanilla-cake/) | It Doesn't Taste Like Chicken | **3.22** | *1.28* |
-| 2 |[Small Batch CREAMY Vegan Oreo Basque Cheesecake](https://thebananadiaries.com/small-batch-vegan-oreo-basque-cheesecake/) | The Banana Diaries | **2.94** | *1.17* |
-| 3 |[Vegan S’mores Brownies](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-brownies.html) | The Little Blog of Vegan | **1.93** | *0.77* |
-| 4 |[Creamy Vegan Pumpkin Spice Chai Latte](https://vegnews.com/recipes/vegan-pumpkin-spice-chai-lattes) | VegNews | **1.93** | *0.77* |
-| 5 |[Peanut Ginger Stir Fry with Tofu (Easy + 30-min)](https://frommybowl.com/peanut-ginger-stir-fry-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=peanut-ginger-stir-fry-with-tofu) | From My Bowl | **1.55** | *0.62* |
-| 6 |[Pasta Puttanesca](https://www.reddit.com/r/veganrecipes/comments/1w41z66/pasta_puttanesca/) | Reddit | **0.94** | *0.37* |
-| 7 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **0.74** | *0.29* |
-| 8 |[Creamy Cashew Horchata](https://vegnews.com/recipes/vegan-cashew-horchata) | VegNews | **0.74** | *0.29* |
+| 1 |[Vegan Vanilla Cake (Fluffy, Moist & Foolproof!)](https://itdoesnttastelikechicken.com/best-vegan-vanilla-cake/) | It Doesn't Taste Like Chicken | **2.95** | *1.17* |
+| 2 |[Small Batch CREAMY Vegan Oreo Basque Cheesecake](https://thebananadiaries.com/small-batch-vegan-oreo-basque-cheesecake/) | The Banana Diaries | **2.70** | *1.07* |
+| 3 |[Vegan S’mores Brownies](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-brownies.html) | The Little Blog of Vegan | **1.77** | *0.70* |
+| 4 |[Creamy Vegan Pumpkin Spice Chai Latte](https://vegnews.com/recipes/vegan-pumpkin-spice-chai-lattes) | VegNews | **1.77** | *0.70* |
+| 5 |[Peanut Ginger Stir Fry with Tofu (Easy + 30-min)](https://frommybowl.com/peanut-ginger-stir-fry-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=peanut-ginger-stir-fry-with-tofu) | From My Bowl | **1.42** | *0.56* |
+| 6 |[Pasta Puttanesca](https://www.reddit.com/r/veganrecipes/comments/1w41z66/pasta_puttanesca/) | Reddit | **0.86** | *0.34* |
+| 7 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **0.68** | *0.27* |
+| 8 |[Creamy Cashew Horchata](https://vegnews.com/recipes/vegan-cashew-horchata) | VegNews | **0.68** | *0.27* |
 
 ---
 
@@ -99,7 +99,7 @@
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 9 | 254 | 10 | 59 | 41 | 73 | 2026-09-02 | ✅ OK |
-| Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
+| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ✅ OK |
 | The Foodie Takes Flight | 1 | 258 | 0 | 258 | 2 | 0 | 2026-08-27 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -110,7 +110,7 @@
 | My Darling Vegan | 2 | 272 | 1 | 34 | 4 | 12 | 2026-08-31 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Eat Figs, Not Pigs | 5 | 279 | 1 | 36 | 2 | 0 | 2026-09-05 | ✅ OK |
+| Eat Figs, Not Pigs | 4 | 279 | 1 | 36 | 2 | 0 | 2026-09-05 | ✅ OK |
 | From My Bowl | 0 | 280 | 3 | 50 | 3 | 5 | 2026-09-01 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 283 | 1 | 96 | 7 | 218 | 2026-09-03 | ✅ OK |
 | The Plant-Based RD | 0 | 285 | 4 | 17 | 1 | 0 | 2026-09-04 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 327 | 41 | 40 | 2 | 45 | 2026-09-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-09-02 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 39 | 0 | 2 | 2026-09-05 | ✅ OK (2) |
+| Reddit | 3 | 350 | 1 | 39 | 0 | 2 | 2026-09-05 | ✅ OK (3) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-04 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 42 | 0 | 9 | 2026-09-04 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 44 | 0 | 9 | 2026-09-05 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
