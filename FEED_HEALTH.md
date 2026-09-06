@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-06 18:36:55
-**Total Run Time:** 7m 49s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-09-06 23:05:47
+**Total Run Time:** 8m 44s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 2s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21224 | 159 new today |
+| **Total Database** | 21225 | 155 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 124 | Total recorded actions in database |
+| **Trending Events** | 133 | Total recorded actions in database |
 | **WFPB / GF** | 2616 / 2773 | 12% / 13% |
 | **Easy / Budget** | 5088 / 2100 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Vanilla Cake (Fluffy, Moist & Foolproof!)](https://itdoesnttastelikechicken.com/best-vegan-vanilla-cake/) | It Doesn't Taste Like Chicken | **1.86** | *0.74* |
-| 2 |[Small Batch CREAMY Vegan Oreo Basque Cheesecake](https://thebananadiaries.com/small-batch-vegan-oreo-basque-cheesecake/) | The Banana Diaries | **1.70** | *0.67* |
-| 3 |[Vegan S’mores Brownies](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-brownies.html) | The Little Blog of Vegan | **1.11** | *0.44* |
-| 4 |[Creamy Vegan Pumpkin Spice Chai Latte](https://vegnews.com/recipes/vegan-pumpkin-spice-chai-lattes) | VegNews | **1.11** | *0.44* |
-| 5 |[Peanut Ginger Stir Fry with Tofu (Easy + 30-min)](https://frommybowl.com/peanut-ginger-stir-fry-with-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=peanut-ginger-stir-fry-with-tofu) | From My Bowl | **0.90** | *0.36* |
-| 6 |[Pasta Puttanesca](https://www.reddit.com/r/veganrecipes/comments/1w41z66/pasta_puttanesca/) | Reddit | **0.54** | *0.22* |
-| 7 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **0.43** | *0.17* |
-| 8 |[Creamy Cashew Horchata](https://vegnews.com/recipes/vegan-cashew-horchata) | VegNews | **0.43** | *0.17* |
+| 1 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **9.48** | *3.76* |
+| 2 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **9.48** | *3.76* |
+| 3 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **5.69** | *2.26* |
+| 4 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **5.69** | *2.26* |
+| 5 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **5.69** | *2.26* |
+| 6 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **5.69** | *2.26* |
+| 7 |[Rich Vegan Peanut Butter Chocolate Crunch Bars](https://vegnews.com/recipes/vegan-chocolate-peanut-butter-bars) | VegNews | **3.84** | *1.52* |
+| 8 |[Vegan Vanilla Cake (Fluffy, Moist & Foolproof!)](https://itdoesnttastelikechicken.com/best-vegan-vanilla-cake/) | It Doesn't Taste Like Chicken | **1.70** | *0.68* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 2 | 0 | 0 | 2026-09-03 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | Mary's Test Kitchen | 1 | 23 | 0 | 8 | 1 | 1 | 2026-08-29 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 31 | 5 | 1 | 4 | 30 | 2026-09-04 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 35 | 0 | 2 | 0 | 1 | 2026-09-02 | ✅ OK |
@@ -119,14 +119,14 @@
 | The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
 | Plant-Based on a Budget | 5 | 292 | 16 | 73 | 292 | 1 | 2026-08-31 | ✅ OK |
 | Healthy Little Vittles | 4 | 295 | 10 | 48 | 2 | 292 | 2026-09-03 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 300 | 39 | 84 | 3 | 0 | 2026-09-02 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 301 | 39 | 85 | 3 | 0 | 2026-09-06 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 327 | 41 | 40 | 2 | 45 | 2026-09-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-09-02 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 39 | 0 | 2 | 2026-09-06 | ✅ OK (1) |
+| Reddit | 2 | 350 | 1 | 38 | 0 | 2 | 2026-09-06 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-04 | ✅ OK |
-| VegNews | 4 | 350 | 1 | 45 | 0 | 9 | 2026-09-06 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 45 | 0 | 9 | 2026-09-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
