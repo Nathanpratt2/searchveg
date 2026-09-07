@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-09-07 20:11:53
-**Total Run Time:** 7m 43s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-09-07 23:46:09
+**Total Run Time:** 8m 2s
+**Longest Step:** HTML: Baking Hermann (0m 48s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21229 | 162 new today |
+| **Total Database** | 21229 | 150 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 141 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **6.32** | *2.51* |
-| 2 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **6.32** | *2.51* |
-| 3 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **5.24** | *2.08* |
-| 4 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **3.79** | *1.50* |
-| 5 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **3.79** | *1.50* |
-| 6 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **3.79** | *1.50* |
-| 7 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **3.79** | *1.50* |
-| 8 |[Rich Vegan Peanut Butter Chocolate Crunch Bars](https://vegnews.com/recipes/vegan-chocolate-peanut-butter-bars) | VegNews | **2.55** | *1.01* |
+| 1 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **5.90** | *2.34* |
+| 2 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **5.90** | *2.34* |
+| 3 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **4.89** | *1.94* |
+| 4 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **3.54** | *1.40* |
+| 5 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **3.54** | *1.40* |
+| 6 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **3.54** | *1.40* |
+| 7 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **3.54** | *1.40* |
+| 8 |[Rich Vegan Peanut Butter Chocolate Crunch Bars](https://vegnews.com/recipes/vegan-chocolate-peanut-butter-bars) | VegNews | **2.39** | *0.95* |
 
 ---
 
@@ -45,7 +45,7 @@
 | The Banana Diaries | 0 | 40 | 0 | 11 | 2 | 0 | 2026-09-03 | ✅ OK |
 | Dr. Vegan | 2 | 43 | 4 | 43 | 8 | 0 | 2026-08-10 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
-| Plant Baes | 0 | 46 | 3 | 6 | 2 | 5 | 2026-08-27 | ✅ OK |
+| Plant Baes | 1 | 46 | 3 | 6 | 2 | 5 | 2026-08-27 | ✅ OK |
 | PlantYou | 3 | 54 | 54 | 7 | 2 | 0 | 2026-08-26 | ✅ OK |
 | Vegan Richa GF | 0 | 54 | 2 | 13 | 7 | 54 | 2026-09-02 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
@@ -110,12 +110,12 @@
 | My Darling Vegan | 2 | 272 | 1 | 34 | 4 | 12 | 2026-08-31 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Eat Figs, Not Pigs | 5 | 280 | 1 | 36 | 2 | 0 | 2026-09-07 | ✅ OK |
+| Eat Figs, Not Pigs | 4 | 280 | 1 | 36 | 2 | 0 | 2026-09-07 | ✅ OK |
 | From My Bowl | 0 | 280 | 3 | 50 | 3 | 5 | 2026-09-01 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 284 | 1 | 96 | 7 | 218 | 2026-09-06 | ✅ OK |
 | The Plant-Based RD | 0 | 285 | 4 | 17 | 1 | 0 | 2026-09-04 | ✅ OK |
 | Full of Plants | 3 | 286 | 0 | 43 | 0 | 13 | 2026-09-02 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 289 | 289 | 26 | 3 | 0 | 2026-08-19 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
 | Plant-Based on a Budget | 5 | 292 | 16 | 73 | 292 | 1 | 2026-08-31 | ✅ OK |
 | Healthy Little Vittles | 4 | 295 | 10 | 48 | 2 | 292 | 2026-09-03 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 327 | 41 | 40 | 2 | 45 | 2026-09-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-09-02 | ✅ OK |
-| Reddit | 4 | 350 | 0 | 39 | 0 | 2 | 2026-09-07 | ✅ OK (4) |
+| Reddit | 1 | 350 | 0 | 39 | 0 | 2 | 2026-09-07 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-04 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 44 | 0 | 9 | 2026-09-07 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 44 | 0 | 9 | 2026-09-07 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
