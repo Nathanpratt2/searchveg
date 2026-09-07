@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-07 06:28:24
-**Total Run Time:** 8m 5s
-**Longest Step:** RSS: Forks Over Knives (0m 40s)
+**Last Run:** 2026-09-07 13:00:11
+**Total Run Time:** 8m 49s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 1s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21226 | 151 new today |
+| **Total Database** | 21227 | 145 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 141 | Total recorded actions in database |
+| **Trending Events** | 132 | Total recorded actions in database |
 | **WFPB / GF** | 2616 / 2773 | 12% / 13% |
 | **Easy / Budget** | 5088 / 2100 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **8.23** | *3.26* |
-| 2 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **8.23** | *3.26* |
-| 3 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **4.94** | *1.96* |
-| 4 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **4.94** | *1.96* |
-| 5 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **4.94** | *1.96* |
-| 6 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **4.94** | *1.96* |
-| 7 |[Rich Vegan Peanut Butter Chocolate Crunch Bars](https://vegnews.com/recipes/vegan-chocolate-peanut-butter-bars) | VegNews | **3.33** | *1.32* |
-| 8 |[Vegan Vanilla Cake (Fluffy, Moist & Foolproof!)](https://itdoesnttastelikechicken.com/best-vegan-vanilla-cake/) | It Doesn't Taste Like Chicken | **1.48** | *0.59* |
+| 1 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **7.25** | *2.88* |
+| 2 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **7.25** | *2.88* |
+| 3 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **4.35** | *1.73* |
+| 4 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **4.35** | *1.73* |
+| 5 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **4.35** | *1.73* |
+| 6 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **4.35** | *1.73* |
+| 7 |[Rich Vegan Peanut Butter Chocolate Crunch Bars](https://vegnews.com/recipes/vegan-chocolate-peanut-butter-bars) | VegNews | **2.93** | *1.16* |
+| 8 |[Vegan Vanilla Cake (Fluffy, Moist & Foolproof!)](https://itdoesnttastelikechicken.com/best-vegan-vanilla-cake/) | It Doesn't Taste Like Chicken | **1.30** | *0.52* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 2 | 0 | 0 | 2026-09-03 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | Mary's Test Kitchen | 1 | 23 | 0 | 8 | 1 | 1 | 2026-08-29 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 31 | 5 | 1 | 4 | 30 | 2026-09-04 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 35 | 0 | 2 | 0 | 1 | 2026-09-02 | ✅ OK |
@@ -61,7 +61,7 @@
 | Dreena Burton | 1 | 177 | 177 | 12 | 18 | 42 | 2026-08-23 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-06-29 | ✅ OK |
+| The Stingy Vegan | 3 | 186 | 1 | 186 | 186 | 0 | 2026-09-07 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-09-02 | ✅ OK |
 | My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
 | Steamy Vegan | 2 | 192 | 9 | 31 | 10 | 2 | 2026-09-04 | ✅ OK |
@@ -99,7 +99,7 @@
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 9 | 254 | 10 | 59 | 41 | 73 | 2026-09-02 | ✅ OK |
-| Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
+| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ❌ Blocked/ConnErr |
 | The Foodie Takes Flight | 1 | 259 | 0 | 259 | 2 | 0 | 2026-09-06 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 327 | 41 | 40 | 2 | 45 | 2026-09-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-09-02 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 38 | 0 | 2 | 2026-09-07 | ✅ OK (3) |
+| Reddit | 2 | 350 | 1 | 38 | 0 | 2 | 2026-09-07 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-04 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 45 | 0 | 9 | 2026-09-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
