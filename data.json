@@ -1,5 +1,110 @@
 [
   {
+    "blog_name": "Steamy Vegan",
+    "title": "Marry Me Risotto (Instant Pot + Stovetop)",
+    "link": "https://steamyvegan.com/marry-me-risotto-instant-pot-stovetop/",
+    "image": "https://steamyvegan.com/wp-content/uploads/2026/09/marry-me-risotto.png",
+    "date": "2026-09-08T16:42:45+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Skillet Broccoli Chz Beans",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1watc6i/skillet_broccoli_chz_beans/",
+    "image": "https://preview.redd.it/aufnme5spboh1.jpeg?width=640&crop=smart&auto=webp&s=23482bdbea5fb7e11091ed91eaa0503be4f1b153",
+    "date": "2026-09-08T16:31:20+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Post-Punk Kitchen",
+    "title": "Cinnamon Apple Coffee Cake",
+    "link": "https://www.theppk.com/2026/09/vegan-apple-coffee-cake/",
+    "image": "https://www.theppk.com/wp-content/uploads/2026/09/Apple-Cake_WEB-16-683x1024.jpg",
+    "date": "2026-09-08T16:22:54+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Pearl Couscous Salad",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1wasox0/pearl_couscous_salad/",
+    "image": "https://external-preview.redd.it/NDZ3YzV3Y2psYm9oMQzdtXkKeiXGiLGLXUJH4rFVO32Bxyj0yztc9VVf6beJ.png?width=640&crop=smart&auto=webp&s=a51cbc1cd7dc2732b38c8b3697eb7cecc355577b",
+    "date": "2026-09-08T16:08:11+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Creamy, Chocolaty Brownie Batter Chia Pudding",
+    "link": "https://vegnews.com/recipes/vegan-brownie-batter-chia-pudding",
+    "image": "https://vegnews.com/media/W1siZiIsIjE4MjQzL1ZlZ05ld3MuQnJvd25pZUJhdHRlckNoaWFQdWRkaW5nLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.BrownieBatterChiaPudding.jpg?sha=bd272c71c5125b53",
+    "date": "2026-09-08T15:25:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Ginger Garlic Noodle Soup With Bok Choy",
+    "link": "https://vegnews.com/recipes/vegan-ginger-garlic-noodle-soup",
+    "image": "https://vegnews.com/media/W1siZiIsIjE4MDY3L1ZlZ05ld3MuR2luZ2VyR2FybGljTm9vZGxlU291cC5qcGciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.GingerGarlicNoodleSoup.jpg?sha=3508014a24b0ea5f",
+    "date": "2026-09-08T15:20:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Gluten-Free Carrot Banana Bread With Golden Turmeric Cream",
+    "link": "https://vegnews.com/recipes/vegan-carrot-banana-bread-turmeric-cream",
+    "image": "https://vegnews.com/media/W1siZiIsIjI4NDg2L1ZlZ05ld3MuQ2Fycm90QmFuYW5hTG9hZi5qcGciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.CarrotBananaLoaf.jpg?sha=ba22b6953303673e",
+    "date": "2026-09-08T15:15:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "GF"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Justine Snacks (Vegan Recipes)",
+    "title": "Glazed Tofu Rice Bowl with Sesame Cucumbers",
+    "link": "https://justinesnacks.com/glazed-tofu-rice-bowl-with-sesame-cucumbers/",
+    "image": "https://justinesnacks.com/wp-content/uploads/2026/09/tofu-rice-bowl-with-eggplant.jpg",
+    "date": "2026-09-08T14:48:34+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Little Blog of Vegan",
+    "title": "Vegan Apple Crumble Banana Bread",
+    "link": "https://www.thelittleblogofvegan.com/2026/09/vegan-apple-crumble-banana-bread.html",
+    "image": "https://www.thelittleblogofvegan.com/wp-content/uploads/2026/09/apple-crumble-banana-bread-1440x2159.jpg",
+    "date": "2026-09-08T12:41:10+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Plant-Based on a Budget",
     "title": "California Grape Lemonade Slushie",
     "link": "https://plantbasedonabudget.com/grape-lemonade-slushie/",
@@ -171,7 +276,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 1.9
+    "trending_score": 1.63
   },
   {
     "blog_name": "VegNews",
@@ -217,7 +322,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.69
+    "trending_score": 4.02
   },
   {
     "blog_name": "The Foodie Takes Flight",
@@ -263,7 +368,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.69
+    "trending_score": 4.02
   },
   {
     "blog_name": "Reddit",
@@ -274,7 +379,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.81
+    "trending_score": 2.41
   },
   {
     "blog_name": "Reddit",
@@ -285,7 +390,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.81
+    "trending_score": 2.41
   },
   {
     "blog_name": "Reddit",
@@ -298,7 +403,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 2.81
+    "trending_score": 2.41
   },
   {
     "blog_name": "Reddit",
@@ -320,7 +425,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.81
+    "trending_score": 2.41
   },
   {
     "blog_name": "VegNews",
@@ -15302,33 +15407,11 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Reddit",
-    "title": "Crispy Vegan Tofu Tacos",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tvlb4n/crispy_vegan_tofu_tacos/",
-    "image": "https://preview.redd.it/bm7jxzmxo15h1.jpeg?width=640&crop=smart&auto=webp&s=3079cdf880fa240eb5b2cf0077b11540505ab1ac",
-    "date": "2026-06-03T10:30:25+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "It Doesn't Taste Like Chicken",
     "title": "Tofu Pad Thai (Better Than Takeout!)",
     "link": "https://itdoesnttastelikechicken.com/tofu-pad-thai/",
     "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2026/05/Tofu-Pad-Thai-facebook.jpg",
     "date": "2026-06-03T09:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Erdbeer-Zitronen Kuchen",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tvi8lv/erdbeerzitronen_kuchen/",
-    "image": "https://preview.redd.it/bgjzhzybu05h1.jpeg?width=640&crop=smart&auto=webp&s=a686642c1a9c3dc7bbe4a6ecf3f6a6f95d2a2ae0",
-    "date": "2026-06-03T07:38:42+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -17459,28 +17542,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "VegNews",
-    "title": "Sweet and Spicy Coconut Corn Soup",
-    "link": "https://vegnews.com/recipes/vegan-sweet-and-spicy-corn-soup",
-    "image": "https://vegnews.com/media/W1siZiIsIjI4NTg0L1ZlZ05ld3MuTm8tU3dlYXRTd2VldFNwaWN5Q29yblNvdXAuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.No-SweatSweetSpicyCornSoup.jpg?sha=364b47bd7f6615ee",
-    "date": "2026-05-16T17:10:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Tangy Tofu Adobo Musubi",
-    "link": "https://vegnews.com/recipes/tangy-vegan-tofu-adobo-musubi",
-    "image": "https://vegnews.com/media/W1siZiIsIjIyNjU2L1ZlZ05ld3MuTXVzdWJpLkpQRyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.Musubi.jpg?sha=d9207c85fc31c97d",
-    "date": "2026-05-16T17:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Lazy Cat Kitchen",
     "title": "Spring minestrone",
     "link": "https://www.lazycatkitchen.com/spring-minestrone/",
@@ -17574,17 +17635,6 @@
     "link": "https://www.noracooks.com/vegan-spring-recipes/",
     "image": "https://www.noracooks.com/wp-content/uploads/2026/05/square.image_-1200x1200.jpg",
     "date": "2026-05-15T15:05:17+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Crispy Tofu Parm Melt Hoagies",
-    "link": "https://vegnews.com/recipes/vegan-tofu-parm-melt-hoagies",
-    "image": "https://vegnews.com/media/W1siZiIsIjI3Nzg0L1ZlZ05ld3MuVG9mdVBhcm0gLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.TofuParm%20.jpg?sha=fa28ffc245b3f02a",
-    "date": "2026-05-15T15:05:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -20370,7 +20420,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 3.89
+    "trending_score": 3.34
   },
   {
     "blog_name": "The Post-Punk Kitchen",
@@ -214347,8 +214397,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214441,8 +214491,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
       "Low Waste",
+      "GF",
       "Easy"
     ],
     "is_trending": false,
@@ -255745,17 +255795,6 @@
     "link": "https://www.theppk.com/2010/07/tofu-omelets/",
     "image": "https://www.theppk.com/wp-content/uploads/2010/07/Tofu-Omelets.jpg",
     "date": "2010-07-01T20:41:28+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Post-Punk Kitchen",
-    "title": "Eggplant Potato Moussaka with Pine Nut Cream",
-    "link": "https://www.theppk.com/2010/07/eggplant-potato-moussaka-with-pine-nut-cream/",
-    "image": "https://www.theppk.com/wp-content/uploads/2014/02/EggplantPotatoMoussaka.jpg",
-    "date": "2010-07-01T18:15:11+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
