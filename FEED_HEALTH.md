@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-09 19:30:16
-**Total Run Time:** 9m 11s
-**Longest Step:** RSS: Hot For Food (0m 58s)
+**Last Run:** 2026-09-09 23:32:52
+**Total Run Time:** 8m 56s
+**Longest Step:** RSS: Hot For Food (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21238 | 166 new today |
+| **Total Database** | 21240 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 149 | Total recorded actions in database |
+| **Trending Events** | 159 | Total recorded actions in database |
 | **WFPB / GF** | 2616 / 2775 | 12% / 13% |
 | **Easy / Budget** | 5094 / 2102 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **4.07** | *1.62* |
-| 2 |[slightly bloated tofu package](https://www.reddit.com/r/veganrecipes/comments/1w9fs6h/slightly_bloated_tofu_package/) | Reddit | **3.54** | *1.41* |
-| 3 |[Cinnamon Apple Coffee Cake](https://www.theppk.com/2026/09/vegan-apple-coffee-cake/) | The Post-Punk Kitchen | **2.55** | *1.01* |
-| 4 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **2.54** | *1.01* |
-| 5 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **2.54** | *1.01* |
-| 6 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **2.11** | *0.84* |
-| 7 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **1.52** | *0.60* |
-| 8 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **1.52** | *0.60* |
+| 1 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **3.77** | *1.49* |
+| 2 |[slightly bloated tofu package](https://www.reddit.com/r/veganrecipes/comments/1w9fs6h/slightly_bloated_tofu_package/) | Reddit | **3.28** | *1.30* |
+| 3 |[Cinnamon Apple Coffee Cake](https://www.theppk.com/2026/09/vegan-apple-coffee-cake/) | The Post-Punk Kitchen | **2.36** | *0.93* |
+| 4 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **2.35** | *0.93* |
+| 5 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **2.35** | *0.93* |
+| 6 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **1.95** | *0.77* |
+| 7 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **1.41** | *0.56* |
+| 8 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **1.41** | *0.56* |
 
 ---
 
@@ -47,7 +47,7 @@
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Plant Baes | 1 | 46 | 3 | 6 | 2 | 5 | 2026-08-27 | ✅ OK |
 | PlantYou | 3 | 54 | 54 | 7 | 2 | 0 | 2026-08-26 | ✅ OK |
-| Vegan Richa GF | 1 | 55 | 2 | 13 | 7 | 55 | 2026-09-09 | ✅ OK |
+| Vegan Richa GF | 0 | 55 | 2 | 13 | 7 | 55 | 2026-09-09 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Jessica in the Kitchen | 2 | 80 | 2 | 6 | 1 | 4 | 2026-09-07 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -84,12 +84,12 @@
 | The Burger Dude | 5 | 234 | 6 | 14 | 14 | 0 | 2026-09-04 | ✅ OK |
 | Rabbit and Wolves | 2 | 235 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Simple Vegan | 0 | 241 | 4 | 45 | 18 | 2 | 2026-08-28 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
-| The First Mess | 0 | 241 | 1 | 31 | 3 | 2 | 2026-09-02 | ✅ OK |
 | ZardyPlants | 0 | 241 | 241 | 50 | 241 | 4 | 2026-07-07 | ✅ OK |
+| The First Mess | 1 | 242 | 1 | 31 | 3 | 2 | 2026-09-09 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
@@ -98,7 +98,7 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ✅ OK |
+| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ❌ Blocked/ConnErr |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-09 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | The Foodie Takes Flight | 1 | 260 | 0 | 260 | 2 | 0 | 2026-09-09 | ✅ OK |
@@ -114,19 +114,19 @@
 | From My Bowl | 0 | 280 | 3 | 50 | 3 | 5 | 2026-09-01 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 285 | 1 | 97 | 7 | 218 | 2026-09-09 | ✅ OK |
 | The Plant-Based RD | 0 | 285 | 4 | 17 | 1 | 0 | 2026-09-04 | ✅ OK |
-| Full of Plants | 4 | 287 | 0 | 43 | 0 | 13 | 2026-09-09 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 7 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK (7) |
+| Full of Plants | 3 | 287 | 0 | 43 | 0 | 13 | 2026-09-09 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
 | Plant-Based on a Budget | 5 | 293 | 16 | 73 | 293 | 1 | 2026-09-08 | ✅ OK |
 | Healthy Little Vittles | 4 | 295 | 10 | 48 | 2 | 292 | 2026-09-03 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 301 | 39 | 85 | 3 | 0 | 2026-09-06 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 302 | 39 | 85 | 3 | 0 | 2026-09-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 327 | 41 | 40 | 2 | 45 | 2026-09-04 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 24 | 1 | 1 | 2026-09-02 | ✅ OK |
-| Reddit | 5 | 350 | 0 | 41 | 0 | 2 | 2026-09-09 | ✅ OK (5) |
+| Reddit | 2 | 350 | 0 | 41 | 0 | 2 | 2026-09-09 | ✅ OK (2) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-09-08 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 44 | 0 | 10 | 2026-09-09 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 44 | 0 | 10 | 2026-09-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
