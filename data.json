@@ -1,5 +1,97 @@
 [
   {
+    "blog_name": "Reddit",
+    "title": "Blueberry Toast",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1wbrp6c/blueberry_toast/",
+    "image": "https://preview.redd.it/qrrop9zy1joh1.jpeg?width=640&crop=smart&auto=webp&s=db698e318714082b1e01f5a393f679757ee12f36",
+    "date": "2026-09-09T17:12:12+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Vegan Carrot Ginger Soup\ud83e\udd55a cozy & satisfying 1-pot dish",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1wbqmce/vegan_carrot_ginger_soupa_cozy_satisfying_1pot/",
+    "image": "https://preview.redd.it/c8cjljg3vioh1.jpeg?width=640&crop=smart&auto=webp&s=5e40361cbcd205709b75a58944df59a069ca4bf5",
+    "date": "2026-09-09T16:34:19+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Mini Vegan Pumpkin Chocolate Chip Loaves",
+    "link": "https://vegnews.com/recipes/mini-pumpkin-chocolate-chip-loaf",
+    "image": "https://vegnews.com/media/W1siZiIsIjEzOTEyL1B1bXBraW4gQ2hvY29sYXRlIENoaXAucG5nIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/Pumpkin%20Chocolate%20Chip.jpg?sha=9b25d247e044b757",
+    "date": "2026-09-09T15:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Shortcut Brothy Beans With Tomatoes and Garlic",
+    "link": "https://vegnews.com/recipes/vegan-shortcut-brothy-beans",
+    "image": "https://vegnews.com/media/W1siZiIsIjMzNzk3L1ZlZ05ld3MuQnJvdGh5QmVhbnMxLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.BrothyBeans1.jpg?sha=f8f57dc31aaca6ec",
+    "date": "2026-09-09T14:45:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Crispy Garlic Shiitake Congee",
+    "link": "https://vegnews.com/recipes/vegan-shiitake-crispy-garlic-congee",
+    "image": "https://vegnews.com/media/W1siZiIsIjM3MTQ3L1ZlZ05ld3MuQ29uZ2VlLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.Congee.jpg?sha=5269b6d74c2738f5",
+    "date": "2026-09-09T14:30:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Raw Papaya Rosti (Thai style)",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1wbmdws/raw_papaya_rosti_thai_style/",
+    "image": "https://preview.redd.it/eplnzr5h3ioh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=dcd9bf90da360ff44950d966609fb043cb6478ad",
+    "date": "2026-09-09T13:58:49+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Vegan Richa GF",
+    "title": "Anti-inflammatory Dense Bean Salad with Creamy Lemon Yogurt Dressing",
+    "link": "https://www.veganricha.com/dense-bean-salad/",
+    "image": "https://www.veganricha.com/wp-content/uploads/2026/07/dbs-veganricha-1903.jpg",
+    "date": "2026-09-09T13:24:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "GF"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Full of Plants",
+    "title": "Soy-Free Tofu (Made From Fava Beans!)",
+    "link": "https://fullofplants.com/soy-free-tofu-fava-beans/?adt_ei={$email}",
+    "image": "https://fullofplants.com/wp-content/uploads/2026/09/soy-free-tofu-with-fava-bean-20-720x900.jpg",
+    "date": "2026-09-09T11:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "It Doesn't Taste Like Chicken",
     "title": "Crispy Tofu Chicken Fingers (Easy Vegan!)",
     "link": "https://itdoesnttastelikechicken.com/crispy-tofu-chicken-fingers/",
@@ -8,6 +100,33 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Cheap Lazy Vegan",
+    "title": "Cabbage Dumplings",
+    "link": "https://thecheaplazyvegan.com/cabbage-dumplings/",
+    "image": "https://thecheaplazyvegan.com/wp-content/uploads/2026/09/Vegan-Cabbage-Dumplings-1024x819.jpg",
+    "date": "2026-09-09T08:42:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "Budget",
+      "Easy"
+    ],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Ann Arbor Vegan Kitchen",
+    "title": "Chocolate Chip Banana Bars",
+    "link": "https://annarborvegankitchen.com/2026/09/09/chocolate-chip-banana-bars/",
+    "image": "https://annarborvegankitchen.com/wp-content/uploads/2026/08/DSC01990-590x332.jpg",
+    "date": "2026-09-09T08:00:37+00:00",
+    "is_disruptor": false,
+    "special_tags": [
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -60,7 +179,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.95
+    "trending_score": 2.55
   },
   {
     "blog_name": "Reddit",
@@ -266,8 +385,8 @@
     "date": "2026-09-07T02:41:06+00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
+    "is_trending": true,
+    "trending_score": 3.54
   },
   {
     "blog_name": "Reddit",
@@ -348,7 +467,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.94
+    "trending_score": 2.54
   },
   {
     "blog_name": "The Foodie Takes Flight",
@@ -394,7 +513,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.94
+    "trending_score": 2.54
   },
   {
     "blog_name": "Reddit",
@@ -405,7 +524,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 1.77
+    "trending_score": 1.52
   },
   {
     "blog_name": "Reddit",
@@ -416,7 +535,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.72
+    "trending_score": 4.07
   },
   {
     "blog_name": "Reddit",
@@ -428,8 +547,8 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": true,
-    "trending_score": 1.77
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "Reddit",
@@ -451,7 +570,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 1.77
+    "trending_score": 1.52
   },
   {
     "blog_name": "VegNews",
@@ -2164,6 +2283,17 @@
     "link": "https://vegnews.com/recipes/spinach-asparagus-and-sausage-quiche",
     "image": "https://vegnews.com/media/W1siZiIsIjE2NDUxL1ZlZ05ld3MuQXNwYXJhZ3VzUXVpY2hlLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.AsparagusQuiche.jpg?sha=124e3ab7d9eb733e",
     "date": "2026-08-25T14:20:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "A Couple Cooks (Vegan Recipes)",
+    "title": "Boiled Butternut Squash",
+    "link": "https://www.acouplecooks.com/boiled-butternut-squash/",
+    "image": "https://www.acouplecooks.com/wp-content/uploads/2021/11/Boiled-Butternut-Squash-003.jpg",
+    "date": "2026-08-25T14:02:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -5685,17 +5815,6 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "A Couple Cooks (Vegan Recipes)",
-    "title": "Witches Brew Drink",
-    "link": "https://www.acouplecooks.com/witches-brew-drink/",
-    "image": "https://www.acouplecooks.com/wp-content/uploads/2021/08/Witchs-Brew-Cocktail-001.jpg",
-    "date": "2026-08-01T15:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
     "is_trending": false,
     "trending_score": 0
   },
@@ -15307,44 +15426,11 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Reddit",
-    "title": "Best for summer Mediterranean Orzo Salad",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tw2grh/best_for_summer_mediterranean_orzo_salad/",
-    "image": "https://preview.redd.it/lnq03w8vs45h1.jpeg?width=640&crop=smart&auto=webp&s=b06eb2f28731eb46a35393ebc56047d50f03bcd9",
-    "date": "2026-06-03T20:57:40+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Apricots w/ Ice Cream (Vegan)",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tw1x9q/apricots_w_ice_cream_vegan/",
-    "image": "https://external-preview.redd.it/bnJ3bW4zMWNwNDVoMSEd5Xt8dkq5lBbDhYFKRjQoKuDM2wMcl1SkPmtJax1_.png?width=640&crop=smart&auto=webp&s=60911db2d7b727bdd0e4828117cd276bb8a48986",
-    "date": "2026-06-03T20:37:51+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Sweet Simple Vegan",
     "title": "Chunky Chocolate Chip Pecan Cookies",
     "link": "https://sweetsimplevegan.com/chunky-chocolate-chip-pecan-cookies/",
     "image": "https://sweetsimplevegan.com/wp-content/uploads/2026/05/Chunky-Chocolate-Chip-Pecan-Cookies-recipe-sweetsimplevegan-7-1200x800.jpg",
     "date": "2026-06-03T20:11:27+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Vegan Spinach & Basil Pesto with Pistachios \ud83c\udf31 go green!",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tw0o5u/vegan_spinach_basil_pesto_with_pistachios_go_green/",
-    "image": "https://preview.redd.it/y1pvknq4h45h1.jpeg?width=640&crop=smart&auto=webp&s=18839bfd75094438c47d3e95dcee3e3e83f7a2c1",
-    "date": "2026-06-03T19:53:48+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -15380,17 +15466,6 @@
     "link": "https://vegnews.com/recipes/vegan-rustic-summer-berry-galette",
     "image": "https://vegnews.com/media/W1siZiIsIjE1MzUxL1ZlZ05ld3MuU3VtbWVyQmVycnlHYWxldHRlLlBsYW50aWZ1bFBsYXRlLnBuZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.SummerBerryGalette.PlantifulPlate.jpg?sha=437f210d593c97f5",
     "date": "2026-06-03T15:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Tofu Sofritas",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1tvqdmn/tofu_sofritas/",
-    "image": "https://preview.redd.it/cbomajsar25h1.jpeg?width=640&crop=smart&auto=webp&s=a9cc2715629f80e36e961bc2484f5cb40db87c0e",
-    "date": "2026-06-03T14:05:15+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -17477,28 +17552,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "VegNews",
-    "title": "Creamy Vegan Picnic Potato Salad",
-    "link": "https://vegnews.com/recipes/vegan-picnic-potato-salad",
-    "image": "https://vegnews.com/media/W1siZiIsIjE5MDEwL1ZlZ05ld3MuUG90YXRvU2FsYWQuanBlZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.PotatoSalad.jpg?sha=bf5089a914d6355f",
-    "date": "2026-05-17T16:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Banana Pineapple Hummingbird Cake With Homemade Cashew Frosting",
-    "link": "https://vegnews.com/recipes/vegan-banana-pineapple-hummingbird-cake-with-homemade-cashew-frosting",
-    "image": "https://vegnews.com/media/W1siZiIsIjIyODM1L1ZlZ05ld3MuaHVtbWluZ2JpcmRjYWtlLmpwZWciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.hummingbirdcake.jpg?sha=746b8718163a4fd7",
-    "date": "2026-05-17T15:55:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Holistic Chef Academy",
     "title": "Cashew Parmesan Cheese",
     "link": "https://holisticchefacademy.com/cashew-parmesan-cheese/",
@@ -17551,17 +17604,6 @@
     "link": "https://www.mydarlingvegan.com/crispy-chickpea-wraps/",
     "image": "https://www.mydarlingvegan.com/wp-content/uploads/2026/05/smashed-chickpea-wrap-top-close.jpg",
     "date": "2026-05-16T20:22:08+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Vegan Chocolate-Dipped Coconut Caramel Cookie Bars",
-    "link": "https://vegnews.com/recipes/vegan-chocolate-dipped-coconut-caramel-cookie-bars",
-    "image": "https://vegnews.com/media/W1siZiIsIjI0ODE0L1ZlZ05ld3MuQ2hvY29sYXRlQ29vY29udXRDYXJhbWVsQ29va2llQmFycy5qcGciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.ChocolateCooconutCaramelCookieBars.jpg?sha=5132b9a562c52ac5",
-    "date": "2026-05-16T17:30:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -20446,7 +20488,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 2.44
+    "trending_score": 2.11
   },
   {
     "blog_name": "The Post-Punk Kitchen",
@@ -211298,6 +211340,116 @@
     "trending_score": 0
   },
   {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Mediterranean",
+    "link": "https://itdoesnttastelikechicken.com/cuisine/mediterranean/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Cauliflower",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/cauliflower/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "All Legumes",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/beans/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Bell Peppers",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/bell-peppers/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Black Beans",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/black-beans/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Kidney Beans",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/kidney-beans/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Noodles & Pasta",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/noodles-pasta/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Peanut Butter",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/peanut-butter/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Pumpkin Spice",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/pumpkin-spice/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "It Doesn't Taste Like Chicken",
+    "title": "Soy-Free Recipes",
+    "link": "https://itdoesnttastelikechicken.com/ingredients/soy-free/",
+    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
+    "date": "2020-01-01T00:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "The Foodie Takes Flight",
     "title": "Pinterest-p",
     "link": "https://www.pinterest.com/thefoodietakesflight",
@@ -211702,116 +211854,6 @@
     "title": "Tofu Shawarma-Inspired Bowls \ud83e\udd59\ud83c\udf5a loaded with cris",
     "link": "https://www.instagram.com/reel/DVWi3odEqbx/",
     "image": "https://www.eatfigsnotpigs.com/wp-content/plugins/instagram-feed/img/placeholder.png",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Mediterranean",
-    "link": "https://itdoesnttastelikechicken.com/cuisine/mediterranean/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Cauliflower",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/cauliflower/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "All Legumes",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/beans/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Bell Peppers",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/bell-peppers/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Black Beans",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/black-beans/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Kidney Beans",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/kidney-beans/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Noodles & Pasta",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/noodles-pasta/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Peanut Butter",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/peanut-butter/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Pumpkin Spice",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/pumpkin-spice/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
-    "date": "2020-01-01T00:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "It Doesn't Taste Like Chicken",
-    "title": "Soy-Free Recipes",
-    "link": "https://itdoesnttastelikechicken.com/ingredients/soy-free/",
-    "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/08/itdoesnttastelikechicken-logo-sam-turnbull-fuss-free-vegan-recipe-blog.jpg",
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
@@ -214423,8 +214465,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214437,8 +214479,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214490,8 +214532,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214517,9 +214559,9 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
+      "Low Waste",
       "GF",
-      "Easy",
-      "Low Waste"
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214558,8 +214600,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214650,8 +214692,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214690,8 +214732,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214730,8 +214772,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
