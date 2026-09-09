@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-09-08 23:38:36
-**Total Run Time:** 8m 20s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-09-09 06:23:43
+**Total Run Time:** 7m 20s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21233 | 156 new today |
+| **Total Database** | 21234 | 157 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 148 | Total recorded actions in database |
 | **WFPB / GF** | 2615 / 2774 | 12% / 13% |
-| **Easy / Budget** | 5090 / 2101 | 23% / 9% |
+| **Easy / Budget** | 5091 / 2101 | 23% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **5.97** | *2.37* |
-| 2 |[Cinnamon Apple Coffee Cake](https://www.theppk.com/2026/09/vegan-apple-coffee-cake/) | The Post-Punk Kitchen | **3.73** | *1.48* |
-| 3 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **3.72** | *1.48* |
-| 4 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **3.72** | *1.48* |
-| 5 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **3.09** | *1.23* |
-| 6 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **2.23** | *0.89* |
-| 7 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **2.23** | *0.89* |
-| 8 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **2.23** | *0.89* |
+| 1 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **5.24** | *2.08* |
+| 2 |[Cinnamon Apple Coffee Cake](https://www.theppk.com/2026/09/vegan-apple-coffee-cake/) | The Post-Punk Kitchen | **3.28** | *1.30* |
+| 3 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **3.27** | *1.30* |
+| 4 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **3.27** | *1.30* |
+| 5 |[Quick pickled cucumbers (Refrigerator dill pickles with garlic)](https://cadryskitchen.com/quick-pickled-cucumbers/) | Cadry's Kitchen | **2.71** | *1.08* |
+| 6 |[Blueberry Grilled Cheese: the berries cook down with maple and thyme into a loose jam first](https://www.reddit.com/r/veganrecipes/comments/1w8ffvh/blueberry_grilled_cheese_the_berries_cook_down/) | Reddit | **1.96** | *0.78* |
+| 7 |[Vegan Kale Caesar Salad With Sourdough Croutons](https://vegnews.com/recipes/easy-vegan-kale-caesar-salad) | VegNews | **1.96** | *0.78* |
+| 8 |[Vegan Key Lime Parfait 🌱 a light & easy 4-ingredient sweet treat](https://www.reddit.com/r/veganrecipes/comments/1w88bk0/vegan_key_lime_parfait_a_light_easy_4ingredient/) | Reddit | **1.96** | *0.78* |
 
 ---
 
@@ -100,8 +100,8 @@
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 9 | 254 | 10 | 59 | 41 | 73 | 2026-09-02 | ✅ OK |
 | Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
-| The Foodie Takes Flight | 1 | 259 | 0 | 259 | 2 | 0 | 2026-09-06 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
+| The Foodie Takes Flight | 2 | 260 | 0 | 260 | 2 | 0 | 2026-09-09 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Make It Dairy Free | 0 | 268 | 4 | 43 | 2 | 3 | 2026-09-06 | ✅ OK |
