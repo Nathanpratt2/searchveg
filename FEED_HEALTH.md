@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-09-11 23:33:40
-**Total Run Time:** 8m 32s
-**Longest Step:** RSS: Hot For Food (1m 0s)
+**Last Run:** 2026-09-12 06:12:26
+**Total Run Time:** 7m 36s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21248 | 163 new today |
+| **Total Database** | 21249 | 156 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 147 | Total recorded actions in database |
-| **WFPB / GF** | 2616 / 2777 | 12% / 13% |
+| **Trending Events** | 149 | Total recorded actions in database |
+| **WFPB / GF** | 2617 / 2777 | 12% / 13% |
 | **Easy / Budget** | 5093 / 2102 | 23% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **3.62** | *1.44* |
-| 2 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **3.62** | *1.44* |
-| 3 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **3.62** | *1.44* |
-| 4 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **1.49** | *0.59* |
-| 5 |[slightly bloated tofu package](https://www.reddit.com/r/veganrecipes/comments/1w9fs6h/slightly_bloated_tofu_package/) | Reddit | **1.30** | *0.52* |
-| 6 |[Cinnamon Apple Coffee Cake](https://www.theppk.com/2026/09/vegan-apple-coffee-cake/) | The Post-Punk Kitchen | **0.93** | *0.37* |
-| 7 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **0.93** | *0.37* |
-| 8 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **0.93** | *0.37* |
+| 1 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **3.19** | *1.27* |
+| 2 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **3.19** | *1.27* |
+| 3 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **3.19** | *1.27* |
+| 4 |[Hot hunny chick'n and waffles](https://www.reddit.com/r/veganrecipes/comments/1w8bt0x/hot_hunny_chickn_and_waffles/) | Reddit | **1.31** | *0.52* |
+| 5 |[slightly bloated tofu package](https://www.reddit.com/r/veganrecipes/comments/1w9fs6h/slightly_bloated_tofu_package/) | Reddit | **1.14** | *0.45* |
+| 6 |[Cinnamon Apple Coffee Cake](https://www.theppk.com/2026/09/vegan-apple-coffee-cake/) | The Post-Punk Kitchen | **0.82** | *0.33* |
+| 7 |[Saucy Apple Cider Baked Beans](https://makeitdairyfree.com/saucy-apple-cider-baked-beans/) | Make It Dairy Free | **0.82** | *0.33* |
+| 8 |[Vegan S’mores Sheet Cake](https://www.thelittleblogofvegan.com/2026/09/vegan-smores-sheet-cake.html) | The Little Blog of Vegan | **0.82** | *0.33* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 1 | 0 | 0 | 2026-09-03 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | Mary's Test Kitchen | 1 | 23 | 0 | 8 | 1 | 1 | 2026-08-29 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 36 | 0 | 2 | 0 | 1 | 2026-09-08 | ✅ OK |
@@ -65,7 +65,7 @@
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-09-09 | ✅ OK |
 | My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
-| Steamy Vegan | 3 | 194 | 9 | 32 | 10 | 2 | 2026-09-11 | ✅ OK |
+| Steamy Vegan | 2 | 194 | 9 | 32 | 10 | 2 | 2026-09-11 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 201 | 201 | 11 | 0 | 9 | 2026-08-31 | ✅ OK |
 | Vegan Heaven | 2 | 205 | 0 | 24 | 0 | 1 | 2026-03-26 | ✅ OK |
@@ -98,8 +98,8 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ❌ Blocked/ConnErr |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-09 | ✅ OK |
+| Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | The Foodie Takes Flight | 1 | 260 | 0 | 260 | 2 | 0 | 2026-09-09 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -115,16 +115,16 @@
 | It Doesn't Taste Like Chicken | 4 | 285 | 1 | 97 | 7 | 218 | 2026-09-09 | ✅ OK |
 | The Plant-Based RD | 0 | 285 | 4 | 17 | 1 | 0 | 2026-09-04 | ✅ OK |
 | Full of Plants | 4 | 288 | 0 | 43 | 0 | 13 | 2026-09-11 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
 | Plant-Based on a Budget | 5 | 293 | 16 | 73 | 293 | 1 | 2026-09-08 | ✅ OK |
 | Healthy Little Vittles | 4 | 296 | 10 | 48 | 2 | 293 | 2026-09-10 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 302 | 39 | 85 | 3 | 0 | 2026-09-09 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 327 | 41 | 40 | 2 | 45 | 2026-09-04 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 328 | 42 | 40 | 2 | 45 | 2026-09-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-09-09 | ✅ OK |
-| Reddit | 3 | 350 | 0 | 41 | 0 | 2 | 2026-09-11 | ✅ OK (3) |
+| Reddit | 1 | 350 | 0 | 41 | 0 | 2 | 2026-09-11 | ✅ OK (1) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-11 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 42 | 0 | 10 | 2026-09-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
