@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-13 19:01:09
-**Total Run Time:** 9m 21s
-**Longest Step:** RSS: Hot For Food (0m 57s)
+**Last Run:** 2026-09-13 23:26:15
+**Total Run Time:** 9m 6s
+**Longest Step:** RSS: Fragrant Vanilla Cake (1m 13s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21255 | 165 new today |
+| **Total Database** | 21255 | 161 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 145 | Total recorded actions in database |
+| **Trending Events** | 141 | Total recorded actions in database |
 | **WFPB / GF** | 2617 / 2777 | 12% / 13% |
 | **Easy / Budget** | 5094 / 2102 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **3.91** | *1.55* |
-| 2 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **3.91** | *1.55* |
-| 3 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **3.91** | *1.55* |
-| 4 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **3.51** | *1.39* |
-| 5 |[Tomato and White Bean Casserole](https://rainbowplantlife.com/tomato-and-white-bean-casserole/) | Rainbow Plant Life | **3.51** | *1.39* |
-| 6 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **1.57** | *0.62* |
-| 7 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **1.57** | *0.62* |
-| 8 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **1.57** | *0.62* |
+| 1 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **3.59** | *1.43* |
+| 2 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **3.59** | *1.42* |
+| 3 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **3.59** | *1.42* |
+| 4 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **3.22** | *1.28* |
+| 5 |[Tomato and White Bean Casserole](https://rainbowplantlife.com/tomato-and-white-bean-casserole/) | Rainbow Plant Life | **3.22** | *1.28* |
+| 6 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **1.44** | *0.57* |
+| 7 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **1.44** | *0.57* |
+| 8 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **1.44** | *0.57* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 1 | 0 | 0 | 2026-09-03 | ✅ OK |
-| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
 | Mary's Test Kitchen | 0 | 25 | 0 | 8 | 1 | 1 | 2026-09-13 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 36 | 0 | 2 | 0 | 1 | 2026-09-08 | ✅ OK |
@@ -98,8 +98,8 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ✅ OK |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-09 | ✅ OK |
+| Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | The Foodie Takes Flight | 1 | 260 | 0 | 260 | 2 | 0 | 2026-09-09 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 328 | 42 | 40 | 2 | 45 | 2026-09-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-09-09 | ✅ OK |
-| Reddit | 2 | 350 | 0 | 41 | 0 | 2 | 2026-09-13 | ✅ OK (2) |
+| Reddit | 1 | 350 | 0 | 41 | 0 | 2 | 2026-09-13 | ✅ OK (1) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-11 | ✅ OK |
-| VegNews | 4 | 350 | 1 | 41 | 0 | 10 | 2026-09-13 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 41 | 0 | 10 | 2026-09-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
