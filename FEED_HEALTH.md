@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-09-13 06:36:33
-**Total Run Time:** 8m 29s
-**Longest Step:** RSS: Hot For Food (0m 58s)
+**Last Run:** 2026-09-13 15:05:37
+**Total Run Time:** 8m 11s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21253 | 161 new today |
+| **Total Database** | 21255 | 168 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 145 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **4.97** | *1.97* |
-| 2 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **4.96** | *1.97* |
-| 3 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **4.96** | *1.97* |
-| 4 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **4.45** | *1.77* |
-| 5 |[Tomato and White Bean Casserole](https://rainbowplantlife.com/tomato-and-white-bean-casserole/) | Rainbow Plant Life | **4.45** | *1.77* |
-| 6 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **1.99** | *0.79* |
-| 7 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **1.99** | *0.79* |
-| 8 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **1.99** | *0.79* |
+| 1 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **4.22** | *1.67* |
+| 2 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **4.22** | *1.67* |
+| 3 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **4.22** | *1.67* |
+| 4 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **3.78** | *1.50* |
+| 5 |[Tomato and White Bean Casserole](https://rainbowplantlife.com/tomato-and-white-bean-casserole/) | Rainbow Plant Life | **3.78** | *1.50* |
+| 6 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **1.69** | *0.67* |
+| 7 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **1.69** | *0.67* |
+| 8 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **1.69** | *0.67* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 1 | 0 | 0 | 2026-09-03 | ✅ OK |
 | Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
-| Mary's Test Kitchen | 1 | 24 | 0 | 8 | 1 | 1 | 2026-09-12 | ✅ OK |
+| Mary's Test Kitchen | 1 | 25 | 0 | 8 | 1 | 1 | 2026-09-13 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 36 | 0 | 2 | 0 | 1 | 2026-09-08 | ✅ OK |
 | The Banana Diaries | 0 | 40 | 0 | 11 | 2 | 0 | 2026-09-03 | ✅ OK |
@@ -98,22 +98,22 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ✅ OK |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-09 | ✅ OK |
+| Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | The Foodie Takes Flight | 1 | 260 | 0 | 260 | 2 | 0 | 2026-09-09 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
-| Make It Dairy Free | 0 | 268 | 4 | 43 | 2 | 3 | 2026-09-06 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
+| Make It Dairy Free | 1 | 269 | 4 | 43 | 2 | 3 | 2026-09-13 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-29 | ✅ OK |
 | My Darling Vegan | 2 | 273 | 1 | 34 | 4 | 12 | 2026-09-10 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Eat Figs, Not Pigs | 3 | 280 | 1 | 37 | 2 | 0 | 2026-09-12 | ✅ OK |
 | From My Bowl | 0 | 281 | 3 | 51 | 3 | 5 | 2026-09-10 | ✅ OK |
-| It Doesn't Taste Like Chicken | 4 | 286 | 1 | 98 | 7 | 218 | 2026-09-12 | ✅ OK |
 | The Plant-Based RD | 0 | 286 | 4 | 17 | 1 | 0 | 2026-09-12 | ✅ OK |
+| It Doesn't Taste Like Chicken | 5 | 287 | 1 | 98 | 7 | 218 | 2026-09-13 | ✅ OK |
 | Full of Plants | 4 | 288 | 0 | 43 | 0 | 13 | 2026-09-11 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
@@ -123,8 +123,8 @@
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
 | Connoisseurus Veg | 1 | 310 | 0 | 34 | 1 | 0 | 2026-09-04 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 328 | 42 | 40 | 2 | 45 | 2026-09-12 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-09-09 | ✅ OK |
-| Reddit | 2 | 350 | 0 | 41 | 0 | 2 | 2026-09-13 | ✅ OK (2) |
+| Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-09-09 | ✅ OK |
+| Reddit | 3 | 350 | 0 | 41 | 0 | 2 | 2026-09-13 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-11 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 43 | 0 | 10 | 2026-09-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
