@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-13 23:26:15
-**Total Run Time:** 9m 6s
-**Longest Step:** RSS: Fragrant Vanilla Cake (1m 13s)
+**Last Run:** 2026-09-14 06:46:28
+**Total Run Time:** 7m 36s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21255 | 161 new today |
+| **Total Database** | 21255 | 163 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 141 | Total recorded actions in database |
+| **Trending Events** | 145 | Total recorded actions in database |
 | **WFPB / GF** | 2617 / 2777 | 12% / 13% |
 | **Easy / Budget** | 5094 / 2102 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **3.59** | *1.43* |
-| 2 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **3.59** | *1.42* |
-| 3 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **3.59** | *1.42* |
-| 4 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **3.22** | *1.28* |
-| 5 |[Tomato and White Bean Casserole](https://rainbowplantlife.com/tomato-and-white-bean-casserole/) | Rainbow Plant Life | **3.22** | *1.28* |
-| 6 |[Vegan Stuffed Onions with Lentils and Rice (Mediterranean)](https://plantbaes.com/vegan-stuffed-onions-with-lentils-and-rice/) | Plant Baes | **1.44** | *0.57* |
-| 7 |[Creamy Skillet Dijon Orzo and Tofu](https://www.eatfigsnotpigs.com/creamy-skillet-dijon-orzo-and-tofu/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-skillet-dijon-orzo-and-tofu) | Eat Figs, Not Pigs | **1.44** | *0.57* |
-| 8 |[Greek Lemony Roasted Potatoes](https://vegnews.com/recipes/vegan-greek-lemon-roasted-potatoes) | VegNews | **1.44** | *0.57* |
+| 1 |[Mexican-Inspired Noodle Soup (Sopa de Fideo)](https://vegnews.com/recipes/vegan-mexican-noodle-soup) | VegNews | **5.44** | *2.16* |
+| 2 |[Crispy Wedge Salad With Smoky Coconut Bacon and Hemp Seed Ranch Dressing](https://vegnews.com/recipes/vegan-wedge-salad-coconut-bacon-ranch) | VegNews | **5.44** | *2.16* |
+| 3 |[The best pumpkin bread you’ll make this fall 🎃](https://www.reddit.com/r/veganrecipes/comments/1wfg2o3/the_best_pumpkin_bread_youll_make_this_fall/) | Reddit | **5.44** | *2.16* |
+| 4 |[Vegan Funfetti Birthday Cake With Strawberry Buttercream](https://vegnews.com/recipes/vegan-funfetti-birthday-cake) | VegNews | **5.44** | *2.16* |
+| 5 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **3.12** | *1.24* |
+| 6 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **3.12** | *1.24* |
+| 7 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **3.12** | *1.24* |
+| 8 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **2.80** | *1.11* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 14 | 0 | 3 | 1 | 0 | 2026-08-11 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 1 | 0 | 0 | 2026-09-03 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 18 | 0 | 0 | 0 | 0 | 2026-08-10 | ❌ Blocked/ConnErr |
+| Fragrant Vanilla Cake | 2 | 19 | 0 | 0 | 0 | 0 | 2026-08-10 | ✅ OK |
 | Mary's Test Kitchen | 0 | 25 | 0 | 8 | 1 | 1 | 2026-09-13 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 36 | 0 | 2 | 0 | 1 | 2026-09-08 | ✅ OK |
