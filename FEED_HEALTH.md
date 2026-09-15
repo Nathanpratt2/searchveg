@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-14 17:09:26
-**Total Run Time:** 9m 26s
-**Longest Step:** RSS: Hot For Food (1m 8s)
+**Last Run:** 2026-09-15 00:03:14
+**Total Run Time:** 7m 54s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21260 | 171 new today |
+| **Total Database** | 21261 | 165 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 145 | Total recorded actions in database |
+| **Trending Events** | 152 | Total recorded actions in database |
 | **WFPB / GF** | 2618 / 2777 | 12% / 13% |
 | **Easy / Budget** | 5096 / 2104 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Mexican-Inspired Noodle Soup (Sopa de Fideo)](https://vegnews.com/recipes/vegan-mexican-noodle-soup) | VegNews | **4.45** | *1.77* |
-| 2 |[Crispy Wedge Salad With Smoky Coconut Bacon and Hemp Seed Ranch Dressing](https://vegnews.com/recipes/vegan-wedge-salad-coconut-bacon-ranch) | VegNews | **4.45** | *1.77* |
-| 3 |[The best pumpkin bread you’ll make this fall 🎃](https://www.reddit.com/r/veganrecipes/comments/1wfg2o3/the_best_pumpkin_bread_youll_make_this_fall/) | Reddit | **4.45** | *1.77* |
-| 4 |[Vegan Funfetti Birthday Cake With Strawberry Buttercream](https://vegnews.com/recipes/vegan-funfetti-birthday-cake) | VegNews | **4.45** | *1.77* |
-| 5 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **2.55** | *1.01* |
-| 6 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **2.55** | *1.01* |
-| 7 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **2.55** | *1.01* |
-| 8 |[Vegan White Chili](https://choosingchia.com/vegan-white-chili/) | Choosing Chia (Vegan Recipes) | **2.29** | *0.91* |
+| 1 |[Easy Shaved Arugula Fennel Salad with Apple](https://thefirstmess.com/2023/11/22/shaved-arugula-fennel-salad/) | The First Mess | **5.41** | *2.15* |
+| 2 |[Mexican-Inspired Noodle Soup (Sopa de Fideo)](https://vegnews.com/recipes/vegan-mexican-noodle-soup) | VegNews | **3.90** | *1.55* |
+| 3 |[Crispy Wedge Salad With Smoky Coconut Bacon and Hemp Seed Ranch Dressing](https://vegnews.com/recipes/vegan-wedge-salad-coconut-bacon-ranch) | VegNews | **3.90** | *1.55* |
+| 4 |[The best pumpkin bread you’ll make this fall 🎃](https://www.reddit.com/r/veganrecipes/comments/1wfg2o3/the_best_pumpkin_bread_youll_make_this_fall/) | Reddit | **3.90** | *1.55* |
+| 5 |[Vegan Funfetti Birthday Cake With Strawberry Buttercream](https://vegnews.com/recipes/vegan-funfetti-birthday-cake) | VegNews | **3.90** | *1.55* |
+| 6 |[Date Blueberry Bread (No Added Sugar, No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/date-blueberry-bread/) | The Conscious Plant Kitchen | **2.24** | *0.89* |
+| 7 |[Saucy Plant-Based Pad Thai With Crispy Pan-Fried Tofu](https://vegnews.com/recipes/saucy-vegan-pad-thai-with-crisp-pan-fried-tofu) | VegNews | **2.24** | *0.89* |
+| 8 |[Glazed Vegan Vanilla Doughnut Holes With Funfetti Sprinkles](https://vegnews.com/recipes/vegan-doughnut-holes-sprinkles) | VegNews | **2.23** | *0.89* |
 
 ---
 
@@ -49,7 +49,7 @@
 | PlantYou | 3 | 54 | 54 | 7 | 2 | 0 | 2026-08-26 | ✅ OK |
 | Vegan Richa GF | 0 | 55 | 2 | 13 | 7 | 55 | 2026-09-09 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
-| Jessica in the Kitchen | 3 | 82 | 2 | 7 | 1 | 4 | 2026-09-14 | ✅ OK |
+| Jessica in the Kitchen | 2 | 82 | 2 | 7 | 1 | 4 | 2026-09-14 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 4 | 126 | 1 | 12 | 126 | 0 | 2026-08-31 | ✅ OK |
@@ -61,7 +61,7 @@
 | Dreena Burton | 1 | 177 | 177 | 12 | 18 | 42 | 2026-08-23 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| The Stingy Vegan | 3 | 187 | 1 | 187 | 187 | 0 | 2026-09-14 | ✅ OK |
+| The Stingy Vegan | 2 | 187 | 1 | 187 | 187 | 0 | 2026-09-14 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-09-09 | ✅ OK |
 | My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-07-10 | ✅ OK |
@@ -82,9 +82,9 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Burger Dude | 5 | 234 | 6 | 14 | 14 | 0 | 2026-09-04 | ✅ OK |
-| Rabbit and Wolves | 2 | 235 | 0 | 34 | 1 | 0 | 2026-08-28 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
+| Rabbit and Wolves | 3 | 236 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Sweet Simple Vegan | 0 | 241 | 4 | 45 | 18 | 2 | 2026-08-28 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
@@ -98,8 +98,8 @@
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 250 | 30 | 55 | 0 | 62 | 2026-08-12 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
-| Hot For Food | 0 | 255 | 9 | 37 | 12 | 1 | 2026-08-31 | ✅ OK |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-09 | ✅ OK |
+| Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | The Foodie Takes Flight | 1 | 260 | 0 | 260 | 2 | 0 | 2026-09-09 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -117,16 +117,16 @@
 | Full of Plants | 4 | 288 | 0 | 43 | 0 | 13 | 2026-09-11 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 290 | 290 | 7 | 0 | 9 | 2026-09-01 | ✅ OK |
-| Plant-Based on a Budget | 6 | 294 | 16 | 73 | 294 | 1 | 2026-09-14 | ✅ OK |
+| Plant-Based on a Budget | 5 | 294 | 16 | 73 | 294 | 1 | 2026-09-14 | ✅ OK |
 | Healthy Little Vittles | 4 | 296 | 10 | 48 | 2 | 293 | 2026-09-10 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 303 | 39 | 85 | 3 | 0 | 2026-09-14 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 303 | 39 | 85 | 3 | 0 | 2026-09-14 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
-| Connoisseurus Veg | 2 | 311 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
+| Connoisseurus Veg | 1 | 311 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 328 | 42 | 40 | 2 | 45 | 2026-09-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-09-09 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 42 | 0 | 2 | 2026-09-14 | ✅ OK (3) |
+| Reddit | 1 | 350 | 1 | 42 | 0 | 2 | 2026-09-14 | ✅ OK (1) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-11 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 40 | 0 | 10 | 2026-09-14 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 40 | 0 | 10 | 2026-09-14 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
