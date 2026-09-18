@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-17 23:43:53
-**Total Run Time:** 7m 57s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-09-18 06:20:01
+**Total Run Time:** 7m 27s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21282 | 165 new today |
+| **Total Database** | 21283 | 167 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 160 | Total recorded actions in database |
+| **Trending Events** | 165 | Total recorded actions in database |
 | **WFPB / GF** | 2623 / 2780 | 12% / 13% |
 | **Easy / Budget** | 5101 / 2105 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Easy Shaved Arugula Fennel Salad with Apple](https://thefirstmess.com/2023/11/22/shaved-arugula-fennel-salad/) | The First Mess | **3.74** | *1.48* |
-| 2 |[Vegan Enchiladas with Flour Tortillas](https://sweetsimplevegan.com/vegan-enchiladas/) | Sweet Simple Vegan | **2.20** | *0.87* |
-| 3 |[Sweet Potato Black Bean Enchiladas](https://www.connoisseurusveg.com/sweet-potato-black-bean-enchiladas/) | Connoisseurus Veg | **2.20** | *0.87* |
-| 4 |[Black Bean Enchiladas](https://healthiersteps.com/easy-black-bean-enchiladas/) | Healthier Steps | **2.16** | *0.86* |
-| 5 |[Roasted Red Pepper Pasta](https://www.floraandvino.com/roasted-red-pepper-pasta/) | Flora & Vino | **2.01** | *0.80* |
-| 6 |[Lemon Pepper Tofu Wings](https://www.connoisseurusveg.com/lemon-pepper-tofu-wings/) | Connoisseurus Veg | **2.00** | *0.79* |
-| 7 |[Italian Lemon Pasta Salad](https://monkeyandmekitchenadventures.com/italian-lemon-pasta-salad/) | Monkey & Me Kitchen Adventures | **2.00** | *0.79* |
-| 8 |[Vegan “Chicken” Fettucine Alfredo Soup](https://www.rabbitandwolves.com/vegan-chicken-fettucine-alfredo-soup/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-chicken-fettucine-alfredo-soup) | Rabbit and Wolves | **2.00** | *0.79* |
+| 1 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **5.60** | *2.22* |
+| 2 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **5.60** | *2.22* |
+| 3 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **5.60** | *2.22* |
+| 4 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **5.60** | *2.22* |
+| 5 |[Easy Greek Broccoli Slaw](https://www.reddit.com/r/veganrecipes/comments/1wj3432/easy_greek_broccoli_slaw/) | Reddit | **5.60** | *2.22* |
+| 6 |[Lemony Tahini Tagliatelle with Burst Cherry Tomatoes](https://www.pickuplimes.com/recipe/lemony-tahini-tagliatelle-with-burst-cherry-tomatoes-2811) | Pick Up Limes | **5.60** | *2.22* |
+| 7 |[Easy Shaved Arugula Fennel Salad with Apple](https://thefirstmess.com/2023/11/22/shaved-arugula-fennel-salad/) | The First Mess | **3.29** | *1.31* |
+| 8 |[Vegan Enchiladas with Flour Tortillas](https://sweetsimplevegan.com/vegan-enchiladas/) | Sweet Simple Vegan | **1.93** | *0.77* |
 
 ---
 
@@ -43,7 +43,7 @@
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 37 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
-| Dr. Vegan | 2 | 43 | 4 | 43 | 8 | 0 | 2026-08-10 | ✅ OK |
+| Dr. Vegan | 2 | 43 | 4 | 43 | 8 | 0 | 2026-09-18 | ✅ OK |
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Plant Baes | 1 | 47 | 3 | 7 | 2 | 5 | 2026-09-11 | ✅ OK |
 | Vegan Richa GF | 0 | 56 | 2 | 13 | 7 | 56 | 2026-09-16 | ✅ OK |
@@ -81,8 +81,8 @@
 | Rainbow Plant Life | 9 | 227 | 30 | 55 | 41 | 7 | 2026-09-10 | ✅ OK |
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| The Burger Dude | 5 | 234 | 6 | 14 | 14 | 0 | 2026-09-04 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
+| The Burger Dude | 6 | 235 | 6 | 14 | 14 | 0 | 2026-09-18 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
 | Rabbit and Wolves | 2 | 236 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -96,7 +96,7 @@
 | Sweet Potato Soul | 1 | 245 | 0 | 36 | 1 | 6 | 2026-09-10 | ✅ OK |
 | Pick Up Limes | 0 | 249 | 22 | 28 | 28 | 1 | 2026-09-17 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| HealthyGirl Kitchen | 1 | 251 | 30 | 55 | 0 | 62 | 2026-09-17 | ✅ OK |
+| HealthyGirl Kitchen | 0 | 251 | 30 | 55 | 0 | 62 | 2026-09-17 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-16 | ✅ OK |
 | Hot For Food | 3 | 258 | 9 | 37 | 12 | 1 | 2026-09-04 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 311 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 329 | 42 | 40 | 2 | 45 | 2026-09-15 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 2 | 2026-09-17 | ✅ OK (1) |
+| Reddit | 3 | 350 | 1 | 42 | 0 | 2 | 2026-09-18 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-17 | ✅ OK |
 | VegNews | 1 | 350 | 1 | 41 | 0 | 10 | 2026-09-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
