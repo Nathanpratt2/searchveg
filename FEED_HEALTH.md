@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-09-18 11:41:57
-**Total Run Time:** 7m 40s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 33s)
+**Last Run:** 2026-09-18 19:13:48
+**Total Run Time:** 7m 44s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21284 | 165 new today |
+| **Total Database** | 21287 | 174 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 157 | Total recorded actions in database |
 | **WFPB / GF** | 2623 / 2781 | 12% / 13% |
-| **Easy / Budget** | 5101 / 2105 | 23% / 9% |
+| **Easy / Budget** | 5102 / 2106 | 23% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **5.05** | *2.01* |
-| 2 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **5.05** | *2.01* |
-| 3 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **5.05** | *2.01* |
-| 4 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **5.05** | *2.00* |
-| 5 |[Easy Greek Broccoli Slaw](https://www.reddit.com/r/veganrecipes/comments/1wj3432/easy_greek_broccoli_slaw/) | Reddit | **5.05** | *2.00* |
-| 6 |[Lemony Tahini Tagliatelle with Burst Cherry Tomatoes](https://www.pickuplimes.com/recipe/lemony-tahini-tagliatelle-with-burst-cherry-tomatoes-2811) | Pick Up Limes | **5.05** | *2.00* |
-| 7 |[Easy Shaved Arugula Fennel Salad with Apple](https://thefirstmess.com/2023/11/22/shaved-arugula-fennel-salad/) | The First Mess | **2.97** | *1.18* |
-| 8 |[Vegan Enchiladas with Flour Tortillas](https://sweetsimplevegan.com/vegan-enchiladas/) | Sweet Simple Vegan | **1.74** | *0.69* |
+| 1 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **4.37** | *1.74* |
+| 2 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **4.37** | *1.74* |
+| 3 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **4.37** | *1.74* |
+| 4 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **4.37** | *1.73* |
+| 5 |[Easy Greek Broccoli Slaw](https://www.reddit.com/r/veganrecipes/comments/1wj3432/easy_greek_broccoli_slaw/) | Reddit | **4.37** | *1.73* |
+| 6 |[Lemony Tahini Tagliatelle with Burst Cherry Tomatoes](https://www.pickuplimes.com/recipe/lemony-tahini-tagliatelle-with-burst-cherry-tomatoes-2811) | Pick Up Limes | **4.37** | *1.73* |
+| 7 |[Easy Shaved Arugula Fennel Salad with Apple](https://thefirstmess.com/2023/11/22/shaved-arugula-fennel-salad/) | The First Mess | **2.57** | *1.02* |
+| 8 |[Vegan Enchiladas with Flour Tortillas](https://sweetsimplevegan.com/vegan-enchiladas/) | Sweet Simple Vegan | **1.51** | *0.60* |
 
 ---
 
@@ -47,7 +47,7 @@
 | Justine Cooks Vegan | 0 | 44 | 0 | 3 | 0 | 0 | 2026-06-28 | ✅ OK |
 | Plant Baes | 1 | 47 | 3 | 7 | 2 | 5 | 2026-09-11 | ✅ OK |
 | Vegan Richa GF | 0 | 56 | 2 | 13 | 7 | 56 | 2026-09-16 | ✅ OK |
-| PlantYou | 3 | 57 | 57 | 7 | 2 | 0 | 2026-09-16 | ✅ OK |
+| PlantYou | 3 | 57 | 57 | 7 | 2 | 0 | 2026-09-18 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Jessica in the Kitchen | 2 | 83 | 2 | 7 | 1 | 4 | 2026-09-17 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -63,7 +63,7 @@
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | The Stingy Vegan | 2 | 187 | 1 | 187 | 187 | 0 | 2026-09-14 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-09-09 | ✅ OK |
-| My Vegan Minimalist | 0 | 190 | 16 | 59 | 10 | 1 | 2026-08-16 | ✅ OK |
+| My Vegan Minimalist | 1 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-09-17 | ✅ OK |
 | Steamy Vegan | 1 | 194 | 9 | 32 | 10 | 2 | 2026-09-16 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
@@ -74,7 +74,7 @@
 | Nora Cooks | 2 | 213 | 14 | 33 | 13 | 5 | 2026-09-10 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 0 | 218 | 5 | 36 | 10 | 0 | 2026-08-25 | ✅ OK |
-| The Little Blog of Vegan | 0 | 220 | 0 | 41 | 0 | 1 | 2026-09-15 | ✅ OK |
+| The Little Blog of Vegan | 1 | 221 | 0 | 41 | 0 | 1 | 2026-09-18 | ✅ OK |
 | Elavegan | 1 | 222 | 5 | 39 | 2 | 214 | 2026-09-17 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 223 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (5) |
@@ -110,7 +110,7 @@
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-08-29 | ✅ OK |
 | My Darling Vegan | 3 | 273 | 1 | 34 | 4 | 12 | 2026-09-10 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 280 | 1 | 37 | 2 | 0 | 2026-09-12 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 280 | 1 | 37 | 2 | 0 | 2026-09-18 | ✅ OK |
 | From My Bowl | 0 | 281 | 3 | 51 | 3 | 5 | 2026-09-10 | ✅ OK |
 | The Plant-Based RD | 0 | 286 | 4 | 17 | 1 | 0 | 2026-09-12 | ✅ OK |
 | Full of Plants | 4 | 288 | 0 | 43 | 0 | 13 | 2026-09-11 | ✅ OK |
@@ -121,12 +121,12 @@
 | Healthy Little Vittles | 3 | 297 | 10 | 49 | 2 | 294 | 2026-09-17 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 304 | 39 | 85 | 3 | 0 | 2026-09-16 | ✅ OK |
-| Connoisseurus Veg | 2 | 312 | 0 | 34 | 1 | 1 | 2026-09-18 | ✅ OK |
+| Connoisseurus Veg | 1 | 312 | 0 | 34 | 1 | 1 | 2026-09-18 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 329 | 42 | 40 | 2 | 45 | 2026-09-15 | ✅ OK |
-| Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 0 | 2 | 2026-09-18 | ✅ OK (1) |
+| Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
+| Reddit | 5 | 350 | 1 | 42 | 1 | 2 | 2026-09-18 | ✅ OK (5) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-17 | ✅ OK |
-| VegNews | 1 | 350 | 1 | 41 | 0 | 10 | 2026-09-17 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 41 | 0 | 10 | 2026-09-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
