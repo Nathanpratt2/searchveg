@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-20 19:04:03
-**Total Run Time:** 7m 32s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
+**Last Run:** 2026-09-20 23:27:06
+**Total Run Time:** 6m 43s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21292 | 167 new today |
+| **Total Database** | 21292 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 148 | Total recorded actions in database |
+| **Trending Events** | 139 | Total recorded actions in database |
 | **WFPB / GF** | 2623 / 2782 | 12% / 13% |
 | **Easy / Budget** | 5103 / 2106 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Crispy Rice Sushi Cups with Spicy Tofu (Vegan)](https://drveganblog.com/crispy-rice-sushi-cups/) | Dr. Vegan | **6.78** | *2.69* |
-| 2 |[Couscous, cherry tomato, vegan sausage pan](https://www.reddit.com/r/veganrecipes/comments/1wja9vm/couscous_cherry_tomato_vegan_sausage_pan/) | Reddit | **2.71** | *1.08* |
-| 3 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **1.74** | *0.69* |
-| 4 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **1.74** | *0.69* |
-| 5 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **1.74** | *0.69* |
-| 6 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **1.74** | *0.69* |
-| 7 |[Easy Greek Broccoli Slaw](https://www.reddit.com/r/veganrecipes/comments/1wj3432/easy_greek_broccoli_slaw/) | Reddit | **1.74** | *0.69* |
-| 8 |[Lemony Tahini Tagliatelle with Burst Cherry Tomatoes](https://www.pickuplimes.com/recipe/lemony-tahini-tagliatelle-with-burst-cherry-tomatoes-2811) | Pick Up Limes | **1.74** | *0.69* |
+| 1 |[Crispy Rice Sushi Cups with Spicy Tofu (Vegan)](https://drveganblog.com/crispy-rice-sushi-cups/) | Dr. Vegan | **6.23** | *2.47* |
+| 2 |[Couscous, cherry tomato, vegan sausage pan](https://www.reddit.com/r/veganrecipes/comments/1wja9vm/couscous_cherry_tomato_vegan_sausage_pan/) | Reddit | **2.49** | *0.99* |
+| 3 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **1.60** | *0.63* |
+| 4 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **1.60** | *0.63* |
+| 5 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **1.60** | *0.63* |
+| 6 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **1.60** | *0.63* |
+| 7 |[Easy Greek Broccoli Slaw](https://www.reddit.com/r/veganrecipes/comments/1wj3432/easy_greek_broccoli_slaw/) | Reddit | **1.60** | *0.63* |
+| 8 |[Lemony Tahini Tagliatelle with Burst Cherry Tomatoes](https://www.pickuplimes.com/recipe/lemony-tahini-tagliatelle-with-burst-cherry-tomatoes-2811) | Pick Up Limes | **1.60** | *0.63* |
 
 ---
 
@@ -115,7 +115,7 @@
 | The Plant-Based RD | 0 | 286 | 4 | 17 | 1 | 0 | 2026-09-12 | ✅ OK |
 | Full of Plants | 4 | 288 | 0 | 43 | 0 | 13 | 2026-09-11 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 289 | 1 | 99 | 7 | 218 | 2026-09-20 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 290 | 290 | 26 | 3 | 0 | 2026-09-09 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 291 | 291 | 8 | 0 | 9 | 2026-09-16 | ✅ OK |
 | Plant-Based on a Budget | 5 | 294 | 16 | 73 | 294 | 1 | 2026-09-14 | ✅ OK |
 | Healthy Little Vittles | 3 | 297 | 10 | 49 | 2 | 294 | 2026-09-17 | ✅ OK |
@@ -125,8 +125,8 @@
 | The Conscious Plant Kitchen | 0 | 330 | 42 | 40 | 2 | 45 | 2026-09-18 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
 | Reddit | 3 | 350 | 1 | 41 | 1 | 2 | 2026-09-20 | ✅ OK (3) |
-| The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-17 | ✅ OK |
-| VegNews | 4 | 350 | 1 | 44 | 0 | 10 | 2026-09-20 | ✅ OK |
+| The Post-Punk Kitchen | 3 | 350 | 2 | 13 | 5 | 1 | 2026-09-20 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 44 | 0 | 10 | 2026-09-20 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
