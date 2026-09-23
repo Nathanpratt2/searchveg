@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-09-22 23:51:18
-**Total Run Time:** 10m 6s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 7s)
+**Last Run:** 2026-09-23 06:25:30
+**Total Run Time:** 10m 51s
+**Longest Step:** RSS: Plant-Based on a Budget (1m 13s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21310 | 165 new today |
+| **Total Database** | 21311 | 165 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 149 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Moist Vegan Lemon Muffins](https://addictedtodates.com/vegan-lemon-muffins/) | Addicted to Dates | **4.81** | *1.91* |
-| 2 |[Healthy Vegan Hamburger Helper](https://makeitdairyfree.com/healthy-vegan-hamburger-helper/) | Make It Dairy Free | **3.00** | *1.19* |
-| 3 |[Crispy Rice Sushi Cups with Spicy Tofu (Vegan)](https://drveganblog.com/crispy-rice-sushi-cups/) | Dr. Vegan | **2.45** | *0.97* |
-| 4 |[Couscous, cherry tomato, vegan sausage pan](https://www.reddit.com/r/veganrecipes/comments/1wja9vm/couscous_cherry_tomato_vegan_sausage_pan/) | Reddit | **0.98** | *0.39* |
-| 5 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **0.63** | *0.25* |
-| 6 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **0.63** | *0.25* |
-| 7 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **0.63** | *0.25* |
-| 8 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **0.63** | *0.25* |
+| 1 |[Moist Vegan Lemon Muffins](https://addictedtodates.com/vegan-lemon-muffins/) | Addicted to Dates | **4.24** | *1.68* |
+| 2 |[Healthy Vegan Hamburger Helper](https://makeitdairyfree.com/healthy-vegan-hamburger-helper/) | Make It Dairy Free | **2.64** | *1.05* |
+| 3 |[Crispy Rice Sushi Cups with Spicy Tofu (Vegan)](https://drveganblog.com/crispy-rice-sushi-cups/) | Dr. Vegan | **2.16** | *0.86* |
+| 4 |[Couscous, cherry tomato, vegan sausage pan](https://www.reddit.com/r/veganrecipes/comments/1wja9vm/couscous_cherry_tomato_vegan_sausage_pan/) | Reddit | **0.87** | *0.34* |
+| 5 |[Carrot Cake](https://www.reddit.com/r/veganrecipes/comments/1whr0db/carrot_cake/) | Reddit | **0.56** | *0.22* |
+| 6 |[Creamy Vegan Italian Gnocchi Soup](https://vegnews.com/recipes/vegan-italian-gnocchi-soup) | VegNews | **0.56** | *0.22* |
+| 7 |[White Chocolate and Passion Fruit Cheesecake](https://vegnews.com/recipes/vegan-white-chocolate-passionfruit-cheesecake) | VegNews | **0.56** | *0.22* |
+| 8 |[No-Bake Cosmic Brownie Cookie Dough Date Bites](https://healthylittlevittles.com/no-bake-cosmic-brownie-cookie-dough-date-bites/) | Healthy Little Vittles | **0.55** | *0.22* |
 
 ---
 
@@ -65,7 +65,7 @@
 | The Stingy Vegan | 2 | 188 | 1 | 188 | 188 | 0 | 2026-09-22 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 2 | 194 | 7 | 38 | 15 | 4 | 2026-09-17 | ✅ OK |
-| Steamy Vegan | 1 | 195 | 9 | 32 | 10 | 2 | 2026-09-18 | ✅ OK |
+| Steamy Vegan | 2 | 196 | 9 | 32 | 10 | 2 | 2026-09-22 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 201 | 201 | 11 | 0 | 9 | 2026-08-31 | ✅ OK |
 | Vegan Heaven | 2 | 206 | 0 | 24 | 0 | 1 | 2026-09-21 | ✅ OK |
@@ -77,14 +77,14 @@
 | Elavegan | 1 | 222 | 5 | 39 | 2 | 214 | 2026-09-17 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | The Little Blog of Vegan | 0 | 222 | 0 | 41 | 0 | 1 | 2026-09-22 | ✅ OK |
-| Minimalist Baker (Vegan Recipes) | 6 | 224 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (6) |
+| Minimalist Baker (Vegan Recipes) | 5 | 224 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-09-10 | ✅ OK |
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | Rhian's Recipes | 2 | 235 | 2 | 9 | 9 | 235 | 2026-01-28 | ✅ OK |
-| The Burger Dude | 6 | 235 | 6 | 14 | 14 | 0 | 2026-09-18 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
 | Rabbit and Wolves | 2 | 236 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
+| The Burger Dude | 7 | 236 | 6 | 14 | 14 | 0 | 2026-09-23 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Sweet Simple Vegan | 0 | 242 | 4 | 45 | 18 | 2 | 2026-09-15 | ✅ OK |
@@ -99,7 +99,7 @@
 | HealthyGirl Kitchen | 0 | 251 | 30 | 55 | 0 | 62 | 2026-09-17 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 10 | 255 | 10 | 59 | 41 | 73 | 2026-09-16 | ✅ OK |
-| Hot For Food | 4 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
+| Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
 | Plant Power Couple | 0 | 260 | 0 | 260 | 2 | 0 | 2026-07-02 | ✅ OK |
 | The Foodie Takes Flight | 1 | 261 | 0 | 261 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Veggiekins | 0 | 261 | 35 | 261 | 0 | 258 | 2026-07-28 | ✅ OK |
@@ -124,7 +124,7 @@
 | Connoisseurus Veg | 1 | 312 | 0 | 34 | 1 | 1 | 2026-09-18 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 330 | 42 | 40 | 2 | 45 | 2026-09-18 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 40 | 1 | 2 | 2026-09-22 | ✅ OK (2) |
+| Reddit | 2 | 350 | 1 | 40 | 1 | 2 | 2026-09-23 | ✅ OK (2) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-09-22 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 44 | 0 | 10 | 2026-09-22 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
