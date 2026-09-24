@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-09-24 12:14:49
-**Total Run Time:** 10m 42s
-**Longest Step:** RSS: A Virtual Vegan (1m 37s)
+**Last Run:** 2026-09-24 20:13:09
+**Total Run Time:** 10m 11s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 17s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21320 | 166 new today |
+| **Total Database** | 21322 | 169 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 153 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **6.55** | *2.60* |
-| 2 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **3.93** | *1.56* |
-| 3 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **3.93** | *1.56* |
-| 4 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **3.93** | *1.56* |
-| 5 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **3.93** | *1.56* |
-| 6 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **3.93** | *1.56* |
-| 7 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **3.93** | *1.56* |
-| 8 |[Everyone’s Homemade Minestrone Soup](https://www.theppk.com/2026/09/homemade-vegan-minestrone-soup/) | The Post-Punk Kitchen | **3.93** | *1.56* |
+| 1 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **5.62** | *2.23* |
+| 2 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **3.37** | *1.34* |
+| 3 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **3.37** | *1.34* |
+| 4 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **3.37** | *1.34* |
+| 5 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **3.37** | *1.34* |
+| 6 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **3.37** | *1.34* |
+| 7 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **3.37** | *1.34* |
+| 8 |[Everyone’s Homemade Minestrone Soup](https://www.theppk.com/2026/09/homemade-vegan-minestrone-soup/) | The Post-Punk Kitchen | **3.37** | *1.34* |
 
 ---
 
@@ -49,7 +49,7 @@
 | PlantYou | 3 | 57 | 57 | 7 | 2 | 0 | 2026-09-18 | ✅ OK |
 | Vegan Richa GF | 0 | 57 | 2 | 14 | 7 | 57 | 2026-09-23 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
-| Jessica in the Kitchen | 2 | 84 | 2 | 7 | 1 | 4 | 2026-09-21 | ✅ OK |
+| Jessica in the Kitchen | 3 | 85 | 2 | 7 | 1 | 4 | 2026-09-24 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | The Hidden Veggies | 3 | 126 | 1 | 13 | 126 | 0 | 2026-09-22 | ✅ OK |
@@ -64,7 +64,7 @@
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-09-22 | ✅ OK |
 | The Stingy Vegan | 2 | 188 | 1 | 188 | 188 | 0 | 2026-09-22 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
-| Simple Vegan Blog | 3 | 195 | 7 | 38 | 15 | 4 | 2026-09-23 | ✅ OK |
+| Simple Vegan Blog | 3 | 195 | 7 | 38 | 15 | 4 | 2026-09-24 | ✅ OK |
 | Steamy Vegan | 1 | 196 | 9 | 32 | 10 | 2 | 2026-09-22 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 201 | 201 | 11 | 0 | 9 | 2026-08-31 | ✅ OK |
@@ -91,8 +91,8 @@
 | ZardyPlants | 0 | 242 | 242 | 50 | 242 | 4 | 2026-09-17 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
-| The First Mess | 0 | 243 | 1 | 31 | 3 | 2 | 2026-09-16 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
+| The First Mess | 1 | 244 | 1 | 31 | 3 | 2 | 2026-09-24 | ✅ OK |
 | Sweet Potato Soul | 1 | 245 | 0 | 36 | 1 | 6 | 2026-09-10 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Pick Up Limes | 1 | 250 | 22 | 28 | 28 | 1 | 2026-09-17 | ✅ OK (1) |
@@ -113,20 +113,20 @@
 | Eat Figs, Not Pigs | 2 | 281 | 1 | 37 | 2 | 0 | 2026-09-20 | ✅ OK |
 | From My Bowl | 0 | 282 | 3 | 52 | 3 | 5 | 2026-09-22 | ✅ OK |
 | The Plant-Based RD | 0 | 287 | 4 | 17 | 1 | 0 | 2026-09-22 | ✅ OK |
-| Full of Plants | 4 | 289 | 0 | 43 | 0 | 13 | 2026-09-22 | ✅ OK |
+| Full of Plants | 4 | 289 | 0 | 43 | 0 | 13 | 2026-09-24 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 290 | 1 | 100 | 7 | 218 | 2026-09-23 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 291 | 291 | 26 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 291 | 291 | 8 | 0 | 9 | 2026-09-16 | ✅ OK |
 | Plant-Based on a Budget | 4 | 294 | 16 | 73 | 294 | 1 | 2026-09-21 | ✅ OK |
-| Healthy Little Vittles | 3 | 298 | 10 | 49 | 2 | 295 | 2026-09-24 | ✅ OK |
+| Healthy Little Vittles | 2 | 298 | 10 | 49 | 2 | 295 | 2026-09-24 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 304 | 3 | 15 | 3 | 5 | 2026-09-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 306 | 39 | 85 | 3 | 0 | 2026-09-23 | ✅ OK |
 | Connoisseurus Veg | 1 | 312 | 0 | 34 | 1 | 1 | 2026-09-18 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 330 | 42 | 40 | 2 | 45 | 2026-09-18 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 38 | 1 | 2 | 2026-09-24 | ✅ OK (3) |
+| Reddit | 2 | 350 | 1 | 38 | 1 | 2 | 2026-09-24 | ✅ OK (2) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-09-24 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 44 | 0 | 10 | 2026-09-23 | ✅ OK |
+| VegNews | 3 | 350 | 1 | 44 | 0 | 10 | 2026-09-24 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
