@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-09-26 06:27:45
-**Total Run Time:** 8m 57s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 36s)
+**Last Run:** 2026-09-26 11:48:13
+**Total Run Time:** 10m 57s
+**Longest Step:** RSS: A Virtual Vegan (1m 11s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21329 | 159 new today |
+| **Total Database** | 21329 | 163 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 143 | Total recorded actions in database |
+| **Trending Events** | 135 | Total recorded actions in database |
 | **WFPB / GF** | 2626 / 2786 | 12% / 13% |
 | **Easy / Budget** | 5113 / 2107 | 23% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Plant-Based Apple Cider Sugar Doughnuts](https://vegnews.com/recipes/apple-cider-sugar-doughnuts) | VegNews | **3.54** | *1.40* |
-| 2 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **2.91** | *1.15* |
-| 3 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **1.74** | *0.69* |
-| 4 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **1.74** | *0.69* |
-| 5 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **1.74** | *0.69* |
-| 6 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **1.74** | *0.69* |
-| 7 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **1.74** | *0.69* |
-| 8 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **1.74** | *0.69* |
+| 1 |[Plant-Based Apple Cider Sugar Doughnuts](https://vegnews.com/recipes/apple-cider-sugar-doughnuts) | VegNews | **3.19** | *1.27* |
+| 2 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **2.62** | *1.04* |
+| 3 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **1.57** | *0.62* |
+| 4 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **1.57** | *0.62* |
+| 5 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **1.57** | *0.62* |
+| 6 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **1.57** | *0.62* |
+| 7 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **1.57** | *0.62* |
+| 8 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **1.57** | *0.62* |
 
 ---
 
@@ -36,9 +36,9 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
-| Rainbow Nourishments | 1 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
+| Rainbow Nourishments | 0 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 0 | 0 | 0 | 2026-09-09 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 19 | 0 | 0 | 0 | 0 | 2026-09-16 | ✅ OK |
+| Fragrant Vanilla Cake | 0 | 19 | 0 | 0 | 0 | 0 | 2026-09-16 | ❌ Blocked/ConnErr |
 | Mary's Test Kitchen | 1 | 26 | 0 | 8 | 1 | 1 | 2026-09-21 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 37 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
@@ -115,7 +115,7 @@
 | The Plant-Based RD | 0 | 288 | 4 | 17 | 1 | 0 | 2026-09-25 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-09-24 | ✅ OK |
 | It Doesn't Taste Like Chicken | 4 | 290 | 1 | 100 | 7 | 218 | 2026-09-23 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 291 | 291 | 26 | 3 | 0 | 2026-09-23 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 291 | 291 | 26 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 291 | 291 | 8 | 0 | 9 | 2026-09-16 | ✅ OK |
 | Plant-Based on a Budget | 4 | 294 | 16 | 73 | 294 | 1 | 2026-09-21 | ✅ OK |
 | Healthy Little Vittles | 2 | 298 | 10 | 49 | 2 | 295 | 2026-09-24 | ✅ OK |
