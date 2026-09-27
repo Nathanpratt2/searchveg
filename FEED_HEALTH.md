@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-09-27 15:52:48
-**Total Run Time:** 9m 56s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 21s)
+**Last Run:** 2026-09-27 20:01:12
+**Total Run Time:** 11m 56s
+**Longest Step:** RSS: Plant-Based on a Budget (1m 45s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21335 | 166 new today |
+| **Total Database** | 21335 | 164 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 114 | Total recorded actions in database |
-| **WFPB / GF** | 2624 / 2786 | 12% / 13% |
-| **Easy / Budget** | 5117 / 2107 | 23% / 9% |
+| **Trending Events** | 122 | Total recorded actions in database |
+| **WFPB / GF** | 2624 / 2785 | 12% / 13% |
+| **Easy / Budget** | 5116 / 2107 | 23% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Plant-Based Apple Cider Sugar Doughnuts](https://vegnews.com/recipes/apple-cider-sugar-doughnuts) | VegNews | **1.86** | *0.74* |
-| 2 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **1.53** | *0.61* |
-| 3 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **0.92** | *0.36* |
-| 4 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **0.92** | *0.36* |
-| 5 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **0.92** | *0.36* |
-| 6 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **0.92** | *0.36* |
-| 7 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **0.92** | *0.36* |
-| 8 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **0.92** | *0.36* |
+| 1 |[Plant-Based Apple Cider Sugar Doughnuts](https://vegnews.com/recipes/apple-cider-sugar-doughnuts) | VegNews | **1.72** | *0.68* |
+| 2 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **1.41** | *0.56* |
+| 3 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **0.85** | *0.34* |
+| 4 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **0.85** | *0.34* |
+| 5 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **0.85** | *0.34* |
+| 6 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **0.85** | *0.34* |
+| 7 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **0.85** | *0.34* |
+| 8 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **0.85** | *0.34* |
 
 ---
 
@@ -74,7 +74,7 @@
 | Nora Cooks | 3 | 214 | 14 | 33 | 13 | 5 | 2026-09-21 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
-| Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
+| Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ❌ Blocked/ConnErr |
 | Elavegan | 1 | 223 | 5 | 39 | 2 | 215 | 2026-09-23 | ✅ OK |
 | The Little Blog of Vegan | 0 | 223 | 0 | 41 | 0 | 1 | 2026-09-25 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 224 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (5) |
@@ -95,7 +95,7 @@
 | The First Mess | 0 | 244 | 1 | 31 | 3 | 2 | 2026-09-24 | ✅ OK |
 | Sweet Potato Soul | 1 | 245 | 0 | 36 | 1 | 6 | 2026-09-10 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Pick Up Limes | 2 | 251 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (2) |
+| Pick Up Limes | 1 | 251 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
 | HealthyGirl Kitchen | 0 | 252 | 30 | 56 | 0 | 62 | 2026-09-25 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Vegan Richa | 10 | 256 | 10 | 60 | 41 | 73 | 2026-09-23 | ✅ OK |
@@ -115,7 +115,7 @@
 | The Plant-Based RD | 0 | 288 | 4 | 17 | 1 | 0 | 2026-09-25 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-09-24 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 291 | 291 | 26 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
-| It Doesn't Taste Like Chicken | 5 | 291 | 1 | 101 | 7 | 218 | 2026-09-27 | ✅ OK |
+| It Doesn't Taste Like Chicken | 4 | 291 | 1 | 101 | 7 | 218 | 2026-09-27 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 291 | 291 | 8 | 0 | 9 | 2026-09-16 | ✅ OK |
 | Plant-Based on a Budget | 4 | 294 | 16 | 73 | 294 | 1 | 2026-09-21 | ✅ OK |
 | Healthy Little Vittles | 2 | 298 | 10 | 49 | 2 | 295 | 2026-09-24 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 1 | 312 | 0 | 34 | 1 | 1 | 2026-09-18 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 331 | 43 | 40 | 2 | 45 | 2026-09-25 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 6 | 350 | 1 | 40 | 1 | 1 | 2026-09-27 | ✅ OK (6) |
+| Reddit | 2 | 350 | 1 | 40 | 1 | 1 | 2026-09-27 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-27 | ✅ OK |
-| VegNews | 1 | 350 | 1 | 45 | 0 | 12 | 2026-09-26 | ✅ OK |
+| VegNews | 5 | 350 | 1 | 44 | 0 | 11 | 2026-09-27 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
