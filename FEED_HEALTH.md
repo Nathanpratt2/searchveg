@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-09-28 00:00:07
-**Total Run Time:** 8m 23s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-09-28 07:26:57
+**Total Run Time:** 14m 6s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (2m 13s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21336 | 164 new today |
+| **Total Database** | 21337 | 163 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 122 | Total recorded actions in database |
+| **Trending Events** | 135 | Total recorded actions in database |
 | **WFPB / GF** | 2626 / 2785 | 12% / 13% |
-| **Easy / Budget** | 5117 / 2107 | 23% / 9% |
+| **Easy / Budget** | 5118 / 2107 | 23% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Plant-Based Apple Cider Sugar Doughnuts](https://vegnews.com/recipes/apple-cider-sugar-doughnuts) | VegNews | **1.59** | *0.63* |
-| 2 |[🔥🔥🔥 Fire Persimmon Bar Recipe](https://www.reddit.com/r/veganrecipes/comments/1wmmxc0/fire_persimmon_bar_recipe/) | Reddit | **1.31** | *0.52* |
-| 3 |[Hearty Potato Curry](https://www.reddit.com/r/veganrecipes/comments/1wlhdre/hearty_potato_curry/) | Reddit | **0.78** | *0.31* |
-| 4 |[Spanish omelette](https://www.reddit.com/r/veganrecipes/comments/1wli8le/spanish_omelette/) | Reddit | **0.78** | *0.31* |
-| 5 |[Smoky Sweet Potato Tacos](https://vegnews.com/recipes/smoky-vegan-sweet-potato-tacos) | VegNews | **0.78** | *0.31* |
-| 6 |[Simple Plant-Based Pumpkin Cream Penne](https://vegnews.com/recipes/pumpkin-cream-penne) | VegNews | **0.78** | *0.31* |
-| 7 |[Skillet Potato Wrap with Pesto and Smoked Tofu](https://drveganblog.com/skillet-potato-wrap-pesto/) | Dr. Vegan | **0.78** | *0.31* |
-| 8 |[Cheesy Baked Ziti](https://jessicainthekitchen.com/cheesy-baked-ziti/) | Jessica in the Kitchen | **0.78** | *0.31* |
+| 1 |[Salted Chocolate Banana Bread Vegan Blondies](https://vegnews.com/recipes/vegan-salted-chocolate-and-banana-bread-blondies) | VegNews | **9.08** | *3.60* |
+| 2 |[Dill Pickle Tofu Bowls (Sheet Pan)](https://www.plantpowercouple.com/recipes/dill-pickle-tofu/) | Plant Power Couple | **9.06** | *3.60* |
+| 3 |[creamy peanut udon with crispy tofu](https://www.reddit.com/r/veganrecipes/comments/1wqvu27/creamy_peanut_udon_with_crispy_tofu/) | Reddit | **9.06** | *3.60* |
+| 4 |[Sweet Potato and Vegan Sausage Enchiladas](https://vegnews.com/recipes/vegan-sweet-potato-and-kidney-bean-enchiladas) | VegNews | **5.45** | *2.16* |
+| 5 |[Homemade tempeh!](https://www.reddit.com/r/veganrecipes/comments/1wpkkqp/homemade_tempeh/) | Reddit | **5.45** | *2.16* |
+| 6 |[Vegan Apple Pie Cupcakes](https://www.thelittleblogofvegan.com/2026/09/vegan-apple-pie-cupcakes.html) | The Little Blog of Vegan | **5.45** | *2.16* |
+| 7 |[Vegan White Chicken Chili](https://www.eatfigsnotpigs.com/vegan-white-chicken-chili/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-white-chicken-chili) | Eat Figs, Not Pigs | **5.45** | *2.16* |
+| 8 |[Apple Blackberry Brioche Vegan French Toast](https://vegnews.com/recipes/vegan-brioche-french-toast) | VegNews | **5.45** | *2.16* |
 
 ---
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 0 | 0 | 0 | 2026-09-09 | ✅ OK |
-| Fragrant Vanilla Cake | 1 | 19 | 0 | 0 | 0 | 0 | 2026-09-16 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 1 | 0 | 0 | 2026-09-12 | ✅ OK |
+| Fragrant Vanilla Cake | 2 | 20 | 0 | 0 | 0 | 0 | 2026-09-28 | ✅ OK |
 | Mary's Test Kitchen | 1 | 26 | 0 | 8 | 1 | 1 | 2026-09-21 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 37 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
@@ -120,11 +120,11 @@
 | Plant-Based on a Budget | 4 | 294 | 16 | 73 | 294 | 1 | 2026-09-21 | ✅ OK |
 | Healthy Little Vittles | 2 | 298 | 10 | 49 | 2 | 295 | 2026-09-24 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 305 | 3 | 15 | 3 | 5 | 2026-09-26 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 307 | 39 | 86 | 3 | 0 | 2026-09-27 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 307 | 39 | 86 | 3 | 0 | 2026-09-27 | ✅ OK |
 | Connoisseurus Veg | 1 | 312 | 0 | 34 | 1 | 1 | 2026-09-18 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 331 | 43 | 40 | 2 | 45 | 2026-09-25 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 40 | 1 | 1 | 2026-09-27 | ✅ OK (2) |
+| Reddit | 1 | 350 | 1 | 40 | 1 | 1 | 2026-09-27 | ✅ OK (1) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-27 | ✅ OK |
 | VegNews | 1 | 350 | 1 | 44 | 0 | 11 | 2026-09-27 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
