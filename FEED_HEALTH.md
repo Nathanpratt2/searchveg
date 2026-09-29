@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-09-29 01:18:23
-**Total Run Time:** 11m 17s
-**Longest Step:** RSS: Simple Vegan Blog (1m 51s)
+**Last Run:** 2026-09-29 07:20:17
+**Total Run Time:** 10m 12s
+**Longest Step:** RSS: Simple Vegan Blog (1m 5s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21341 | 163 new today |
+| **Total Database** | 21341 | 161 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 146 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Salted Chocolate Banana Bread Vegan Blondies](https://vegnews.com/recipes/vegan-salted-chocolate-and-banana-bread-blondies) | VegNews | **6.44** | *2.55* |
-| 2 |[Dill Pickle Tofu Bowls (Sheet Pan)](https://www.plantpowercouple.com/recipes/dill-pickle-tofu/) | Plant Power Couple | **6.43** | *2.55* |
-| 3 |[creamy peanut udon with crispy tofu](https://www.reddit.com/r/veganrecipes/comments/1wqvu27/creamy_peanut_udon_with_crispy_tofu/) | Reddit | **6.42** | *2.55* |
-| 4 |[Crispy Cajun Fried Tofu Salad with Maple Mustard Dressing](https://jessicainthekitchen.com/vegan-crispy-cajun-fried-chicken-salad-with-honey-mustard-dressing/) | Jessica in the Kitchen | **5.48** | *2.17* |
-| 5 |[Sweet Potato and Vegan Sausage Enchiladas](https://vegnews.com/recipes/vegan-sweet-potato-and-kidney-bean-enchiladas) | VegNews | **3.86** | *1.53* |
-| 6 |[Homemade tempeh!](https://www.reddit.com/r/veganrecipes/comments/1wpkkqp/homemade_tempeh/) | Reddit | **3.86** | *1.53* |
-| 7 |[Vegan Apple Pie Cupcakes](https://www.thelittleblogofvegan.com/2026/09/vegan-apple-pie-cupcakes.html) | The Little Blog of Vegan | **3.86** | *1.53* |
-| 8 |[Vegan White Chicken Chili](https://www.eatfigsnotpigs.com/vegan-white-chicken-chili/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-white-chicken-chili) | Eat Figs, Not Pigs | **3.86** | *1.53* |
+| 1 |[Salted Chocolate Banana Bread Vegan Blondies](https://vegnews.com/recipes/vegan-salted-chocolate-and-banana-bread-blondies) | VegNews | **5.73** | *2.27* |
+| 2 |[Dill Pickle Tofu Bowls (Sheet Pan)](https://www.plantpowercouple.com/recipes/dill-pickle-tofu/) | Plant Power Couple | **5.72** | *2.27* |
+| 3 |[creamy peanut udon with crispy tofu](https://www.reddit.com/r/veganrecipes/comments/1wqvu27/creamy_peanut_udon_with_crispy_tofu/) | Reddit | **5.72** | *2.27* |
+| 4 |[Crispy Cajun Fried Tofu Salad with Maple Mustard Dressing](https://jessicainthekitchen.com/vegan-crispy-cajun-fried-chicken-salad-with-honey-mustard-dressing/) | Jessica in the Kitchen | **4.88** | *1.94* |
+| 5 |[Sweet Potato and Vegan Sausage Enchiladas](https://vegnews.com/recipes/vegan-sweet-potato-and-kidney-bean-enchiladas) | VegNews | **3.44** | *1.36* |
+| 6 |[Homemade tempeh!](https://www.reddit.com/r/veganrecipes/comments/1wpkkqp/homemade_tempeh/) | Reddit | **3.44** | *1.36* |
+| 7 |[Vegan Apple Pie Cupcakes](https://www.thelittleblogofvegan.com/2026/09/vegan-apple-pie-cupcakes.html) | The Little Blog of Vegan | **3.44** | *1.36* |
+| 8 |[Vegan White Chicken Chili](https://www.eatfigsnotpigs.com/vegan-white-chicken-chili/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-white-chicken-chili) | Eat Figs, Not Pigs | **3.44** | *1.36* |
 
 ---
 
@@ -123,8 +123,8 @@
 | Monkey & Me Kitchen Adventures | 0 | 307 | 39 | 86 | 3 | 0 | 2026-09-27 | ✅ OK |
 | Connoisseurus Veg | 1 | 313 | 0 | 34 | 1 | 1 | 2026-09-28 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 331 | 43 | 40 | 2 | 45 | 2026-09-25 | ✅ OK |
+| Reddit | 0 | 349 | 1 | 40 | 1 | 1 | 2026-09-28 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-09-15 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 40 | 1 | 1 | 2026-09-28 | ✅ OK (2) |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-09-27 | ✅ OK |
 | VegNews | 2 | 350 | 1 | 44 | 0 | 11 | 2026-09-28 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
