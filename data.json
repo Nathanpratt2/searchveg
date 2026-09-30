@@ -8,7 +8,29 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.07
+    "trending_score": 2.72
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Tahini Balsamic Dressing",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1wtxwlv/tahini_balsamic_dressing/",
+    "image": "https://preview.redd.it/3dp0mar9tlsh1.jpeg?width=640&crop=smart&auto=webp&s=696e6cc1a2903c5fbd0cfa0b27d7bc2b84934cb5",
+    "date": "2026-09-30T06:45:45+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Conscious Plant Kitchen",
+    "title": "Protein Garlic Bread Bites (9g Protein, No Egg, No Dairy)",
+    "link": "https://www.theconsciousplantkitchen.com/protein-garlic-bread-bites/",
+    "image": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2026/06/Protein-Garlic-Bread-Bites-2-768x768.jpg",
+    "date": "2026-09-30T02:08:44+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "Dr. Vegan",
@@ -522,7 +544,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.09
+    "trending_score": 3.62
   },
   {
     "blog_name": "Reddit",
@@ -603,7 +625,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.09
+    "trending_score": 3.62
   },
   {
     "blog_name": "Sarah's Vegan Kitchen",
@@ -748,7 +770,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.09
+    "trending_score": 3.62
   },
   {
     "blog_name": "Eat Figs, Not Pigs",
@@ -770,7 +792,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.46
+    "trending_score": 2.17
   },
   {
     "blog_name": "Reddit",
@@ -781,7 +803,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.46
+    "trending_score": 2.17
   },
   {
     "blog_name": "Reddit",
@@ -862,7 +884,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 2.46
+    "trending_score": 2.17
   },
   {
     "blog_name": "Jessica in the Kitchen",
@@ -14648,17 +14670,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Reddit",
-    "title": "The easiest (and tastiest) way to get your fiber \ud83c\udf31",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1uhihkb/the_easiest_and_tastiest_way_to_get_your_fiber/",
-    "image": "https://external-preview.redd.it/dDUzNWFpYTkzeDloMduL-A3xqzLSHoaYFPAaa0JyplaVkhKyHtF_wP2S4aQV.png?width=320&crop=smart&auto=webp&s=b7e19b35b34684451810cab11fd8695d8d7d2b6a",
-    "date": "2026-06-28T00:22:46+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "ZardyPlants",
     "title": "10-Minute Caramelized Bananas Recipe (Quick and Easy)",
     "link": "https://zardyplants.com/recipes/desserts/10-minute-caramelized-bananas-recipe-quick-and-easy/",
@@ -16612,7 +16623,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 3.49
+    "trending_score": 3.08
   },
   {
     "blog_name": "The Little Blog of Vegan",
