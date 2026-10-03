@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-10-02 16:57:46
-**Total Run Time:** 13m 12s
-**Longest Step:** RSS: A Virtual Vegan (1m 25s)
+**Last Run:** 2026-10-03 00:49:29
+**Total Run Time:** 13m 51s
+**Longest Step:** RSS: A Virtual Vegan (2m 6s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21373 | 167 new today |
+| **Total Database** | 21375 | 163 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 456 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Soba Noodles with Maple Miso Glazed Tempeh](https://www.floraandvino.com/soba-noodles-with-maple-miso-glazed-tempeh/) | Flora & Vino | **4.04** | *1.60* |
-| 2 |[Salted Chocolate Banana Bread Vegan Blondies](https://vegnews.com/recipes/vegan-salted-chocolate-and-banana-bread-blondies) | VegNews | **1.19** | *0.47* |
-| 3 |[Dill Pickle Tofu Bowls (Sheet Pan)](https://www.plantpowercouple.com/recipes/dill-pickle-tofu/) | Plant Power Couple | **1.19** | *0.47* |
-| 4 |[creamy peanut udon with crispy tofu](https://www.reddit.com/r/veganrecipes/comments/1wqvu27/creamy_peanut_udon_with_crispy_tofu/) | Reddit | **1.19** | *0.47* |
-| 5 |[Crispy Cajun Fried Tofu Salad with Maple Mustard Dressing](https://jessicainthekitchen.com/vegan-crispy-cajun-fried-chicken-salad-with-honey-mustard-dressing/) | Jessica in the Kitchen | **1.01** | *0.40* |
-| 6 |[Vegan Persian Fesenjan](https://www.pickuplimes.com/recipe/vegan-persian-fesenjan-2471) | Pick Up Limes | **0.89** | *0.35* |
-| 7 |[Sweet Potato and Vegan Sausage Enchiladas](https://vegnews.com/recipes/vegan-sweet-potato-and-kidney-bean-enchiladas) | VegNews | **0.71** | *0.28* |
-| 8 |[Homemade tempeh!](https://www.reddit.com/r/veganrecipes/comments/1wpkkqp/homemade_tempeh/) | Reddit | **0.71** | *0.28* |
+| 1 |[Soba Noodles with Maple Miso Glazed Tempeh](https://www.floraandvino.com/soba-noodles-with-maple-miso-glazed-tempeh/) | Flora & Vino | **3.47** | *1.38* |
+| 2 |[Salted Chocolate Banana Bread Vegan Blondies](https://vegnews.com/recipes/vegan-salted-chocolate-and-banana-bread-blondies) | VegNews | **1.02** | *0.41* |
+| 3 |[Dill Pickle Tofu Bowls (Sheet Pan)](https://www.plantpowercouple.com/recipes/dill-pickle-tofu/) | Plant Power Couple | **1.02** | *0.41* |
+| 4 |[creamy peanut udon with crispy tofu](https://www.reddit.com/r/veganrecipes/comments/1wqvu27/creamy_peanut_udon_with_crispy_tofu/) | Reddit | **1.02** | *0.41* |
+| 5 |[Crispy Cajun Fried Tofu Salad with Maple Mustard Dressing](https://jessicainthekitchen.com/vegan-crispy-cajun-fried-chicken-salad-with-honey-mustard-dressing/) | Jessica in the Kitchen | **0.87** | *0.35* |
+| 6 |[Vegan Persian Fesenjan](https://www.pickuplimes.com/recipe/vegan-persian-fesenjan-2471) | Pick Up Limes | **0.77** | *0.30* |
+| 7 |[Sweet Potato and Vegan Sausage Enchiladas](https://vegnews.com/recipes/vegan-sweet-potato-and-kidney-bean-enchiladas) | VegNews | **0.61** | *0.24* |
+| 8 |[Homemade tempeh!](https://www.reddit.com/r/veganrecipes/comments/1wpkkqp/homemade_tempeh/) | Reddit | **0.61** | *0.24* |
 
 ---
 
@@ -39,12 +39,12 @@
 | Rainbow Nourishments | 0 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 3 | 0 | 0 | 2026-09-29 | ✅ OK |
 | Fragrant Vanilla Cake | 0 | 20 | 0 | 0 | 0 | 0 | 2026-09-28 | ❌ Blocked/ConnErr |
-| Mary's Test Kitchen | 2 | 27 | 0 | 8 | 1 | 1 | 2026-10-02 | ✅ OK |
+| Mary's Test Kitchen | 1 | 27 | 0 | 8 | 1 | 1 | 2026-10-02 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 37 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 45 | 1 | 3 | 0 | 0 | 2026-09-22 | ✅ OK |
-| Dr. Vegan | 1 | 48 | 4 | 48 | 8 | 0 | 2026-10-02 | ✅ OK |
+| Dr. Vegan | 0 | 48 | 4 | 48 | 8 | 0 | 2026-10-02 | ✅ OK |
 | Plant Baes | 1 | 48 | 3 | 7 | 2 | 6 | 2026-09-20 | ✅ OK |
 | PlantYou | 3 | 57 | 57 | 7 | 2 | 0 | 2026-09-18 | ✅ OK |
 | Vegan Richa GF | 0 | 58 | 2 | 14 | 7 | 58 | 2026-09-30 | ✅ OK |
@@ -55,16 +55,16 @@
 | The Hidden Veggies | 3 | 126 | 1 | 13 | 126 | 0 | 2026-09-22 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| Sarah's Vegan Kitchen | 2 | 153 | 0 | 14 | 2 | 1 | 2026-09-25 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 154 | 0 | 14 | 2 | 1 | 2026-09-30 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 170 | 3 | 31 | 10 | 0 | 2026-09-22 | ✅ OK |
-| Dreena Burton | 0 | 178 | 178 | 12 | 18 | 42 | 2026-10-01 | ❌ Blocked/ConnErr |
+| Dreena Burton | 1 | 178 | 178 | 12 | 18 | 42 | 2026-10-01 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-10-01 | ✅ OK |
 | The Stingy Vegan | 2 | 188 | 1 | 188 | 188 | 0 | 2026-09-22 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
-| Simple Vegan Blog | 5 | 197 | 7 | 38 | 15 | 4 | 2026-10-02 | ✅ OK |
+| Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-10-02 | ✅ OK |
 | Steamy Vegan | 1 | 197 | 9 | 32 | 10 | 2 | 2026-09-30 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 202 | 202 | 12 | 0 | 9 | 2026-09-30 | ✅ OK |
@@ -74,7 +74,7 @@
 | Nora Cooks | 2 | 215 | 14 | 33 | 13 | 5 | 2026-09-29 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
-| Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ❌ Blocked/ConnErr |
+| Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Elavegan | 1 | 224 | 5 | 39 | 2 | 216 | 2026-09-30 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 224 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (5) |
 | The Little Blog of Vegan | 0 | 225 | 0 | 41 | 0 | 1 | 2026-10-01 | ✅ OK |
@@ -84,8 +84,8 @@
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
 | Rabbit and Wolves | 2 | 236 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
 | Rhian's Recipes | 2 | 236 | 2 | 9 | 9 | 236 | 2026-09-29 | ✅ OK |
-| The Burger Dude | 7 | 236 | 6 | 14 | 14 | 0 | 2026-09-28 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
+| The Burger Dude | 8 | 237 | 6 | 14 | 14 | 0 | 2026-10-02 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 242 | 242 | 50 | 242 | 4 | 2026-09-17 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
@@ -110,7 +110,7 @@
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-09-23 | ✅ OK |
 | My Darling Vegan | 4 | 274 | 1 | 34 | 4 | 12 | 2026-09-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Eat Figs, Not Pigs | 2 | 283 | 1 | 37 | 2 | 0 | 2026-10-02 | ✅ OK |
+| Eat Figs, Not Pigs | 1 | 283 | 1 | 37 | 2 | 0 | 2026-10-02 | ✅ OK |
 | From My Bowl | 0 | 283 | 3 | 53 | 3 | 5 | 2026-09-29 | ✅ OK |
 | The Plant-Based RD | 0 | 288 | 4 | 17 | 1 | 0 | 2026-09-25 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-09-24 | ✅ OK |
@@ -121,12 +121,12 @@
 | Healthy Little Vittles | 2 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 305 | 3 | 15 | 3 | 5 | 2026-09-26 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 308 | 39 | 86 | 3 | 0 | 2026-09-30 | ✅ OK |
-| Connoisseurus Veg | 2 | 314 | 0 | 34 | 1 | 1 | 2026-10-02 | ✅ OK |
+| Connoisseurus Veg | 1 | 314 | 0 | 34 | 1 | 1 | 2026-10-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 332 | 43 | 40 | 2 | 45 | 2026-09-30 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-09-29 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 39 | 1 | 1 | 2026-10-02 | ✅ OK (3) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-02 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 46 | 0 | 11 | 2026-10-02 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-10-01 | ✅ OK |
+| Reddit | 4 | 350 | 1 | 39 | 1 | 1 | 2026-10-02 | ✅ OK (4) |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 13 | 5 | 1 | 2026-10-02 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 46 | 0 | 11 | 2026-10-02 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
