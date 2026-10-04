@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-04 16:03:52
-**Total Run Time:** 9m 56s
-**Longest Step:** RSS: A Virtual Vegan (1m 13s)
+**Last Run:** 2026-10-04 19:54:48
+**Total Run Time:** 10m 58s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 56s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21391 | 160 new today |
+| **Total Database** | 21393 | 166 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 452 | Total recorded actions in database |
+| **Trending Events** | 516 | Total recorded actions in database |
 | **WFPB / GF** | 2629 / 2790 | 12% / 13% |
-| **Easy / Budget** | 5137 / 2109 | 24% / 9% |
+| **Easy / Budget** | 5139 / 2109 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **7.98** | *3.17* |
-| 2 |[Orange Pound Cake](https://www.theppk.com/2026/10/orange-pound-cake/) | The Post-Punk Kitchen | **4.79** | *1.90* |
-| 3 |[Soba Noodles with Maple Miso Glazed Tempeh](https://www.floraandvino.com/soba-noodles-with-maple-miso-glazed-tempeh/) | Flora & Vino | **1.63** | *0.65* |
-| 4 |[Salted Chocolate Banana Bread Vegan Blondies](https://vegnews.com/recipes/vegan-salted-chocolate-and-banana-bread-blondies) | VegNews | **0.48** | *0.19* |
-| 5 |[Dill Pickle Tofu Bowls (Sheet Pan)](https://www.plantpowercouple.com/recipes/dill-pickle-tofu/) | Plant Power Couple | **0.48** | *0.19* |
-| 6 |[creamy peanut udon with crispy tofu](https://www.reddit.com/r/veganrecipes/comments/1wqvu27/creamy_peanut_udon_with_crispy_tofu/) | Reddit | **0.48** | *0.19* |
-| 7 |[Crispy Cajun Fried Tofu Salad with Maple Mustard Dressing](https://jessicainthekitchen.com/vegan-crispy-cajun-fried-chicken-salad-with-honey-mustard-dressing/) | Jessica in the Kitchen | **0.41** | *0.16* |
-| 8 |[Vegan Persian Fesenjan](https://www.pickuplimes.com/recipe/vegan-persian-fesenjan-2471) | Pick Up Limes | **0.36** | *0.14* |
+| 1 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **13.48** | *5.35* |
+| 2 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **13.11** | *5.20* |
+| 3 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **13.09** | *5.19* |
+| 4 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **7.41** | *2.94* |
+| 5 |[Easy Vegan Fettuccine Alfredo (Nut-Free & Blender-Free!)](https://itdoesnttastelikechicken.com/vegan-fettuccine-alfredo/) | It Doesn't Taste Like Chicken | **5.76** | *2.29* |
+| 6 |[Creamy Plant-Based Mushroom Fettuccine With Cashew Alfredo](https://vegnews.com/recipes/vegan-mushroom-fettuccine-cashew-alfredo) | VegNews | **5.61** | *2.23* |
+| 7 |[Hoisin Braised Mushroom and Tofu Tacos](https://www.eatfigsnotpigs.com/hoisin-braised-mushroom-and-tofu-tacos/?utm_source=rss&utm_medium=rss&utm_campaign=hoisin-braised-mushroom-and-tofu-tacos) | Eat Figs, Not Pigs | **5.60** | *2.22* |
+| 8 |[Mushroom Tofu Stir-Fry (Inspired by Panda Express)](https://www.eatfigsnotpigs.com/mushroom-tofu-stir-fry/?utm_source=rss&utm_medium=rss&utm_campaign=mushroom-tofu-stir-fry) | Eat Figs, Not Pigs | **5.60** | *2.22* |
 
 ---
 
@@ -78,7 +78,7 @@
 | Elavegan | 1 | 224 | 5 | 39 | 2 | 216 | 2026-09-30 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 5 | 224 | 19 | 71 | 18 | 42 | 2026-08-18 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-09-10 | ✅ OK |
-| The Little Blog of Vegan | 1 | 226 | 0 | 41 | 0 | 1 | 2026-10-04 | ✅ OK |
+| The Little Blog of Vegan | 0 | 226 | 0 | 41 | 0 | 1 | 2026-10-04 | ✅ OK |
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
@@ -92,8 +92,8 @@
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Sweet Simple Vegan | 0 | 243 | 4 | 45 | 18 | 2 | 2026-10-02 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
-| Sweet Potato Soul | 1 | 245 | 0 | 36 | 1 | 6 | 2026-09-10 | ✅ OK |
 | The First Mess | 0 | 245 | 1 | 31 | 3 | 2 | 2026-09-30 | ✅ OK |
+| Sweet Potato Soul | 2 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Pick Up Limes | 1 | 251 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
@@ -106,7 +106,7 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
-| Make It Dairy Free | 2 | 272 | 4 | 43 | 2 | 3 | 2026-10-04 | ✅ OK |
+| Make It Dairy Free | 1 | 272 | 4 | 43 | 2 | 3 | 2026-10-04 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-09-23 | ✅ OK |
 | My Darling Vegan | 4 | 274 | 1 | 34 | 4 | 12 | 2026-09-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
@@ -119,14 +119,14 @@
 | It Doesn't Taste Like Chicken | 6 | 294 | 1 | 101 | 7 | 218 | 2026-10-04 | ✅ OK |
 | Plant-Based on a Budget | 4 | 295 | 16 | 73 | 295 | 1 | 2026-09-28 | ✅ OK |
 | Healthy Little Vittles | 2 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
-| Lazy Cat Kitchen | 0 | 305 | 3 | 15 | 3 | 5 | 2026-09-26 | ✅ OK |
+| Lazy Cat Kitchen | 1 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 309 | 39 | 86 | 3 | 0 | 2026-10-03 | ✅ OK |
 | Connoisseurus Veg | 1 | 314 | 0 | 34 | 1 | 1 | 2026-10-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 333 | 43 | 40 | 2 | 45 | 2026-10-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-10-01 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 41 | 1 | 1 | 2026-10-04 | ✅ OK (1) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-04 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 46 | 0 | 11 | 2026-10-03 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 41 | 1 | 1 | 2026-10-04 | ✅ OK (2) |
+| The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-04 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 48 | 0 | 11 | 2026-10-04 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
