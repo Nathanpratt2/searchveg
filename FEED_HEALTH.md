@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-10-04 19:54:48
-**Total Run Time:** 10m 58s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 56s)
+**Last Run:** 2026-10-05 00:14:37
+**Total Run Time:** 12m 10s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 51s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21393 | 166 new today |
+| **Total Database** | 21394 | 159 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 516 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **13.48** | *5.35* |
-| 2 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **13.11** | *5.20* |
-| 3 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **13.09** | *5.19* |
-| 4 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **7.41** | *2.94* |
-| 5 |[Easy Vegan Fettuccine Alfredo (Nut-Free & Blender-Free!)](https://itdoesnttastelikechicken.com/vegan-fettuccine-alfredo/) | It Doesn't Taste Like Chicken | **5.76** | *2.29* |
-| 6 |[Creamy Plant-Based Mushroom Fettuccine With Cashew Alfredo](https://vegnews.com/recipes/vegan-mushroom-fettuccine-cashew-alfredo) | VegNews | **5.61** | *2.23* |
-| 7 |[Hoisin Braised Mushroom and Tofu Tacos](https://www.eatfigsnotpigs.com/hoisin-braised-mushroom-and-tofu-tacos/?utm_source=rss&utm_medium=rss&utm_campaign=hoisin-braised-mushroom-and-tofu-tacos) | Eat Figs, Not Pigs | **5.60** | *2.22* |
-| 8 |[Mushroom Tofu Stir-Fry (Inspired by Panda Express)](https://www.eatfigsnotpigs.com/mushroom-tofu-stir-fry/?utm_source=rss&utm_medium=rss&utm_campaign=mushroom-tofu-stir-fry) | Eat Figs, Not Pigs | **5.60** | *2.22* |
+| 1 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **12.40** | *4.92* |
+| 2 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **12.06** | *4.79* |
+| 3 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **12.04** | *4.78* |
+| 4 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **6.82** | *2.71* |
+| 5 |[Easy Vegan Fettuccine Alfredo (Nut-Free & Blender-Free!)](https://itdoesnttastelikechicken.com/vegan-fettuccine-alfredo/) | It Doesn't Taste Like Chicken | **5.30** | *2.10* |
+| 6 |[Creamy Plant-Based Mushroom Fettuccine With Cashew Alfredo](https://vegnews.com/recipes/vegan-mushroom-fettuccine-cashew-alfredo) | VegNews | **5.16** | *2.05* |
+| 7 |[Hoisin Braised Mushroom and Tofu Tacos](https://www.eatfigsnotpigs.com/hoisin-braised-mushroom-and-tofu-tacos/?utm_source=rss&utm_medium=rss&utm_campaign=hoisin-braised-mushroom-and-tofu-tacos) | Eat Figs, Not Pigs | **5.16** | *2.05* |
+| 8 |[Mushroom Tofu Stir-Fry (Inspired by Panda Express)](https://www.eatfigsnotpigs.com/mushroom-tofu-stir-fry/?utm_source=rss&utm_medium=rss&utm_campaign=mushroom-tofu-stir-fry) | Eat Figs, Not Pigs | **5.16** | *2.05* |
 
 ---
 
@@ -93,9 +93,9 @@
 | Sweet Simple Vegan | 0 | 243 | 4 | 45 | 18 | 2 | 2026-10-02 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | The First Mess | 0 | 245 | 1 | 31 | 3 | 2 | 2026-09-30 | ✅ OK |
-| Sweet Potato Soul | 2 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
+| Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Pick Up Limes | 1 | 251 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
+| Pick Up Limes | 2 | 252 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (2) |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 253 | 30 | 56 | 0 | 62 | 2026-09-30 | ✅ OK |
 | Vegan Richa | 10 | 256 | 10 | 59 | 41 | 73 | 2026-09-30 | ✅ OK |
@@ -119,14 +119,14 @@
 | It Doesn't Taste Like Chicken | 6 | 294 | 1 | 101 | 7 | 218 | 2026-10-04 | ✅ OK |
 | Plant-Based on a Budget | 4 | 295 | 16 | 73 | 295 | 1 | 2026-09-28 | ✅ OK |
 | Healthy Little Vittles | 2 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
-| Lazy Cat Kitchen | 1 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 309 | 39 | 86 | 3 | 0 | 2026-10-03 | ✅ OK |
 | Connoisseurus Veg | 1 | 314 | 0 | 34 | 1 | 1 | 2026-10-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 333 | 43 | 40 | 2 | 45 | 2026-10-03 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-10-01 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 41 | 1 | 1 | 2026-10-04 | ✅ OK (2) |
-| The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-04 | ✅ OK |
-| VegNews | 4 | 350 | 1 | 48 | 0 | 11 | 2026-10-04 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 41 | 1 | 1 | 2026-10-04 | ✅ OK (1) |
+| The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-04 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 48 | 0 | 11 | 2026-10-04 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
