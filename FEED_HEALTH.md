@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-07 07:38:17
-**Total Run Time:** 10m 53s
-**Longest Step:** RSS: Simple Vegan Blog (1m 39s)
+**Last Run:** 2026-10-07 18:03:02
+**Total Run Time:** 10m 16s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 49s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21408 | 159 new today |
+| **Total Database** | 21416 | 169 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 507 | Total recorded actions in database |
-| **WFPB / GF** | 2629 / 2790 | 12% / 13% |
-| **Easy / Budget** | 5148 / 2110 | 24% / 9% |
+| **Trending Events** | 543 | Total recorded actions in database |
+| **WFPB / GF** | 2631 / 2791 | 12% / 13% |
+| **Easy / Budget** | 5151 / 2110 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **4.27** | *1.69* |
-| 2 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **4.15** | *1.65* |
-| 3 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **4.14** | *1.64* |
-| 4 |[Crispy Tofu Katsu](https://sarahsvegankitchen.com/recipes/tofu-katsu/) | Sarah's Vegan Kitchen | **3.11** | *1.23* |
-| 5 |[Healthy Pumpkin Chocolate Chip Oat Bars {vegan & gluten free}](https://www.ambitiouskitchen.com/healthy-pumpkin-chocolate-chip-oat-bars-vegan-gluten-free/) | Ambitious Kitchen (Vegan Recipes) | **2.88** | *1.14* |
-| 6 |[Pumpkin Oatmeal Bars](https://avirtualvegan.com/pumpkin-oatmeal-bars/) | A Virtual Vegan | **2.88** | *1.14* |
-| 7 |[Vegan Pumpkin Chocolate Chip Bars](https://runningonrealfood.com/pumpkin-chocolate-chip-bars/) | Running on Real Food | **2.88** | *1.14* |
-| 8 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **2.35** | *0.93* |
+| 1 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **3.49** | *1.39* |
+| 2 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **3.40** | *1.35* |
+| 3 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **3.39** | *1.35* |
+| 4 |[Crispy Tofu Katsu](https://sarahsvegankitchen.com/recipes/tofu-katsu/) | Sarah's Vegan Kitchen | **2.55** | *1.01* |
+| 5 |[Healthy Pumpkin Chocolate Chip Oat Bars {vegan & gluten free}](https://www.ambitiouskitchen.com/healthy-pumpkin-chocolate-chip-oat-bars-vegan-gluten-free/) | Ambitious Kitchen (Vegan Recipes) | **2.36** | *0.93* |
+| 6 |[Pumpkin Oatmeal Bars](https://avirtualvegan.com/pumpkin-oatmeal-bars/) | A Virtual Vegan | **2.36** | *0.93* |
+| 7 |[Vegan Pumpkin Chocolate Chip Bars](https://runningonrealfood.com/pumpkin-chocolate-chip-bars/) | Running on Real Food | **2.35** | *0.93* |
+| 8 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **1.92** | *0.76* |
 
 ---
 
@@ -45,9 +45,9 @@
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 45 | 1 | 3 | 0 | 0 | 2026-09-22 | ✅ OK |
 | Plant Baes | 1 | 48 | 3 | 7 | 2 | 6 | 2026-09-20 | ✅ OK |
-| Dr. Vegan | 0 | 57 | 4 | 57 | 8 | 0 | 2026-10-05 | ✅ OK |
 | PlantYou | 3 | 57 | 57 | 7 | 2 | 0 | 2026-09-18 | ✅ OK |
-| Vegan Richa GF | 0 | 58 | 2 | 14 | 7 | 58 | 2026-09-30 | ✅ OK |
+| Dr. Vegan | 1 | 58 | 4 | 58 | 8 | 0 | 2026-10-07 | ✅ OK |
+| Vegan Richa GF | 1 | 59 | 2 | 14 | 7 | 59 | 2026-10-07 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Jessica in the Kitchen | 0 | 88 | 2 | 8 | 1 | 4 | 2026-10-06 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -58,7 +58,7 @@
 | Sarah's Vegan Kitchen | 2 | 154 | 0 | 14 | 2 | 1 | 2026-09-30 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 170 | 3 | 31 | 10 | 0 | 2026-09-22 | ✅ OK |
-| Dreena Burton | 1 | 178 | 178 | 12 | 18 | 42 | 2026-10-01 | ✅ OK |
+| Dreena Burton | 1 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-10-01 | ✅ OK |
@@ -82,9 +82,9 @@
 | Cadry's Kitchen | 7 | 228 | 11 | 83 | 21 | 0 | 2026-07-28 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
-| Rabbit and Wolves | 2 | 236 | 0 | 34 | 1 | 0 | 2026-09-14 | ✅ OK |
 | Rhian's Recipes | 2 | 236 | 2 | 9 | 9 | 236 | 2026-09-29 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
+| Rabbit and Wolves | 2 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | The Burger Dude | 7 | 237 | 6 | 14 | 14 | 0 | 2026-10-02 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 242 | 242 | 50 | 242 | 4 | 2026-09-17 | ✅ OK |
@@ -98,7 +98,7 @@
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 1 | 253 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
 | HealthyGirl Kitchen | 0 | 254 | 30 | 57 | 0 | 62 | 2026-10-05 | ✅ OK |
-| Vegan Richa | 10 | 256 | 10 | 59 | 41 | 73 | 2026-09-30 | ✅ OK |
+| Vegan Richa | 10 | 256 | 10 | 59 | 41 | 73 | 2026-10-07 | ✅ OK |
 | Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
 | Plant Power Couple | 0 | 261 | 0 | 261 | 2 | 0 | 2026-09-25 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
@@ -112,21 +112,21 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Eat Figs, Not Pigs | 1 | 284 | 1 | 37 | 2 | 0 | 2026-10-03 | ✅ OK |
 | From My Bowl | 0 | 284 | 3 | 54 | 3 | 5 | 2026-10-06 | ✅ OK |
-| Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-09-24 | ✅ OK |
+| Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-10-07 | ✅ OK |
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 291 | 291 | 26 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 7 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (7) |
 | The Whole Food Plant Based Cooking Show | 0 | 292 | 292 | 8 | 0 | 9 | 2026-09-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 6 | 294 | 1 | 101 | 7 | 218 | 2026-10-04 | ✅ OK |
-| Plant-Based on a Budget | 4 | 296 | 16 | 73 | 296 | 1 | 2026-10-05 | ✅ OK |
+| It Doesn't Taste Like Chicken | 7 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
+| Plant-Based on a Budget | 4 | 296 | 16 | 73 | 296 | 1 | 2026-10-07 | ✅ OK |
 | Healthy Little Vittles | 2 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 310 | 39 | 87 | 3 | 0 | 2026-10-06 | ✅ OK |
-| Connoisseurus Veg | 1 | 315 | 0 | 34 | 1 | 1 | 2026-10-05 | ✅ OK |
+| Connoisseurus Veg | 2 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 334 | 43 | 40 | 2 | 45 | 2026-10-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 25 | 1 | 1 | 2026-10-06 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 42 | 1 | 1 | 2026-10-07 | ✅ OK (1) |
+| Reddit | 3 | 350 | 1 | 42 | 1 | 1 | 2026-10-07 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-06 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 48 | 0 | 11 | 2026-10-06 | ✅ OK |
+| VegNews | 3 | 350 | 1 | 47 | 0 | 11 | 2026-10-07 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
