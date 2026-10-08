@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-10-07 18:03:02
-**Total Run Time:** 10m 16s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 49s)
+**Last Run:** 2026-10-08 01:18:50
+**Total Run Time:** 9m 50s
+**Longest Step:** RSS: A Virtual Vegan (1m 3s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21416 | 169 new today |
+| **Total Database** | 21418 | 151 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 543 | Total recorded actions in database |
+| **Trending Events** | 563 | Total recorded actions in database |
 | **WFPB / GF** | 2631 / 2791 | 12% / 13% |
 | **Easy / Budget** | 5151 / 2110 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **3.49** | *1.39* |
-| 2 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **3.40** | *1.35* |
-| 3 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **3.39** | *1.35* |
-| 4 |[Crispy Tofu Katsu](https://sarahsvegankitchen.com/recipes/tofu-katsu/) | Sarah's Vegan Kitchen | **2.55** | *1.01* |
-| 5 |[Healthy Pumpkin Chocolate Chip Oat Bars {vegan & gluten free}](https://www.ambitiouskitchen.com/healthy-pumpkin-chocolate-chip-oat-bars-vegan-gluten-free/) | Ambitious Kitchen (Vegan Recipes) | **2.36** | *0.93* |
-| 6 |[Pumpkin Oatmeal Bars](https://avirtualvegan.com/pumpkin-oatmeal-bars/) | A Virtual Vegan | **2.36** | *0.93* |
-| 7 |[Vegan Pumpkin Chocolate Chip Bars](https://runningonrealfood.com/pumpkin-chocolate-chip-bars/) | Running on Real Food | **2.35** | *0.93* |
-| 8 |[Skillet Dijon Orzo and Tofu](https://www.reddit.com/r/veganrecipes/comments/1wvxt3u/skillet_dijon_orzo_and_tofu/) | Reddit | **1.92** | *0.76* |
+| 1 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **5.53** | *2.20* |
+| 2 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **5.53** | *2.20* |
+| 3 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **5.53** | *2.20* |
+| 4 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **3.69** | *1.46* |
+| 5 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **3.04** | *1.20* |
+| 6 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **2.95** | *1.17* |
+| 7 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **2.95** | *1.17* |
+| 8 |[Crispy Tofu Katsu](https://sarahsvegankitchen.com/recipes/tofu-katsu/) | Sarah's Vegan Kitchen | **2.21** | *0.88* |
 
 ---
 
@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 5 | 0 | 0 | 2026-09-29 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 4 | 0 | 0 | 2026-09-29 | ✅ OK |
 | Fragrant Vanilla Cake | 1 | 20 | 0 | 0 | 0 | 0 | 2026-09-28 | ✅ OK |
 | Mary's Test Kitchen | 1 | 28 | 0 | 8 | 1 | 1 | 2026-10-03 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
@@ -46,8 +46,8 @@
 | Justine Cooks Vegan | 0 | 45 | 1 | 3 | 0 | 0 | 2026-09-22 | ✅ OK |
 | Plant Baes | 1 | 48 | 3 | 7 | 2 | 6 | 2026-09-20 | ✅ OK |
 | PlantYou | 3 | 57 | 57 | 7 | 2 | 0 | 2026-09-18 | ✅ OK |
-| Dr. Vegan | 1 | 58 | 4 | 58 | 8 | 0 | 2026-10-07 | ✅ OK |
-| Vegan Richa GF | 1 | 59 | 2 | 14 | 7 | 59 | 2026-10-07 | ✅ OK |
+| Dr. Vegan | 0 | 58 | 4 | 58 | 8 | 0 | 2026-10-07 | ✅ OK |
+| Vegan Richa GF | 0 | 59 | 2 | 14 | 7 | 59 | 2026-10-07 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Jessica in the Kitchen | 0 | 88 | 2 | 8 | 1 | 4 | 2026-10-06 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -58,7 +58,7 @@
 | Sarah's Vegan Kitchen | 2 | 154 | 0 | 14 | 2 | 1 | 2026-09-30 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 170 | 3 | 31 | 10 | 0 | 2026-09-22 | ✅ OK |
-| Dreena Burton | 1 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
+| Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-10-01 | ✅ OK |
@@ -84,16 +84,16 @@
 | The Cheap Lazy Vegan | 0 | 235 | 21 | 235 | 235 | 1 | 2026-09-09 | ✅ OK |
 | Rhian's Recipes | 2 | 236 | 2 | 9 | 9 | 236 | 2026-09-29 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Rabbit and Wolves | 2 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
-| The Burger Dude | 7 | 237 | 6 | 14 | 14 | 0 | 2026-10-02 | ✅ OK |
+| Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
+| The Burger Dude | 8 | 238 | 6 | 14 | 14 | 0 | 2026-10-08 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | ZardyPlants | 0 | 242 | 242 | 50 | 242 | 4 | 2026-09-17 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Sweet Simple Vegan | 0 | 243 | 4 | 45 | 18 | 2 | 2026-10-02 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
-| The First Mess | 0 | 245 | 1 | 31 | 3 | 2 | 2026-09-30 | ✅ OK |
 | Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
+| The First Mess | 1 | 246 | 1 | 31 | 3 | 2 | 2026-10-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 1 | 253 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
@@ -108,25 +108,25 @@
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Make It Dairy Free | 1 | 272 | 4 | 43 | 2 | 3 | 2026-10-04 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-09-23 | ✅ OK |
-| My Darling Vegan | 4 | 274 | 1 | 34 | 4 | 12 | 2026-09-29 | ✅ OK |
+| My Darling Vegan | 5 | 275 | 1 | 35 | 4 | 12 | 2026-10-07 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Eat Figs, Not Pigs | 1 | 284 | 1 | 37 | 2 | 0 | 2026-10-03 | ✅ OK |
 | From My Bowl | 0 | 284 | 3 | 54 | 3 | 5 | 2026-10-06 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-10-07 | ✅ OK |
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 7 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (7) |
+| Ann Arbor Vegan Kitchen | 0 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 292 | 292 | 8 | 0 | 9 | 2026-09-30 | ✅ OK |
-| It Doesn't Taste Like Chicken | 7 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
-| Plant-Based on a Budget | 4 | 296 | 16 | 73 | 296 | 1 | 2026-10-07 | ✅ OK |
+| It Doesn't Taste Like Chicken | 6 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
+| Plant-Based on a Budget | 3 | 296 | 16 | 73 | 296 | 1 | 2026-10-07 | ✅ OK |
 | Healthy Little Vittles | 2 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 310 | 39 | 87 | 3 | 0 | 2026-10-06 | ✅ OK |
-| Connoisseurus Veg | 2 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
+| Connoisseurus Veg | 0 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 334 | 43 | 40 | 2 | 45 | 2026-10-06 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 350 | 3 | 25 | 1 | 1 | 2026-10-06 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 42 | 1 | 1 | 2026-10-07 | ✅ OK (3) |
+| Gretchen's Vegan Bakery | 0 | 350 | 3 | 25 | 1 | 1 | 2026-10-06 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 42 | 1 | 1 | 2026-10-07 | ✅ OK (1) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-06 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 47 | 0 | 11 | 2026-10-07 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 47 | 0 | 11 | 2026-10-07 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
