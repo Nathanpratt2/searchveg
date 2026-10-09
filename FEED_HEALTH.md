@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-08 18:06:05
-**Total Run Time:** 10m 14s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 50s)
+**Last Run:** 2026-10-09 01:28:13
+**Total Run Time:** 9m 31s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 28s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21420 | 162 new today |
+| **Total Database** | 21421 | 158 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 563 | Total recorded actions in database |
-| **WFPB / GF** | 2631 / 2790 | 12% / 13% |
-| **Easy / Budget** | 5151 / 2110 | 24% / 9% |
+| **Trending Events** | 571 | Total recorded actions in database |
+| **WFPB / GF** | 2632 / 2790 | 12% / 13% |
+| **Easy / Budget** | 5152 / 2110 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **4.01** | *1.59* |
-| 2 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **4.00** | *1.59* |
-| 3 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **4.00** | *1.59* |
-| 4 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **2.67** | *1.06* |
-| 5 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **2.20** | *0.87* |
-| 6 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **2.14** | *0.85* |
-| 7 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **2.13** | *0.85* |
-| 8 |[Crispy Tofu Katsu](https://sarahsvegankitchen.com/recipes/tofu-katsu/) | Sarah's Vegan Kitchen | **1.60** | *0.64* |
+| 1 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **3.56** | *1.41* |
+| 2 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **3.48** | *1.38* |
+| 3 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **3.48** | *1.38* |
+| 4 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **3.47** | *1.38* |
+| 5 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **2.32** | *0.92* |
+| 6 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **1.91** | *0.76* |
+| 7 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **1.86** | *0.74* |
+| 8 |[sheet pan mushroom birria tacos](https://www.hotforfoodblog.com/recipes/mains/2026/04/30/mushroom-birria-tacos/) | Hot For Food | **1.85** | *0.73* |
 
 ---
 
@@ -38,7 +38,7 @@
 | The Full Helping (Vegan Recipes) | 0 | 4 | 0 | 0 | 0 | 0 | 2026-01-19 | ✅ OK |
 | Rainbow Nourishments | 0 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 4 | 0 | 0 | 2026-09-29 | ✅ OK |
-| Fragrant Vanilla Cake | 0 | 20 | 0 | 0 | 0 | 0 | 2026-09-28 | ❌ Blocked/ConnErr |
+| Fragrant Vanilla Cake | 1 | 20 | 0 | 0 | 0 | 0 | 2026-09-28 | ✅ OK |
 | Mary's Test Kitchen | 1 | 28 | 0 | 8 | 1 | 1 | 2026-10-03 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 37 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
@@ -49,7 +49,7 @@
 | Dr. Vegan | 0 | 58 | 4 | 58 | 8 | 0 | 2026-10-07 | ✅ OK |
 | Vegan Richa GF | 0 | 59 | 2 | 14 | 7 | 59 | 2026-10-07 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
-| Jessica in the Kitchen | 1 | 89 | 2 | 8 | 1 | 4 | 2026-10-08 | ✅ OK |
+| Jessica in the Kitchen | 0 | 89 | 2 | 8 | 1 | 4 | 2026-10-08 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -71,7 +71,7 @@
 | Vegan Heaven | 1 | 205 | 0 | 24 | 0 | 1 | 2026-09-21 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 2 | 212 | 0 | 26 | 0 | 3 | 2026-08-11 | ✅ OK |
-| Nora Cooks | 2 | 215 | 14 | 33 | 13 | 5 | 2026-09-29 | ✅ OK |
+| Nora Cooks | 3 | 216 | 14 | 34 | 13 | 5 | 2026-10-09 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
@@ -111,11 +111,11 @@
 | My Darling Vegan | 4 | 275 | 1 | 35 | 4 | 12 | 2026-10-07 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 284 | 3 | 54 | 3 | 5 | 2026-10-06 | ✅ OK |
-| Eat Figs, Not Pigs | 2 | 285 | 1 | 37 | 2 | 0 | 2026-10-08 | ✅ OK |
+| Eat Figs, Not Pigs | 1 | 285 | 1 | 37 | 2 | 0 | 2026-10-08 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-10-07 | ✅ OK |
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
-| The Whole Food Plant Based Cooking Show | 0 | 292 | 292 | 8 | 0 | 9 | 2026-09-30 | ✅ OK |
+| The Whole Food Plant Based Cooking Show | 1 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK (1) |
 | It Doesn't Taste Like Chicken | 6 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
 | Plant-Based on a Budget | 3 | 296 | 16 | 73 | 296 | 1 | 2026-10-07 | ✅ OK |
 | Healthy Little Vittles | 3 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
@@ -124,9 +124,9 @@
 | Connoisseurus Veg | 0 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 334 | 43 | 40 | 2 | 45 | 2026-10-06 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 25 | 1 | 1 | 2026-10-06 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 42 | 1 | 1 | 2026-10-08 | ✅ OK (4) |
+| Reddit | 2 | 350 | 1 | 42 | 1 | 1 | 2026-10-08 | ✅ OK (2) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-06 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 47 | 0 | 10 | 2026-10-08 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 47 | 0 | 10 | 2026-10-08 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
