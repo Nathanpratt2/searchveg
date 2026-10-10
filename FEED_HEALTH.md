@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-10-10 01:13:38
-**Total Run Time:** 9m 35s
-**Longest Step:** RSS: A Virtual Vegan (1m 7s)
+**Last Run:** 2026-10-10 07:37:00
+**Total Run Time:** 10m 39s
+**Longest Step:** RSS: A Virtual Vegan (1m 15s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21427 | 162 new today |
+| **Total Database** | 21428 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 594 | Total recorded actions in database |
+| **Trending Events** | 602 | Total recorded actions in database |
 | **WFPB / GF** | 2632 / 2790 | 12% / 13% |
 | **Easy / Budget** | 5148 / 2110 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Pumpkin Pie Bars](https://www.reddit.com/r/veganrecipes/comments/1wy17ih/vegan_pumpkin_pie_bars/) | Reddit | **5.93** | *2.35* |
-| 2 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **2.25** | *0.89* |
-| 3 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **2.20** | *0.87* |
-| 4 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **2.20** | *0.87* |
-| 5 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **2.20** | *0.87* |
-| 6 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **1.47** | *0.58* |
-| 7 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **1.21** | *0.48* |
-| 8 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **1.17** | *0.47* |
+| 1 |[Vegan Pumpkin Pie Bars](https://www.reddit.com/r/veganrecipes/comments/1wy17ih/vegan_pumpkin_pie_bars/) | Reddit | **5.24** | *2.08* |
+| 2 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **1.99** | *0.79* |
+| 3 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **1.95** | *0.77* |
+| 4 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **1.94** | *0.77* |
+| 5 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **1.94** | *0.77* |
+| 6 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **1.30** | *0.51* |
+| 7 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **1.07** | *0.42* |
+| 8 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **1.04** | *0.41* |
 
 ---
 
@@ -91,7 +91,7 @@
 | Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-08-27 | ✅ OK |
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
-| Sweet Simple Vegan | 1 | 244 | 4 | 45 | 18 | 2 | 2026-10-09 | ✅ OK |
+| Sweet Simple Vegan | 0 | 244 | 4 | 45 | 18 | 2 | 2026-10-09 | ✅ OK |
 | Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
 | The First Mess | 0 | 246 | 1 | 31 | 3 | 2 | 2026-10-07 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
@@ -122,11 +122,11 @@
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 310 | 39 | 87 | 3 | 0 | 2026-10-06 | ✅ OK |
 | Connoisseurus Veg | 0 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 335 | 43 | 40 | 2 | 45 | 2026-10-09 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 335 | 43 | 40 | 2 | 45 | 2026-10-09 | ✅ OK |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 25 | 1 | 1 | 2026-10-06 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 40 | 1 | 1 | 2026-10-09 | ✅ OK (2) |
-| The Post-Punk Kitchen | 4 | 350 | 2 | 13 | 5 | 1 | 2026-10-09 | ✅ OK |
-| VegNews | 3 | 350 | 1 | 46 | 0 | 10 | 2026-10-09 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 40 | 1 | 1 | 2026-10-09 | ✅ OK (1) |
+| The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-09 | ✅ OK |
+| VegNews | 0 | 350 | 1 | 46 | 0 | 10 | 2026-10-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
