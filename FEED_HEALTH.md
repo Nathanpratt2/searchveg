@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-11 07:39:11
-**Total Run Time:** 8m 14s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (0m 39s)
+**Last Run:** 2026-10-11 16:54:27
+**Total Run Time:** 12m 38s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 57s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21432 | 150 new today |
+| **Total Database** | 21433 | 148 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 609 | Total recorded actions in database |
-| **WFPB / GF** | 2633 / 2790 | 12% / 13% |
-| **Easy / Budget** | 5150 / 2112 | 24% / 9% |
+| **Trending Events** | 601 | Total recorded actions in database |
+| **WFPB / GF** | 2633 / 2789 | 12% / 13% |
+| **Easy / Budget** | 5149 / 2112 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **5.18** | *2.06* |
-| 2 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **5.18** | *2.06* |
-| 3 |[Vegan Pumpkin Pie Bars](https://www.reddit.com/r/veganrecipes/comments/1wy17ih/vegan_pumpkin_pie_bars/) | Reddit | **3.30** | *1.31* |
-| 4 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **1.25** | *0.50* |
-| 5 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **1.22** | *0.49* |
-| 6 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **1.22** | *0.49* |
-| 7 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **1.22** | *0.49* |
-| 8 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **0.82** | *0.32* |
+| 1 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **4.33** | *1.72* |
+| 2 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **4.33** | *1.72* |
+| 3 |[Vegan Pumpkin Pie Bars](https://www.reddit.com/r/veganrecipes/comments/1wy17ih/vegan_pumpkin_pie_bars/) | Reddit | **2.76** | *1.10* |
+| 4 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **1.05** | *0.42* |
+| 5 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **1.02** | *0.41* |
+| 6 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **1.02** | *0.41* |
+| 7 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **1.02** | *0.41* |
+| 8 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **0.68** | *0.27* |
 
 ---
 
@@ -39,9 +39,9 @@
 | Rainbow Nourishments | 0 | 15 | 0 | 3 | 1 | 0 | 2026-09-26 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 4 | 0 | 0 | 2026-09-29 | ✅ OK |
 | Fragrant Vanilla Cake | 0 | 20 | 0 | 0 | 0 | 0 | 2026-09-28 | ❌ Blocked/ConnErr |
-| Mary's Test Kitchen | 1 | 29 | 0 | 8 | 2 | 1 | 2026-10-10 | ✅ OK |
+| Mary's Test Kitchen | 0 | 29 | 0 | 8 | 2 | 1 | 2026-10-10 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 32 | 5 | 1 | 4 | 31 | 2026-09-10 | ✅ OK |
-| Justine Snacks (Vegan Recipes) | 1 | 37 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
+| Justine Snacks (Vegan Recipes) | 0 | 36 | 0 | 2 | 0 | 1 | 2026-09-17 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 45 | 1 | 3 | 0 | 0 | 2026-09-22 | ✅ OK |
 | Plant Baes | 1 | 49 | 3 | 7 | 2 | 6 | 2026-10-09 | ✅ OK |
@@ -56,12 +56,12 @@
 | The Hidden Veggies | 3 | 127 | 1 | 13 | 127 | 0 | 2026-10-03 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 155 | 0 | 14 | 2 | 1 | 2026-10-10 | ✅ OK |
-| Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
+| Earth to Veg | 0 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 170 | 3 | 31 | 10 | 0 | 2026-09-22 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 0 | 178 | 0 | 22 | 1 | 30 | 2026-09-02 | ✅ OK |
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-10-01 | ✅ OK |
 | The Stingy Vegan | 2 | 188 | 1 | 188 | 188 | 0 | 2026-09-22 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-10-09 | ✅ OK |
@@ -106,27 +106,27 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
+| Make It Dairy Free | 0 | 272 | 4 | 43 | 2 | 3 | 2026-10-11 | ✅ OK |
 | A Virtual Vegan | 5 | 273 | 3 | 35 | 1 | 4 | 2026-09-23 | ✅ OK |
-| Make It Dairy Free | 2 | 273 | 4 | 43 | 2 | 3 | 2026-10-11 | ✅ OK |
 | My Darling Vegan | 4 | 275 | 1 | 35 | 4 | 12 | 2026-10-07 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | From My Bowl | 0 | 284 | 3 | 54 | 3 | 5 | 2026-10-06 | ✅ OK |
 | Eat Figs, Not Pigs | 1 | 287 | 1 | 37 | 2 | 0 | 2026-10-10 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-10-07 | ✅ OK |
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
-| It Doesn't Taste Like Chicken | 6 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
+| It Doesn't Taste Like Chicken | 7 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
 | Plant-Based on a Budget | 2 | 296 | 16 | 72 | 296 | 1 | 2026-10-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 310 | 39 | 87 | 3 | 0 | 2026-10-06 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 311 | 39 | 87 | 3 | 0 | 2026-10-11 | ✅ OK |
 | Connoisseurus Veg | 0 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 335 | 43 | 40 | 2 | 45 | 2026-10-09 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 25 | 1 | 1 | 2026-10-09 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 41 | 1 | 1 | 2026-10-11 | ✅ OK (2) |
+| Reddit | 3 | 350 | 1 | 40 | 1 | 1 | 2026-10-11 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-10 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 47 | 0 | 10 | 2026-10-10 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 48 | 0 | 10 | 2026-10-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
