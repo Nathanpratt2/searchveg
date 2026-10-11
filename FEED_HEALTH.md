@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-10-10 20:21:52
-**Total Run Time:** 9m 23s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 47s)
+**Last Run:** 2026-10-11 00:26:22
+**Total Run Time:** 8m 50s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 20s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21430 | 152 new today |
+| **Total Database** | 21430 | 149 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 602 | Total recorded actions in database |
+| **Trending Events** | 609 | Total recorded actions in database |
 | **WFPB / GF** | 2633 / 2790 | 12% / 13% |
 | **Easy / Budget** | 5149 / 2112 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Pumpkin Pie Bars](https://www.reddit.com/r/veganrecipes/comments/1wy17ih/vegan_pumpkin_pie_bars/) | Reddit | **4.10** | *1.63* |
-| 2 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **1.56** | *0.62* |
-| 3 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **1.52** | *0.60* |
-| 4 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **1.52** | *0.60* |
-| 5 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **1.52** | *0.60* |
-| 6 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **1.01** | *0.40* |
-| 7 |[Baked Mushroom And Black Bean Tacos](https://www.chefbai.kitchen/blog/bakedtacoswithelote) | Chef Bai | **0.83** | *0.33* |
-| 8 |[Vegan Cream of Mushroom Soup 🍄‍🟫 Earthy, rich, velvety & so comforting](https://www.reddit.com/r/veganrecipes/comments/1wf0e1y/vegan_cream_of_mushroom_soup_earthy_rich_velvety/) | Reddit | **0.81** | *0.32* |
+| 1 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **5.95** | *2.36* |
+| 2 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **5.95** | *2.36* |
+| 3 |[Vegan Pumpkin Pie Bars](https://www.reddit.com/r/veganrecipes/comments/1wy17ih/vegan_pumpkin_pie_bars/) | Reddit | **3.79** | *1.51* |
+| 4 |[Roasted Sweet Basil Squash With Wild Rice and Mustard Greens Salad](https://vegnews.com/recipes/vegan-roasted-squash-with-wild-rice-greens-salad) | VegNews | **1.44** | *0.57* |
+| 5 |[How to make vegan mayonnaise](https://messyvegancook.com/homemade-vegan-mayonnaise/) | Messy Vegan Cook | **1.41** | *0.56* |
+| 6 |[five minute vegan mayonnaise](https://schoolnightvegan.com/home/vegan-kewpie-mayo/) | School Night Vegan | **1.41** | *0.56* |
+| 7 |[Homemade Vegan Mayonnaise](https://www.pickuplimes.com/recipe/homemade-vegan-mayonnaise-946) | Pick Up Limes | **1.41** | *0.56* |
+| 8 |[Vegan Lentil Meatballs (Baked)](https://drveganblog.com/vegan-lentil-meatballs/) | Dr. Vegan | **0.94** | *0.37* |
 
 ---
 
@@ -123,8 +123,8 @@
 | Monkey & Me Kitchen Adventures | 0 | 310 | 39 | 87 | 3 | 0 | 2026-10-06 | ✅ OK |
 | Connoisseurus Veg | 0 | 316 | 0 | 34 | 1 | 1 | 2026-10-07 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 335 | 43 | 40 | 2 | 45 | 2026-10-09 | ✅ OK |
+| Reddit | 1 | 349 | 1 | 40 | 1 | 1 | 2026-10-10 | ✅ OK (1) |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 25 | 1 | 1 | 2026-10-09 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 40 | 1 | 1 | 2026-10-10 | ✅ OK (4) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-10 | ✅ OK |
 | VegNews | 0 | 350 | 1 | 47 | 0 | 10 | 2026-10-10 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
