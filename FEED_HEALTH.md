@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-10-14 00:38:34
-**Total Run Time:** 11m 21s
-**Longest Step:** RSS: It Doesn't Taste Like Chicken (2m 53s)
+**Last Run:** 2026-10-14 06:35:00
+**Total Run Time:** 10m 26s
+**Longest Step:** RSS: It Doesn't Taste Like Chicken (1m 46s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21460 | 149 new today |
+| **Total Database** | 21460 | 154 new today |
 | **Blogs Monitored** | 120 | 8 HTML / 84 RSS |
 | **Active Sources** | 119 | 5+ recipes |
 | **Trending Events** | 301 | Total recorded actions in database |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Coronavirus disease 2019](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Fragrant Vanilla Cake | **7.28** | *2.89* |
-| 2 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **5.54** | *2.20* |
-| 3 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **3.52** | *1.40* |
-| 4 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **3.52** | *1.40* |
-| 5 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **2.23** | *0.88* |
-| 6 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **2.23** | *0.88* |
-| 7 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **1.48** | *0.59* |
-| 8 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **1.48** | *0.59* |
+| 1 |[Coronavirus disease 2019](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Fragrant Vanilla Cake | **6.50** | *2.58* |
+| 2 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **4.94** | *1.96* |
+| 3 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **3.14** | *1.25* |
+| 4 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **3.14** | *1.25* |
+| 5 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **1.99** | *0.79* |
+| 6 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **1.99** | *0.79* |
+| 7 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **1.32** | *0.52* |
+| 8 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **1.32** | *0.52* |
 
 ---
 
@@ -114,7 +114,7 @@
 | Eat Figs, Not Pigs | 1 | 287 | 1 | 37 | 2 | 0 | 2026-10-10 | ✅ OK |
 | Full of Plants | 3 | 289 | 0 | 43 | 0 | 13 | 2026-10-07 | ✅ OK |
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
 | It Doesn't Taste Like Chicken | 7 | 295 | 1 | 102 | 7 | 218 | 2026-10-07 | ✅ OK |
 | Plant-Based on a Budget | 2 | 296 | 16 | 72 | 296 | 1 | 2026-10-09 | ✅ OK |
@@ -122,7 +122,7 @@
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 311 | 39 | 87 | 3 | 0 | 2026-10-11 | ✅ OK |
 | Connoisseurus Veg | 0 | 317 | 0 | 34 | 1 | 1 | 2026-10-12 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 336 | 43 | 40 | 2 | 45 | 2026-10-13 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 336 | 43 | 40 | 2 | 45 | 2026-10-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 25 | 1 | 1 | 2026-10-11 | ✅ OK |
 | Reddit | 0 | 350 | 1 | 37 | 1 | 1 | 2026-10-13 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 13 | 5 | 1 | 2026-10-12 | ✅ OK |
