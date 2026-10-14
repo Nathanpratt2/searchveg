@@ -45,7 +45,6 @@ TOP_BLOGGERS = [
     ("Justine Snacks (Vegan Recipes)", "https://justinesnacks.com/category/special-diets/vegan/feed/", []),
     ("Sweet Potato Soul", "https://sweetpotatosoul.com/feed/",[]),
     ("A Couple Cooks (Vegan Recipes)", "https://www.acouplecooks.com/tag/vegan/feed/",[]),
-    ("Fragrant Vanilla Cake", "https://www.fragrantvanilla.com/feed/",[]),
     ("Pinch of Yum (Vegan Recipes)", "https://pinchofyum.com/recipes/vegan/feed", []),
     ("Watch Learn Eat", "https://watchlearneat.com/vegan-recipes/feed/", ["Easy"]), 
     ("Dr. Vegan", "https://drveganblog.com/feed/", ["Easy"]),
@@ -147,7 +146,6 @@ HTML_SOURCES = [
         #("Justine Snacks (Vegan Recipes)", ("https://justinesnacks.com/category/special-diets/vegan/page/{}/", 1, 1),[], "wordpress"),
                     #("Sweet Potato Soul", ("https://sweetpotatosoul.com/category/recipes/page/{}/", 1, 1), [], "wordpress"),
         #("A Couple Cooks (Vegan Recipes)", ("https://www.acouplecooks.com/tag/vegan/?_paged={}", 1, 1),[], "wordpress"),
-     #("Fragrant Vanilla Cake", ("https://www.fragrantvanilla.com/page/{}/?s=+", 1, 1), [], "wordpress"),
        # ("Pinch of Yum (Vegan Recipes)", ("https://pinchofyum.com/recipes/vegan/page/{}/?hl=en-US", 1, 1),[], "wordpress"),
     #("Watch Learn Eat", ("https://watchlearneat.com/vegan-recipes/page/{}/", 1, 1), ["Easy"], "wordpress"),#6
         #("Dr. Vegan", ("https://drveganblog.com/page/{}/?s=+", 1, 1), ["Easy"], "wordpress"),#21..not working for squarespace
@@ -1281,7 +1279,7 @@ except (FileNotFoundError, json.JSONDecodeError):
 # 2. Cleanse Database
 initial_count = len(recipes)
 # Remove specific requested blogs
-BLOGS_TO_REMOVE = ["A Couple Cooks"]
+BLOGS_TO_REMOVE = ["A Couple Cooks", "Fragrant Vanilla"]
 
 recipes = [
     r for r in recipes 
