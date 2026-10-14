@@ -111,7 +111,7 @@ TOP_BLOGGERS = [
     ("Sweet Simple Vegan", "https://sweetsimplevegan.com/feed/", []),
     ("Bianca Zapatka", "https://biancazapatka.com/en/feed/", []),
     #("The Cheap Lazy Vegan", "https://thecheaplazyvegan.com/feed/", ["Budget", "Easy"]),
-    ("It Doesn't Taste Like Chicken", "https://itdoesnttastelikechicken.com/feed/", []),
+    #("It Doesn't Taste Like Chicken", "https://itdoesnttastelikechicken.com/feed/", []),
     ("The Post-Punk Kitchen", "https://www.theppk.com/feed/", []),
     ("Steamy Vegan", "https://steamyvegan.com/feed/", []),
     ("Healthier Steps", "https://healthiersteps.com/feed/", []),
