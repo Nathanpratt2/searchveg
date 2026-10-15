@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-15 00:10:00
-**Total Run Time:** 10m 17s
-**Longest Step:** RSS: Simple Vegan Blog (1m 23s)
+**Last Run:** 2026-10-15 06:14:23
+**Total Run Time:** 7m 54s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21438 | 143 new today |
+| **Total Database** | 21438 | 145 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 301 | Total recorded actions in database |
 | **WFPB / GF** | 2634 / 2791 | 12% / 13% |
-| **Easy / Budget** | 5158 / 2113 | 24% / 9% |
+| **Easy / Budget** | 5159 / 2114 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **4.63** | *1.84* |
-| 2 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **3.52** | *1.40* |
-| 3 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **2.24** | *0.89* |
-| 4 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **2.24** | *0.89* |
-| 5 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **1.42** | *0.56* |
-| 6 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **1.42** | *0.56* |
-| 7 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **0.94** | *0.37* |
-| 8 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **0.94** | *0.37* |
+| 1 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **4.12** | *1.63* |
+| 2 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **3.13** | *1.24* |
+| 3 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **1.99** | *0.79* |
+| 4 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **1.99** | *0.79* |
+| 5 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **1.26** | *0.50* |
+| 6 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **1.26** | *0.50* |
+| 7 |[Masala potatoes on red lentil pancakes](https://www.lazycatkitchen.com/masala-potatoes-red-lentil-pancakes/) | Lazy Cat Kitchen | **0.84** | *0.33* |
+| 8 |[Red Wine Lentils with Confit Cherry Tomatoes & Fennel](https://thefirstmess.com/2023/08/23/red-wine-lentils-confit-cherry-tomatoes-fennel/) | The First Mess | **0.84** | *0.33* |
 
 ---
 
@@ -64,7 +64,7 @@
 | The Stingy Vegan | 2 | 188 | 1 | 188 | 188 | 0 | 2026-09-22 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-10-09 | ✅ OK |
-| Steamy Vegan | 0 | 199 | 9 | 32 | 10 | 2 | 2026-10-14 | ✅ OK |
+| Steamy Vegan | 1 | 200 | 9 | 32 | 10 | 2 | 2026-10-14 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 202 | 202 | 12 | 0 | 9 | 2026-09-30 | ✅ OK |
 | Vegan Heaven | 1 | 205 | 0 | 24 | 0 | 1 | 2026-09-21 | ✅ OK |
@@ -115,7 +115,7 @@
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
-| Plant-Based on a Budget | 2 | 296 | 16 | 72 | 296 | 1 | 2026-10-09 | ✅ OK |
+| Plant-Based on a Budget | 3 | 297 | 16 | 73 | 297 | 1 | 2026-10-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 299 | 10 | 49 | 2 | 296 | 2026-10-01 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 312 | 39 | 87 | 3 | 0 | 2026-10-14 | ✅ OK |
