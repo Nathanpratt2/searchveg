@@ -1,7 +1,7 @@
 # Feed Health Report
-**Last Run:** 2026-10-15 23:52:18
-**Total Run Time:** 8m 9s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-10-16 06:11:23
+**Total Run Time:** 8m 5s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **5.16** | *2.05* |
-| 2 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **5.16** | *2.05* |
-| 3 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **2.93** | *1.16* |
-| 4 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **2.23** | *0.89* |
-| 5 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **1.42** | *0.56* |
-| 6 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **1.42** | *0.56* |
-| 7 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **0.90** | *0.36* |
-| 8 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **0.90** | *0.36* |
+| 1 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **4.57** | *1.81* |
+| 2 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **4.57** | *1.81* |
+| 3 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **2.60** | *1.03* |
+| 4 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **1.98** | *0.78* |
+| 5 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **1.26** | *0.50* |
+| 6 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **1.25** | *0.50* |
+| 7 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **0.80** | *0.32* |
+| 8 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **0.79** | *0.32* |
 
 ---
 
@@ -60,7 +60,7 @@
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
 | Holistic Chef Academy | 0 | 181 | 3 | 8 | 0 | 7 | 2026-06-13 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-10-01 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 23 | 1 | 31 | 2026-10-15 | ✅ OK |
 | The Stingy Vegan | 2 | 188 | 1 | 188 | 188 | 0 | 2026-09-22 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-10-09 | ✅ OK |
