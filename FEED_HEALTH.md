@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-10-17 06:00:01
-**Total Run Time:** 10m 7s
-**Longest Step:** RSS: Simple Vegan Blog (1m 33s)
+**Last Run:** 2026-10-17 11:09:38
+**Total Run Time:** 8m 9s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21448 | 148 new today |
+| **Total Database** | 21448 | 153 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 335 | Total recorded actions in database |
-| **WFPB / GF** | 2636 / 2793 | 12% / 13% |
+| **WFPB / GF** | 2636 / 2792 | 12% / 13% |
 | **Easy / Budget** | 5159 / 2115 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **2.89** | *1.15* |
-| 2 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **2.89** | *1.15* |
-| 3 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **1.64** | *0.65* |
-| 4 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **1.25** | *0.50* |
-| 5 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **0.79** | *0.32* |
-| 6 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **0.79** | *0.31* |
-| 7 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **0.50** | *0.20* |
-| 8 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **0.50** | *0.20* |
+| 1 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **2.62** | *1.04* |
+| 2 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **2.62** | *1.04* |
+| 3 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **1.49** | *0.59* |
+| 4 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **1.13** | *0.45* |
+| 5 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **0.72** | *0.29* |
+| 6 |[Candied Pecans](https://www.pickuplimes.com/recipe/candied-pecans-2450) | Pick Up Limes | **0.72** | *0.29* |
+| 7 |[Potato Crust Quiche (Vegan Ham, Spinach & Cheese)](https://sweetsimplevegan.com/potato-crust-quiche/) | Sweet Simple Vegan | **0.46** | *0.18* |
+| 8 |[Creamy Vegan Sweet Potato Alfredo](https://vegnews.com/recipes/vegan-sweet-potato-alfredo) | VegNews | **0.46** | *0.18* |
 
 ---
 
@@ -64,8 +64,8 @@
 | The Stingy Vegan | 2 | 189 | 1 | 189 | 189 | 0 | 2026-10-16 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-10-09 | ✅ OK |
-| Steamy Vegan | 0 | 199 | 9 | 32 | 10 | 2 | 2026-10-14 | ❌ Blocked/ConnErr |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
+| Steamy Vegan | 2 | 201 | 9 | 32 | 10 | 2 | 2026-10-16 | ✅ OK |
 | Flora & Vino | 0 | 202 | 202 | 12 | 0 | 9 | 2026-09-30 | ✅ OK |
 | Vegan Heaven | 1 | 205 | 0 | 24 | 0 | 1 | 2026-09-21 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
@@ -120,11 +120,11 @@
 | Lazy Cat Kitchen | 0 | 306 | 3 | 15 | 3 | 5 | 2026-10-04 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 312 | 39 | 87 | 3 | 0 | 2026-10-14 | ✅ OK |
 | Connoisseurus Veg | 0 | 318 | 0 | 34 | 1 | 1 | 2026-10-16 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 337 | 43 | 40 | 2 | 45 | 2026-10-17 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 337 | 43 | 40 | 2 | 45 | 2026-10-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-10-15 | ✅ OK |
 | Reddit | 3 | 350 | 1 | 36 | 1 | 1 | 2026-10-16 | ✅ OK (3) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-16 | ✅ OK |
-| VegNews | 0 | 350 | 1 | 48 | 0 | 9 | 2026-10-16 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 48 | 0 | 8 | 2026-10-17 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
