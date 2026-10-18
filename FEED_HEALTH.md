@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-10-18 11:37:53
-**Total Run Time:** 7m 40s
-**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 37s)
+**Last Run:** 2026-10-18 18:52:55
+**Total Run Time:** 8m 11s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21452 | 152 new today |
+| **Total Database** | 21456 | 150 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 351 | Total recorded actions in database |
-| **WFPB / GF** | 2636 / 2791 | 12% / 13% |
+| **Trending Events** | 288 | Total recorded actions in database |
+| **WFPB / GF** | 2636 / 2792 | 12% / 13% |
 | **Easy / Budget** | 5160 / 2116 | 24% / 9% |
 
 ---
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cheesy Vegan Spinach Lasagna With Parmesan, Ricotta, and Mozzarella](https://vegnews.com/recipes/cheesy-vegan-spinach-lasagna) | VegNews | **4.74** | *1.88* |
-| 2 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **4.73** | *1.88* |
-| 3 |[Burnt lasagne 😡](https://www.reddit.com/r/veganrecipes/comments/1x7k0qh/burnt_lasagne/) | Reddit | **4.72** | *1.87* |
-| 4 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **1.63** | *0.65* |
-| 5 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **1.63** | *0.65* |
-| 6 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **0.93** | *0.37* |
-| 7 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **0.71** | *0.28* |
-| 8 |[Vegan Candied Pecans](https://www.gretchensveganbakery.com/vegan-candied-pecans/) | Gretchen's Vegan Bakery | **0.45** | *0.18* |
+| 1 |[Cheesy Vegan Spinach Lasagna With Parmesan, Ricotta, and Mozzarella](https://vegnews.com/recipes/cheesy-vegan-spinach-lasagna) | VegNews | **4.12** | *1.63* |
+| 2 |[My favourite comfort food: Vegan Lasagna 💚](https://www.reddit.com/r/veganrecipes/comments/1w3bvxm/my_favourite_comfort_food_vegan_lasagna/) | Reddit | **4.11** | *1.63* |
+| 3 |[Burnt lasagne 😡](https://www.reddit.com/r/veganrecipes/comments/1x7k0qh/burnt_lasagne/) | Reddit | **4.11** | *1.63* |
+| 4 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **3.75** | *1.49* |
+| 5 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **1.42** | *0.56* |
+| 6 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **1.42** | *0.56* |
+| 7 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **0.81** | *0.32* |
+| 8 |[Garlicky Miso-Butter Sheet Pan Smashed Potatoes](https://vegnews.com/recipes/vegan-miso-butter-smashed-potatoes) | VegNews | **0.61** | *0.24* |
 
 ---
 
@@ -80,10 +80,10 @@
 | The Little Blog of Vegan | 0 | 228 | 0 | 41 | 0 | 1 | 2026-10-16 | ✅ OK |
 | Cadry's Kitchen | 6 | 229 | 11 | 84 | 21 | 0 | 2026-10-13 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| Rhian's Recipes | 0 | 236 | 2 | 9 | 9 | 236 | 2026-09-29 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 236 | 21 | 236 | 236 | 1 | 2026-10-17 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
+| Rhian's Recipes | 1 | 237 | 2 | 9 | 9 | 237 | 2026-10-18 | ✅ OK |
 | The Burger Dude | 8 | 238 | 6 | 13 | 14 | 0 | 2026-10-17 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 6 | 243 | 40 | 27 | 33 | 2 | 2026-10-14 | ✅ OK |
@@ -105,8 +105,8 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
-| Make It Dairy Free | 1 | 273 | 4 | 43 | 2 | 3 | 2026-10-11 | ✅ OK |
 | A Virtual Vegan | 4 | 274 | 3 | 35 | 1 | 4 | 2026-09-23 | ✅ OK |
+| Make It Dairy Free | 2 | 274 | 4 | 43 | 2 | 3 | 2026-10-18 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | My Darling Vegan | 3 | 276 | 1 | 35 | 4 | 12 | 2026-10-12 | ✅ OK |
 | From My Bowl | 0 | 285 | 3 | 55 | 3 | 5 | 2026-10-13 | ✅ OK |
@@ -122,9 +122,9 @@
 | Connoisseurus Veg | 0 | 318 | 0 | 34 | 1 | 1 | 2026-10-16 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 337 | 43 | 40 | 2 | 45 | 2026-10-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-10-15 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 36 | 1 | 1 | 2026-10-17 | ✅ OK (3) |
+| Reddit | 2 | 350 | 1 | 36 | 1 | 1 | 2026-10-18 | ✅ OK (2) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-16 | ✅ OK |
-| VegNews | 4 | 350 | 1 | 48 | 0 | 7 | 2026-10-18 | ✅ OK |
+| VegNews | 1 | 350 | 1 | 48 | 0 | 7 | 2026-10-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
