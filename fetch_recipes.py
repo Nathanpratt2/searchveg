@@ -1688,27 +1688,77 @@ try:
                     if link not in latest_interaction_time or created_at > latest_interaction_time[link]:
                         latest_interaction_time[link] = created_at
                         
-                # 1. Sort all candidates:
-                #    Primary: Rounded score (highest first)
-                #    Secondary (Tie-breaker): Latest interaction time (newest first)
+                # Fast title lookup to detect search topic collisions
+                recipe_title_map = {r['link']: r['title'] for r in final_pruned_list}
+
+                # Helper to extract clean keywords from a title
+                def get_title_keywords(title_str):
+                    if not title_str: return set()
+                    # Remove parentheticals like "(11g Protein, No Added Sugar)"
+                    clean = re.sub(r'\(.*?\)|\[.*?\]', '', title_str.lower())
+                    clean = re.sub(r'[^a-z0-9\s]', ' ', clean)
+                    stop_words = {
+                        'vegan', 'vegetarian', 'plant', 'based', 'wfpb', 'gluten', 'free', 'gf',
+                        'easy', 'best', 'healthy', 'simple', 'quick', 'homemade', 'recipe', 'recipes',
+                        'the', 'a', 'an', 'and', 'with', 'in', 'for', 'of', 'to', 'no', 'super', 
+                        'delicious', 'oil', 'minute', 'minutes', 'pot', 'pan', 'sheet', 'one', 'bowl'
+                    }
+                    words = set()
+                    for w in clean.split():
+                        if w not in stop_words and len(w) > 2:
+                            # Normalize plurals/stems (e.g. bars -> bar, lasagne -> lasagna)
+                            if w.endswith('ies'): w = w[:-3] + 'y'
+                            elif w.endswith('es') and not w.endswith('ses'): w = w[:-2]
+                            elif w.endswith('s') and not w.endswith('ss'): w = w[:-1]
+                            words.add(w)
+                    return words
+
+                # Sort candidates by raw score descending (highest score wins)
                 sorted_candidates = sorted(
                     scores.keys(),
                     key=lambda l: (
-                        round(scores[l], 2),
+                        scores[l],
                         latest_interaction_time.get(l, datetime.min.replace(tzinfo=timezone.utc))
                     ),
                     reverse=True
                 )
 
-                # 2. In the event of tied points, keep only the latest clicked recipe
+                # Select Top 8 while deduplicating same-search clicks
                 top_scored = []
-                seen_scores = set()
-                for l in sorted_candidates:
-                    pts = round(scores[l], 2)
-                    if pts in seen_scores:
-                        continue  # Skip older recipes sharing the tied score
-                    seen_scores.add(pts)
-                    top_scored.append((l, scores[l]))
+                accepted_links = []
+
+                for link in sorted_candidates:
+                    curr_time = latest_interaction_time.get(link)
+                    curr_words = get_title_keywords(recipe_title_map.get(link, ""))
+                    
+                    is_search_duplicate = False
+                    for accepted_link in accepted_links:
+                        prev_time = latest_interaction_time.get(accepted_link)
+                        prev_words = get_title_keywords(recipe_title_map.get(accepted_link, ""))
+                        
+                        # 1. Check time difference between the interactions
+                        time_diff_hours = abs((curr_time - prev_time).total_seconds()) / 3600.0 if (curr_time and prev_time) else 999.0
+                        
+                        # 2. Check title overlap
+                        overlap = curr_words.intersection(prev_words)
+                        stem_match = any((w1[:5] == w2[:5] and len(w1) >= 4) for w1 in curr_words for w2 in prev_words)
+                        
+                        # Condition A: Same browsing session (within 2 hours) + shares at least 1 keyword (e.g. "lasagna", "bars")
+                        if time_diff_hours <= 2.0 and (len(overlap) >= 1 or stem_match):
+                            is_search_duplicate = True
+                            break
+                            
+                        # Condition B: High topic similarity (shares 2+ keywords like "breakfast" + "bars"), even across sessions
+                        if len(overlap) >= 2:
+                            is_search_duplicate = True
+                            break
+
+                    if is_search_duplicate:
+                        continue  # Discard collateral search click; keep only the top winner
+
+                    top_scored.append((link, scores[link]))
+                    accepted_links.append(link)
+
                     if len(top_scored) == 8:
                         break
 
