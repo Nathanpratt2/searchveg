@@ -1635,58 +1635,85 @@ try:
         res = requests.get(f"{supabase_url}/rest/v1/recipe_interactions", headers=headers, params=query_params, timeout=10)
         
         if res.status_code == 200:
-            interactions = res.json()
-            trending_events_count = len(interactions)
-            scores = {}
-            for row in interactions:
-                link = row.get("link")
-                action = row.get("action")
-                created_at_str = row.get("created_at")
-                
-                if not link or not created_at_str: continue
-                
-                # NEW: Skip anything that isn't a valid recipe URL (like search terms such as "cream cheese")
-                if not link.startswith("http"): continue
-                
-                # NEW: Skip non-recipe interaction events entirely so they don't even enter the dictionary
-                if action in ["search_appear", "search_query", "filter_click", "mood_click", "feeling_lucky"]:
-                    continue
-                
-               # Calculate Age in Days
-                try:
-                    created_at = parser.parse(created_at_str)
-                    if created_at.tzinfo is None:
-                        created_at = created_at.replace(tzinfo=timezone.utc)
-                    age_in_days = (now_utc - created_at).total_seconds() / 86400.0
-                except:
-                    age_in_days = 7 # fallback so it gets 0 weight if parsing fails
+                interactions = res.json()
+                trending_events_count = len(interactions)
+                scores = {}
+                latest_interaction_time = {}
+
+                for row in interactions:
+                    link = row.get("link")
+                    action = row.get("action")
+                    created_at_str = row.get("created_at")
+
+                    if not link or not created_at_str: continue
+
+                    # Skip anything that isn't a valid recipe URL
+                    if not link.startswith("http"): continue
+
+                    # Skip non-recipe interaction events
+                    if action in ["search_appear", "search_query", "filter_click", "mood_click", "feeling_lucky"]:
+                        continue
+
+                    # Calculate Age in Days & Parse Timestamp
+                    try:
+                        created_at = parser.parse(created_at_str)
+                        if created_at.tzinfo is None:
+                            created_at = created_at.replace(tzinfo=timezone.utc)
+                        age_in_days = (now_utc - created_at).total_seconds() / 86400.0
+                    except:
+                        age_in_days = 7  # fallback if parsing fails
+                        created_at = now_utc
+
+                    # EXPONENTIAL DECAY: Half-life of 1.5 days
+                    weight = 0.5 ** (age_in_days / 1.5)
                     
-                # EXPONENTIAL DECAY: Half-life of 1.5 days. 
-                # Removed the hard 7-day cutoff so all historical data is read.
-                # Older data will naturally weigh less due to the decay curve.
-                weight = 0.5 ** (age_in_days / 1.5)
-                
-                if link not in scores:
-                    scores[link] = 0.0
-                
-                # Base points assignment
-                if action in ["share_search", "save_search"]:
-                    base_points = 8
-                elif action == "share":
-                    base_points = 7
-                elif action in ["save", "click_search"]:
-                    base_points = 6
-                elif action == "click":
-                    base_points = 4
-                else:
-                    base_points = 1
+                    if link not in scores:
+                        scores[link] = 0.0
                     
-                scores[link] += (base_points * weight)
-                    
-            # Sort by highest score and take the Top 8
-            top_scored = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:8]
-            trending_map = dict(top_scored)
-            print(f"   Top 8 trending calculated successfully (from {trending_events_count} events).", flush=True)
+                    # Base points assignment
+                    if action in ["share_search", "save_search"]:
+                        base_points = 8
+                    elif action == "share":
+                        base_points = 7
+                    elif action in ["save", "click_search"]:
+                        base_points = 6
+                    elif action == "click":
+                        base_points = 4
+                    else:
+                        base_points = 1
+                        
+                    scores[link] += (base_points * weight)
+
+                    # Track the most recent interaction timestamp for each link
+                    if link not in latest_interaction_time or created_at > latest_interaction_time[link]:
+                        latest_interaction_time[link] = created_at
+                        
+                # 1. Sort all candidates:
+                #    Primary: Rounded score (highest first)
+                #    Secondary (Tie-breaker): Latest interaction time (newest first)
+                sorted_candidates = sorted(
+                    scores.keys(),
+                    key=lambda l: (
+                        round(scores[l], 2),
+                        latest_interaction_time.get(l, datetime.min.replace(tzinfo=timezone.utc))
+                    ),
+                    reverse=True
+                )
+
+                # 2. In the event of tied points, keep only the latest clicked recipe
+                top_scored = []
+                seen_scores = set()
+                for l in sorted_candidates:
+                    pts = round(scores[l], 2)
+                    if pts in seen_scores:
+                        continue  # Skip older recipes sharing the tied score
+                    seen_scores.add(pts)
+                    top_scored.append((l, scores[l]))
+                    if len(top_scored) == 8:
+                        break
+
+                trending_map = dict(top_scored)
+                print(f"   Top 8 trending calculated successfully (from {trending_events_count} events).", flush=True)
         else:
             print(f"   [!] Supabase API error: {res.status_code}", flush=True)
     else:
