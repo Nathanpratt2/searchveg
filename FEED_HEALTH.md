@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-10-19 06:35:17
-**Total Run Time:** 7m 42s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-10-19 17:48:10
+**Total Run Time:** 7m 27s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 33s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21457 | 148 new today |
+| **Total Database** | 21459 | 145 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 322 | Total recorded actions in database |
+| **Trending Events** | 314 | Total recorded actions in database |
 | **WFPB / GF** | 2636 / 2792 | 12% / 13% |
 | **Easy / Budget** | 5162 / 2116 | 24% / 9% |
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Banana Oatmeal Chocolate Chip Breakfast Bars](https://www.floraandvino.com/banana-oatmeal-chocolate-chip-breakfast-bars/) | Flora & Vino | **4.97** | *1.97* |
-| 2 |[Healthy Breakfast Bars (11g Protein, No Added Sugar)](https://www.theconsciousplantkitchen.com/healthy-breakfast-bars/) | The Conscious Plant Kitchen | **4.97** | *1.97* |
-| 3 |[Cinnamon Banana Bread](https://highcarbhannah.co/blogs/snacks/cinnamon-banana-bread) | High Carb Hannah | **4.97** | *1.97* |
-| 4 |[Chocolate Breakfast Bars (11g Protein, 8g Fiber)](https://www.theconsciousplantkitchen.com/chocolate-breakfast-bars/) | The Conscious Plant Kitchen | **4.97** | *1.97* |
-| 5 |[Chocolate Dipped Peanut Butter Oatmeal Bars](https://elavegan.com/peanut-butter-oatmeal-bars/) | Elavegan | **4.97** | *1.97* |
-| 6 |[High-Protein Granola Bars (No Protein Powder!)](https://steamyvegan.com/high-protein-granola-bars/) | Steamy Vegan | **4.97** | *1.97* |
-| 7 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **4.40** | *1.75* |
-| 8 |[Vegan Jalapeño Popper Wonton Cups](https://sweetsimplevegan.com/vegan-jalapeno-popper-wonton-cups/) | Sweet Simple Vegan | **4.39** | *1.74* |
+| 1 |[Banana Oatmeal Chocolate Chip Breakfast Bars](https://www.floraandvino.com/banana-oatmeal-chocolate-chip-breakfast-bars/) | Flora & Vino | **7.58** | *3.01* |
+| 2 |[Healthy Breakfast Bars (11g Protein, No Added Sugar)](https://www.theconsciousplantkitchen.com/healthy-breakfast-bars/) | The Conscious Plant Kitchen | **4.01** | *1.59* |
+| 3 |[Chocolate Breakfast Bars (11g Protein, 8g Fiber)](https://www.theconsciousplantkitchen.com/chocolate-breakfast-bars/) | The Conscious Plant Kitchen | **4.00** | *1.59* |
+| 4 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **3.54** | *1.41* |
+| 5 |[Cheesy Vegan Spinach Lasagna With Parmesan, Ricotta, and Mozzarella](https://vegnews.com/recipes/cheesy-vegan-spinach-lasagna) | VegNews | **2.65** | *1.05* |
+| 6 |[Burnt lasagne 😡](https://www.reddit.com/r/veganrecipes/comments/1x7k0qh/burnt_lasagne/) | Reddit | **2.64** | *1.05* |
+| 7 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **2.41** | *0.96* |
+| 8 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **0.52** | *0.21* |
 
 ---
 
@@ -69,7 +69,7 @@
 | Flora & Vino | 0 | 202 | 202 | 12 | 0 | 9 | 2026-09-30 | ✅ OK |
 | Vegan Heaven | 1 | 205 | 0 | 24 | 0 | 1 | 2026-09-21 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
-| Gimme Some Oven (Vegan Recipes) | 2 | 212 | 0 | 26 | 0 | 3 | 2026-08-11 | ✅ OK |
+| Gimme Some Oven (Vegan Recipes) | 3 | 213 | 0 | 26 | 0 | 3 | 2026-10-19 | ✅ OK |
 | Nora Cooks | 2 | 217 | 14 | 34 | 13 | 5 | 2026-10-16 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
@@ -113,16 +113,16 @@
 | Eat Figs, Not Pigs | 1 | 289 | 1 | 37 | 2 | 0 | 2026-10-18 | ✅ OK |
 | Full of Plants | 2 | 289 | 0 | 43 | 0 | 13 | 2026-10-15 | ✅ OK |
 | The Plant-Based RD | 0 | 289 | 4 | 17 | 1 | 0 | 2026-10-06 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 292 | 292 | 27 | 3 | 0 | 2026-09-23 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
 | Plant-Based on a Budget | 3 | 297 | 16 | 73 | 297 | 1 | 2026-10-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 300 | 10 | 49 | 2 | 297 | 2026-10-15 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 307 | 3 | 15 | 3 | 5 | 2026-10-17 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 313 | 39 | 88 | 3 | 0 | 2026-10-18 | ✅ OK |
-| Connoisseurus Veg | 0 | 318 | 0 | 34 | 1 | 1 | 2026-10-16 | ✅ OK |
+| Connoisseurus Veg | 1 | 319 | 0 | 34 | 1 | 1 | 2026-10-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 337 | 43 | 40 | 2 | 45 | 2026-10-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-10-15 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 37 | 1 | 1 | 2026-10-19 | ✅ OK (2) |
+| Reddit | 3 | 350 | 1 | 37 | 1 | 1 | 2026-10-19 | ✅ OK (3) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-16 | ✅ OK |
 | VegNews | 1 | 350 | 1 | 48 | 0 | 7 | 2026-10-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |

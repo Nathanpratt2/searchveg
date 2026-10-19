@@ -1,5 +1,60 @@
 [
   {
+    "blog_name": "Gimme Some Oven (Vegan Recipes)",
+    "title": "Falafel",
+    "link": "https://www.gimmesomeoven.com/falafel-recipe/",
+    "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Falafel-9.jpg",
+    "date": "2026-10-19T17:38:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Cinnamon Apples",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1xa01fd/cinnamon_apples/",
+    "image": "https://preview.redd.it/3la7wvbh0gwh1.jpeg?width=640&crop=smart&auto=webp&s=f217dd90f4848e23184b4e544d9ff1470b1a795d",
+    "date": "2026-10-19T15:31:29+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Almond Joy Overnight Oats",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1x9xywu/almond_joy_overnight_oats/",
+    "image": "https://preview.redd.it/ut7olq29mfwh1.jpeg?width=640&crop=smart&auto=webp&s=e119be09caff52cc8dbe2f40a5c4b8186427e2fa",
+    "date": "2026-10-19T14:12:03+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Vegan Brown Butter Pasta with Fried Sage & Pecans",
+    "link": "https://www.connoisseurusveg.com/vegan-brown-butter-pasta/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/10/brown-butter-pasta-6-of-7.jpg",
+    "date": "2026-10-19T13:04:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Reddit",
+    "title": "Vegan Stuffed Bell Peppers \ud83c\udf31 Savory rice and plant-based protein baked in it's own colorful bowl",
+    "link": "https://www.reddit.com/r/veganrecipes/comments/1x9qc1g/vegan_stuffed_bell_peppers_savory_rice_and/",
+    "image": "https://preview.redd.it/3a3vhxbpldwh1.png?width=640&crop=smart&auto=webp&s=b1df398b08a74b35c769bca1ae11bad76d0ecd8e",
+    "date": "2026-10-19T07:25:50+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Reddit",
     "title": "Air Fryer Carrot Potato Cutlets",
     "link": "https://www.reddit.com/r/veganrecipes/comments/1x9idj3/air_fryer_carrot_potato_cutlets/",
@@ -150,8 +205,8 @@
       "Easy",
       "Budget"
     ],
-    "is_trending": false,
-    "trending_score": 0
+    "is_trending": true,
+    "trending_score": 2.41
   },
   {
     "blog_name": "Lazy Cat Kitchen",
@@ -323,8 +378,8 @@
     "date": "2026-10-16T15:57:43+00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
+    "is_trending": true,
+    "trending_score": 2.64
   },
   {
     "blog_name": "VegNews",
@@ -4996,8 +5051,8 @@
     "date": "2026-09-18T21:52:44+00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": true,
-    "trending_score": 4.97
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "Reddit",
@@ -10599,8 +10654,8 @@
     "date": "2026-08-13T14:55:00+00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
+    "is_trending": true,
+    "trending_score": 2.65
   },
   {
     "blog_name": "VegNews",
@@ -12259,8 +12314,8 @@
     "special_tags": [
       "GF"
     ],
-    "is_trending": true,
-    "trending_score": 4.97
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "Reddit",
@@ -14816,28 +14871,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "Reddit",
-    "title": "Vegan beef stroganof yummy",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1uxap69/vegan_beef_stroganof_yummy/",
-    "image": "https://preview.redd.it/glx5vbsz5fdh1.jpeg?width=640&crop=smart&auto=webp&s=caab4c1a2e40749d7d61d38cbff5c4fe717f0c59",
-    "date": "2026-07-15T16:22:11+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "Home made pesto and pasta",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1uxal05/home_made_pesto_and_pasta/",
-    "image": "https://preview.redd.it/p4v6ls7b5fdh1.jpeg?width=640&crop=smart&auto=webp&s=567cada5d404d0d432355e2a8bc7abbca1618ae6",
-    "date": "2026-07-15T16:18:21+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "VegNews",
     "title": "Two-Step Vegan Chocolate Matcha Bars",
     "link": "https://vegnews.com/recipes/vegan-chocolate-matcha-bars",
@@ -14854,17 +14887,6 @@
     "link": "https://www.connoisseurusveg.com/tempeh-noodle-bowls/",
     "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/06/tempeh-noodle-bowls-7-of-9.jpg",
     "date": "2026-07-15T11:00:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "Reddit",
-    "title": "How to Make Cream of Mushroom Soup for the Gastritis Soul (Vegan-Friendly). Recipe Link in Comments",
-    "link": "https://www.reddit.com/r/veganrecipes/comments/1ux0gtm/how_to_make_cream_of_mushroom_soup_for_the/",
-    "image": "https://preview.redd.it/rqtyk5oyzcdh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8897efee658b559e9db7bbe7867ee73d826f365c",
-    "date": "2026-07-15T09:04:49+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
@@ -15819,8 +15841,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -15834,8 +15856,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -16300,8 +16322,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -16957,8 +16979,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -16972,8 +16994,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17437,8 +17459,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -17722,8 +17744,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -18008,8 +18030,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -18707,8 +18729,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -20480,8 +20502,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -24905,8 +24927,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -25445,8 +25467,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -26158,8 +26180,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -26175,7 +26197,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.97
+    "trending_score": 4.0
   },
   {
     "blog_name": "A Virtual Vegan",
@@ -27719,8 +27741,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -30045,8 +30067,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -30865,8 +30887,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -31023,8 +31045,8 @@
     "date": "2026-02-12T00:00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": true,
-    "trending_score": 4.97
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "Plant Power Couple",
@@ -33194,8 +33216,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -34107,8 +34129,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -34880,8 +34902,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -41787,8 +41809,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42321,8 +42343,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -42985,8 +43007,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -43519,8 +43541,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -44367,8 +44389,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -45127,8 +45149,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -45363,8 +45385,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -45772,8 +45794,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -46444,8 +46466,8 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -47984,8 +48006,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -48099,7 +48121,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.97
+    "trending_score": 4.01
   },
   {
     "blog_name": "Cadry's Kitchen",
@@ -49842,9 +49864,9 @@
     "is_disruptor": true,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -53233,8 +53255,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -53927,8 +53949,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -56931,8 +56953,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -60292,8 +60314,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -61551,8 +61573,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -62268,8 +62290,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -66307,8 +66329,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -69317,8 +69339,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -69332,8 +69354,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -74556,7 +74578,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 4.4
+    "trending_score": 3.54
   },
   {
     "blog_name": "Bianca Zapatka",
@@ -76613,8 +76635,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -77253,8 +77275,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -77918,8 +77940,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -79338,8 +79360,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -80374,8 +80396,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -83304,8 +83326,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -84700,8 +84722,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -85007,8 +85029,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -85338,8 +85360,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -86770,8 +86792,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -94540,8 +94562,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -96371,9 +96393,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -98279,8 +98301,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -100456,8 +100478,8 @@
     "date": "2024-02-05T23:36:53+00:00",
     "is_disruptor": false,
     "special_tags": [],
-    "is_trending": true,
-    "trending_score": 4.39
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "Sweet Simple Vegan",
@@ -101518,8 +101540,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -103948,8 +103970,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -109712,8 +109734,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -110440,8 +110462,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -114229,8 +114251,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -114766,8 +114788,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -118826,8 +118848,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -119855,8 +119877,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -123094,7 +123116,7 @@
       "Easy"
     ],
     "is_trending": true,
-    "trending_score": 4.97
+    "trending_score": 7.58
   },
   {
     "blog_name": "Vegan in the Freezer",
@@ -135318,8 +135340,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -136501,8 +136523,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -136615,8 +136637,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -139037,8 +139059,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -142654,8 +142676,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -144044,8 +144066,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -144097,8 +144119,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -145601,8 +145623,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -146560,9 +146582,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -149506,8 +149528,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -150348,8 +150370,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -151142,8 +151164,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152106,8 +152128,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -152478,8 +152500,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -154354,8 +154376,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -156091,8 +156113,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -156173,8 +156195,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -156238,8 +156260,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -158246,8 +158268,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -161054,8 +161076,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -163459,8 +163481,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -163630,8 +163652,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -165381,8 +165403,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -169553,8 +169575,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -172468,8 +172490,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -175934,8 +175956,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -176230,8 +176252,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -177283,8 +177305,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180731,8 +180753,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -180746,8 +180768,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -183890,8 +183912,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -184928,8 +184950,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185355,8 +185377,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -185819,8 +185841,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -186734,8 +186756,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -187950,8 +187972,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188093,8 +188115,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188240,9 +188262,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -188313,8 +188335,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189369,8 +189391,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -189951,8 +189973,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -192665,8 +192687,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -193560,9 +193582,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195011,8 +195033,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195122,9 +195144,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -195337,8 +195359,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196737,8 +196759,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -196960,8 +196982,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197045,8 +197067,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197441,8 +197463,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197818,9 +197840,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -197888,9 +197910,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -198619,9 +198641,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -198695,8 +198717,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -199686,8 +199708,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -200395,9 +200417,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -200722,8 +200744,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -200759,8 +200781,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -201526,9 +201548,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -202389,8 +202411,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -203313,9 +203335,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205310,8 +205332,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205526,8 +205548,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -205762,8 +205784,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -206063,8 +206085,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -206167,8 +206189,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -208376,8 +208398,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -208424,8 +208446,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -209236,8 +209258,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -209454,8 +209476,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -210027,9 +210049,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214490,8 +214512,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -214547,8 +214569,8 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
-      "Easy"
+      "Easy",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -217475,8 +217497,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -217503,8 +217525,8 @@
     "is_disruptor": false,
     "special_tags": [
       "GF",
-      "Easy",
-      "Low Waste"
+      "Low Waste",
+      "Easy"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -217635,8 +217657,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "Budget",
-      "Low Waste"
+      "Low Waste",
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -235795,9 +235817,9 @@
     "is_disruptor": false,
     "special_tags": [
       "WFPB",
-      "Budget",
+      "GF",
       "Easy",
-      "GF"
+      "Budget"
     ],
     "is_trending": false,
     "trending_score": 0
