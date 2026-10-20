@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-19 19:01:04
-**Total Run Time:** 8m 45s
-**Longest Step:** RSS: Sarah's Vegan Kitchen (0m 56s)
+**Last Run:** 2026-10-20 00:38:22
+**Total Run Time:** 9m 19s
+**Longest Step:** RSS: My Darling Vegan (0m 54s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21459 | 147 new today |
+| **Total Database** | 21461 | 153 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 315 | Total recorded actions in database |
+| **Trending Events** | 306 | Total recorded actions in database |
 | **WFPB / GF** | 2636 / 2792 | 12% / 13% |
-| **Easy / Budget** | 5162 / 2116 | 24% / 9% |
+| **Easy / Budget** | 5163 / 2116 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Banana Oatmeal Chocolate Chip Breakfast Bars](https://www.floraandvino.com/banana-oatmeal-chocolate-chip-breakfast-bars/) | Flora & Vino | **7.40** | *2.94* |
-| 2 |[Cinnamon Banana Bread](https://highcarbhannah.co/blogs/snacks/cinnamon-banana-bread) | High Carb Hannah | **3.91** | *1.55* |
-| 3 |[Oat Milk Cheese](https://thehiddenveggies.com/oat-milk-cheese/) | The Hidden Veggies | **3.91** | *1.55* |
-| 4 |[High-Protein Granola Bars (No Protein Powder!)](https://steamyvegan.com/high-protein-granola-bars/) | Steamy Vegan | **3.91** | *1.55* |
-| 5 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **3.46** | *1.37* |
-| 6 |[Cheesy Vegan Spinach Lasagna With Parmesan, Ricotta, and Mozzarella](https://vegnews.com/recipes/cheesy-vegan-spinach-lasagna) | VegNews | **2.59** | *1.03* |
-| 7 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **2.35** | *0.93* |
-| 8 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **0.51** | *0.20* |
+| 1 |[Banana Oatmeal Chocolate Chip Breakfast Bars](https://www.floraandvino.com/banana-oatmeal-chocolate-chip-breakfast-bars/) | Flora & Vino | **6.64** | *2.64* |
+| 2 |[Cinnamon Banana Bread](https://highcarbhannah.co/blogs/snacks/cinnamon-banana-bread) | High Carb Hannah | **3.51** | *1.39* |
+| 3 |[Oat Milk Cheese](https://thehiddenveggies.com/oat-milk-cheese/) | The Hidden Veggies | **3.51** | *1.39* |
+| 4 |[High-Protein Granola Bars (No Protein Powder!)](https://steamyvegan.com/high-protein-granola-bars/) | Steamy Vegan | **3.51** | *1.39* |
+| 5 |[Jalapeño Popper Pinwheels (vegan)](https://www.veganricha.com/jalapeno-popper-pinwheels/) | Vegan Richa | **3.11** | *1.23* |
+| 6 |[Cheesy Vegan Spinach Lasagna With Parmesan, Ricotta, and Mozzarella](https://vegnews.com/recipes/cheesy-vegan-spinach-lasagna) | VegNews | **2.32** | *0.92* |
+| 7 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **2.11** | *0.84* |
+| 8 |[Unknown Recipe](https://www.fragrantvanilla.com/coronavirus-disease-2019/?utm_source=rss&utm_medium=rss&utm_campaign=coronavirus-disease-2019) | Unknown Blog | **0.46** | *0.18* |
 
 ---
 
@@ -48,7 +48,7 @@
 | Vegan Richa GF | 0 | 60 | 2 | 15 | 7 | 60 | 2026-10-14 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Dr. Vegan | 0 | 64 | 4 | 64 | 8 | 0 | 2026-10-16 | ✅ OK |
-| Jessica in the Kitchen | 0 | 91 | 2 | 9 | 1 | 4 | 2026-10-15 | ✅ OK |
+| Jessica in the Kitchen | 1 | 91 | 2 | 9 | 1 | 4 | 2026-10-15 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -78,7 +78,7 @@
 | Minimalist Baker (Vegan Recipes) | 5 | 225 | 19 | 72 | 18 | 42 | 2026-10-13 | ✅ OK (5) |
 | Rainbow Plant Life | 9 | 226 | 30 | 55 | 41 | 7 | 2026-09-10 | ✅ OK |
 | The Little Blog of Vegan | 0 | 228 | 0 | 41 | 0 | 1 | 2026-10-16 | ✅ OK |
-| Cadry's Kitchen | 6 | 229 | 11 | 84 | 21 | 0 | 2026-10-13 | ✅ OK |
+| Cadry's Kitchen | 6 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 236 | 21 | 236 | 236 | 1 | 2026-10-17 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
@@ -90,13 +90,13 @@
 | Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | ZardyPlants | 0 | 243 | 243 | 50 | 243 | 4 | 2026-10-10 | ✅ OK |
-| Sweet Simple Vegan | 0 | 245 | 4 | 45 | 18 | 2 | 2026-10-13 | ✅ OK |
 | Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
+| Sweet Simple Vegan | 1 | 246 | 4 | 45 | 18 | 2 | 2026-10-19 | ✅ OK |
 | The First Mess | 0 | 247 | 1 | 31 | 3 | 2 | 2026-10-14 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 1 | 253 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
-| HealthyGirl Kitchen | 0 | 255 | 30 | 57 | 0 | 62 | 2026-10-05 | ✅ OK |
+| HealthyGirl Kitchen | 1 | 256 | 30 | 57 | 0 | 62 | 2026-10-19 | ✅ OK |
 | Vegan Richa | 9 | 256 | 10 | 60 | 41 | 73 | 2026-10-14 | ✅ OK |
 | Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
 | Plant Power Couple | 0 | 261 | 0 | 261 | 2 | 0 | 2026-09-25 | ✅ OK |
@@ -122,9 +122,9 @@
 | Connoisseurus Veg | 0 | 319 | 0 | 34 | 1 | 1 | 2026-10-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 337 | 43 | 40 | 2 | 45 | 2026-10-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-10-15 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 37 | 1 | 1 | 2026-10-19 | ✅ OK (1) |
+| Reddit | 1 | 350 | 1 | 38 | 1 | 1 | 2026-10-19 | ✅ OK (1) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 13 | 5 | 1 | 2026-10-16 | ✅ OK |
-| VegNews | 1 | 350 | 1 | 48 | 0 | 7 | 2026-10-18 | ✅ OK |
+| VegNews | 4 | 350 | 1 | 47 | 0 | 7 | 2026-10-19 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
