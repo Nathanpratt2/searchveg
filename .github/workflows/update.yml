@@ -72,7 +72,8 @@ jobs:
         if: steps.check_window.outputs.skip_run != 'true'
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.x'    # <-- Uses whatever the latest Python 3 is on the runner
+          cache: 'pip'             # <-- (Bonus) Caches packages so it installs faster every 5 hours
 
       - name: Install dependencies
         if: steps.check_window.outputs.skip_run != 'true'
