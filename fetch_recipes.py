@@ -1622,8 +1622,8 @@ try:
             "Content-Profile": "public"
         }
         
-       # We hit the 1,000 row API limit! Now we filter to the last 14 days and get the newest first.
-        four_days_ago = (now_utc - timedelta(days=4)).isoformat()
+      # We hit the 1,000 row API limit! Now we filter to the last 14 days and get the newest first.
+        fourteen_days_ago = (now_utc - timedelta(days=14)).isoformat()
         
         query_params = {
             "select": "link,action,created_at",
