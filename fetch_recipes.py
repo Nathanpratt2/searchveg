@@ -1623,7 +1623,7 @@ try:
         }
         
        # We hit the 1,000 row API limit! Now we filter to the last 14 days and get the newest first.
-        fourteen_days_ago = (now_utc - timedelta(days=14)).isoformat()
+        four_days_ago = (now_utc - timedelta(days=4)).isoformat()
         
         query_params = {
             "select": "link,action,created_at",
@@ -1723,11 +1723,19 @@ try:
                     reverse=True
                 )
 
-                # Select Top 8 while deduplicating same-search clicks
+               # Select Top 8 while deduplicating same-search clicks
                 top_scored = []
                 accepted_links = []
 
                 for link in sorted_candidates:
+                    # 1. Skip if recipe no longer exists in data.json (eliminates "Unknown Recipe")
+                    if link not in recipe_title_map:
+                        continue
+
+                    # 2. Minimum Score Floor: If decayed below 1.5 points, it is cold / not trending
+                    if scores[link] < 1.5:
+                        continue
+
                     curr_time = latest_interaction_time.get(link)
                     curr_words = get_title_keywords(recipe_title_map.get(link, ""))
                     
