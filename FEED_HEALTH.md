@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-10-31 20:15:57
-**Total Run Time:** 7m 0s
-**Longest Step:** RSS: A Virtual Vegan (0m 31s)
+**Last Run:** 2026-11-01 00:21:56
+**Total Run Time:** 7m 4s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 31s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21524 | 148 new today |
+| **Total Database** | 21524 | 142 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 252 | Total recorded actions in database |
+| **Trending Events** | 241 | Total recorded actions in database |
 | **WFPB / GF** | 2642 / 2798 | 12% / 12% |
-| **Easy / Budget** | 5167 / 2117 | 24% / 9% |
+| **Easy / Budget** | 5168 / 2118 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **3.19** | *1.27* |
-| 2 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **2.86** | *1.14* |
-| 3 |[The BEST Creamy Sesame Noodles (healthy!)](https://healthygirlkitchen.com/the-best-creamy-sesame-noodles-healthy/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-creamy-sesame-noodles-healthy) | HealthyGirl Kitchen | **2.86** | *1.14* |
-| 4 |[Cold Tofu (No Cook)](https://veggiekinsblog.com/2026/10/02/cold-tofu-no-cook/) | Veggiekins | **2.86** | *1.13* |
-| 5 |[Easy Thai Coconut Soup (Vegan Tom Kha)](https://www.noracooks.com/thai-coconut-soup/) | Nora Cooks | **2.86** | *1.13* |
-| 6 |[Chocolate Matcha Sticky Buns](https://sweetpotatosoul.com/chocolate-matcha-sticky-buns/) | Sweet Potato Soul | **2.36** | *0.93* |
-| 7 |[Indo-Chinese Garlic Pepper Chicken](https://www.veganricha.com/indo-chinese-garlic-pepper-chicken/) | Vegan Richa GF | **2.35** | *0.93* |
-| 8 |[Vegan Chicken and Broccoli Rice Skillet](https://thehiddenveggies.com/vegan-chicken-and-broccoli-rice/) | The Hidden Veggies | **2.32** | *0.92* |
+| 1 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **2.95** | *1.17* |
+| 2 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **2.65** | *1.05* |
+| 3 |[The BEST Creamy Sesame Noodles (healthy!)](https://healthygirlkitchen.com/the-best-creamy-sesame-noodles-healthy/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-creamy-sesame-noodles-healthy) | HealthyGirl Kitchen | **2.64** | *1.05* |
+| 4 |[Cold Tofu (No Cook)](https://veggiekinsblog.com/2026/10/02/cold-tofu-no-cook/) | Veggiekins | **2.64** | *1.05* |
+| 5 |[Easy Thai Coconut Soup (Vegan Tom Kha)](https://www.noracooks.com/thai-coconut-soup/) | Nora Cooks | **2.64** | *1.05* |
+| 6 |[Chocolate Matcha Sticky Buns](https://sweetpotatosoul.com/chocolate-matcha-sticky-buns/) | Sweet Potato Soul | **2.18** | *0.86* |
+| 7 |[Indo-Chinese Garlic Pepper Chicken](https://www.veganricha.com/indo-chinese-garlic-pepper-chicken/) | Vegan Richa GF | **2.18** | *0.86* |
+| 8 |[Vegan Chicken and Broccoli Rice Skillet](https://thehiddenveggies.com/vegan-chicken-and-broccoli-rice/) | The Hidden Veggies | **2.14** | *0.85* |
 
 ---
 
@@ -80,10 +80,10 @@
 | Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Little Blog of Vegan | 0 | 231 | 0 | 41 | 0 | 1 | 2026-10-30 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 236 | 21 | 236 | 236 | 1 | 2026-10-17 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 237 | 2 | 9 | 9 | 237 | 2026-10-18 | ✅ OK |
+| The Cheap Lazy Vegan | 1 | 237 | 21 | 237 | 237 | 1 | 2026-10-27 | ✅ OK (1) |
 | The Burger Dude | 8 | 239 | 6 | 13 | 14 | 0 | 2026-10-31 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-10-29 | ✅ OK |
@@ -117,14 +117,14 @@
 | Eat Figs, Not Pigs | 7 | 297 | 1 | 37 | 2 | 0 | 2026-10-31 | ✅ OK |
 | Plant-Based on a Budget | 2 | 297 | 16 | 72 | 297 | 1 | 2026-10-26 | ✅ OK |
 | Healthy Little Vittles | 3 | 302 | 10 | 49 | 2 | 299 | 2026-10-29 | ✅ OK |
-| Lazy Cat Kitchen | 1 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 316 | 39 | 89 | 3 | 0 | 2026-10-30 | ✅ OK |
 | Connoisseurus Veg | 0 | 321 | 0 | 34 | 1 | 1 | 2026-10-26 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 341 | 44 | 41 | 2 | 45 | 2026-10-31 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-10-26 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 38 | 2 | 1 | 2026-10-31 | ✅ OK (2) |
-| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-10-31 | ✅ OK |
-| VegNews | 6 | 350 | 2 | 45 | 0 | 7 | 2026-10-31 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 38 | 2 | 1 | 2026-10-31 | ✅ OK (1) |
+| The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-10-31 | ✅ OK |
+| VegNews | 2 | 350 | 2 | 45 | 0 | 7 | 2026-10-31 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
