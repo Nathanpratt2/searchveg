@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-02 08:01:26
-**Total Run Time:** 7m 44s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-11-02 20:58:04
+**Total Run Time:** 7m 33s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21529 | 147 new today |
+| **Total Database** | 21534 | 155 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 293 | Total recorded actions in database |
-| **WFPB / GF** | 2641 / 2798 | 12% / 12% |
-| **Easy / Budget** | 5169 / 2118 | 24% / 9% |
+| **Trending Events** | 282 | Total recorded actions in database |
+| **WFPB / GF** | 2641 / 2799 | 12% / 12% |
+| **Easy / Budget** | 5167 / 2118 | 23% / 9% |
 
 ---
 
@@ -20,9 +20,8 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **5.24** | *2.08* |
-| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **5.20** | *2.06* |
-| 3 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **1.60** | *0.64* |
+| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **4.08** | *1.62* |
+| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **4.05** | *1.61* |
 
 ---
 
@@ -43,7 +42,7 @@
 | Vegan Richa GF | 0 | 62 | 2 | 15 | 7 | 62 | 2026-10-28 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Dr. Vegan | 0 | 66 | 4 | 66 | 8 | 0 | 2026-10-23 | ✅ OK |
-| Jessica in the Kitchen | 1 | 94 | 2 | 9 | 1 | 4 | 2026-10-29 | ✅ OK |
+| Jessica in the Kitchen | 2 | 95 | 2 | 9 | 1 | 4 | 2026-11-02 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -77,8 +76,8 @@
 | The Little Blog of Vegan | 0 | 231 | 0 | 41 | 0 | 1 | 2026-10-30 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
-| Rhian's Recipes | 0 | 237 | 2 | 9 | 9 | 237 | 2026-10-18 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 237 | 21 | 237 | 237 | 1 | 2026-10-17 | ✅ OK |
+| Rhian's Recipes | 1 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
 | The Burger Dude | 8 | 239 | 6 | 13 | 14 | 0 | 2026-10-31 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
@@ -110,16 +109,16 @@
 | Ann Arbor Vegan Kitchen | 6 | 293 | 293 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
 | Eat Figs, Not Pigs | 6 | 296 | 1 | 37 | 2 | 0 | 2026-10-31 | ✅ OK |
-| Plant-Based on a Budget | 2 | 297 | 16 | 72 | 297 | 1 | 2026-10-26 | ✅ OK |
+| Plant-Based on a Budget | 2 | 297 | 16 | 71 | 297 | 1 | 2026-11-02 | ✅ OK |
 | Healthy Little Vittles | 3 | 302 | 10 | 49 | 2 | 299 | 2026-10-29 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 316 | 39 | 89 | 3 | 0 | 2026-10-30 | ✅ OK |
-| Connoisseurus Veg | 0 | 321 | 0 | 34 | 1 | 1 | 2026-10-26 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 342 | 44 | 41 | 2 | 45 | 2026-11-01 | ✅ OK |
-| Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-10-26 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 39 | 2 | 1 | 2026-11-02 | ✅ OK (1) |
-| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-02 | ✅ OK |
-| VegNews | 2 | 350 | 2 | 45 | 0 | 7 | 2026-11-01 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 317 | 39 | 89 | 3 | 0 | 2026-11-02 | ✅ OK |
+| Connoisseurus Veg | 1 | 322 | 0 | 34 | 1 | 1 | 2026-11-02 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 343 | 44 | 41 | 2 | 45 | 2026-11-02 | ✅ OK |
+| Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-10-26 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 39 | 2 | 1 | 2026-11-02 | ✅ OK (2) |
+| The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-02 | ✅ OK |
+| VegNews | 4 | 350 | 2 | 44 | 0 | 7 | 2026-11-02 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
