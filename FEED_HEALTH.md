@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-11-02 01:04:13
-**Total Run Time:** 8m 1s
-**Longest Step:** RSS: Dreena Burton (0m 43s)
+**Last Run:** 2026-11-02 08:01:26
+**Total Run Time:** 7m 44s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21529 | 150 new today |
+| **Total Database** | 21529 | 147 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 293 | Total recorded actions in database |
-| **WFPB / GF** | 2642 / 2798 | 12% / 12% |
+| **WFPB / GF** | 2641 / 2798 | 12% / 12% |
 | **Easy / Budget** | 5169 / 2118 | 24% / 9% |
 
 ---
@@ -20,13 +20,9 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **5.99** | *2.38* |
-| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **5.94** | *2.36* |
-| 3 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **1.83** | *0.73* |
-| 4 |[The BEST Creamy Sesame Noodles (healthy!)](https://healthygirlkitchen.com/the-best-creamy-sesame-noodles-healthy/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-creamy-sesame-noodles-healthy) | HealthyGirl Kitchen | **1.64** | *0.65* |
-| 5 |[Cold Tofu (No Cook)](https://veggiekinsblog.com/2026/10/02/cold-tofu-no-cook/) | Veggiekins | **1.64** | *0.65* |
-| 6 |[Easy Thai Coconut Soup (Vegan Tom Kha)](https://www.noracooks.com/thai-coconut-soup/) | Nora Cooks | **1.64** | *0.65* |
-| 7 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **1.64** | *0.65* |
+| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **5.24** | *2.08* |
+| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **5.20** | *2.06* |
+| 3 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **1.60** | *0.64* |
 
 ---
 
@@ -82,16 +78,16 @@
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 237 | 2 | 9 | 9 | 237 | 2026-10-18 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 237 | 21 | 237 | 237 | 1 | 2026-10-17 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 0 | 237 | 21 | 237 | 237 | 1 | 2026-10-17 | ✅ OK |
 | The Burger Dude | 8 | 239 | 6 | 13 | 14 | 0 | 2026-10-31 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
+| Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-10-29 | ✅ OK |
-| Running on Real Food | 1 | 243 | 243 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | ZardyPlants | 1 | 243 | 243 | 50 | 243 | 4 | 2026-10-10 | ✅ OK |
 | Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
 | The First Mess | 0 | 248 | 1 | 31 | 3 | 2 | 2026-10-28 | ✅ OK |
-| Sweet Simple Vegan | 2 | 249 | 4 | 45 | 18 | 2 | 2026-11-01 | ✅ OK |
+| Sweet Simple Vegan | 1 | 249 | 4 | 45 | 18 | 2 | 2026-11-01 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 1 | 253 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
@@ -119,10 +115,10 @@
 | Lazy Cat Kitchen | 0 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 316 | 39 | 89 | 3 | 0 | 2026-10-30 | ✅ OK |
 | Connoisseurus Veg | 0 | 321 | 0 | 34 | 1 | 1 | 2026-10-26 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 342 | 44 | 41 | 2 | 45 | 2026-11-01 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 342 | 44 | 41 | 2 | 45 | 2026-11-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-10-26 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 39 | 2 | 1 | 2026-11-02 | ✅ OK (2) |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-10-31 | ✅ OK |
+| Reddit | 1 | 350 | 1 | 39 | 2 | 1 | 2026-11-02 | ✅ OK (1) |
+| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-02 | ✅ OK |
 | VegNews | 2 | 350 | 2 | 45 | 0 | 7 | 2026-11-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
