@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-01 17:19:17
-**Total Run Time:** 7m 35s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 35s)
+**Last Run:** 2026-11-02 01:04:13
+**Total Run Time:** 8m 1s
+**Longest Step:** RSS: Dreena Burton (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21527 | 154 new today |
+| **Total Database** | 21529 | 150 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 256 | Total recorded actions in database |
+| **Trending Events** | 293 | Total recorded actions in database |
 | **WFPB / GF** | 2642 / 2798 | 12% / 12% |
-| **Easy / Budget** | 5168 / 2117 | 24% / 9% |
+| **Easy / Budget** | 5169 / 2118 | 24% / 9% |
 
 ---
 
@@ -20,14 +20,13 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **2.13** | *0.84* |
-| 2 |[The BEST Creamy Sesame Noodles (healthy!)](https://healthygirlkitchen.com/the-best-creamy-sesame-noodles-healthy/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-creamy-sesame-noodles-healthy) | HealthyGirl Kitchen | **1.91** | *0.76* |
-| 3 |[Cold Tofu (No Cook)](https://veggiekinsblog.com/2026/10/02/cold-tofu-no-cook/) | Veggiekins | **1.91** | *0.76* |
-| 4 |[Easy Thai Coconut Soup (Vegan Tom Kha)](https://www.noracooks.com/thai-coconut-soup/) | Nora Cooks | **1.91** | *0.76* |
-| 5 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **1.90** | *0.76* |
-| 6 |[Chocolate Matcha Sticky Buns](https://sweetpotatosoul.com/chocolate-matcha-sticky-buns/) | Sweet Potato Soul | **1.57** | *0.62* |
-| 7 |[Indo-Chinese Garlic Pepper Chicken](https://www.veganricha.com/indo-chinese-garlic-pepper-chicken/) | Vegan Richa GF | **1.57** | *0.62* |
-| 8 |[Vegan Chicken and Broccoli Rice Skillet](https://thehiddenveggies.com/vegan-chicken-and-broccoli-rice/) | The Hidden Veggies | **1.55** | *0.61* |
+| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **5.99** | *2.38* |
+| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **5.94** | *2.36* |
+| 3 |[Cozy Chai-Spiced Breakfast Pudding](https://vegnews.com/recipes/vegan-chai-breakfast-pudding) | VegNews | **1.83** | *0.73* |
+| 4 |[The BEST Creamy Sesame Noodles (healthy!)](https://healthygirlkitchen.com/the-best-creamy-sesame-noodles-healthy/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-creamy-sesame-noodles-healthy) | HealthyGirl Kitchen | **1.64** | *0.65* |
+| 5 |[Cold Tofu (No Cook)](https://veggiekinsblog.com/2026/10/02/cold-tofu-no-cook/) | Veggiekins | **1.64** | *0.65* |
+| 6 |[Easy Thai Coconut Soup (Vegan Tom Kha)](https://www.noracooks.com/thai-coconut-soup/) | Nora Cooks | **1.64** | *0.65* |
+| 7 |[Vegan Kimchi Stew](https://thecheaplazyvegan.com/vegan-kimchi-stew/) | The Cheap Lazy Vegan | **1.64** | *0.65* |
 
 ---
 
@@ -80,10 +79,10 @@
 | Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Little Blog of Vegan | 0 | 231 | 0 | 41 | 0 | 1 | 2026-10-30 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 236 | 21 | 236 | 236 | 1 | 2026-10-17 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 237 | 2 | 9 | 9 | 237 | 2026-10-18 | ✅ OK |
+| The Cheap Lazy Vegan | 1 | 237 | 21 | 237 | 237 | 1 | 2026-10-17 | ✅ OK (1) |
 | The Burger Dude | 8 | 239 | 6 | 13 | 14 | 0 | 2026-10-31 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-10-29 | ✅ OK |
@@ -91,8 +90,8 @@
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | ZardyPlants | 1 | 243 | 243 | 50 | 243 | 4 | 2026-10-10 | ✅ OK |
 | Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
-| Sweet Simple Vegan | 1 | 248 | 4 | 45 | 18 | 2 | 2026-10-27 | ✅ OK |
 | The First Mess | 0 | 248 | 1 | 31 | 3 | 2 | 2026-10-28 | ✅ OK |
+| Sweet Simple Vegan | 2 | 249 | 4 | 45 | 18 | 2 | 2026-11-01 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 1 | 253 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
@@ -107,7 +106,7 @@
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | A Virtual Vegan | 5 | 275 | 3 | 35 | 1 | 4 | 2026-10-22 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Make It Dairy Free | 3 | 276 | 4 | 43 | 2 | 3 | 2026-11-01 | ✅ OK |
+| Make It Dairy Free | 2 | 276 | 4 | 43 | 2 | 3 | 2026-11-01 | ✅ OK |
 | My Darling Vegan | 3 | 278 | 1 | 35 | 4 | 12 | 2026-10-27 | ✅ OK |
 | From My Bowl | 0 | 287 | 3 | 57 | 3 | 5 | 2026-10-27 | ✅ OK |
 | The Plant-Based RD | 0 | 290 | 4 | 17 | 1 | 0 | 2026-10-30 | ✅ OK |
@@ -120,11 +119,11 @@
 | Lazy Cat Kitchen | 0 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 316 | 39 | 89 | 3 | 0 | 2026-10-30 | ✅ OK |
 | Connoisseurus Veg | 0 | 321 | 0 | 34 | 1 | 1 | 2026-10-26 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 341 | 44 | 41 | 2 | 45 | 2026-10-31 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 342 | 44 | 41 | 2 | 45 | 2026-11-01 | ✅ OK |
 | Gretchen's Vegan Bakery | 1 | 350 | 3 | 24 | 1 | 1 | 2026-10-26 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 39 | 2 | 1 | 2026-11-01 | ✅ OK (4) |
+| Reddit | 2 | 350 | 1 | 39 | 2 | 1 | 2026-11-02 | ✅ OK (2) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-10-31 | ✅ OK |
-| VegNews | 6 | 350 | 2 | 45 | 0 | 7 | 2026-11-01 | ✅ OK |
+| VegNews | 2 | 350 | 2 | 45 | 0 | 7 | 2026-11-01 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
