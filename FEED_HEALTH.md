@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-03 03:06:24
-**Total Run Time:** 7m 34s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-11-03 14:39:03
+**Total Run Time:** 8m 35s
+**Longest Step:** RSS: Yup It's Vegan (1m 16s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21536 | 149 new today |
+| **Total Database** | 21537 | 150 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 344 | Total recorded actions in database |
+| **Trending Events** | 372 | Total recorded actions in database |
 | **WFPB / GF** | 2641 / 2800 | 12% / 13% |
 | **Easy / Budget** | 5168 / 2119 | 23% / 9% |
 
@@ -20,8 +20,8 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **3.63** | *1.44* |
-| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **3.60** | *1.43* |
+| 1 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **2.90** | *1.15* |
+| 2 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **2.88** | *1.14* |
 
 ---
 
@@ -33,7 +33,7 @@
 | Rainbow Nourishments | 0 | 16 | 0 | 3 | 1 | 0 | 2026-10-18 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 19 | 0 | 5 | 0 | 0 | 2026-10-26 | ✅ OK |
 | Mary's Test Kitchen | 1 | 30 | 0 | 8 | 3 | 1 | 2026-10-14 | ✅ OK |
-| Rainbow Plant Life GF | 1 | 34 | 5 | 1 | 4 | 33 | 2026-11-03 | ✅ OK |
+| Rainbow Plant Life GF | 0 | 34 | 5 | 1 | 4 | 33 | 2026-11-03 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 39 | 0 | 2 | 0 | 1 | 2026-10-27 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 45 | 1 | 3 | 0 | 0 | 2026-09-22 | ✅ OK |
@@ -77,7 +77,7 @@
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 238 | 21 | 238 | 238 | 1 | 2026-11-02 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-11-02 | ✅ OK |
 | The Burger Dude | 8 | 239 | 6 | 13 | 14 | 0 | 2026-10-31 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
@@ -96,14 +96,14 @@
 | Plant Power Couple | 0 | 261 | 0 | 261 | 2 | 0 | 2026-09-25 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
 | The Foodie Takes Flight | 1 | 264 | 0 | 264 | 2 | 0 | 2026-10-08 | ✅ OK |
-| Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ❌ Blocked/ConnErr |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | A Virtual Vegan | 5 | 275 | 3 | 35 | 1 | 4 | 2026-10-22 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | Make It Dairy Free | 2 | 276 | 4 | 43 | 2 | 3 | 2026-11-01 | ✅ OK |
-| My Darling Vegan | 3 | 278 | 1 | 35 | 4 | 12 | 2026-10-27 | ✅ OK |
-| From My Bowl | 0 | 287 | 3 | 57 | 3 | 5 | 2026-10-27 | ✅ OK |
+| My Darling Vegan | 4 | 279 | 1 | 35 | 4 | 12 | 2026-11-03 | ✅ OK |
+| From My Bowl | 1 | 288 | 3 | 57 | 3 | 5 | 2026-11-03 | ✅ OK |
 | The Plant-Based RD | 0 | 290 | 4 | 17 | 1 | 0 | 2026-10-30 | ✅ OK |
 | Full of Plants | 1 | 291 | 0 | 43 | 0 | 13 | 2026-10-22 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 293 | 293 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
@@ -116,7 +116,7 @@
 | Connoisseurus Veg | 0 | 322 | 0 | 34 | 1 | 1 | 2026-11-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 343 | 44 | 41 | 2 | 45 | 2026-11-02 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-10-26 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 39 | 2 | 1 | 2026-11-02 | ✅ OK (2) |
+| Reddit | 3 | 350 | 1 | 39 | 2 | 1 | 2026-11-03 | ✅ OK (3) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-02 | ✅ OK |
 | VegNews | 1 | 350 | 2 | 44 | 0 | 7 | 2026-11-02 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
