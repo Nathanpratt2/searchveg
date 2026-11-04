@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-11-03 22:00:14
-**Total Run Time:** 7m 55s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 36s)
+**Last Run:** 2026-11-04 07:51:47
+**Total Run Time:** 8m 20s
+**Longest Step:** RSS: Vegan Yack Attack (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21543 | 155 new today |
+| **Total Database** | 21542 | 142 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 477 | Total recorded actions in database |
-| **WFPB / GF** | 2642 / 2800 | 12% / 12% |
+| **Trending Events** | 493 | Total recorded actions in database |
+| **WFPB / GF** | 2642 / 2799 | 12% / 12% |
 | **Easy / Budget** | 5168 / 2119 | 23% / 9% |
 
 ---
@@ -20,13 +20,13 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Easy Vegan Cheese Sauce](https://thehiddenveggies.com/easy-vegan-cheese-sauce/) | The Hidden Veggies | **5.93** | *2.35* |
-| 2 |[Mini Twice Baked Potatoes (vegan)](https://sweetsimplevegan.com/mini-twice-baked-potatoes-vegan/) | Sweet Simple Vegan | **5.93** | *2.35* |
-| 3 |[Vegan Appetizers (Hors D’oeuvres) & Finger Food for Parties](https://thecheaplazyvegan.com/vegan-appetizers/) | The Cheap Lazy Vegan | **5.34** | *2.12* |
-| 4 |[Sesame Cumin Tofu Bowls with Potato Crisps](https://plantbasedrdblog.com/2026/10/sesame-cumin-tofu-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=sesame-cumin-tofu-bowls) | The Plant-Based RD | **3.78** | *1.50* |
-| 5 |[Thai red lentil soup](https://www.lazycatkitchen.com/thai-red-lentil-soup/) | Lazy Cat Kitchen | **3.78** | *1.50* |
-| 6 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **2.52** | *1.00* |
-| 7 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **2.50** | *0.99* |
+| 1 |[Easy Vegan Cheese Sauce](https://thehiddenveggies.com/easy-vegan-cheese-sauce/) | The Hidden Veggies | **4.91** | *1.95* |
+| 2 |[Mini Twice Baked Potatoes (vegan)](https://sweetsimplevegan.com/mini-twice-baked-potatoes-vegan/) | Sweet Simple Vegan | **4.90** | *1.95* |
+| 3 |[Vegan Appetizers (Hors D’oeuvres) & Finger Food for Parties](https://thecheaplazyvegan.com/vegan-appetizers/) | The Cheap Lazy Vegan | **4.42** | *1.75* |
+| 4 |[Sesame Cumin Tofu Bowls with Potato Crisps](https://plantbasedrdblog.com/2026/10/sesame-cumin-tofu-bowls/?utm_source=rss&utm_medium=rss&utm_campaign=sesame-cumin-tofu-bowls) | The Plant-Based RD | **3.13** | *1.24* |
+| 5 |[Thai red lentil soup](https://www.lazycatkitchen.com/thai-red-lentil-soup/) | Lazy Cat Kitchen | **3.13** | *1.24* |
+| 6 |[Vegan Thanksgiving Menu 2020](https://www.rabbitandwolves.com/vegan-thanksgiving-menu-2020/) | Rabbit and Wolves | **2.08** | *0.83* |
+| 7 |[Vegan Turkey](https://theeburgerdude.com/vegan-turkey/) | The Burger Dude | **2.07** | *0.82* |
 
 ---
 
@@ -41,11 +41,11 @@
 | Rainbow Plant Life GF | 0 | 34 | 5 | 1 | 4 | 33 | 2026-11-03 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 39 | 0 | 2 | 0 | 1 | 2026-10-27 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
-| Justine Cooks Vegan | 1 | 46 | 1 | 3 | 0 | 0 | 2026-11-03 | ✅ OK |
+| Justine Cooks Vegan | 0 | 46 | 1 | 3 | 0 | 0 | 2026-11-03 | ✅ OK |
 | Plant Baes | 1 | 52 | 3 | 7 | 2 | 7 | 2026-11-01 | ✅ OK |
 | Vegan Richa GF | 0 | 62 | 2 | 15 | 7 | 62 | 2026-10-28 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
-| PlantYou | 4 | 63 | 63 | 7 | 2 | 0 | 2026-11-03 | ✅ OK |
+| PlantYou | 2 | 63 | 63 | 7 | 2 | 0 | 2026-11-03 | ✅ OK |
 | Dr. Vegan | 0 | 66 | 4 | 66 | 8 | 0 | 2026-10-23 | ✅ OK |
 | Jessica in the Kitchen | 1 | 95 | 2 | 9 | 1 | 4 | 2026-11-02 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -65,7 +65,7 @@
 | Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-11-03 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
-| Steamy Vegan | 3 | 204 | 9 | 32 | 10 | 2 | 2026-11-03 | ✅ OK |
+| Steamy Vegan | 2 | 204 | 9 | 32 | 10 | 2 | 2026-11-03 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
@@ -87,7 +87,7 @@
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-10-29 | ✅ OK |
-| Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
+| Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ❌ Blocked/ConnErr |
 | ZardyPlants | 1 | 243 | 243 | 50 | 243 | 4 | 2026-10-10 | ✅ OK |
 | Sweet Potato Soul | 1 | 246 | 0 | 36 | 1 | 6 | 2026-10-04 | ✅ OK |
 | The First Mess | 0 | 248 | 1 | 31 | 3 | 2 | 2026-10-28 | ✅ OK |
@@ -110,8 +110,8 @@
 | My Darling Vegan | 4 | 279 | 1 | 35 | 4 | 12 | 2026-11-03 | ✅ OK |
 | From My Bowl | 0 | 288 | 3 | 57 | 3 | 5 | 2026-11-03 | ✅ OK |
 | The Plant-Based RD | 0 | 290 | 4 | 17 | 1 | 0 | 2026-10-30 | ✅ OK |
-| Full of Plants | 2 | 292 | 0 | 43 | 0 | 13 | 2026-11-03 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 293 | 293 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
+| Full of Plants | 1 | 292 | 0 | 43 | 0 | 13 | 2026-11-03 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 293 | 293 | 27 | 3 | 0 | 2026-10-21 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
 | Eat Figs, Not Pigs | 6 | 296 | 1 | 37 | 2 | 0 | 2026-10-31 | ✅ OK |
 | Plant-Based on a Budget | 2 | 297 | 16 | 71 | 297 | 1 | 2026-11-02 | ✅ OK |
@@ -120,10 +120,10 @@
 | Monkey & Me Kitchen Adventures | 0 | 317 | 39 | 89 | 3 | 0 | 2026-11-02 | ✅ OK |
 | Connoisseurus Veg | 0 | 322 | 0 | 34 | 1 | 1 | 2026-11-02 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 343 | 44 | 41 | 2 | 45 | 2026-11-02 | ✅ OK |
-| Gretchen's Vegan Bakery | 3 | 350 | 3 | 24 | 1 | 1 | 2026-11-03 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 39 | 2 | 1 | 2026-11-03 | ✅ OK (2) |
+| Gretchen's Vegan Bakery | 2 | 350 | 3 | 24 | 1 | 1 | 2026-11-03 | ✅ OK |
+| Reddit | 4 | 350 | 1 | 39 | 2 | 0 | 2026-11-04 | ✅ OK (4) |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-02 | ✅ OK |
-| VegNews | 3 | 350 | 2 | 44 | 0 | 7 | 2026-11-03 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 44 | 0 | 7 | 2026-11-03 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
