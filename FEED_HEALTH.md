@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-07 01:08:35
-**Total Run Time:** 7m 36s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-11-07 07:36:05
+**Total Run Time:** 7m 14s
+**Longest Step:** HTML: Minimalist Baker (Vegan Recipes) (0m 30s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21563 | 151 new today |
+| **Total Database** | 21564 | 140 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 695 | Total recorded actions in database |
 | **WFPB / GF** | 2644 / 2802 | 12% / 12% |
-| **Easy / Budget** | 5171 / 2121 | 23% / 9% |
+| **Easy / Budget** | 5172 / 2121 | 23% / 9% |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[One-Pot Vegan Lemon Turmeric Chicken Noodle Soup (gluten-free)](https://healthylittlevittles.com/one-pot-vegan-lemon-turmeric-chicken-noodle-soup/) | Healthy Little Vittles | **2.07** | *0.82* |
+| 1 |[One-Pot Vegan Lemon Turmeric Chicken Noodle Soup (gluten-free)](https://healthylittlevittles.com/one-pot-vegan-lemon-turmeric-chicken-noodle-soup/) | Healthy Little Vittles | **1.83** | *0.73* |
 
 ---
 
@@ -35,7 +35,7 @@
 | Rainbow Plant Life GF | 0 | 34 | 5 | 1 | 4 | 33 | 2026-11-03 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 39 | 0 | 2 | 0 | 1 | 2026-10-27 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
-| Justine Cooks Vegan | 1 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
+| Justine Cooks Vegan | 0 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
 | Plant Baes | 1 | 53 | 3 | 8 | 2 | 7 | 2026-11-05 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | PlantYou | 2 | 63 | 63 | 7 | 2 | 0 | 2026-11-03 | ✅ OK |
@@ -59,7 +59,7 @@
 | Simple Vegan Blog | 4 | 197 | 7 | 38 | 15 | 4 | 2026-11-06 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
-| Steamy Vegan | 3 | 205 | 9 | 32 | 10 | 2 | 2026-11-06 | ✅ OK |
+| Steamy Vegan | 2 | 205 | 9 | 32 | 10 | 2 | 2026-11-06 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
@@ -77,7 +77,7 @@
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-11-02 | ✅ OK |
-| The Burger Dude | 9 | 241 | 6 | 13 | 14 | 0 | 2026-11-07 | ✅ OK |
+| The Burger Dude | 8 | 241 | 6 | 13 | 14 | 0 | 2026-11-07 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-11-05 | ✅ OK |
@@ -94,7 +94,7 @@
 | Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
 | Plant Power Couple | 0 | 261 | 0 | 261 | 2 | 0 | 2026-09-25 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
-| The Foodie Takes Flight | 1 | 264 | 0 | 264 | 2 | 0 | 2026-10-08 | ✅ OK |
+| The Foodie Takes Flight | 2 | 265 | 0 | 265 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
@@ -106,7 +106,7 @@
 | The Plant-Based RD | 0 | 290 | 4 | 17 | 1 | 0 | 2026-10-30 | ✅ OK |
 | Full of Plants | 1 | 293 | 0 | 43 | 0 | 13 | 2026-11-06 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK |
 | Eat Figs, Not Pigs | 5 | 296 | 1 | 37 | 2 | 0 | 2026-11-06 | ✅ OK |
 | Plant-Based on a Budget | 2 | 297 | 16 | 71 | 297 | 1 | 2026-11-02 | ✅ OK |
 | Healthy Little Vittles | 3 | 303 | 10 | 49 | 2 | 300 | 2026-11-05 | ✅ OK |
@@ -115,7 +115,7 @@
 | Connoisseurus Veg | 0 | 324 | 0 | 34 | 1 | 1 | 2026-11-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 344 | 44 | 41 | 2 | 45 | 2026-11-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-11-04 | ✅ OK |
-| Reddit | 5 | 350 | 1 | 38 | 3 | 0 | 2026-11-06 | ✅ OK (5) |
+| Reddit | 2 | 350 | 1 | 38 | 3 | 0 | 2026-11-06 | ✅ OK (2) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-06 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 43 | 0 | 7 | 2026-11-06 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
