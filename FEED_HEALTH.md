@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-08 00:56:29
-**Total Run Time:** 7m 38s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-11-08 07:47:18
+**Total Run Time:** 7m 36s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21566 | 151 new today |
+| **Total Database** | 21566 | 147 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 716 | Total recorded actions in database |
+| **Trending Events** | 732 | Total recorded actions in database |
 | **WFPB / GF** | 2645 / 2802 | 12% / 12% |
 | **Easy / Budget** | 5171 / 2121 | 23% / 9% |
 
@@ -38,7 +38,7 @@
 | Plant Baes | 1 | 53 | 3 | 8 | 2 | 7 | 2026-11-05 | ✅ OK |
 | My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Vegan Richa GF | 0 | 63 | 2 | 15 | 7 | 63 | 2026-11-04 | ✅ OK |
-| PlantYou | 3 | 64 | 64 | 7 | 2 | 0 | 2026-11-07 | ✅ OK |
+| PlantYou | 2 | 64 | 64 | 7 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Dr. Vegan | 0 | 68 | 4 | 68 | 8 | 0 | 2026-11-06 | ✅ OK |
 | Jessica in the Kitchen | 1 | 96 | 2 | 9 | 1 | 4 | 2026-11-05 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -110,11 +110,11 @@
 | Plant-Based on a Budget | 2 | 297 | 16 | 71 | 297 | 1 | 2026-11-02 | ✅ OK |
 | Healthy Little Vittles | 3 | 303 | 10 | 49 | 2 | 300 | 2026-11-05 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 319 | 39 | 89 | 3 | 0 | 2026-11-07 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 319 | 39 | 89 | 3 | 0 | 2026-11-07 | ✅ OK |
 | Connoisseurus Veg | 0 | 324 | 0 | 34 | 1 | 1 | 2026-11-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 344 | 44 | 41 | 2 | 45 | 2026-11-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-04 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 38 | 3 | 0 | 2026-11-07 | ✅ OK (4) |
+| Reddit | 2 | 350 | 1 | 38 | 3 | 0 | 2026-11-07 | ✅ OK (2) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-06 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-07 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
