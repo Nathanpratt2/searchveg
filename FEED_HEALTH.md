@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-08 07:47:18
-**Total Run Time:** 7m 36s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
+**Last Run:** 2026-11-08 17:16:50
+**Total Run Time:** 7m 28s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21566 | 147 new today |
+| **Total Database** | 21568 | 153 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 732 | Total recorded actions in database |
+| **Trending Events** | 740 | Total recorded actions in database |
 | **WFPB / GF** | 2645 / 2802 | 12% / 12% |
 | **Easy / Budget** | 5171 / 2121 | 23% / 9% |
 
@@ -20,6 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
+| 1 |[Vegetable Stew with Dumplings](https://www.reddit.com/r/veganrecipes/comments/1xmvx4l/vegetable_stew_with_dumplings/) | Reddit | **5.35** | *2.12* |
 
 ---
 
@@ -99,7 +100,7 @@
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | A Virtual Vegan | 5 | 275 | 3 | 35 | 1 | 4 | 2026-10-22 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| Make It Dairy Free | 2 | 276 | 4 | 43 | 2 | 3 | 2026-11-01 | ✅ OK |
+| Make It Dairy Free | 3 | 277 | 4 | 43 | 2 | 3 | 2026-11-08 | ✅ OK |
 | My Darling Vegan | 4 | 279 | 1 | 35 | 4 | 12 | 2026-11-03 | ✅ OK |
 | From My Bowl | 0 | 288 | 3 | 57 | 3 | 5 | 2026-11-03 | ✅ OK |
 | The Plant-Based RD | 0 | 290 | 4 | 17 | 1 | 0 | 2026-10-30 | ✅ OK |
@@ -107,16 +108,16 @@
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
 | Eat Figs, Not Pigs | 4 | 296 | 1 | 37 | 2 | 0 | 2026-11-07 | ✅ OK |
-| Plant-Based on a Budget | 2 | 297 | 16 | 71 | 297 | 1 | 2026-11-02 | ✅ OK |
+| Plant-Based on a Budget | 2 | 297 | 16 | 71 | 297 | 1 | 2026-11-08 | ✅ OK |
 | Healthy Little Vittles | 3 | 303 | 10 | 49 | 2 | 300 | 2026-11-05 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 309 | 3 | 15 | 3 | 5 | 2026-10-31 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 319 | 39 | 89 | 3 | 0 | 2026-11-07 | ✅ OK |
 | Connoisseurus Veg | 0 | 324 | 0 | 34 | 1 | 1 | 2026-11-06 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 344 | 44 | 41 | 2 | 45 | 2026-11-05 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-04 | ✅ OK |
-| Reddit | 2 | 350 | 1 | 38 | 3 | 0 | 2026-11-07 | ✅ OK (2) |
+| Reddit | 3 | 350 | 1 | 38 | 3 | 0 | 2026-11-08 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-06 | ✅ OK |
-| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-07 | ✅ OK |
+| VegNews | 4 | 350 | 2 | 42 | 0 | 7 | 2026-11-08 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
