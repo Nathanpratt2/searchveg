@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-09 01:11:26
-**Total Run Time:** 7m 27s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-11-09 08:26:13
+**Total Run Time:** 7m 32s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 42s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21573 | 151 new today |
+| **Total Database** | 21573 | 146 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 748 | Total recorded actions in database |
+| **Trending Events** | 724 | Total recorded actions in database |
 | **WFPB / GF** | 2645 / 2802 | 12% / 12% |
 | **Easy / Budget** | 5173 / 2122 | 23% / 9% |
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegetable Stew with Dumplings](https://www.reddit.com/r/veganrecipes/comments/1xmvx4l/vegetable_stew_with_dumplings/) | Reddit | **4.59** | *1.82* |
+| 1 |[Vegetable Stew with Dumplings](https://www.reddit.com/r/veganrecipes/comments/1xmvx4l/vegetable_stew_with_dumplings/) | Reddit | **4.00** | *1.59* |
 
 ---
 
@@ -86,13 +86,13 @@
 | Sweet Potato Soul | 1 | 247 | 0 | 36 | 1 | 6 | 2026-11-04 | ✅ OK |
 | The First Mess | 0 | 248 | 1 | 31 | 3 | 2 | 2026-10-28 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Sweet Simple Vegan | 2 | 250 | 4 | 47 | 18 | 2 | 2026-11-08 | ✅ OK |
+| Sweet Simple Vegan | 1 | 250 | 4 | 47 | 18 | 2 | 2026-11-08 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 1 | 253 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (1) |
 | Vegan Richa | 7 | 256 | 10 | 59 | 41 | 73 | 2026-11-04 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 257 | 30 | 58 | 0 | 62 | 2026-10-28 | ✅ OK |
 | Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
-| Plant Power Couple | 1 | 262 | 0 | 262 | 2 | 0 | 2026-11-08 | ✅ OK |
+| Plant Power Couple | 0 | 262 | 0 | 262 | 2 | 0 | 2026-11-08 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
 | The Foodie Takes Flight | 1 | 265 | 0 | 265 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
@@ -108,12 +108,12 @@
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
 | Eat Figs, Not Pigs | 4 | 296 | 1 | 37 | 2 | 0 | 2026-11-07 | ✅ OK |
-| Plant-Based on a Budget | 2 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
+| Plant-Based on a Budget | 1 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 303 | 10 | 49 | 2 | 300 | 2026-11-05 | ✅ OK |
-| Lazy Cat Kitchen | 1 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
+| Lazy Cat Kitchen | 0 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 319 | 39 | 89 | 3 | 0 | 2026-11-07 | ✅ OK |
 | Connoisseurus Veg | 0 | 324 | 0 | 34 | 1 | 1 | 2026-11-06 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 345 | 44 | 41 | 2 | 45 | 2026-11-08 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 345 | 44 | 41 | 2 | 45 | 2026-11-08 | ✅ OK |
 | Reddit | 2 | 349 | 1 | 38 | 3 | 0 | 2026-11-08 | ✅ OK (2) |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-04 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-06 | ✅ OK |
