@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-09 21:38:27
+**Last Run:** 2026-11-10 08:44:11
 **Total Run Time:** 7m 11s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Longest Step:** RSS: A Virtual Vegan (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21577 | 151 new today |
+| **Total Database** | 21579 | 143 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 728 | Total recorded actions in database |
+| **Trending Events** | 729 | Total recorded actions in database |
 | **WFPB / GF** | 2645 / 2802 | 12% / 12% |
-| **Easy / Budget** | 5173 / 2122 | 23% / 9% |
+| **Easy / Budget** | 5174 / 2122 | 23% / 9% |
 
 ---
 
@@ -20,9 +20,10 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Mac & Cheese 🌱 All the cheesy goodness, no dairy](https://www.reddit.com/r/veganrecipes/comments/1x6qbe4/vegan_mac_cheese_all_the_cheesy_goodness_no_dairy/) | Reddit | **5.90** | *2.34* |
-| 2 |[Swiss Chard and Mushroom Stuffed Puff Pastries](https://thestingyvegan.com/swiss-chard-and-mushroom-stuffed-puff-pastries/) | The Stingy Vegan | **5.76** | *2.29* |
-| 3 |[Vegetable Stew with Dumplings](https://www.reddit.com/r/veganrecipes/comments/1xmvx4l/vegetable_stew_with_dumplings/) | Reddit | **3.10** | *1.23* |
+| 1 |[Vegan Mac & Cheese 🌱 All the cheesy goodness, no dairy](https://www.reddit.com/r/veganrecipes/comments/1x6qbe4/vegan_mac_cheese_all_the_cheesy_goodness_no_dairy/) | Reddit | **4.77** | *1.89* |
+| 2 |[Swiss Chard and Mushroom Stuffed Puff Pastries](https://thestingyvegan.com/swiss-chard-and-mushroom-stuffed-puff-pastries/) | The Stingy Vegan | **4.65** | *1.85* |
+| 3 |[Vegan Creamy Enchilada Lentils](https://thevegan8.com/creamy-enchilada-lentils-vegan/) | The Vegan 8 | **3.34** | *1.33* |
+| 4 |[Vegetable Stew with Dumplings](https://www.reddit.com/r/veganrecipes/comments/1xmvx4l/vegetable_stew_with_dumplings/) | Reddit | **2.50** | *0.99* |
 
 ---
 
@@ -39,11 +40,11 @@
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
 | Plant Baes | 1 | 53 | 3 | 8 | 2 | 7 | 2026-11-05 | ✅ OK |
-| My Goodness Kitchen | 2 | 63 | 7 | 7 | 3 | 3 | 2026-09-04 | ✅ OK |
 | Vegan Richa GF | 0 | 63 | 2 | 15 | 7 | 63 | 2026-11-04 | ✅ OK |
+| My Goodness Kitchen | 3 | 64 | 7 | 7 | 3 | 3 | 2026-11-10 | ✅ OK |
 | PlantYou | 2 | 64 | 64 | 7 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Dr. Vegan | 0 | 68 | 4 | 68 | 8 | 0 | 2026-11-06 | ✅ OK |
-| Jessica in the Kitchen | 2 | 97 | 2 | 9 | 1 | 4 | 2026-11-09 | ✅ OK |
+| Jessica in the Kitchen | 1 | 97 | 2 | 9 | 1 | 4 | 2026-11-09 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
@@ -53,7 +54,7 @@
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
-| Holistic Chef Academy | 0 | 182 | 3 | 8 | 0 | 7 | 2026-11-06 | ✅ OK |
+| Holistic Chef Academy | 1 | 183 | 3 | 8 | 0 | 7 | 2026-11-10 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
 | The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
@@ -100,26 +101,26 @@
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
-| A Virtual Vegan | 5 | 275 | 3 | 35 | 1 | 4 | 2026-10-22 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
+| A Virtual Vegan | 6 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 2 | 277 | 4 | 43 | 2 | 3 | 2026-11-08 | ✅ OK |
 | My Darling Vegan | 4 | 279 | 1 | 35 | 4 | 12 | 2026-11-03 | ✅ OK |
 | From My Bowl | 0 | 288 | 3 | 57 | 3 | 5 | 2026-11-03 | ✅ OK |
 | The Plant-Based RD | 0 | 290 | 4 | 17 | 1 | 0 | 2026-10-30 | ✅ OK |
 | Full of Plants | 1 | 293 | 0 | 43 | 0 | 13 | 2026-11-06 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK |
 | Eat Figs, Not Pigs | 4 | 296 | 1 | 37 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Plant-Based on a Budget | 1 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 303 | 10 | 49 | 2 | 300 | 2026-11-05 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 319 | 39 | 89 | 3 | 0 | 2026-11-07 | ✅ OK |
-| Connoisseurus Veg | 1 | 325 | 0 | 34 | 1 | 1 | 2026-11-09 | ✅ OK |
+| Connoisseurus Veg | 0 | 325 | 0 | 34 | 1 | 1 | 2026-11-09 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 345 | 44 | 41 | 2 | 45 | 2026-11-08 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-04 | ✅ OK |
 | Reddit | 2 | 350 | 1 | 38 | 3 | 0 | 2026-11-09 | ✅ OK (2) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-06 | ✅ OK |
-| VegNews | 3 | 350 | 2 | 42 | 0 | 7 | 2026-11-09 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-09 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
