@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-11 18:55:13
-**Total Run Time:** 7m 5s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 38s)
+**Last Run:** 2026-11-12 02:28:58
+**Total Run Time:** 7m 35s
+**Longest Step:** RSS: A Virtual Vegan (0m 35s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21589 | 142 new today |
+| **Total Database** | 21592 | 146 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 739 | Total recorded actions in database |
-| **WFPB / GF** | 2645 / 2802 | 12% / 12% |
-| **Easy / Budget** | 5176 / 2122 | 23% / 9% |
+| **Trending Events** | 707 | Total recorded actions in database |
+| **WFPB / GF** | 2645 / 2803 | 12% / 12% |
+| **Easy / Budget** | 5179 / 2123 | 23% / 9% |
 
 ---
 
@@ -20,12 +20,11 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **5.98** | *2.37* |
-| 2 |[Smash Tacos (Made With Chickpeas)](https://theeburgerdude.com/smash-tacos-made-with-chickpeas/) | The Burger Dude | **3.96** | *1.57* |
-| 3 |[35 Healthy Snacks for Kids](https://sweetpotatosoul.com/healthy-snacks-for-kids/) | Sweet Potato Soul | **3.34** | *1.33* |
-| 4 |[Vegan Mac & Cheese 🌱 All the cheesy goodness, no dairy](https://www.reddit.com/r/veganrecipes/comments/1x6qbe4/vegan_mac_cheese_all_the_cheesy_goodness_no_dairy/) | Reddit | **2.47** | *0.98* |
-| 5 |[Swiss Chard and Mushroom Stuffed Puff Pastries](https://thestingyvegan.com/swiss-chard-and-mushroom-stuffed-puff-pastries/) | The Stingy Vegan | **2.41** | *0.96* |
-| 6 |[Vegan Creamy Enchilada Lentils](https://thevegan8.com/creamy-enchilada-lentils-vegan/) | The Vegan 8 | **1.73** | *0.69* |
+| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **5.17** | *2.05* |
+| 2 |[Smash Tacos (Made With Chickpeas)](https://theeburgerdude.com/smash-tacos-made-with-chickpeas/) | The Burger Dude | **3.42** | *1.36* |
+| 3 |[35 Healthy Snacks for Kids](https://sweetpotatosoul.com/healthy-snacks-for-kids/) | Sweet Potato Soul | **2.89** | *1.15* |
+| 4 |[Vegan Mac & Cheese 🌱 All the cheesy goodness, no dairy](https://www.reddit.com/r/veganrecipes/comments/1x6qbe4/vegan_mac_cheese_all_the_cheesy_goodness_no_dairy/) | Reddit | **2.13** | *0.85* |
+| 5 |[Swiss Chard and Mushroom Stuffed Puff Pastries](https://thestingyvegan.com/swiss-chard-and-mushroom-stuffed-puff-pastries/) | The Stingy Vegan | **2.08** | *0.83* |
 
 ---
 
@@ -44,8 +43,8 @@
 | Plant Baes | 1 | 53 | 3 | 8 | 2 | 7 | 2026-11-05 | ✅ OK |
 | My Goodness Kitchen | 2 | 64 | 7 | 7 | 3 | 3 | 2026-11-10 | ✅ OK |
 | PlantYou | 2 | 64 | 64 | 7 | 2 | 0 | 2026-11-07 | ✅ OK |
-| Vegan Richa GF | 1 | 64 | 2 | 15 | 7 | 64 | 2026-11-11 | ✅ OK |
-| Dr. Vegan | 0 | 68 | 4 | 68 | 8 | 0 | 2026-11-06 | ✅ OK |
+| Vegan Richa GF | 0 | 64 | 2 | 15 | 7 | 64 | 2026-11-11 | ✅ OK |
+| Dr. Vegan | 1 | 69 | 4 | 69 | 8 | 0 | 2026-11-11 | ✅ OK |
 | Jessica in the Kitchen | 1 | 97 | 2 | 9 | 1 | 4 | 2026-11-09 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -59,27 +58,27 @@
 | Holistic Chef Academy | 1 | 183 | 3 | 8 | 0 | 7 | 2026-11-10 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
-| The Stingy Vegan | 0 | 188 | 1 | 188 | 188 | 0 | 2026-10-26 | ✅ OK |
+| The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 4 | 198 | 7 | 38 | 15 | 4 | 2026-11-10 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
 | Steamy Vegan | 2 | 206 | 9 | 32 | 10 | 2 | 2026-11-10 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
-| The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Vegan in the Freezer | 0 | 218 | 5 | 36 | 10 | 0 | 2026-08-25 | ✅ OK |
+| Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
 | Nora Cooks | 2 | 220 | 14 | 34 | 13 | 5 | 2026-11-04 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 226 | 19 | 73 | 18 | 42 | 2026-11-10 | ✅ OK (3) |
 | Elavegan | 1 | 227 | 5 | 39 | 2 | 219 | 2026-11-05 | ✅ OK |
 | Rainbow Plant Life | 9 | 228 | 30 | 55 | 41 | 7 | 2026-11-03 | ✅ OK |
-| Cadry's Kitchen | 0 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
+| Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Little Blog of Vegan | 0 | 232 | 0 | 41 | 0 | 1 | 2026-11-06 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Rabbit and Wolves | 0 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
+| Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
 | The Cheap Lazy Vegan | 1 | 239 | 21 | 239 | 239 | 1 | 2026-11-11 | ✅ OK (1) |
 | The Burger Dude | 8 | 241 | 6 | 13 | 14 | 0 | 2026-11-07 | ✅ OK |
@@ -100,29 +99,29 @@
 | Plant Power Couple | 0 | 262 | 0 | 262 | 2 | 0 | 2026-11-08 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
 | The Foodie Takes Flight | 1 | 265 | 0 | 265 | 2 | 0 | 2026-11-07 | ✅ OK |
-| Strength and Sunshine | 0 | 267 | 8 | 267 | 2 | 260 | 2026-06-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 5 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 2 | 277 | 4 | 43 | 2 | 3 | 2026-11-08 | ✅ OK |
-| My Darling Vegan | 4 | 279 | 1 | 35 | 4 | 12 | 2026-11-03 | ✅ OK |
+| My Darling Vegan | 5 | 280 | 1 | 35 | 4 | 12 | 2026-11-11 | ✅ OK |
 | From My Bowl | 0 | 289 | 3 | 58 | 3 | 5 | 2026-11-10 | ✅ OK |
-| The Plant-Based RD | 1 | 291 | 4 | 17 | 1 | 0 | 2026-11-11 | ✅ OK |
+| The Plant-Based RD | 0 | 291 | 4 | 17 | 1 | 0 | 2026-11-11 | ✅ OK |
 | Full of Plants | 1 | 293 | 0 | 43 | 0 | 13 | 2026-11-06 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 8 | 0 | 9 | 2026-10-09 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
+| Ann Arbor Vegan Kitchen | 0 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK |
 | Eat Figs, Not Pigs | 4 | 296 | 1 | 37 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Plant-Based on a Budget | 1 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 303 | 10 | 49 | 2 | 300 | 2026-11-05 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 320 | 39 | 89 | 3 | 0 | 2026-11-11 | ✅ OK |
-| Connoisseurus Veg | 1 | 326 | 0 | 34 | 1 | 1 | 2026-11-11 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 346 | 44 | 41 | 2 | 45 | 2026-11-10 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 349 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 39 | 3 | 0 | 2026-11-11 | ✅ OK (3) |
-| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-06 | ✅ OK |
-| VegNews | 3 | 350 | 2 | 42 | 0 | 7 | 2026-11-11 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 320 | 39 | 89 | 3 | 0 | 2026-11-11 | ✅ OK |
+| Connoisseurus Veg | 0 | 326 | 0 | 34 | 1 | 1 | 2026-11-11 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 347 | 44 | 41 | 2 | 45 | 2026-11-12 | ✅ OK |
+| Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 39 | 3 | 0 | 2026-11-11 | ✅ OK (2) |
+| The Post-Punk Kitchen | 4 | 350 | 2 | 14 | 4 | 1 | 2026-11-11 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-11 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
