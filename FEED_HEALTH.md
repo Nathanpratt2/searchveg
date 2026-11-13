@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-12 22:28:38
-**Total Run Time:** 7m 37s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 41s)
+**Last Run:** 2026-11-13 08:30:25
+**Total Run Time:** 6m 59s
+**Longest Step:** RSS: A Virtual Vegan (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21599 | 153 new today |
+| **Total Database** | 21599 | 141 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 666 | Total recorded actions in database |
+| **Trending Events** | 682 | Total recorded actions in database |
 | **WFPB / GF** | 2646 / 2805 | 12% / 12% |
 | **Easy / Budget** | 5178 / 2123 | 23% / 9% |
 
@@ -20,9 +20,9 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **3.52** | *1.40* |
-| 2 |[Smash Tacos (Made With Chickpeas)](https://theeburgerdude.com/smash-tacos-made-with-chickpeas/) | The Burger Dude | **2.33** | *0.92* |
-| 3 |[35 Healthy Snacks for Kids](https://sweetpotatosoul.com/healthy-snacks-for-kids/) | Sweet Potato Soul | **1.96** | *0.78* |
+| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **2.90** | *1.15* |
+| 2 |[Smash Tacos (Made With Chickpeas)](https://theeburgerdude.com/smash-tacos-made-with-chickpeas/) | The Burger Dude | **1.92** | *0.76* |
+| 3 |[35 Healthy Snacks for Kids](https://sweetpotatosoul.com/healthy-snacks-for-kids/) | Sweet Potato Soul | **1.62** | *0.64* |
 
 ---
 
@@ -41,7 +41,7 @@
 | Plant Baes | 1 | 53 | 3 | 8 | 2 | 7 | 2026-11-05 | ✅ OK |
 | PlantYou | 2 | 64 | 64 | 7 | 2 | 0 | 2026-11-07 | ✅ OK |
 | Vegan Richa GF | 0 | 64 | 2 | 15 | 7 | 64 | 2026-11-11 | ✅ OK |
-| My Goodness Kitchen | 2 | 65 | 7 | 7 | 3 | 3 | 2026-11-10 | ✅ OK |
+| My Goodness Kitchen | 1 | 65 | 7 | 7 | 3 | 3 | 2026-11-10 | ✅ OK |
 | Dr. Vegan | 0 | 69 | 4 | 69 | 8 | 0 | 2026-11-11 | ✅ OK |
 | Jessica in the Kitchen | 2 | 98 | 2 | 9 | 1 | 4 | 2026-11-12 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -105,11 +105,11 @@
 | Make It Dairy Free | 2 | 277 | 4 | 43 | 2 | 3 | 2026-11-08 | ✅ OK |
 | My Darling Vegan | 4 | 280 | 1 | 35 | 4 | 12 | 2026-11-11 | ✅ OK |
 | From My Bowl | 0 | 289 | 3 | 58 | 3 | 5 | 2026-11-10 | ✅ OK |
-| The Plant-Based RD | 1 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
-| Full of Plants | 1 | 293 | 0 | 43 | 0 | 13 | 2026-11-12 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
+| The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
+| Full of Plants | 0 | 293 | 0 | 43 | 0 | 13 | 2026-11-12 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 0 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 294 | 294 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
-| Eat Figs, Not Pigs | 4 | 297 | 1 | 37 | 2 | 0 | 2026-11-12 | ✅ OK |
+| Eat Figs, Not Pigs | 3 | 296 | 1 | 37 | 2 | 0 | 2026-11-12 | ✅ OK |
 | Plant-Based on a Budget | 1 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
@@ -117,8 +117,8 @@
 | Connoisseurus Veg | 0 | 326 | 0 | 34 | 1 | 1 | 2026-11-11 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 347 | 44 | 41 | 2 | 45 | 2026-11-12 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 39 | 3 | 0 | 2026-11-12 | ✅ OK (3) |
-| The Post-Punk Kitchen | 3 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
+| Reddit | 2 | 350 | 1 | 39 | 3 | 0 | 2026-11-12 | ✅ OK (2) |
+| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 41 | 0 | 7 | 2026-11-12 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
