@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-14 01:39:38
-**Total Run Time:** 7m 49s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
+**Last Run:** 2026-11-14 13:49:45
+**Total Run Time:** 7m 26s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21605 | 148 new today |
+| **Total Database** | 21606 | 146 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 665 | Total recorded actions in database |
+| **Trending Events** | 660 | Total recorded actions in database |
 | **WFPB / GF** | 2647 / 2805 | 12% / 12% |
-| **Easy / Budget** | 5177 / 2123 | 23% / 9% |
+| **Easy / Budget** | 5176 / 2122 | 23% / 9% |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **2.09** | *0.83* |
+| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **1.65** | *0.65* |
 
 ---
 
@@ -51,7 +51,7 @@
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
-| Holistic Chef Academy | 1 | 183 | 3 | 8 | 0 | 7 | 2026-11-10 | ✅ OK |
+| Holistic Chef Academy | 2 | 184 | 3 | 8 | 0 | 7 | 2026-11-14 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
 | The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
@@ -76,7 +76,7 @@
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 239 | 21 | 239 | 239 | 1 | 2026-11-11 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 0 | 238 | 21 | 238 | 238 | 1 | 2026-11-02 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | The Burger Dude | 8 | 242 | 6 | 13 | 14 | 0 | 2026-11-13 | ✅ OK |
@@ -113,9 +113,9 @@
 | Lazy Cat Kitchen | 0 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 320 | 39 | 89 | 3 | 0 | 2026-11-11 | ✅ OK |
 | Connoisseurus Veg | 0 | 327 | 0 | 34 | 1 | 1 | 2026-11-13 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 348 | 44 | 41 | 2 | 45 | 2026-11-13 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 348 | 44 | 41 | 2 | 45 | 2026-11-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 39 | 3 | 0 | 2026-11-13 | ✅ OK (3) |
+| Reddit | 2 | 350 | 1 | 39 | 3 | 0 | 2026-11-13 | ✅ OK (2) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 40 | 0 | 7 | 2026-11-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
