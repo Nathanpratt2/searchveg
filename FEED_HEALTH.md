@@ -1,12 +1,12 @@
 # Feed Health Report
-**Last Run:** 2026-11-13 18:46:03
-**Total Run Time:** 8m 1s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
+**Last Run:** 2026-11-14 01:39:38
+**Total Run Time:** 7m 49s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21604 | 156 new today |
+| **Total Database** | 21605 | 148 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 665 | Total recorded actions in database |
@@ -20,8 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **2.38** | *0.95* |
-| 2 |[Smash Tacos (Made With Chickpeas)](https://theeburgerdude.com/smash-tacos-made-with-chickpeas/) | The Burger Dude | **1.58** | *0.63* |
+| 1 |[Hungarian Goulash](https://www.reddit.com/r/veganrecipes/comments/1xnqtoz/hungarian_goulash/) | Reddit | **2.09** | *0.83* |
 
 ---
 
@@ -37,10 +36,10 @@
 | Justine Snacks (Vegan Recipes) | 1 | 39 | 0 | 2 | 0 | 1 | 2026-10-27 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
-| Plant Baes | 2 | 54 | 3 | 8 | 2 | 7 | 2026-11-13 | ✅ OK |
+| Plant Baes | 1 | 54 | 3 | 8 | 2 | 7 | 2026-11-13 | ✅ OK |
 | Vegan Richa GF | 0 | 64 | 2 | 15 | 7 | 64 | 2026-11-11 | ✅ OK |
 | My Goodness Kitchen | 1 | 65 | 7 | 7 | 3 | 3 | 2026-11-10 | ✅ OK |
-| PlantYou | 3 | 65 | 65 | 7 | 2 | 0 | 2026-11-13 | ✅ OK |
+| PlantYou | 2 | 65 | 65 | 7 | 2 | 0 | 2026-11-13 | ✅ OK |
 | Dr. Vegan | 0 | 69 | 4 | 69 | 8 | 0 | 2026-11-11 | ✅ OK |
 | Jessica in the Kitchen | 2 | 98 | 2 | 9 | 1 | 4 | 2026-11-12 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -57,7 +56,7 @@
 | Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
 | The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
-| Simple Vegan Blog | 4 | 198 | 7 | 38 | 15 | 4 | 2026-11-13 | ✅ OK |
+| Simple Vegan Blog | 3 | 198 | 7 | 38 | 15 | 4 | 2026-11-13 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
 | Steamy Vegan | 2 | 206 | 9 | 32 | 10 | 2 | 2026-11-10 | ✅ OK |
@@ -80,7 +79,7 @@
 | The Cheap Lazy Vegan | 1 | 239 | 21 | 239 | 239 | 1 | 2026-11-11 | ✅ OK (1) |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
-| The Burger Dude | 9 | 242 | 6 | 13 | 14 | 0 | 2026-11-13 | ✅ OK |
+| The Burger Dude | 8 | 242 | 6 | 13 | 14 | 0 | 2026-11-13 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-11-05 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | ZardyPlants | 1 | 244 | 244 | 51 | 244 | 4 | 2026-11-04 | ✅ OK |
@@ -113,12 +112,12 @@
 | Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 310 | 3 | 15 | 3 | 5 | 2026-11-08 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 320 | 39 | 89 | 3 | 0 | 2026-11-11 | ✅ OK |
-| Connoisseurus Veg | 1 | 327 | 0 | 34 | 1 | 1 | 2026-11-13 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 347 | 44 | 41 | 2 | 45 | 2026-11-12 | ✅ OK |
+| Connoisseurus Veg | 0 | 327 | 0 | 34 | 1 | 1 | 2026-11-13 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 348 | 44 | 41 | 2 | 45 | 2026-11-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 39 | 3 | 0 | 2026-11-13 | ✅ OK (4) |
+| Reddit | 3 | 350 | 1 | 39 | 3 | 0 | 2026-11-13 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
-| VegNews | 3 | 350 | 2 | 40 | 0 | 7 | 2026-11-13 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 40 | 0 | 7 | 2026-11-13 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
