@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-11-15 08:12:27
-**Total Run Time:** 7m 44s
-**Longest Step:** RSS: A Virtual Vegan (0m 37s)
+**Last Run:** 2026-11-15 18:01:04
+**Total Run Time:** 7m 14s
+**Longest Step:** RSS: A Virtual Vegan (0m 36s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21610 | 144 new today |
+| **Total Database** | 21611 | 149 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 668 | Total recorded actions in database |
-| **WFPB / GF** | 2647 / 2805 | 12% / 12% |
+| **Trending Events** | 652 | Total recorded actions in database |
+| **WFPB / GF** | 2646 / 2805 | 12% / 12% |
 | **Easy / Budget** | 5179 / 2123 | 23% / 9% |
 
 ---
@@ -75,7 +75,7 @@
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
-| The Cheap Lazy Vegan | 1 | 239 | 21 | 239 | 239 | 1 | 2026-11-02 | ✅ OK (1) |
+| The Cheap Lazy Vegan | 0 | 239 | 21 | 239 | 239 | 1 | 2026-11-02 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | The Burger Dude | 8 | 242 | 6 | 13 | 14 | 0 | 2026-11-13 | ✅ OK |
@@ -99,14 +99,14 @@
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 5 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
-| Make It Dairy Free | 2 | 277 | 4 | 43 | 2 | 3 | 2026-11-08 | ✅ OK |
+| Make It Dairy Free | 3 | 278 | 4 | 43 | 2 | 3 | 2026-11-15 | ✅ OK |
 | My Darling Vegan | 4 | 280 | 1 | 35 | 4 | 12 | 2026-11-11 | ✅ OK |
 | From My Bowl | 0 | 289 | 3 | 58 | 3 | 5 | 2026-11-10 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | Full of Plants | 0 | 293 | 0 | 43 | 0 | 13 | 2026-11-12 | ✅ OK |
+| The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
-| The Whole Food Plant Based Cooking Show | 0 | 294 | 294 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
-| Eat Figs, Not Pigs | 3 | 296 | 1 | 38 | 2 | 0 | 2026-11-15 | ✅ OK |
+| Eat Figs, Not Pigs | 2 | 296 | 1 | 38 | 2 | 0 | 2026-11-15 | ✅ OK |
 | Plant-Based on a Budget | 1 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
 | Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 311 | 3 | 15 | 3 | 5 | 2026-11-14 | ✅ OK |
@@ -114,9 +114,9 @@
 | Connoisseurus Veg | 0 | 327 | 0 | 34 | 1 | 1 | 2026-11-13 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 348 | 44 | 41 | 2 | 45 | 2026-11-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 1 | 350 | 1 | 38 | 3 | 0 | 2026-11-15 | ✅ OK (1) |
+| Reddit | 3 | 350 | 1 | 38 | 3 | 0 | 2026-11-15 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
-| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-14 | ✅ OK |
+| VegNews | 4 | 350 | 2 | 42 | 0 | 7 | 2026-11-15 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
