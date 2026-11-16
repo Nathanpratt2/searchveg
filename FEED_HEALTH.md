@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-15 18:01:04
-**Total Run Time:** 7m 14s
-**Longest Step:** RSS: A Virtual Vegan (0m 36s)
+**Last Run:** 2026-11-16 01:22:08
+**Total Run Time:** 7m 53s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21611 | 149 new today |
+| **Total Database** | 21613 | 150 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 652 | Total recorded actions in database |
+| **Trending Events** | 597 | Total recorded actions in database |
 | **WFPB / GF** | 2646 / 2805 | 12% / 12% |
-| **Easy / Budget** | 5179 / 2123 | 23% / 9% |
+| **Easy / Budget** | 5180 / 2125 | 23% / 9% |
 
 ---
 
@@ -20,6 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
+| 1 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **5.42** | *2.15* |
 
 ---
 
@@ -45,8 +46,8 @@
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
-| The Hidden Veggies | 4 | 128 | 1 | 13 | 128 | 0 | 2026-11-10 | ✅ OK |
-| Sarah's Vegan Kitchen | 2 | 157 | 0 | 15 | 2 | 1 | 2026-10-20 | ✅ OK |
+| The Hidden Veggies | 5 | 129 | 1 | 13 | 129 | 0 | 2026-11-15 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 158 | 0 | 15 | 2 | 1 | 2026-11-15 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
@@ -85,7 +86,7 @@
 | Sweet Potato Soul | 1 | 247 | 0 | 36 | 1 | 6 | 2026-11-04 | ✅ OK |
 | The First Mess | 0 | 249 | 1 | 31 | 3 | 2 | 2026-11-11 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Sweet Simple Vegan | 1 | 250 | 4 | 47 | 18 | 2 | 2026-11-08 | ✅ OK |
+| Sweet Simple Vegan | 2 | 251 | 4 | 47 | 18 | 2 | 2026-11-15 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 3 | 255 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (3) |
 | Vegan Richa | 6 | 256 | 10 | 59 | 41 | 73 | 2026-11-11 | ✅ OK |
@@ -99,7 +100,7 @@
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 5 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
-| Make It Dairy Free | 3 | 278 | 4 | 43 | 2 | 3 | 2026-11-15 | ✅ OK |
+| Make It Dairy Free | 2 | 278 | 4 | 43 | 2 | 3 | 2026-11-15 | ✅ OK |
 | My Darling Vegan | 4 | 280 | 1 | 35 | 4 | 12 | 2026-11-11 | ✅ OK |
 | From My Bowl | 0 | 289 | 3 | 58 | 3 | 5 | 2026-11-10 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
@@ -107,16 +108,16 @@
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
 | Eat Figs, Not Pigs | 2 | 296 | 1 | 38 | 2 | 0 | 2026-11-15 | ✅ OK |
-| Plant-Based on a Budget | 1 | 298 | 16 | 71 | 298 | 1 | 2026-11-09 | ✅ OK |
+| Plant-Based on a Budget | 2 | 299 | 16 | 71 | 299 | 1 | 2026-11-16 | ✅ OK |
 | Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 311 | 3 | 15 | 3 | 5 | 2026-11-14 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 320 | 39 | 89 | 3 | 0 | 2026-11-11 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 321 | 39 | 90 | 3 | 0 | 2026-11-15 | ✅ OK |
 | Connoisseurus Veg | 0 | 327 | 0 | 34 | 1 | 1 | 2026-11-13 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 348 | 44 | 41 | 2 | 45 | 2026-11-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 3 | 350 | 1 | 38 | 3 | 0 | 2026-11-15 | ✅ OK (3) |
+| Reddit | 4 | 350 | 1 | 38 | 3 | 0 | 2026-11-15 | ✅ OK (4) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
-| VegNews | 4 | 350 | 2 | 42 | 0 | 7 | 2026-11-15 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-15 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
