@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-16 01:22:08
-**Total Run Time:** 7m 53s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 34s)
+**Last Run:** 2026-11-16 08:21:20
+**Total Run Time:** 7m 51s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 39s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21613 | 150 new today |
+| **Total Database** | 21612 | 147 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 597 | Total recorded actions in database |
+| **Trending Events** | 589 | Total recorded actions in database |
 | **WFPB / GF** | 2646 / 2805 | 12% / 12% |
 | **Easy / Budget** | 5180 / 2125 | 23% / 9% |
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **5.42** | *2.15* |
+| 1 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **4.74** | *1.88* |
 
 ---
 
@@ -86,7 +86,7 @@
 | Sweet Potato Soul | 1 | 247 | 0 | 36 | 1 | 6 | 2026-11-04 | ✅ OK |
 | The First Mess | 0 | 249 | 1 | 31 | 3 | 2 | 2026-11-11 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Sweet Simple Vegan | 2 | 251 | 4 | 47 | 18 | 2 | 2026-11-15 | ✅ OK |
+| Sweet Simple Vegan | 1 | 251 | 4 | 47 | 18 | 2 | 2026-11-15 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 3 | 255 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (3) |
 | Vegan Richa | 6 | 256 | 10 | 59 | 41 | 73 | 2026-11-11 | ✅ OK |
@@ -111,11 +111,11 @@
 | Plant-Based on a Budget | 2 | 299 | 16 | 71 | 299 | 1 | 2026-11-16 | ✅ OK |
 | Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 311 | 3 | 15 | 3 | 5 | 2026-11-14 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 1 | 321 | 39 | 90 | 3 | 0 | 2026-11-15 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 0 | 321 | 39 | 90 | 3 | 0 | 2026-11-15 | ✅ OK |
 | Connoisseurus Veg | 0 | 327 | 0 | 34 | 1 | 1 | 2026-11-13 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 348 | 44 | 41 | 2 | 45 | 2026-11-13 | ✅ OK |
 | Gretchen's Vegan Bakery | 3 | 350 | 3 | 23 | 1 | 1 | 2026-11-10 | ✅ OK |
-| Reddit | 4 | 350 | 1 | 38 | 3 | 0 | 2026-11-15 | ✅ OK (4) |
+| Reddit | 3 | 350 | 1 | 38 | 3 | 0 | 2026-11-16 | ✅ OK (3) |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-12 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-15 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
