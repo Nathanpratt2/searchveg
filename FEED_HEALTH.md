@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-18 08:54:29
-**Total Run Time:** 7m 46s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
+**Last Run:** 2026-11-18 19:36:11
+**Total Run Time:** 7m 59s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 37s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21627 | 141 new today |
+| **Total Database** | 21633 | 149 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 388 | Total recorded actions in database |
-| **WFPB / GF** | 2646 / 2805 | 12% / 12% |
-| **Easy / Budget** | 5182 / 2125 | 23% / 9% |
+| **Trending Events** | 331 | Total recorded actions in database |
+| **WFPB / GF** | 2647 / 2806 | 12% / 12% |
+| **Easy / Budget** | 5184 / 2125 | 23% / 9% |
 
 ---
 
@@ -20,8 +20,8 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **3.21** | *1.27* |
-| 2 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **1.86** | *0.74* |
+| 1 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **2.61** | *1.04* |
+| 2 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **1.51** | *0.60* |
 
 ---
 
@@ -31,17 +31,17 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 5 | 0 | 1 | 0 | 0 | 2026-10-12 | ✅ OK |
 | Rainbow Nourishments | 0 | 16 | 0 | 3 | 1 | 0 | 2026-10-18 | ✅ OK |
-| A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 5 | 0 | 0 | 2026-11-10 | ✅ OK |
+| A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 5 | 0 | 0 | 2026-11-14 | ✅ OK |
 | Mary's Test Kitchen | 1 | 30 | 0 | 8 | 3 | 1 | 2026-10-14 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 34 | 5 | 1 | 4 | 33 | 2026-11-03 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 39 | 0 | 2 | 0 | 1 | 2026-10-27 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
 | Plant Baes | 1 | 54 | 3 | 8 | 2 | 7 | 2026-11-13 | ✅ OK |
-| Vegan Richa GF | 0 | 64 | 2 | 15 | 7 | 64 | 2026-11-11 | ✅ OK |
 | PlantYou | 1 | 65 | 65 | 7 | 2 | 0 | 2026-11-17 | ✅ OK |
-| My Goodness Kitchen | 2 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
-| Dr. Vegan | 0 | 70 | 4 | 70 | 8 | 0 | 2026-11-16 | ✅ OK |
+| Vegan Richa GF | 1 | 65 | 2 | 15 | 7 | 65 | 2026-11-18 | ✅ OK |
+| My Goodness Kitchen | 1 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
+| Dr. Vegan | 1 | 71 | 4 | 71 | 8 | 0 | 2026-11-18 | ✅ OK |
 | Jessica in the Kitchen | 2 | 99 | 2 | 9 | 1 | 4 | 2026-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
@@ -90,8 +90,8 @@
 | Sweet Simple Vegan | 2 | 252 | 4 | 47 | 18 | 2 | 2026-11-17 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 3 | 255 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (3) |
-| Vegan Richa | 6 | 256 | 10 | 59 | 41 | 73 | 2026-11-11 | ✅ OK |
-| HealthyGirl Kitchen | 0 | 258 | 30 | 59 | 0 | 62 | 2026-11-16 | ✅ OK |
+| Vegan Richa | 6 | 256 | 10 | 59 | 41 | 73 | 2026-11-18 | ✅ OK |
+| HealthyGirl Kitchen | 1 | 259 | 30 | 59 | 0 | 62 | 2026-11-18 | ✅ OK |
 | Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
 | Plant Power Couple | 0 | 262 | 0 | 262 | 2 | 0 | 2026-11-08 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
@@ -107,18 +107,18 @@
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | Full of Plants | 0 | 293 | 0 | 43 | 0 | 13 | 2026-11-12 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 6 | 294 | 294 | 27 | 3 | 0 | 2026-10-21 | ✅ OK (6) |
-| Eat Figs, Not Pigs | 1 | 296 | 1 | 38 | 2 | 0 | 2026-11-16 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 7 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK (7) |
+| Eat Figs, Not Pigs | 1 | 296 | 1 | 38 | 2 | 0 | 2026-11-18 | ✅ OK |
 | Plant-Based on a Budget | 2 | 299 | 16 | 71 | 299 | 1 | 2026-11-16 | ✅ OK |
 | Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 311 | 3 | 15 | 3 | 5 | 2026-11-14 | ✅ OK |
-| Monkey & Me Kitchen Adventures | 0 | 321 | 39 | 90 | 3 | 0 | 2026-11-15 | ✅ OK |
-| Connoisseurus Veg | 0 | 328 | 0 | 34 | 1 | 1 | 2026-11-16 | ✅ OK |
+| Monkey & Me Kitchen Adventures | 1 | 322 | 39 | 90 | 3 | 0 | 2026-11-18 | ✅ OK |
+| Connoisseurus Veg | 1 | 329 | 0 | 34 | 1 | 1 | 2026-11-18 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 38 | 3 | 0 | 2026-11-17 | ❌ Reddit Empty |
 | The Conscious Plant Kitchen | 0 | 349 | 44 | 42 | 2 | 45 | 2026-11-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-11-15 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-17 | ✅ OK |
-| VegNews | 0 | 350 | 2 | 40 | 0 | 7 | 2026-11-17 | ✅ OK |
+| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-18 | ✅ OK |
+| VegNews | 2 | 350 | 2 | 40 | 0 | 7 | 2026-11-18 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
