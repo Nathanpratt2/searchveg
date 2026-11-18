@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-17 23:43:29
-**Total Run Time:** 8m 15s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-11-18 08:54:29
+**Total Run Time:** 7m 46s
+**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21626 | 146 new today |
+| **Total Database** | 21627 | 141 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 396 | Total recorded actions in database |
+| **Trending Events** | 388 | Total recorded actions in database |
 | **WFPB / GF** | 2646 / 2805 | 12% / 12% |
 | **Easy / Budget** | 5182 / 2125 | 23% / 9% |
 
@@ -20,8 +20,8 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **3.83** | *1.52* |
-| 2 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **2.22** | *0.88* |
+| 1 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **3.21** | *1.27* |
+| 2 |[Vegan Vanilla Birthday Cake](https://www.thelittleblogofvegan.com/2021/06/vegan-vanilla-birthday-cake.html) | The Little Blog of Vegan | **1.86** | *0.74* |
 
 ---
 
@@ -39,8 +39,8 @@
 | Justine Cooks Vegan | 0 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
 | Plant Baes | 1 | 54 | 3 | 8 | 2 | 7 | 2026-11-13 | ✅ OK |
 | Vegan Richa GF | 0 | 64 | 2 | 15 | 7 | 64 | 2026-11-11 | ✅ OK |
-| PlantYou | 2 | 65 | 65 | 7 | 2 | 0 | 2026-11-17 | ✅ OK |
-| My Goodness Kitchen | 1 | 67 | 7 | 7 | 3 | 3 | 2026-11-16 | ✅ OK |
+| PlantYou | 1 | 65 | 65 | 7 | 2 | 0 | 2026-11-17 | ✅ OK |
+| My Goodness Kitchen | 2 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
 | Dr. Vegan | 0 | 70 | 4 | 70 | 8 | 0 | 2026-11-16 | ✅ OK |
 | Jessica in the Kitchen | 2 | 99 | 2 | 9 | 1 | 4 | 2026-11-16 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
@@ -54,14 +54,14 @@
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
 | Holistic Chef Academy | 1 | 185 | 3 | 8 | 0 | 7 | 2026-11-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 10 | 188 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
 | The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 3 | 198 | 7 | 38 | 15 | 4 | 2026-11-13 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
-| Steamy Vegan | 3 | 207 | 9 | 32 | 10 | 2 | 2026-11-17 | ✅ OK |
+| Steamy Vegan | 2 | 207 | 9 | 32 | 10 | 2 | 2026-11-17 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
@@ -87,7 +87,7 @@
 | Sweet Potato Soul | 1 | 247 | 0 | 36 | 1 | 6 | 2026-11-04 | ✅ OK |
 | The First Mess | 0 | 249 | 1 | 31 | 3 | 2 | 2026-11-11 | ✅ OK |
 | Healthier Steps | 0 | 250 | 14 | 28 | 38 | 19 | 2025-05-18 | ✅ OK |
-| Sweet Simple Vegan | 3 | 252 | 4 | 47 | 18 | 2 | 2026-11-17 | ✅ OK |
+| Sweet Simple Vegan | 2 | 252 | 4 | 47 | 18 | 2 | 2026-11-17 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 3 | 255 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (3) |
 | Vegan Richa | 6 | 256 | 10 | 59 | 41 | 73 | 2026-11-11 | ✅ OK |
@@ -102,7 +102,7 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 5 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 2 | 278 | 4 | 43 | 2 | 3 | 2026-11-15 | ✅ OK |
-| My Darling Vegan | 5 | 281 | 1 | 35 | 4 | 12 | 2026-11-17 | ✅ OK |
+| My Darling Vegan | 4 | 281 | 1 | 35 | 4 | 12 | 2026-11-17 | ✅ OK |
 | From My Bowl | 0 | 289 | 3 | 58 | 3 | 5 | 2026-11-10 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | Full of Plants | 0 | 293 | 0 | 43 | 0 | 13 | 2026-11-12 | ✅ OK |
@@ -115,7 +115,7 @@
 | Monkey & Me Kitchen Adventures | 0 | 321 | 39 | 90 | 3 | 0 | 2026-11-15 | ✅ OK |
 | Connoisseurus Veg | 0 | 328 | 0 | 34 | 1 | 1 | 2026-11-16 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 38 | 3 | 0 | 2026-11-17 | ❌ Reddit Empty |
-| The Conscious Plant Kitchen | 1 | 349 | 44 | 42 | 2 | 45 | 2026-11-17 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 349 | 44 | 42 | 2 | 45 | 2026-11-17 | ✅ OK |
 | Gretchen's Vegan Bakery | 2 | 350 | 3 | 23 | 1 | 1 | 2026-11-15 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-17 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 40 | 0 | 7 | 2026-11-17 | ✅ OK |
