@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-19 02:49:02
-**Total Run Time:** 6m 55s
-**Longest Step:** RSS: My Darling Vegan (0m 37s)
+**Last Run:** 2026-11-19 16:04:30
+**Total Run Time:** 7m 51s
+**Longest Step:** RSS: My Darling Vegan (0m 44s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21634 | 130 new today |
+| **Total Database** | 21639 | 148 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 302 | Total recorded actions in database |
-| **WFPB / GF** | 2647 / 2805 | 12% / 12% |
-| **Easy / Budget** | 5182 / 2124 | 23% / 9% |
+| **Trending Events** | 191 | Total recorded actions in database |
+| **WFPB / GF** | 2647 / 2808 | 12% / 12% |
+| **Easy / Budget** | 5186 / 2125 | 23% / 9% |
 
 ---
 
@@ -20,7 +20,13 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **2.27** | *0.90* |
+| 1 |[5-Ingredient Yogurt Coconut Cake (No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/yogurt-coconut-cake/) | The Conscious Plant Kitchen | **7.78** | *3.09* |
+| 2 |[Homemade Breakfast Sausage Patties](https://www.theppk.com/2026/05/homemade-breakfast-sausage-patties/) | The Post-Punk Kitchen | **5.94** | *2.36* |
+| 3 |[Easy Peanut Butter Balls](https://itdoesnttastelikechicken.com/peanut-butter-balls/) | It Doesn't Taste Like Chicken | **5.60** | *2.22* |
+| 4 |[Apple Chickpea Kale Salad With Mustard-Dill Dressing](https://vegnews.com/recipes/vegan-apple-chickpea-kale-salad) | VegNews | **4.67** | *1.85* |
+| 5 |[White Lasagna Soup (With Lentils!)](https://steamyvegan.com/white-lasagna-soup/) | Steamy Vegan | **4.67** | *1.85* |
+| 6 |[Marry Me Pasta With Crispy Tofu](https://vegnews.com/recipes/marry-me-pasta-with-crispy-tofu) | VegNews | **4.67** | *1.85* |
+| 7 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **1.76** | *0.70* |
 
 ---
 
@@ -41,40 +47,40 @@
 | Vegan Richa GF | 0 | 65 | 2 | 15 | 7 | 65 | 2026-11-18 | ✅ OK |
 | My Goodness Kitchen | 1 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
 | Dr. Vegan | 0 | 71 | 4 | 71 | 8 | 0 | 2026-11-18 | ✅ OK |
-| Jessica in the Kitchen | 2 | 99 | 2 | 9 | 1 | 4 | 2026-11-16 | ✅ OK |
+| Jessica in the Kitchen | 3 | 100 | 2 | 9 | 1 | 4 | 2026-11-19 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | The Hidden Veggies | 5 | 129 | 1 | 13 | 129 | 0 | 2026-11-15 | ✅ OK |
-| Sarah's Vegan Kitchen | 4 | 159 | 0 | 15 | 2 | 1 | 2026-11-19 | ✅ OK |
+| Sarah's Vegan Kitchen | 3 | 159 | 0 | 15 | 2 | 1 | 2026-11-19 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 1 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
-| Holistic Chef Academy | 1 | 185 | 3 | 8 | 0 | 7 | 2026-11-17 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
+| Holistic Chef Academy | 2 | 186 | 3 | 8 | 0 | 7 | 2026-11-19 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
-| The Stingy Vegan | 0 | 188 | 1 | 188 | 188 | 0 | 2026-10-26 | ✅ OK |
+| The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 3 | 198 | 7 | 38 | 15 | 4 | 2026-11-13 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
 | Steamy Vegan | 2 | 207 | 9 | 32 | 10 | 2 | 2026-11-17 | ✅ OK |
-| The Vegan 8 | 0 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
+| The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
-| Vegan in the Freezer | 0 | 218 | 5 | 36 | 10 | 0 | 2026-08-25 | ✅ OK |
+| Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
 | Nora Cooks | 2 | 220 | 14 | 34 | 13 | 5 | 2026-11-04 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 226 | 19 | 73 | 18 | 42 | 2026-11-10 | ✅ OK (3) |
-| Elavegan | 1 | 228 | 5 | 39 | 2 | 220 | 2026-11-12 | ✅ OK |
 | Rainbow Plant Life | 9 | 228 | 30 | 55 | 41 | 7 | 2026-11-03 | ✅ OK |
-| Cadry's Kitchen | 0 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
+| Elavegan | 2 | 229 | 5 | 39 | 2 | 221 | 2026-11-19 | ✅ OK |
+| Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
 | The Little Blog of Vegan | 0 | 233 | 0 | 41 | 0 | 1 | 2026-11-12 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
-| Rabbit and Wolves | 0 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
+| Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 238 | 2 | 9 | 9 | 238 | 2026-11-02 | ✅ OK |
 | The Cheap Lazy Vegan | 0 | 239 | 21 | 239 | 239 | 1 | 2026-11-02 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
@@ -95,29 +101,29 @@
 | Plant Power Couple | 0 | 262 | 0 | 262 | 2 | 0 | 2026-11-08 | ✅ OK |
 | Veggiekins | 0 | 262 | 35 | 262 | 0 | 259 | 2026-10-03 | ✅ OK |
 | The Foodie Takes Flight | 1 | 265 | 0 | 265 | 2 | 0 | 2026-11-07 | ✅ OK |
-| Strength and Sunshine | 0 | 267 | 8 | 267 | 2 | 260 | 2026-06-30 | ✅ OK |
 | Yup It's Vegan | 0 | 267 | 3 | 32 | 0 | 5 | 2023-04-05 | ✅ OK |
+| Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 5 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 2 | 278 | 4 | 43 | 2 | 3 | 2026-11-15 | ✅ OK |
 | My Darling Vegan | 4 | 281 | 1 | 35 | 4 | 12 | 2026-11-17 | ✅ OK |
-| From My Bowl | 0 | 289 | 3 | 58 | 3 | 5 | 2026-11-10 | ✅ OK |
+| From My Bowl | 1 | 290 | 3 | 59 | 3 | 5 | 2026-11-19 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | Full of Plants | 0 | 293 | 0 | 43 | 0 | 13 | 2026-11-12 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
 | Ann Arbor Vegan Kitchen | 6 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK (6) |
 | Eat Figs, Not Pigs | 1 | 296 | 1 | 38 | 2 | 0 | 2026-11-18 | ✅ OK |
 | Plant-Based on a Budget | 2 | 299 | 16 | 71 | 299 | 1 | 2026-11-16 | ✅ OK |
-| Healthy Little Vittles | 3 | 304 | 10 | 49 | 2 | 301 | 2026-11-12 | ✅ OK |
+| Healthy Little Vittles | 3 | 305 | 10 | 49 | 2 | 302 | 2026-11-19 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 311 | 3 | 15 | 3 | 5 | 2026-11-14 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 322 | 39 | 90 | 3 | 0 | 2026-11-18 | ✅ OK |
 | Connoisseurus Veg | 0 | 329 | 0 | 34 | 1 | 1 | 2026-11-18 | ✅ OK |
-| Gretchen's Vegan Bakery | 0 | 349 | 3 | 23 | 1 | 1 | 2026-11-15 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 38 | 3 | 0 | 2026-11-17 | ❌ Reddit Empty |
 | The Conscious Plant Kitchen | 0 | 349 | 44 | 42 | 2 | 45 | 2026-11-17 | ✅ OK |
-| The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-18 | ✅ OK |
-| VegNews | 1 | 350 | 2 | 40 | 0 | 7 | 2026-11-18 | ✅ OK |
+| Gretchen's Vegan Bakery | 1 | 350 | 3 | 23 | 1 | 1 | 2026-11-15 | ✅ OK |
+| The Post-Punk Kitchen | 3 | 350 | 2 | 14 | 4 | 1 | 2026-11-19 | ✅ OK |
+| VegNews | 3 | 350 | 2 | 41 | 0 | 7 | 2026-11-19 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
