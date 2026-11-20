@@ -1,16 +1,16 @@
 # Feed Health Report
-**Last Run:** 2026-11-19 23:15:18
-**Total Run Time:** 7m 45s
-**Longest Step:** HTML: Ann Arbor Vegan Kitchen (0m 40s)
+**Last Run:** 2026-11-20 08:57:03
+**Total Run Time:** 8m 5s
+**Longest Step:** RSS: Justine Cooks Vegan (0m 55s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21639 | 137 new today |
+| **Total Database** | 21640 | 140 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 191 | Total recorded actions in database |
-| **WFPB / GF** | 2647 / 2808 | 12% / 12% |
+| **Trending Events** | 199 | Total recorded actions in database |
+| **WFPB / GF** | 2647 / 2807 | 12% / 12% |
 | **Easy / Budget** | 5186 / 2125 | 23% / 9% |
 
 ---
@@ -20,13 +20,12 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[5-Ingredient Yogurt Coconut Cake (No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/yogurt-coconut-cake/) | The Conscious Plant Kitchen | **6.78** | *2.69* |
-| 2 |[Homemade Breakfast Sausage Patties](https://www.theppk.com/2026/05/homemade-breakfast-sausage-patties/) | The Post-Punk Kitchen | **5.17** | *2.05* |
-| 3 |[Easy Peanut Butter Balls](https://itdoesnttastelikechicken.com/peanut-butter-balls/) | It Doesn't Taste Like Chicken | **4.88** | *1.94* |
-| 4 |[Apple Chickpea Kale Salad With Mustard-Dill Dressing](https://vegnews.com/recipes/vegan-apple-chickpea-kale-salad) | VegNews | **4.07** | *1.61* |
-| 5 |[White Lasagna Soup (With Lentils!)](https://steamyvegan.com/white-lasagna-soup/) | Steamy Vegan | **4.07** | *1.61* |
-| 6 |[Marry Me Pasta With Crispy Tofu](https://vegnews.com/recipes/marry-me-pasta-with-crispy-tofu) | VegNews | **4.07** | *1.61* |
-| 7 |[Best Ever Vegan Apple Muffins](https://www.noracooks.com/vegan-apple-muffins/) | Nora Cooks | **1.53** | *0.61* |
+| 1 |[5-Ingredient Yogurt Coconut Cake (No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/yogurt-coconut-cake/) | The Conscious Plant Kitchen | **5.62** | *2.23* |
+| 2 |[Homemade Breakfast Sausage Patties](https://www.theppk.com/2026/05/homemade-breakfast-sausage-patties/) | The Post-Punk Kitchen | **4.29** | *1.70* |
+| 3 |[Easy Peanut Butter Balls](https://itdoesnttastelikechicken.com/peanut-butter-balls/) | It Doesn't Taste Like Chicken | **4.05** | *1.61* |
+| 4 |[Apple Chickpea Kale Salad With Mustard-Dill Dressing](https://vegnews.com/recipes/vegan-apple-chickpea-kale-salad) | VegNews | **3.37** | *1.34* |
+| 5 |[White Lasagna Soup (With Lentils!)](https://steamyvegan.com/white-lasagna-soup/) | Steamy Vegan | **3.37** | *1.34* |
+| 6 |[Marry Me Pasta With Crispy Tofu](https://vegnews.com/recipes/marry-me-pasta-with-crispy-tofu) | VegNews | **3.37** | *1.34* |
 
 ---
 
@@ -58,8 +57,8 @@
 | Love and Lemons (Vegan Recipes) | 1 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
 | Dreena Burton | 0 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
-| Holistic Chef Academy | 1 | 186 | 3 | 8 | 0 | 7 | 2026-11-19 | ✅ OK |
-| Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 31 | 2026-10-27 | ✅ OK |
+| Holistic Chef Academy | 2 | 186 | 3 | 8 | 0 | 7 | 2026-11-19 | ✅ OK |
+| Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 30 | 2026-11-19 | ✅ OK |
 | The Stingy Vegan | 1 | 189 | 1 | 189 | 189 | 0 | 2026-10-26 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
 | Simple Vegan Blog | 3 | 198 | 7 | 38 | 15 | 4 | 2026-11-13 | ✅ OK |
@@ -95,7 +94,7 @@
 | Sweet Simple Vegan | 2 | 252 | 4 | 47 | 18 | 2 | 2026-11-17 | ✅ OK |
 | Choosing Chia (Vegan Recipes) | 0 | 253 | 24 | 253 | 21 | 3 | 2026-06-01 | ✅ OK |
 | Pick Up Limes | 3 | 255 | 22 | 28 | 28 | 1 | 2026-10-07 | ✅ OK (3) |
-| Vegan Richa | 6 | 256 | 10 | 59 | 41 | 73 | 2026-11-18 | ✅ OK |
+| Vegan Richa | 7 | 257 | 10 | 59 | 41 | 73 | 2026-11-20 | ✅ OK |
 | HealthyGirl Kitchen | 0 | 259 | 30 | 59 | 0 | 62 | 2026-11-18 | ✅ OK |
 | Hot For Food | 3 | 260 | 9 | 37 | 12 | 1 | 2026-09-21 | ✅ OK |
 | Plant Power Couple | 0 | 262 | 0 | 262 | 2 | 0 | 2026-11-08 | ✅ OK |
@@ -105,7 +104,7 @@
 | Strength and Sunshine | 1 | 268 | 8 | 268 | 2 | 261 | 2026-06-30 | ✅ OK |
 | Bianca Zapatka | 1 | 269 | 22 | 121 | 43 | 4 | 2026-07-29 | ✅ OK |
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
-| A Virtual Vegan | 5 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
+| A Virtual Vegan | 6 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 0 | 276 | 4 | 43 | 2 | 3 | 2026-11-15 | ✅ OK |
 | My Darling Vegan | 4 | 281 | 1 | 35 | 4 | 12 | 2026-11-17 | ✅ OK |
 | From My Bowl | 0 | 290 | 3 | 59 | 3 | 5 | 2026-11-19 | ✅ OK |
