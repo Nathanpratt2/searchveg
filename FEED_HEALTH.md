@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-21 02:46:50
-**Total Run Time:** 7m 32s
-**Longest Step:** RSS: A Virtual Vegan (0m 37s)
+**Last Run:** 2026-11-21 14:59:02
+**Total Run Time:** 8m 50s
+**Longest Step:** RSS: A Virtual Vegan (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21648 | 144 new today |
+| **Total Database** | 21648 | 139 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 207 | Total recorded actions in database |
+| **Trending Events** | 199 | Total recorded actions in database |
 | **WFPB / GF** | 2647 / 2809 | 12% / 12% |
 | **Easy / Budget** | 5188 / 2126 | 23% / 9% |
 
@@ -20,12 +20,12 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[5-Ingredient Yogurt Coconut Cake (No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/yogurt-coconut-cake/) | The Conscious Plant Kitchen | **3.99** | *1.58* |
-| 2 |[Homemade Breakfast Sausage Patties](https://www.theppk.com/2026/05/homemade-breakfast-sausage-patties/) | The Post-Punk Kitchen | **3.04** | *1.21* |
-| 3 |[Easy Peanut Butter Balls](https://itdoesnttastelikechicken.com/peanut-butter-balls/) | It Doesn't Taste Like Chicken | **2.87** | *1.14* |
-| 4 |[Apple Chickpea Kale Salad With Mustard-Dill Dressing](https://vegnews.com/recipes/vegan-apple-chickpea-kale-salad) | VegNews | **2.39** | *0.95* |
-| 5 |[White Lasagna Soup (With Lentils!)](https://steamyvegan.com/white-lasagna-soup/) | Steamy Vegan | **2.39** | *0.95* |
-| 6 |[Marry Me Pasta With Crispy Tofu](https://vegnews.com/recipes/marry-me-pasta-with-crispy-tofu) | VegNews | **2.39** | *0.95* |
+| 1 |[5-Ingredient Yogurt Coconut Cake (No Eggs, No Dairy)](https://www.theconsciousplantkitchen.com/yogurt-coconut-cake/) | The Conscious Plant Kitchen | **3.15** | *1.25* |
+| 2 |[Homemade Breakfast Sausage Patties](https://www.theppk.com/2026/05/homemade-breakfast-sausage-patties/) | The Post-Punk Kitchen | **2.41** | *0.95* |
+| 3 |[Easy Peanut Butter Balls](https://itdoesnttastelikechicken.com/peanut-butter-balls/) | It Doesn't Taste Like Chicken | **2.27** | *0.90* |
+| 4 |[Apple Chickpea Kale Salad With Mustard-Dill Dressing](https://vegnews.com/recipes/vegan-apple-chickpea-kale-salad) | VegNews | **1.89** | *0.75* |
+| 5 |[White Lasagna Soup (With Lentils!)](https://steamyvegan.com/white-lasagna-soup/) | Steamy Vegan | **1.89** | *0.75* |
+| 6 |[Marry Me Pasta With Crispy Tofu](https://vegnews.com/recipes/marry-me-pasta-with-crispy-tofu) | VegNews | **1.89** | *0.75* |
 
 ---
 
@@ -37,7 +37,7 @@
 | Rainbow Nourishments | 0 | 16 | 0 | 3 | 1 | 0 | 2026-10-18 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 5 | 0 | 0 | 2026-11-14 | ✅ OK |
 | Mary's Test Kitchen | 1 | 30 | 0 | 8 | 3 | 1 | 2026-10-14 | ✅ OK |
-| Rainbow Plant Life GF | 1 | 35 | 5 | 1 | 4 | 34 | 2026-11-20 | ✅ OK |
+| Rainbow Plant Life GF | 0 | 35 | 5 | 1 | 4 | 34 | 2026-11-20 | ✅ OK |
 | Justine Snacks (Vegan Recipes) | 1 | 39 | 0 | 2 | 0 | 1 | 2026-10-27 | ✅ OK |
 | The Banana Diaries | 0 | 41 | 0 | 11 | 2 | 0 | 2026-09-15 | ✅ OK |
 | Justine Cooks Vegan | 0 | 47 | 1 | 4 | 0 | 0 | 2026-11-06 | ✅ OK |
@@ -45,12 +45,12 @@
 | PlantYou | 1 | 65 | 65 | 7 | 2 | 0 | 2026-11-17 | ✅ OK |
 | Vegan Richa GF | 0 | 65 | 2 | 15 | 7 | 65 | 2026-11-18 | ✅ OK |
 | My Goodness Kitchen | 1 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
-| Dr. Vegan | 1 | 72 | 4 | 72 | 8 | 0 | 2026-11-20 | ✅ OK |
+| Dr. Vegan | 0 | 72 | 4 | 72 | 8 | 0 | 2026-11-20 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Jessica in the Kitchen | 1 | 101 | 2 | 9 | 1 | 4 | 2026-11-20 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
-| One Arab Vegan | 0 | 128 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
+| One Arab Vegan | 0 | 127 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | The Hidden Veggies | 5 | 129 | 1 | 13 | 129 | 0 | 2026-11-15 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 159 | 0 | 15 | 2 | 1 | 2026-11-19 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
@@ -84,7 +84,7 @@
 | The Cheap Lazy Vegan | 0 | 239 | 21 | 239 | 239 | 1 | 2026-11-02 | ✅ OK |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
-| The Burger Dude | 8 | 242 | 6 | 13 | 14 | 0 | 2026-11-21 | ✅ OK |
+| The Burger Dude | 7 | 242 | 6 | 13 | 14 | 0 | 2026-11-21 | ✅ OK |
 | Cookie and Kate (Vegan Recipes) | 5 | 243 | 40 | 27 | 33 | 2 | 2026-11-05 | ✅ OK |
 | Vegan Yack Attack | 0 | 243 | 21 | 51 | 23 | 215 | 2026-08-23 | ✅ OK |
 | ZardyPlants | 1 | 244 | 244 | 51 | 244 | 4 | 2026-11-04 | ✅ OK |
@@ -118,9 +118,9 @@
 | Lazy Cat Kitchen | 0 | 311 | 3 | 15 | 3 | 5 | 2026-11-14 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 322 | 39 | 90 | 3 | 0 | 2026-11-18 | ✅ OK |
 | Connoisseurus Veg | 0 | 330 | 0 | 34 | 1 | 1 | 2026-11-20 | ✅ OK |
+| Gretchen's Vegan Bakery | 0 | 349 | 3 | 23 | 1 | 1 | 2026-11-15 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 38 | 3 | 0 | 2026-11-17 | ❌ Reddit Empty |
-| Gretchen's Vegan Bakery | 1 | 350 | 3 | 23 | 1 | 1 | 2026-11-15 | ✅ OK |
-| The Conscious Plant Kitchen | 1 | 350 | 44 | 42 | 2 | 45 | 2026-11-21 | ✅ OK |
+| The Conscious Plant Kitchen | 0 | 350 | 44 | 42 | 2 | 45 | 2026-11-21 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-19 | ✅ OK |
 | VegNews | 0 | 350 | 2 | 41 | 0 | 7 | 2026-11-20 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
