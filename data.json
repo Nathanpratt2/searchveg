@@ -1,5 +1,104 @@
 [
   {
+    "blog_name": "The Post-Punk Kitchen",
+    "title": "Oven-Baked Potato Pancakes",
+    "link": "https://www.theppk.com/2026/11/baked-latkes/",
+    "image": "https://www.theppk.com/wp-content/uploads/2026/11/Baked_Mashed_Potato_Latkes-12-1024x683.jpg",
+    "date": "2026-11-23T16:26:40+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "The Post-Punk Kitchen",
+    "title": "Homemade Pink Applesauce",
+    "link": "https://www.theppk.com/2026/11/homemade-applesauce/",
+    "image": "https://www.theppk.com/wp-content/uploads/2026/11/Pretty_in_Pink_Applesauce-12-1024x683.jpg",
+    "date": "2026-11-23T16:21:59+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Vegan Chocolate Caramel Praline Cookies",
+    "link": "https://vegnews.com/recipes/vegan-chocolate-caramel-praline-cookies",
+    "image": "https://vegnews.com/media/W1siZiIsIjQzNTA1L1ZlZ05ld3MuQ2hvY29sYXRlQ2FyYW1lbFByYWxpbmVDb29raWVzLkhBTk5BSEtBTUlOU0tZLkhPUi5qcGciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.ChocolateCaramelPralineCookies.HANNAHKAMINSKY.HOR.jpg?sha=e54a0364111c5532",
+    "date": "2026-11-23T15:50:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Hasselback Potatoes With Cashew Cheese Sauce",
+    "link": "https://vegnews.com/recipes/vegan-hasselback-potatoes-cheese-sauce",
+    "image": "https://vegnews.com/media/W1siZiIsIjE2OTk3L1ZlZ05ld3MuSGFzc2VsYmFja1BvdGF0b2VzLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.HasselbackPotatoes.jpg?sha=d874665d9e492134",
+    "date": "2026-11-23T15:45:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "VegNews",
+    "title": "Vegan Crab and Cream Cheese-Stuffed Mushrooms",
+    "link": "https://vegnews.com/recipes/vegan-crab-cream-cheese-mushrooms",
+    "image": "https://vegnews.com/media/W1siZiIsIjIyOTEwL1ZlZ05ld3MuQ3JhYlN0dWZmZWRNdXNocm9vbXMuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.CrabStuffedMushrooms.jpg?sha=3c10665bbd123d72",
+    "date": "2026-11-23T15:30:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Jessica in the Kitchen",
+    "title": "Homemade Pecan Butter",
+    "link": "https://jessicainthekitchen.com/homemade-easy-pecan-butter/",
+    "image": "https://jessicainthekitchen.com/wp-content/uploads/2026/10/Pecan-Butter9461-267x400.jpg",
+    "date": "2026-11-23T15:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Connoisseurus Veg",
+    "title": "Vegan Cranberry Jalape\u00f1o Dip",
+    "link": "https://www.connoisseurusveg.com/vegan-cranberry-jalapeno-dip/",
+    "image": "https://www.connoisseurusveg.com/wp-content/uploads/2026/11/cranberry-jalapeno-dip-9-of-9.jpg",
+    "date": "2026-11-23T12:00:00+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Simple Vegan Blog",
+    "title": "Vegan Hot Chocolate Mix",
+    "link": "https://simpleveganblog.com/vegan-hot-chocolate-mix/",
+    "image": "icon.jpg",
+    "date": "2026-11-23T08:32:15+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
+    "blog_name": "Rainbow Nourishments",
+    "title": "Vegan Pumpkin Oatmeal Cookies",
+    "link": "https://www.rainbownourishments.com/vegan-pumpkin-oatmeal-cookies/",
+    "image": "https://www.rainbownourishments.com/wp-content/uploads/2026/11/vegan-pumpkin-oatmeal-cookies-1.jpg",
+    "date": "2026-11-23T07:12:20+00:00",
+    "is_disruptor": false,
+    "special_tags": [],
+    "is_trending": false,
+    "trending_score": 0
+  },
+  {
     "blog_name": "Plant-Based on a Budget",
     "title": "3-Ingredient Sufganiyot with Canned Biscuits",
     "link": "https://plantbasedonabudget.com/3-ingredient-sufganiyot-canned-biscuit-donuts/",
@@ -644,8 +743,8 @@
     "special_tags": [
       "Easy"
     ],
-    "is_trending": true,
-    "trending_score": 1.61
+    "is_trending": false,
+    "trending_score": 0
   },
   {
     "blog_name": "PlantYou",
@@ -16638,41 +16737,6 @@
     "trending_score": 0
   },
   {
-    "blog_name": "VegNews",
-    "title": "Vegan French Silk Chocolate Pie With Coconut Whipped Cream",
-    "link": "https://vegnews.com/recipes/vegan-french-silk-chocolate-pie",
-    "image": "https://vegnews.com/media/W1siZiIsIjMzNjc0L1NjcmVlbnNob3QgMjAyMi0xMS0xNiAwOTQwMzIuanBnIl0sWyJwIiwidGh1bWIiLCIxNjAweDk0NiMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCIiXSxbInAiLCJvcHRpbWl6ZSJdXQ/Screenshot%202022-11-16%20094032.jpg?sha=7141434f7eb2edf7",
-    "date": "2026-07-31T15:35:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Garlicky Butter Bean Soup With Fresh Greens",
-    "link": "https://vegnews.com/recipes/vegan-garlicky-butter-bean-soup-with-greens",
-    "image": "https://vegnews.com/media/W1siZiIsIjE4NTk4L1ZlZ05ld3MuR2FybGlja3lCdXR0ZXJCZWFuU291cHdpdGhHcmVlbnMgLmpwZWciXSxbInAiLCJ0aHVtYiIsIjE2MDB4OTQ2IyJdLFsicCIsImVuY29kZSIsImpwZyIsIiJdLFsicCIsIm9wdGltaXplIl1d/VegNews.GarlickyButterBeanSoupwithGreens%20.jpg?sha=ac0e461514fa983c",
-    "date": "2026-07-31T15:32:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "VegNews",
-    "title": "Easy Vegan Mocha Caramel Overnight Oats",
-    "link": "https://vegnews.com/recipes/vegan-mocha-caramel-overnight-oats",
-    "image": "https://vegnews.com/media/W1siZiIsIjM2MzA4L1ZlZ05ld3MuTW9jaGFPYXRzLmpwZyJdLFsicCIsInRodW1iIiwiMTYwMHg5NDYjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiIl0sWyJwIiwib3B0aW1pemUiXV0/VegNews.MochaOats.jpg?sha=8acfe2b11df0f5bf",
-    "date": "2026-07-31T15:30:00+00:00",
-    "is_disruptor": false,
-    "special_tags": [
-      "Easy"
-    ],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Rainbow Plant Life GF",
     "title": "Crispy Tofu Tenders",
     "link": "https://rainbowplantlife.com/tofu-tenders/",
@@ -18629,7 +18693,7 @@
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": true,
-    "trending_score": 7.86
+    "trending_score": 5.7
   },
   {
     "blog_name": "The Burger Dude",
@@ -220007,8 +220071,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -220102,8 +220166,8 @@
     "is_disruptor": false,
     "special_tags": [
       "Easy",
-      "GF",
-      "Low Waste"
+      "Low Waste",
+      "GF"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -220142,8 +220206,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -220274,8 +220338,8 @@
     "date": "2020-01-01T00:00:00+00:00",
     "is_disruptor": false,
     "special_tags": [
-      "WFPB",
-      "Low Waste"
+      "Low Waste",
+      "WFPB"
     ],
     "is_trending": false,
     "trending_score": 0
@@ -260262,33 +260326,11 @@
     "trending_score": 0
   },
   {
-    "blog_name": "The Post-Punk Kitchen",
-    "title": "Grilled Peaches With Ginger Coconut Caramel",
-    "link": "https://www.theppk.com/2011/06/grilled-peaches-with-ginger-coconut-caramel/",
-    "image": "https://www.theppk.com/wp-content/uploads/2014/02/GrilledPeaches.jpg",
-    "date": "2011-06-23T21:01:11+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
     "blog_name": "Messy Vegan Cook",
     "title": "Sweet Potato Mash with Fresh Garlic Oil",
     "link": "https://messyvegancook.com/sweet-potato-mash-with-fresh-garlic-oil/",
     "image": "https://messyvegancook.com/wp-content/uploads/2011/06/5856787020_beb6fa62e9_o.jpg",
     "date": "2011-06-22T17:53:26+00:00",
-    "is_disruptor": false,
-    "special_tags": [],
-    "is_trending": false,
-    "trending_score": 0
-  },
-  {
-    "blog_name": "The Post-Punk Kitchen",
-    "title": "Mushroom Barley Soup With Fresh Herbs",
-    "link": "https://www.theppk.com/2011/06/mushroom-barley-soup-with-fresh-herbs/",
-    "image": "https://www.theppk.com/wp-content/uploads/2014/02/MushroomBarleySoup.jpg",
-    "date": "2011-06-16T21:43:06+00:00",
     "is_disruptor": false,
     "special_tags": [],
     "is_trending": false,
