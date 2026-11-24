@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-23 18:41:55
-**Total Run Time:** 8m 9s
-**Longest Step:** RSS: A Virtual Vegan (0m 40s)
+**Last Run:** 2026-11-24 05:32:49
+**Total Run Time:** 9m 11s
+**Longest Step:** RSS: NutritionFacts.org (1m 0s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21661 | 149 new today |
+| **Total Database** | 21663 | 143 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 188 | Total recorded actions in database |
-| **WFPB / GF** | 2647 / 2810 | 12% / 12% |
-| **Easy / Budget** | 5190 / 2127 | 23% / 9% |
+| **Trending Events** | 175 | Total recorded actions in database |
+| **WFPB / GF** | 2648 / 2810 | 12% / 12% |
+| **Easy / Budget** | 5191 / 2127 | 23% / 9% |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Fried Oyster Mushrooms](https://theeburgerdude.com/fried-oyster-mushrooms/) | The Burger Dude | **5.70** | *2.26* |
+| 1 |[Fried Oyster Mushrooms](https://theeburgerdude.com/fried-oyster-mushrooms/) | The Burger Dude | **4.63** | *1.84* |
 
 ---
 
@@ -29,7 +29,7 @@
 | Blog Name | New | Total | WFPB | Easy | Budg | GF | Latest | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | The Full Helping (Vegan Recipes) | 0 | 5 | 0 | 1 | 0 | 0 | 2026-10-12 | ✅ OK |
-| Rainbow Nourishments | 1 | 17 | 0 | 3 | 1 | 0 | 2026-11-23 | ✅ OK |
+| Rainbow Nourishments | 0 | 17 | 0 | 3 | 1 | 0 | 2026-11-23 | ✅ OK |
 | A Couple Cooks (Vegan Recipes) | 20 | 18 | 0 | 5 | 0 | 0 | 2026-11-14 | ✅ OK |
 | Mary's Test Kitchen | 1 | 30 | 0 | 8 | 3 | 1 | 2026-10-14 | ✅ OK |
 | Rainbow Plant Life GF | 0 | 35 | 5 | 1 | 4 | 34 | 2026-11-20 | ✅ OK |
@@ -42,21 +42,21 @@
 | My Goodness Kitchen | 1 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
 | Dr. Vegan | 0 | 72 | 4 | 72 | 8 | 0 | 2026-11-20 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
-| Jessica in the Kitchen | 3 | 103 | 2 | 9 | 1 | 4 | 2026-11-23 | ✅ OK |
+| Jessica in the Kitchen | 2 | 103 | 2 | 9 | 1 | 4 | 2026-11-23 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
+| NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ❌ Blocked/ConnErr |
 | One Arab Vegan | 0 | 127 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | The Hidden Veggies | 4 | 129 | 1 | 13 | 129 | 0 | 2026-11-21 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 159 | 0 | 15 | 2 | 1 | 2026-11-19 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
-| Dreena Burton | 1 | 179 | 179 | 12 | 18 | 42 | 2026-10-07 | ✅ OK |
+| Dreena Burton | 3 | 180 | 180 | 13 | 18 | 42 | 2026-11-23 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Holistic Chef Academy | 3 | 186 | 3 | 8 | 0 | 7 | 2026-11-19 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 30 | 2026-11-19 | ✅ OK |
 | The Stingy Vegan | 2 | 190 | 1 | 190 | 190 | 0 | 2026-11-20 | ✅ OK |
 | My Vegan Minimalist | 0 | 191 | 16 | 60 | 10 | 1 | 2026-09-18 | ✅ OK |
-| Simple Vegan Blog | 3 | 198 | 7 | 38 | 15 | 4 | 2026-11-23 | ✅ OK |
+| Simple Vegan Blog | 2 | 198 | 7 | 38 | 15 | 4 | 2026-11-23 | ✅ OK |
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
@@ -68,7 +68,7 @@
 | Nora Cooks | 2 | 220 | 14 | 34 | 13 | 5 | 2026-11-04 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 226 | 19 | 73 | 18 | 42 | 2026-11-10 | ✅ OK (3) |
-| Rainbow Plant Life | 8 | 228 | 30 | 55 | 41 | 7 | 2026-11-22 | ✅ OK |
+| Rainbow Plant Life | 8 | 227 | 30 | 55 | 41 | 7 | 2026-11-22 | ✅ OK |
 | Elavegan | 1 | 229 | 5 | 39 | 2 | 221 | 2026-11-19 | ✅ OK |
 | Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
@@ -101,7 +101,7 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 6 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 3 | 279 | 4 | 43 | 2 | 3 | 2026-11-22 | ✅ OK |
-| My Darling Vegan | 4 | 281 | 1 | 35 | 4 | 12 | 2026-11-17 | ✅ OK |
+| My Darling Vegan | 5 | 282 | 1 | 35 | 4 | 12 | 2026-11-23 | ✅ OK |
 | From My Bowl | 0 | 290 | 3 | 59 | 3 | 5 | 2026-11-19 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
@@ -112,12 +112,12 @@
 | Healthy Little Vittles | 2 | 305 | 10 | 49 | 2 | 302 | 2026-11-19 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 312 | 3 | 15 | 3 | 5 | 2026-11-21 | ✅ OK |
 | Monkey & Me Kitchen Adventures | 0 | 323 | 39 | 90 | 3 | 0 | 2026-11-22 | ✅ OK |
-| Connoisseurus Veg | 1 | 331 | 0 | 34 | 1 | 1 | 2026-11-23 | ✅ OK |
+| Connoisseurus Veg | 0 | 331 | 0 | 34 | 1 | 1 | 2026-11-23 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 38 | 3 | 0 | 2026-11-17 | ❌ Reddit Empty |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 23 | 1 | 1 | 2026-11-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 350 | 44 | 42 | 2 | 45 | 2026-11-21 | ✅ OK |
-| The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-23 | ✅ OK |
-| VegNews | 3 | 350 | 2 | 41 | 0 | 7 | 2026-11-23 | ✅ OK |
+| The Post-Punk Kitchen | 0 | 350 | 2 | 14 | 4 | 1 | 2026-11-23 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 41 | 0 | 7 | 2026-11-23 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
