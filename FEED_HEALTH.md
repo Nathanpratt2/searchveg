@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-24 05:32:49
-**Total Run Time:** 9m 11s
-**Longest Step:** RSS: NutritionFacts.org (1m 0s)
+**Last Run:** 2026-11-24 18:09:52
+**Total Run Time:** 8m 16s
+**Longest Step:** RSS: A Virtual Vegan (0m 45s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21663 | 143 new today |
+| **Total Database** | 21667 | 148 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 175 | Total recorded actions in database |
-| **WFPB / GF** | 2648 / 2810 | 12% / 12% |
-| **Easy / Budget** | 5191 / 2127 | 23% / 9% |
+| **Trending Events** | 168 | Total recorded actions in database |
+| **WFPB / GF** | 2650 / 2810 | 12% / 12% |
+| **Easy / Budget** | 5192 / 2128 | 23% / 9% |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Fried Oyster Mushrooms](https://theeburgerdude.com/fried-oyster-mushrooms/) | The Burger Dude | **4.63** | *1.84* |
+| 1 |[Fried Oyster Mushrooms](https://theeburgerdude.com/fried-oyster-mushrooms/) | The Burger Dude | **3.63** | *1.44* |
 
 ---
 
@@ -44,13 +44,13 @@
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
 | Jessica in the Kitchen | 2 | 103 | 2 | 9 | 1 | 4 | 2026-11-23 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
-| NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ❌ Blocked/ConnErr |
+| NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 127 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
 | The Hidden Veggies | 4 | 129 | 1 | 13 | 129 | 0 | 2026-11-21 | ✅ OK |
 | Sarah's Vegan Kitchen | 3 | 159 | 0 | 15 | 2 | 1 | 2026-11-19 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
-| Dreena Burton | 3 | 180 | 180 | 13 | 18 | 42 | 2026-11-23 | ✅ OK |
+| Dreena Burton | 2 | 181 | 181 | 13 | 18 | 42 | 2026-11-24 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Holistic Chef Academy | 3 | 186 | 3 | 8 | 0 | 7 | 2026-11-19 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 30 | 2026-11-19 | ✅ OK |
@@ -65,18 +65,18 @@
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
 | Vegan in the Freezer | 1 | 219 | 5 | 36 | 10 | 0 | 2026-09-21 | ✅ OK |
-| Nora Cooks | 2 | 220 | 14 | 34 | 13 | 5 | 2026-11-04 | ✅ OK |
+| Nora Cooks | 3 | 221 | 14 | 34 | 13 | 5 | 2026-11-24 | ✅ OK |
 | Forks Over Knives | 0 | 222 | 222 | 22 | 39 | 2 | 2026-02-10 | ✅ OK |
 | Minimalist Baker (Vegan Recipes) | 3 | 226 | 19 | 73 | 18 | 42 | 2026-11-10 | ✅ OK (3) |
 | Rainbow Plant Life | 8 | 227 | 30 | 55 | 41 | 7 | 2026-11-22 | ✅ OK |
 | Elavegan | 1 | 229 | 5 | 39 | 2 | 221 | 2026-11-19 | ✅ OK |
 | Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| The Little Blog of Vegan | 0 | 234 | 0 | 41 | 0 | 1 | 2026-11-22 | ✅ OK |
+| The Little Blog of Vegan | 1 | 235 | 0 | 41 | 0 | 1 | 2026-11-24 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 239 | 2 | 9 | 9 | 239 | 2026-11-20 | ✅ OK |
-| The Cheap Lazy Vegan | 0 | 239 | 21 | 239 | 239 | 1 | 2026-11-02 | ✅ OK |
+| The Cheap Lazy Vegan | 1 | 240 | 21 | 240 | 240 | 1 | 2026-11-24 | ✅ OK (1) |
 | The Edgy Veg | 0 | 241 | 9 | 38 | 7 | 3 | 2024-03-18 | ✅ OK |
 | Running on Real Food | 1 | 242 | 242 | 25 | 2 | 8 | 2026-08-13 | ✅ OK |
 | The Burger Dude | 7 | 242 | 6 | 13 | 14 | 0 | 2026-11-21 | ✅ OK |
@@ -101,10 +101,10 @@
 | Unconventional Baker | 0 | 275 | 1 | 19 | 0 | 275 | 2025-11-01 | ✅ OK |
 | A Virtual Vegan | 6 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 3 | 279 | 4 | 43 | 2 | 3 | 2026-11-22 | ✅ OK |
-| My Darling Vegan | 5 | 282 | 1 | 35 | 4 | 12 | 2026-11-23 | ✅ OK |
+| My Darling Vegan | 4 | 282 | 1 | 35 | 4 | 12 | 2026-11-23 | ✅ OK |
 | From My Bowl | 0 | 290 | 3 | 59 | 3 | 5 | 2026-11-19 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
-| The Whole Food Plant Based Cooking Show | 0 | 293 | 293 | 9 | 0 | 9 | 2026-11-12 | ✅ OK |
+| The Whole Food Plant Based Cooking Show | 1 | 294 | 294 | 9 | 0 | 9 | 2026-11-24 | ✅ OK (1) |
 | Ann Arbor Vegan Kitchen | 6 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK (6) |
 | Full of Plants | 0 | 295 | 0 | 43 | 0 | 13 | 2026-11-20 | ✅ OK |
 | Eat Figs, Not Pigs | 1 | 296 | 1 | 38 | 2 | 0 | 2026-11-18 | ✅ OK |
@@ -117,7 +117,7 @@
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 23 | 1 | 1 | 2026-11-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 350 | 44 | 42 | 2 | 45 | 2026-11-21 | ✅ OK |
 | The Post-Punk Kitchen | 0 | 350 | 2 | 14 | 4 | 1 | 2026-11-23 | ✅ OK |
-| VegNews | 0 | 350 | 2 | 41 | 0 | 7 | 2026-11-23 | ✅ OK |
+| VegNews | 3 | 350 | 2 | 41 | 0 | 7 | 2026-11-24 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
