@@ -1,15 +1,15 @@
 # Feed Health Report
-**Last Run:** 2026-11-26 17:17:57
-**Total Run Time:** 7m 29s
-**Longest Step:** RSS: A Virtual Vegan (0m 38s)
+**Last Run:** 2026-11-27 03:49:44
+**Total Run Time:** 7m 38s
+**Longest Step:** RSS: A Virtual Vegan (0m 43s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21672 | 139 new today |
+| **Total Database** | 21672 | 141 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
-| **Trending Events** | 160 | Total recorded actions in database |
+| **Trending Events** | 144 | Total recorded actions in database |
 | **WFPB / GF** | 2650 / 2810 | 12% / 12% |
 | **Easy / Budget** | 5196 / 2128 | 23% / 9% |
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Shaved Brussels Sprouts Salad](https://frommybowl.com/shaved-brussels-sprouts-salad/) | From My Bowl | **5.73** | *2.27* |
+| 1 |[Shaved Brussels Sprouts Salad](https://frommybowl.com/shaved-brussels-sprouts-salad/) | From My Bowl | **4.68** | *1.86* |
 
 ---
 
@@ -105,9 +105,9 @@
 | From My Bowl | 0 | 290 | 3 | 59 | 3 | 5 | 2026-11-19 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 294 | 294 | 9 | 0 | 9 | 2026-11-24 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK (6) |
 | Eat Figs, Not Pigs | 1 | 296 | 1 | 38 | 2 | 0 | 2026-11-18 | ✅ OK |
-| Full of Plants | 1 | 296 | 0 | 43 | 0 | 13 | 2026-11-26 | ✅ OK |
+| Full of Plants | 0 | 296 | 0 | 43 | 0 | 13 | 2026-11-26 | ✅ OK |
 | Plant-Based on a Budget | 2 | 300 | 16 | 71 | 300 | 1 | 2026-11-23 | ✅ OK |
 | Healthy Little Vittles | 2 | 305 | 10 | 49 | 2 | 302 | 2026-11-19 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 312 | 3 | 15 | 3 | 5 | 2026-11-21 | ✅ OK |
@@ -117,7 +117,7 @@
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 23 | 1 | 1 | 2026-11-19 | ✅ OK |
 | The Conscious Plant Kitchen | 0 | 350 | 44 | 42 | 2 | 45 | 2026-11-25 | ✅ OK |
 | The Post-Punk Kitchen | 1 | 350 | 2 | 14 | 4 | 1 | 2026-11-23 | ✅ OK |
-| VegNews | 3 | 350 | 2 | 42 | 0 | 7 | 2026-11-26 | ✅ OK |
+| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-26 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
