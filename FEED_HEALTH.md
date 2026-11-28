@@ -1,17 +1,17 @@
 # Feed Health Report
-**Last Run:** 2026-11-27 17:00:50
-**Total Run Time:** 7m 48s
-**Longest Step:** RSS: A Virtual Vegan (0m 38s)
+**Last Run:** 2026-11-28 03:32:23
+**Total Run Time:** 8m 23s
+**Longest Step:** RSS: A Virtual Vegan (0m 54s)
 
 ### 📊 System Summary
 | Metric | Value | Breakdown |
 | :--- | :--- | :--- |
-| **Total Database** | 21675 | 139 new today |
+| **Total Database** | 21677 | 147 new today |
 | **Blogs Monitored** | 119 | 8 HTML / 82 RSS |
 | **Active Sources** | 118 | 5+ recipes |
 | **Trending Events** | 144 | Total recorded actions in database |
-| **WFPB / GF** | 2650 / 2810 | 12% / 12% |
-| **Easy / Budget** | 5197 / 2128 | 23% / 9% |
+| **WFPB / GF** | 2651 / 2810 | 12% / 12% |
+| **Easy / Budget** | 5198 / 2128 | 23% / 9% |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Rank | Recipe Title | Blog | Current Pts | Forecast (in 2 days) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 |[Shaved Brussels Sprouts Salad](https://frommybowl.com/shaved-brussels-sprouts-salad/) | From My Bowl | **3.63** | *1.44* |
+| 1 |[Shaved Brussels Sprouts Salad](https://frommybowl.com/shaved-brussels-sprouts-salad/) | From My Bowl | **2.96** | *1.18* |
 
 ---
 
@@ -42,7 +42,7 @@
 | My Goodness Kitchen | 1 | 68 | 7 | 7 | 3 | 3 | 2026-11-18 | ✅ OK |
 | Dr. Vegan | 0 | 73 | 4 | 73 | 8 | 0 | 2026-11-25 | ✅ OK |
 | The Korean Vegan | 3 | 100 | 8 | 62 | 10 | 5 | 2026-07-24 | ✅ OK |
-| Jessica in the Kitchen | 2 | 103 | 2 | 9 | 1 | 4 | 2026-11-27 | ✅ OK |
+| Jessica in the Kitchen | 1 | 103 | 2 | 9 | 1 | 4 | 2026-11-27 | ✅ OK |
 | Pinch of Yum (Vegan Recipes) | 0 | 104 | 0 | 7 | 0 | 0 | 2022-07-21 | ✅ OK |
 | NutritionFacts.org | 0 | 127 | 127 | 5 | 3 | 2 | 2025-12-24 | ✅ OK |
 | One Arab Vegan | 0 | 127 | 3 | 20 | 10 | 8 | 2025-12-04 | ✅ OK |
@@ -50,7 +50,7 @@
 | Sarah's Vegan Kitchen | 3 | 159 | 0 | 15 | 2 | 1 | 2026-11-19 | ✅ OK |
 | Earth to Veg | 1 | 161 | 6 | 26 | 16 | 0 | 2026-07-28 | ✅ OK |
 | Love and Lemons (Vegan Recipes) | 2 | 171 | 3 | 31 | 10 | 0 | 2026-10-22 | ✅ OK |
-| Dreena Burton | 1 | 181 | 181 | 13 | 18 | 42 | 2026-11-24 | ✅ OK |
+| Dreena Burton | 1 | 182 | 182 | 13 | 18 | 42 | 2026-11-27 | ✅ OK |
 | Watch Learn Eat | 0 | 185 | 4 | 185 | 1 | 25 | 2026-02-27 | ✅ OK |
 | Holistic Chef Academy | 3 | 186 | 3 | 8 | 0 | 7 | 2026-11-19 | ✅ OK |
 | Ambitious Kitchen (Vegan Recipes) | 9 | 187 | 0 | 22 | 1 | 30 | 2026-11-19 | ✅ OK |
@@ -60,7 +60,7 @@
 | Baking Hermann | 0 | 201 | 10 | 19 | 40 | 6 | 2026-02-19 | ✅ OK |
 | Flora & Vino | 0 | 203 | 203 | 12 | 0 | 9 | 2026-10-27 | ✅ OK |
 | Vegan Heaven | 1 | 206 | 0 | 24 | 0 | 1 | 2026-10-22 | ✅ OK |
-| Steamy Vegan | 3 | 209 | 9 | 33 | 10 | 2 | 2026-11-24 | ✅ OK |
+| Steamy Vegan | 3 | 209 | 9 | 33 | 10 | 2 | 2026-11-27 | ✅ OK |
 | The Vegan 8 | 1 | 210 | 43 | 210 | 210 | 32 | 2026-06-18 | ✅ OK |
 | Gimme Some Oven (Vegan Recipes) | 1 | 212 | 0 | 25 | 0 | 3 | 2026-10-19 | ✅ OK |
 | Addicted to Dates | 0 | 218 | 2 | 54 | 5 | 3 | 2026-02-20 | ✅ OK |
@@ -72,7 +72,7 @@
 | Elavegan | 1 | 229 | 5 | 39 | 2 | 221 | 2026-11-19 | ✅ OK |
 | Cadry's Kitchen | 5 | 230 | 11 | 85 | 21 | 0 | 2026-10-19 | ✅ OK |
 | Chef Bai | 0 | 231 | 12 | 17 | 8 | 7 | 2025-01-15 | ✅ OK |
-| The Little Blog of Vegan | 2 | 236 | 0 | 41 | 0 | 1 | 2026-11-27 | ✅ OK |
+| The Little Blog of Vegan | 1 | 236 | 0 | 41 | 0 | 1 | 2026-11-27 | ✅ OK |
 | BOSH! TV | 0 | 237 | 10 | 93 | 19 | 0 | 2025-08-19 | ✅ OK |
 | Rabbit and Wolves | 1 | 237 | 0 | 35 | 1 | 0 | 2026-10-07 | ✅ OK |
 | Rhian's Recipes | 0 | 239 | 2 | 9 | 9 | 239 | 2026-11-20 | ✅ OK |
@@ -102,12 +102,12 @@
 | A Virtual Vegan | 6 | 276 | 3 | 36 | 1 | 4 | 2026-11-10 | ✅ OK |
 | Make It Dairy Free | 3 | 279 | 4 | 43 | 2 | 3 | 2026-11-22 | ✅ OK |
 | My Darling Vegan | 4 | 282 | 1 | 35 | 4 | 12 | 2026-11-23 | ✅ OK |
-| From My Bowl | 1 | 291 | 3 | 60 | 3 | 5 | 2026-11-27 | ✅ OK |
+| From My Bowl | 0 | 291 | 3 | 60 | 3 | 5 | 2026-11-27 | ✅ OK |
 | The Plant-Based RD | 0 | 292 | 4 | 17 | 1 | 0 | 2026-11-12 | ✅ OK |
 | The Whole Food Plant Based Cooking Show | 0 | 294 | 294 | 9 | 0 | 9 | 2026-11-24 | ✅ OK |
-| Ann Arbor Vegan Kitchen | 0 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK |
-| Eat Figs, Not Pigs | 1 | 296 | 1 | 38 | 2 | 0 | 2026-11-18 | ✅ OK |
+| Ann Arbor Vegan Kitchen | 6 | 295 | 295 | 28 | 3 | 0 | 2026-11-18 | ✅ OK (6) |
 | Full of Plants | 0 | 296 | 0 | 43 | 0 | 13 | 2026-11-26 | ✅ OK |
+| Eat Figs, Not Pigs | 2 | 297 | 1 | 38 | 2 | 0 | 2026-11-28 | ✅ OK |
 | Plant-Based on a Budget | 2 | 300 | 16 | 71 | 300 | 1 | 2026-11-23 | ✅ OK |
 | Healthy Little Vittles | 2 | 305 | 10 | 49 | 2 | 302 | 2026-11-19 | ✅ OK |
 | Lazy Cat Kitchen | 0 | 312 | 3 | 15 | 3 | 5 | 2026-11-21 | ✅ OK |
@@ -115,9 +115,9 @@
 | Connoisseurus Veg | 0 | 331 | 0 | 34 | 1 | 1 | 2026-11-23 | ✅ OK |
 | Reddit | 0 | 349 | 1 | 38 | 3 | 0 | 2026-11-17 | ❌ Reddit Empty |
 | Gretchen's Vegan Bakery | 0 | 350 | 3 | 23 | 1 | 1 | 2026-11-19 | ✅ OK |
-| The Conscious Plant Kitchen | 0 | 350 | 44 | 42 | 2 | 45 | 2026-11-25 | ✅ OK |
+| The Conscious Plant Kitchen | 1 | 350 | 44 | 42 | 2 | 45 | 2026-11-27 | ✅ OK |
 | The Post-Punk Kitchen | 2 | 350 | 2 | 14 | 4 | 1 | 2026-11-27 | ✅ OK |
-| VegNews | 0 | 350 | 2 | 42 | 0 | 7 | 2026-11-26 | ✅ OK |
+| VegNews | 3 | 350 | 2 | 43 | 0 | 7 | 2026-11-27 | ✅ OK |
 | Cupful of Kale | 0 | 4 | 1 | 0 | 0 | 0 | 2023-10-11 | Skipped |
 | It's Liv B | 0 | 5 | 0 | 2 | 2 | 0 | 2025-12-30 | Skipped |
 | Veg Kit | 0 | 8 | 2 | 0 | 1 | 0 | 2021-12-10 | Skipped |
